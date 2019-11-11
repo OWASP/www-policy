@@ -8,6 +8,8 @@ review-end-date: 2019-12-15
 Draft 
 Discussion and review through 2019-12-15
 
+# Expense Policy
+
 ## Overview
 
 In the course of fulfilling the mission and business interests of the OWASP Foundation, members, staff, and partners will incur expenses that may be reimbursable. Generally, the policy of the Foundation is that all expenses should be "fair and reasonable" as measured by leadership, the community, and the standards for non-profit foundations.
