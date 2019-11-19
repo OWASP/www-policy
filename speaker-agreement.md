@@ -54,10 +54,3 @@ Any claim, controversy or dispute arising out of or relating to this Agreement s
 **I AM CONSENTING TO BE BOUND BY THE TERMS AND CONDITIONS CONTAINED IN THIS AGREEMENT. IF I DO NOT AGREE TO THESE TERMS, THEN I WILL NOT BE PERMITTED TO SPEAK AT THE COMPANY’S EVENT, IN WHICH INSTANCE  I WILL NOTIFY THE COMPANY AND I UNDERSTAND I WILL NOT BE ABLE TO PRESENT AT THE EVENT AND WILL BE REPLACED AS A PRESENTER.**
 
  The OWASP Foundation Inc., 1200-C Agora Drive, #232 Bel Air, MD 21014
-
-## General Advice for a Successful Talk
-
-OWASP holds highly a neutral and unbiased approach to security that is free from undue vendor influence. Here are a few specific tips to maximize the value of your talk with the OWASP audience
-* Please be sure that your talk is objective, stresses open source approaches, and avoids references to any commercial offerings of your company.
-* Feel free to introduce yourself and your current company on the bio slide, but avoid references to your company throughout the presentation
-* Please either use a blank presentation template or the OWASP template. Unfortunately, company slide templates aren't acceptable for OWASP talks.
