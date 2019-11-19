@@ -4,6 +4,7 @@ layout: full-width
 title: OWASP Speaker Agreement
 
 ---
+## OWASP Speaker Agreement
 V2019-07 
  
 **PRESENTER AGREEMENT & RELEASE**
@@ -44,7 +45,7 @@ If my session includes a presentation, I will use the Conference Template OWASP 
 
 I understand that the Company may record (audio and/or video) the Conference proceedings, and, that my presentation could be included in any reproduction of the Conference materials. I hereby authorize the Company to capture my presentation on audio/visual format or a combination thereof for presentation by OWASP Conference Organizers. Accordingly, I grant the Company the right to: Reproduce and distribute the handout materials in any format including paper and electronic formats to any audience. Distribute written materials to participants of the OWASP Conferences. 
 
-**I UNDERSTAND THE FOLLOWING: **
+**I UNDERSTAND THE FOLLOWING**
 
 The governing language of this Agreement, the Service, the Application and the Documentation is English.
 
