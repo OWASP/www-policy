@@ -1,6 +1,6 @@
 ---
 
-layout: col-fullwidth
+layout: full-width
 title: OWASP Speaker Agreement
 
 ---
