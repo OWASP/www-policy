@@ -1,4 +1,9 @@
-## OWASP SPEAKER AGREEMENT
+---
+
+layout: col-fullwidth
+title: OWASP Speaker Agreement
+
+---
 V2019-07 
  
 **PRESENTER AGREEMENT & RELEASE**
