@@ -5,7 +5,7 @@ title: OWASP Speaker Agreement
 
 ---
 ## OWASP Speaker Agreement
-V2019-07 
+V2019-11 
  
 **PRESENTER AGREEMENT & RELEASE**
 
@@ -39,11 +39,11 @@ In addition, I agree that Company events are not an appropriate forum for disclo
 
 I may use the handout materials, presentation, visual aids and any other material prepared by me for the above-mentioned presentation in any manner I desire, including publication. Papers and illustrations will not be returned. 
 
-**COPYRIGHT PERMISSION**
-
 If my session includes a presentation, I will use the Conference Template OWASP Presentation Template. I will submit to the Company’s Event Leader my presentation(s) in one of the previous formats no later than 15 days prior to the Conference. Should the presentation change after it has been submitted, I agree to notify the Company’s Event Leader that the presentation has changed and I will submit the changed presentation as soon as feasible and at least 24 hours prior to my scheduled session(s). 
 
-I understand that the Company may record (audio and/or video) the Conference proceedings, and, that my presentation could be included in any reproduction of the Conference materials. I hereby authorize the Company to capture my presentation on audio/visual format or a combination thereof for presentation by OWASP Conference Organizers. Accordingly, I grant the Company the right to: Reproduce and distribute the handout materials in any format including paper and electronic formats to any audience. Distribute written materials to participants of the OWASP Conferences. 
+**COPYRIGHT PERMISSION**
+
+I understand that the Company may record (audio and/or video) the Conference keynotes and/or sessions, and, that my presentation could be included in any reproduction of those Conference materials. I hereby authorize the Company to capture my keynote and/or session presentation on audio/visual format or a combination thereof for presentation by OWASP Conference Organizers. Accordingly, for my keynote and/or sessions, I grant the Company the right to: (1) Reproduce and distribute the handout materials in any format including paper and electronic formats to any audience, and (2) Distribute written materials to participants of the OWASP Conferences. 
 
 **I UNDERSTAND THE FOLLOWING**
 
