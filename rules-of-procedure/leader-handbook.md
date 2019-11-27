@@ -57,7 +57,9 @@ We know that being a Chapter Leader is a lot of work--even when your chapter has
 * All Chapter are provided with three passes for use by their leaders who have fulfilled the above requirements
 * At each Global AppSec Training event there will be 2 seats in each training event for leaders to have on a first come-first served basis.
 * Any leader who attends the in person Leader meetings can receive a special leader’s only shirt (first come-first served, limited quantities)
-Chapters are not mini organizations, instead they are akin to branches.  While you can develop your chapter to meet the needs of your audience and therefore have great freedom, your chapter is not an independent legal entity. Chapters cannot sign contracts, hold independent insurance, or hold funds independently of the Foundation. Chapters must abide by the code of conduct, Foundation bylaws, the Core Purpose, Core Values, and the Chapter Leader Handbook.  If any of these are contradictory please abide by the document preceding it in the above list.  If you are confused, you can contact the Community Manager through email, slack, or the contact us page.
+
+## Legal Entity
+Chapters are not legal entities and cannot sign contracts, hold independent insurance, or hold funds independently of the Foundation. While you can develop your chapter to meet the needs of your audience and therefore have great freedom, your chapter is not an independent legal entity. Chapters  Chapters must abide by the code of conduct, Foundation bylaws, the Core Purpose, Core Values, and the Chapter Leader Handbook.  If any of these are contradictory please abide by the document preceding it in the above list.  If you are confused, you can contact the Community Manager through contact us page.
  
 # Chapter 3: How to Start a Chapter
 
