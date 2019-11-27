@@ -53,18 +53,10 @@ Leaders shall maintain their groups' web page on owasp.org with the support of s
 The OWASP Foundation uses Github to host group pages and content. Please use the Contact Us form if you need assistance with access to the OWASP Github repo.
 
 ## Mailing Lists
-The chapter mailing list should be used to inform list members about local OWASP activities. In addition to chapter meetings, which should all be posted to the list, many chapters use their list as a way to communicate information about upcoming security events, projects the chapter is working on, or AppSec-related issues
-
-Chapter leaders will be given the administrative password for their chapter mailing list and will be responsible for moderation of the list. If additional moderators need to be added to your list, please feel free to add them as needed. Should a post need to be moderated, you will receive an email from your list requesting approval.
-
-When a person is listed as an administrator of a mailing list they will receive all email sent to the OWASP leader's list. Please add all (additional) chapter leaders to the administrative area on the mailing list so that they will receive timely communication from the community.
-
-Some other suggestions:
-* It is frowned upon by the OWASP Community to “spam” OWASP mailing lists regarding conferences in other regions. For example, it would be inappropriate for someone hosting a non-OWASP conference in India to send emails to multiple mailing lists outside of India.
-* The best way to prevent “spam” from your chapter’s mailing list is to enable list moderation. This can be done by logging into the mailing list administrative interface and clicking on “Privacy Options” and “Sender filter.” There are options for moderating posts by both mailing list subscribers and nonsubscribers.
-* The subject of posting job leads to a chapter’s mailing list is handled differently by each chapter. Some chapters encourage it as long as the jobs are local and security related, others frown upon it, instead encouraging the people hiring to stand up and promote their openings in person at the chapter meetings.
-* For discussion details: see “[Owasp-leaders] Job Leads on Chapter Mailing Lists?”
-* OWASP has a Jobs Board on LinkedIn. OWASP does not endorse commercial products or services and provides this listing for the benefit of the community. If you have additional questions or would like to post a job opening to this page visit our LinkedIn Jobs page.
+OWAS Mailing Lists (Google Groups) shall be the primary and archival communication channel OWASP group activites. Mailing Lists are discoverable, have open membership, and no posting restrictions; however, all participants shall follow the OWASP Code of Conduct. Violators of the Code of Conduct shall not be tolerated and displinary action, including up to expulsion from the Mailing List and suspension of OWASP Membership.
+ 
+ 
+ ********
  
 ## Social Media
 Similar to the OWASP chapter mailing lists, social media under the “OWASP” Chapter name should be used to inform subscribers about OWASP activities as well as communicate information about upcoming security events, projects the chapter is working on, or other appsec-related issues. Social media used under the OWASP chapter name, must abide by the OWASP Principles and Code of Ethics. Additionally, anyone who posts or moderates OWASP branded social media must sign and abide by the Social Media Agreement.
@@ -73,16 +65,6 @@ While the chapter leader or member that sets up the account will hold the passwo
 
 Note that, the chapter page on the OWASP wiki is the official representation of the chapter. Therefore, communication on social media platforms complement rather than replace the wiki page. Chapter members cannot be required to sign up for any social media account to get access to meeting notices. Do keep any new event or activity announcements up to date on the wiki page, per section 4.2. It is important that any social media platform the chapter uses be openly accessible, regularly maintained and updated with accurate information.  Should the chapter choose to leave a platform, it should close the social media account and alert the Foundation using the Contact Us form.
  
-Ideas for social media platforms used by current OWASP chapters (it is not necessary for each chapter to have an account with each of these platforms -- choose the forum that will be best for your geographic area and audience):
-
-* Delicious
-* Digg
-* Eventbrite
-* Facebook
-* Flickr
-* LinkedIn
-* MeetUp
-* Twitter
 
 If the chapter opens an account on a service that the Foundation also uses, is advisable that the chapter follow the Foundation account.
 
@@ -92,14 +74,11 @@ Many leaders wish to purchase a local domain name for their OWASP chapter, and t
 A few countries (such as China) have not been able to access the wiki and therefore the local domain name is used as the main source of information about OWASP for the country. If an exception is permitted, every effort must be made to announce changes to leadership and upcoming meetings on the chapter wiki page so that the global site information is up to date.  If all else fails, you can do this by submitting a case through the Contact Us form.
 
 Chapter leaders are free to register local domain names and submit the expense for reimbursement from their chapter’s account.  To maintain brand cohesion all domain names must be “OWASP [Chapter location]”   If additional paperwork or authorization is needed for the registration, submit your request through the Contact Us form. You must notify the Foundation through this same form if you have registered the name to help us keep track of what domain names have been purchased by OWASP.
- 
-
-## Organizing Your Contacts
-It is recommended that each chapter have a central database (you have access to the tools to maintain this in your force portal) in which to organize their contacts and other important information. This can be a comprehensive list of mailing list subscribers, LinkedIn group members, local affiliations (and point of contact within the organization), and sponsors (past, current, future). This will not only help when it is time to pass chapter management onto a new person, but also with direct mailings (which often generate more results than “list” mailings) and finding future venues, sponsors, or even speakers. See also  “Recruiting List Members.”
-
-When using the contact database, remember to abide by our privacy rule. Member contact lists may not be distributed outside of chapter leadership.
 
 # Section : Governance 
+## Legal Entity
+Chapters are not legal entities and cannot sign contracts, hold independent insurance, or hold funds independently of the Foundation. While you can develop your chapter to meet the needs of your audience and therefore have great freedom, your chapter is not an independent legal entity. Chapters  Chapters must abide by the code of conduct, Foundation bylaws, the Core Purpose, Core Values, and the Chapter Leader Handbook.  If any of these are contradictory please abide by the document preceding it in the above list.  If you are confused, you can contact the Community Manager through contact us page.
+ 
 # Section : Expenses and Funding
  
 ## Spend any Chapter funds in accordance with OWASP goals, code of ethics and principles
@@ -120,13 +99,9 @@ We know that being a Chapter Leader is a lot of work--even when your chapter has
 * At each Global AppSec Training event there will be 2 seats in each training event for leaders to have on a first come-first served basis.
 * Any leader who attends the in person Leader meetings can receive a special leader’s only shirt (first come-first served, limited quantities)
 
-## Legal Entity
-Chapters are not legal entities and cannot sign contracts, hold independent insurance, or hold funds independently of the Foundation. While you can develop your chapter to meet the needs of your audience and therefore have great freedom, your chapter is not an independent legal entity. Chapters  Chapters must abide by the code of conduct, Foundation bylaws, the Core Purpose, Core Values, and the Chapter Leader Handbook.  If any of these are contradictory please abide by the document preceding it in the above list.  If you are confused, you can contact the Community Manager through contact us page.
- 
+
 
  
-# Chapter 4:  Chapter Administration
-
 
 
 ## Handling Money
