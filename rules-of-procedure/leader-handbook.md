@@ -37,48 +37,66 @@ The privacy of OWASP Members or meeting attendees must be protected at all times
  
 ## Vendor Neutrality
 Proceedings of the OWASP Foundation including, but not limited to, Projects, Chapters, Events, and our website shall always maintain vendor neutrality (act independently). Leaders shall ensure groups maintain this non-commerical principle in our work.
- 
+
 # Section : Administration
 
 ## OWASP.org Email Accounts
 Owasp.org email accounts are provided at no cost to Chapter and Project Leaders in addition to  OWASP members. Leaders shall use their owasp.org email account for all OWASP related matters. The email address of Leaders shall listed on the OWASP website. Generally this policy is desiged to ensure vendor neutrality, protect Leader privacy, and to allow for identity portability within the OWASP community.
  
 ## Website
-Leaders shall maintain their groups' web page on owasp.org with the support of staff. The OWASP website shall be the primary authoritative information source for OWASP Projects and Chapters. Other services such as LinkedIn, Facebook, Twitter, Ning, etc. maybe used but are additive not a replacement for the OWASP website. A group's webpage shall minimally include:
+Leaders, along with support from staff, shall maintain their groups' web page on owasp.org. The OWASP website shall be the primary authoritative information source for OWASP Projects and Chapters. Other services such as LinkedIn, Facebook, Twitter, Ning, etc. maybe used but are additive not a replacement for the OWASP website. A group's webpage shall minimally include:
 
 - Group leadership with contact information
-- Link to the groups Mailing List (Google Group)
+- Link to the group's Mailing List (Google Group)
 - For Chapters, its Meetup Page
 
 The OWASP Foundation uses Github to host group pages and content. Please use the Contact Us form if you need assistance with access to the OWASP Github repo.
 
 ## Mailing Lists
-OWAS Mailing Lists (Google Groups) shall be the primary and archival communication channel OWASP group activites. Mailing Lists are discoverable, have open membership, and no posting restrictions; however, all participants shall follow the OWASP Code of Conduct. Violators of the Code of Conduct shall not be tolerated and displinary action, including up to expulsion from the Mailing List and suspension of OWASP Membership.
- 
- 
- ********
- 
+OWASP Mailing Lists (Google Groups) shall be the primary and archival communication channel of OWASP group activites. Mailing Lists are discoverable, have open membership, and no posting restrictions; however, all participants shall follow the OWASP Code of Conduct. Violators of the Code of Conduct shall not be tolerated and displinary action, with consequences including up to expulsion from the Mailing List and suspension of OWASP Membership. Certain mailing lists for staff operations shall be non-public. 
+  
 ## Social Media
-Similar to the OWASP chapter mailing lists, social media under the “OWASP” Chapter name should be used to inform subscribers about OWASP activities as well as communicate information about upcoming security events, projects the chapter is working on, or other appsec-related issues. Social media used under the OWASP chapter name, must abide by the OWASP Principles and Code of Ethics. Additionally, anyone who posts or moderates OWASP branded social media must sign and abide by the Social Media Agreement.
+All social media channels used by OWASP groups must abide by the OWASP Principles and Code of Ethics. Any person who posts or moderates OWASP branded social media must execute and abide by the OWASP Social Media Agreement.
 
-While the chapter leader or member that sets up the account will hold the password and be the official “owner” of the account,  this account login information with other members of the leadership team and with the Foundation. When new leadership takes over, the information must be handed over to the new leader(s).
+Social Media accounts associated with OWASP Projects, Chapters, or groups are controlled by the OWASP Foundation. While the Leader, or in rare cases members, may create an account and manage its day-to-day operations, credentials including passwords and recovery emails must be transferred when there is a change of leadership. 
 
-Note that, the chapter page on the OWASP wiki is the official representation of the chapter. Therefore, communication on social media platforms complement rather than replace the wiki page. Chapter members cannot be required to sign up for any social media account to get access to meeting notices. Do keep any new event or activity announcements up to date on the wiki page, per section 4.2. It is important that any social media platform the chapter uses be openly accessible, regularly maintained and updated with accurate information.  Should the chapter choose to leave a platform, it should close the social media account and alert the Foundation using the Contact Us form.
- 
-
-If the chapter opens an account on a service that the Foundation also uses, is advisable that the chapter follow the Foundation account.
+Group members shall not be required to sign up for any social media account to get access to meeting notices or other group information. Should a group choose to terminate its use of a platform, it should close the account and alert the Foundation using the Contact Us form. Abandoned social media accounts are those that have not had a post for over six months, and control of these accounts may be requested by the Foundation for termination.
 
 ## Domain Names
-Many leaders wish to purchase a local domain name for their OWASP chapter, and this domain should point to the chapter web page on the wiki and vice versa. It is important to note that the OWASP wiki is the only website that ensures OWASP values and principles.
 
-A few countries (such as China) have not been able to access the wiki and therefore the local domain name is used as the main source of information about OWASP for the country. If an exception is permitted, every effort must be made to announce changes to leadership and upcoming meetings on the chapter wiki page so that the global site information is up to date.  If all else fails, you can do this by submitting a case through the Contact Us form.
-
-Chapter leaders are free to register local domain names and submit the expense for reimbursement from their chapter’s account.  To maintain brand cohesion all domain names must be “OWASP [Chapter location]”   If additional paperwork or authorization is needed for the registration, submit your request through the Contact Us form. You must notify the Foundation through this same form if you have registered the name to help us keep track of what domain names have been purchased by OWASP.
+Leaders can request the OWASP Foundation register a domain name for their Chapter, Project, or group. While discouraged, Leaders may register a domain name for their Chapter, Project, or group. Domain names must be transferred when there is a change of leadership for the group. In either case, custom domain names shall point to the corresponding page on the Foundation website for the group, and if maintained by a Leader, its use shall be registered with the Foundation.
 
 # Section : Governance 
+
+## Oversight
+Chapters, Projects and groups are overseen on an operational basis by the Foundation Staff and, ultimately, the OWASP Board of Directors. If the Foundation Staff or Board of Directors determines that a Leader has not complied with these rules, their status as a Leader may be revoked. Additionally, OWASP administrative access (including the leader’s owasp.org email address) may be immediately revoked.
+
 ## Legal Entity
-Chapters are not legal entities and cannot sign contracts, hold independent insurance, or hold funds independently of the Foundation. While you can develop your chapter to meet the needs of your audience and therefore have great freedom, your chapter is not an independent legal entity. Chapters  Chapters must abide by the code of conduct, Foundation bylaws, the Core Purpose, Core Values, and the Chapter Leader Handbook.  If any of these are contradictory please abide by the document preceding it in the above list.  If you are confused, you can contact the Community Manager through contact us page.
- 
+Chapters, Projects and groups are not legal entities and are organized under the authority of the OWASP Foundation. As non-legal entities Leaders or members of Chapters, Projects, or groups cannot sign contracts, hold independent insurance, or transact funds independently of the OWASP Foundation. Groups operate with a great deal of freedom; however groups must abide by the Code of Conduct, Foundation bylaws, and the polices in these Rules of Procedure.
+
+## Leadership
+Leaders serve as the main point of contact for Chapters, Projects, and group and are responsible for ensuring the group complies with OWASP policies while fulfilling its mission and obligations. Leaders shall:
+
+- Publicly list their owasp.org contact information on the OWAPSP website
+- Be responsive to all requests generally within 5-7 business days.
+- Serve for a minimum term of 24 months.
+- Administer fair and open elections once every 24 months for Leadership roles in their group
+- Encourage consensus in decision-making and when not possible administer voting amoung OWASP Members
+
+## Consensus Driven
+The Foundation strives to operate in a consensus-driven decision making environment. Groups are encouraged to negotiate a common ground with regard to decisions and policy. However, at times it may be necessary to vote on decisions. Only OWASP Members have voting rights and all matters will be decided on a simple majority. Due process is expected and stakeholders should be given sufficient notice of upcoming decisions which might require a formal vote. 
+
+## Disputes
+Leaders are required to govern their group in accordance with OWASP Foundation policies. When their are violations, please follow the following hierarchy when escalating concerns:
+
+1. Bring your concern to the attention of your group's Leaders or Leadership team.
+2. If you are unable to resolve at the local level, please contact staff through the Contact form.
+3. If staff is unable to handle your concern or you would like to challenge their feedback/decision, the concern can be raised with the OWASP Board of Directors.
+
+If you feel an Code of Ethics violation has occurred, you may review the Whistleblower Policy for instructions on how to file a complaint.
+
+ *******************
+
 # Section : Expenses and Funding
  
 ## Spend any Chapter funds in accordance with OWASP goals, code of ethics and principles
@@ -88,21 +106,6 @@ Chapter funds should be used for your chapter and must be spent in line with the
 * If a request for funding has been approved for one chapter or project, then it can be considered an acceptable expense for all chapters or projects which have funds to cover the expense in full.
 For more rules regarding  handling chapter funds, see section 4.7 on Handling Money.
  
-## Chapter Oversight
-OWASP Chapters and Chapter Leaders are overseen on an operational basis by the Foundation Staff and, ultimately, the Global OWASP Board. Overall activities must comply with bylaws, policies and handbooks, and code of ethics. If the Foundation Staff or Global OWASP Board determines that an OWASP Chapter Leader has not complied with these rules, their status as an OWASP Chapter Leader may be revoked. Additionally, OWASP administrative access (including the leader’s owasp.org email address) may be immediately revoked.
- 
-## Chapter Leader Perks
-We know that being a Chapter Leader is a lot of work--even when your chapter has multiple leaders.  As thanks for your contribution OWASP offers the following perks for every leader who has served for 6 months and hosted at least one event:
-
-* All chapter leaders can opt-in to Honorary Membership
-* All Chapter are provided with three passes for use by their leaders who have fulfilled the above requirements
-* At each Global AppSec Training event there will be 2 seats in each training event for leaders to have on a first come-first served basis.
-* Any leader who attends the in person Leader meetings can receive a special leader’s only shirt (first come-first served, limited quantities)
-
-
-
- 
-
 
 ## Handling Money
 Chapter funds should be used for your chapter and must be spent in line with the OWASP Foundation purpose, goals, principles, and code of ethics. Accordingly, chapter finances should be handled in a transparent manner as described in Chapter 2
@@ -129,14 +132,7 @@ From an administrative perspective, OWASP has a responsibility to show its suppo
 
 Exceptions to the guidelines can be brought to the Staff for potential approval and tracking.
 
-### Additional Expense Policies
-A chapter is free to adopt any additional procedure for authorizing expenses as long as it is also authorized by the treasurer (or leader) and documented on the wiki with all other chapter specific policies. The treasurer (or leader) must, in addition to any bookkeeping required by local authorities, keep a list of expenses made. This list should be made public on the wiki with the budget.
-
 ### Reimbursement Process
-The recommended process for paying for chapter-related expenses is to pay for the expense out of pocket and submit the receipt through the OWASP reimbursement request form to get your money back. This is a standardized reimbursement procedure for OWASP. When your request is submitted, an authorization request will be sent to the appropriate chapter leaders for approval. You will not receive your reimbursement until the approval has been received.
-
-In case of doubt if an expense is in line with the OWASP principles, get advice from the Community Manager.
-
 ### Chapter Budgets
 Chapters do not hold their own money, it is held in trust for them by the OWASP Foundation. However Chapters can track their balances using the Chapter funding totals provided on the OWASP Funding page and write a budget for the use of funds where desired.  
 However all chapters with more than $5,000 in their account by October 1st must submit a budget prior to November 1 for inclusion in the Foundation budget for the following calendar year. The budget should identify how they plan to spend the money in their account over the course of the next year. A future projection budget can be included as well for forecasted spending within the next 2 years. Unbudgeted funds may be diverted to other chapters, or Community Engagement Funding accounts if the chapter cannot be contacted or a budget is not received prior to January 1.
@@ -155,76 +151,8 @@ It is against OWASP’s core values and principles to charge people to attend ch
 
 Any event that charges an admission fee or requires more than $1000 foundation funds must be submitted to the OCMS System and approved by the Executive Director.  To host an event, please read the How to Host a Conference page.
 
-## Insurance
-The OWASP Foundation carries insurance coverage that is sufficient for most meetings. If you need a certificate of insurance or have additional questions about insurance, please submit your request through the Contact Us form.
- 
-## (Signing) Contracts
-Chapter leaders are not authorized to sign contracts or enter into any legal agreements on behalf of the OWASP Foundation. If a signed contract is needed to guarantee your meeting venue or another service you would like for your chapter, please contact us for approval.
- 
-
 # Chapter 5: Governance 
  
-## Chapter Leadership
-Chapter leaders serve as the main point of contact for the local chapter and are responsible for ensuring that the local chapter fulfills its requirements, including planning at least two meetings per year.
-
-* An Active Chapter Leader is responsive to all requests within a reasonable amount of time, generally within 5-7 business days. Chapter leaders must have their name and contact information clearly available on the Chapter wiki page.
-* Preferably, a chapter should have as many organizers as possible.  Running a successful chapter requires concerted effort all year long, and these duties should be split between whoever is willing to volunteer to take the load. A single chapter leader has proven to be an anti-pattern for successful chapters and high performing chapters often have three or more co-organizers that meet regularly to plan.  In order to promote checks and balances, there are some benefits given explicitly to chapters with multiple leaders.  The most important of these is that every chapter with at least 2 leaders is given access to a minimum starting annual budget of $500.  You can read more about budgets in section four.
-* Chapter Leader (or Coordinator): Every chapter must nominate a Chapter Leader, who is the central point of contact for the chapter and responsible to the OWASP Board.  We suggest (but do not require) that leaders rotate every 24 months to allow for new ideas and to spread the workload. Leadership can be in the form of a few people who work by consensus, a leader with an advisory board, or, if you must, a single leader.   In case of dispute over the leader role, your leadership board may rotate over the 24 month term. If there are multiple candidates and no rotation agreement, elections should be held for a 24 months term (see elections below).
-* Board: Chapters are free to decide on the number of role holders, their titles, how they are selected and for how long. In case there are multiple candidates for a specific role, and no restructuring, rotation or teaming works, elections for the role should be held for a 24 months term.
-   * We recommend that a chapter would have also a board with at least 3 members, each one having a specific role. Common roles:
-      * Organization: Secretary, PR/Marketing, Web, Membership, Finance & Meetings/Conferences
-      * Content: Education, Industry, Projects
-* Any long term change in how governance is handled must be decided either by consensus or votes.  All paid or honorary members affiliated with your chapter must have sufficient notice and opportunity to take part in the discussion and decision making process.  It is incumbent upon the current leaders or actors urging the change to make sure this happens.   Unless otherwise stated, OWASP assumes that the leadership and chapter are governed by consensus.  Any changes in this structure must be posted on the wiki whether it is a simple decision like "We work by consensus" and "We vote every 2 years" or a complex governance document like some of our chapters have.
-* Your chapter page, must clearly identify who is the current leadership for the chapter or on the board of the chapter, including their phone numbers and/or email addresses. Additionally, post information on how people can get involved with the chapter planning, leadership, or decisions. What are your plans for the upcoming year? Are you looking for help with something particular? When are your elections held?
-
-## Transferring Leadership
-In the course of time, a leader may want to move on and leave his/her role. While this chapter provides guidelines to the technical process to follow, we found in the past that the actual challenge is finding the new leader, especially in chapters that lack a board. We strongly suggest that a chapter leader who wants to stop would try to find a successor among the active members of the chapter. Such a process has the best chance of ensuring the continuous success of the chapter.
-
-Please let us know of your wish to leave the job and let us help you in finding a successor.
-
-When a new leader is to be added to your team or a current leader is leaving you must fill out the change of leadership form to complete the activity.  Chapter leadership is an agreement with the OWASP Foundation to take on responsibilities as well as privileges; records of who is in what role need to be up to date.   
-
-## Chapter Elections
-It is always advisable to avoid elections. Running a chapter is a hard, volunteer job and sharing the load is always advisable. Since the chapter leader role structure is flexible, choosing the defined  chapter structure (such as a board of leaders who work by consensus) may help to avoid elections. However, if there is a lack of agreement between chapter members on structure, roles or any other issues an election for a role or a poll on any other subject may be required:
-
-A poll on a subject will be held if 10% of the chapter members request it.
-
-Elections for a role will be held if there are multiple candidates for a role at the end of the term for the role.
-
-Chapters that either choose to hold regular or one off elections as well as those that are driven to elections due to disagreement have the ability to request to use the Foundation’s Simply Voting or Surveymonkey services as their balloting system.
- 
-## How should elections be held?
-OWASP does not enforce any procedure for elections and polls. However all elections must meet the OWASP core value of “Openness.”  To this end, in the absence of a previously agreed upon process that is publicly accessible all elections must be announced on the chapter mailing list and all paid and honorary members must have the opportunity to vote.
-When structuring an election in the absence of an established process, an agreement on procedure between candidates or suggestion makers is sufficient. If such an agreement is not reached, the following procedure should be followed:
-
-* The subject and options for vote alongside the names of the people requiring the vote would be submitted to the OWASP Foundation.
-* The OWASP Foundation will request confirmation by email from the people requiring the vote.
-* Once confirmed, the OWASP Foundation will send the ballot to the chapter members setting a deadline.
-* One results are in, the OWASP Foundation will notify chapter members of the results.
- 
-This procedure for election heavily involves the OWASP Foundation as we feel that if the chapter cannot get to an agreement even as to how to hold elections, central intervention is required.
-
-## Chapter Bylaws
-While there is no requirement for Chapters to have their own bylaws or recommended template, if you do create bylaws, you should incorporate the following information as it applies in your country or region:
-
-* The Open Web Application Security Project (OWASP) is a not-for-profit worldwide charitable organization focused on improving the security of application software. Our mission is to make application security visible, so that people and organizations can make informed decisions about true application security risks. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
-* Reference to the OWASP Foundation Bylaws, the primary governing document for the OWASP, as well as this Handbook. Where there is conflict between chapter bylaws and the Foundation's bylaws or handbook the Foundation’s Bylaws and Handbooks take precedence. Should any Handbook conflict with the Foundation’s Bylaws, the Bylaws take precedence.
- 
-Chapter by-laws that currently exist have been posted in one central place on the wiki - https://www.owasp.org/index.php/Local_Chapter_ByLaws
-If your chapter has by-laws already or adopts by-laws in the future, please post them to the wiki on the Local Chapter ByLaws page, or submit them through the contact us form.
-
-## Legal Entity
-While local chapters operate, for the most part, independently from the OWASP Foundation, they are not stand alone legal entities. Local OWASP Chapters are essentially small local “arms” or “branches” of the OWASP Foundation and must abide by any legal and financial duties or responsibilities imposed on the OWASP Foundation. Furthermore, local chapters and chapter leaders are governed by the OWASP Foundation through the Executive Director and the Global OWASP Board.
-
-## Disputes
-When there is a problem at the local level, at what point does the global organization step in? Chapters are encouraged to handle disputes locally, within their own governance structures. However, what should a chapter leader (or other community member) do if there appears to be a violation of OWASP principles or ethics? Or what if someone feels that the chapter leader him or herself is not following the handbook?
- 
-If you feel that a chapter leader is not acting in accordance with the chapter handbook, please follow the following hierarchy in escalating your concern:
-
-1. Bring your concern to the attention of the chapter leader or chapter board. If possible, make an attempt to handle the issue locally.
-1. If you are unable to resolve at the local level, please contact the Community Manager through the contact us form.
-3. If the Community Manager is not able to handle your concern or you would like to challenge the feedback/decision of the Community Manager, the concern can be raised with the Global OWASP Board.
-   * If you feel an Code of Ethics violation has occurred, you may review the Whistleblower Policy for instructions on how to file a complaint.
  
 # Chapter 6: Chapter Activity
 
