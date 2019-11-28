@@ -1,11 +1,11 @@
 ---
 
-title:  Chapter Handbook Rules of Procedure
+title:  Chapter Rules of Procedure
 layout: full-width
 
 ---
 
-# Chapter Handbook Rules of Procedure
+# Chapter Rules of Procedure
 
 # How to Start a Chapter
 
