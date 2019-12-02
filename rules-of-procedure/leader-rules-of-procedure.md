@@ -79,7 +79,7 @@ Leaders serve as the main point of contact for Chapters, Projects, and group and
 
 - Publicly list their owasp.org contact information on the OWAPSP website
 - Be responsive to all requests generally within 5-7 business days.
-- Serve for a minimum term of 24 months.
+- Serve for a term of 24 months.
 - Administer fair and open elections once every 24 months for Leadership roles in their group
 - Encourage consensus in decision-making and when not possible administer voting amoung OWASP Members
 
