@@ -129,7 +129,7 @@ We actively collect some types of information with a variety of commonly-used te
 
 Depending on which technology we use, locally stored data can be anything from text, pictures, and whole articles (as we explain further below) to Personal Information (like your IP address) and information about your use of the OWASP Sites (like your username or the time of your visit).
 
-We use this information to make your experience with the OWASP Sites safer and better, to gain a greater understanding of user preferences and their interaction with the OWASP Sites, and to generally improve our services. We will never use third-party cookies, unless we get your permission to do so. If you ever come across a third-party data collection tool that has not been authorized by you (such as one that may have been mistakenly placed by another user or administrator), please report it to us at privacy@wikimedia.org.
+We use this information to make your experience with the OWASP Sites safer and better, to gain a greater understanding of user preferences and their interaction with the OWASP Sites, and to generally improve our services. We will never use third-party cookies, unless we get your permission to do so. If you ever come across a third-party data collection tool that has not been authorized by you (such as one that may have been mistakenly placed by another user or administrator), please report it to us at info@owasp.org
 
 #### More on Locally Stored Data
 Want to know even more? You can read more about some of the specific cookies we use, when they expire, and what we use them for in our FAQ.
@@ -218,7 +218,7 @@ We use a variety of physical and technical measures, policies, and procedures to
 
 We strive to protect your information from unauthorized access, use, or disclosure. We use a variety of physical and technical measures, policies, and procedures (such as access control procedures, network firewalls, and physical security) designed to protect our systems and your Personal Information. Unfortunately, there's no such thing as completely secure data transmission or storage, so we can't guarantee that our security will not be breached (by technical measures or through violation of our policies and procedures).
 
-We will never ask for your password by email (but may send you a temporary password via email if you have requested a password reset). If you ever receive an email that requests your password, please let us know by sending it to privacy@wikimedia.org, so we can investigate the source of the email.
+We will never ask for your password by email (but may send you a temporary password via email if you have requested a password reset). If you ever receive an email that requests your password, please let us know by sending it to info@owasp.org, so we can investigate the source of the email.
 
 
 #### How Long Do We Keep Your Data?
