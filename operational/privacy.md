@@ -5,7 +5,6 @@ layout: col-generic
 
 ---
 
-## Summary
 This is a summary of the Privacy Policy. To read the full terms, scroll down or click here.
 
 **Disclaimer: This summary is not a part of the Privacy Policy and is not a legal document. It is simply a handy reference for understanding the full Privacy Policy. Think of it as the user-friendly interface to our Privacy Policy.**
@@ -152,12 +151,12 @@ We and our service providers use your information for the legitimate purpose of 
 As stated above, we can use commonly-used location technologies to show you more relevant content. For example, our mobile apps can identify articles from the OWASP Sites about points of interest near your location. As a reminder, you can deactivate our access to these location technologies at any time, and still use the OWASP Sites.
 
 ##### Metadata
-As stated above, we may automatically receive location data from your device. For example, if you upload a photo using the Wikimedia Commons mobile app, please be aware that the default setting on your mobile device typically results in the metadata associated with your photo being included in the upload. As a reminder, if you do not want metadata sent to us and made public at the time of your upload, please change your settings on your device.
+As stated above, we may automatically receive location data from your device. Please be aware that the default setting on your mobile device typically results in the metadata associated with your photo being included in the upload. As a reminder, if you do not want metadata sent to us and made public at the time of your upload, please change your settings on your device.
 
-IP Addresses
-##### When you visit any OWASP Site, we automatically receive the IP address of the device (or your proxy server) you are using to access the Internet, which could be used to infer your geographical location. We keep IP addresses confidential, except as provided in this Policy. If you are visiting OWASP Sites with your mobile device, we may use your IP address to provide anonymized or aggregated information to service providers regarding the volume of usage in certain areas.
+#### IP Addresses
+When you visit any OWASP Site, we automatically receive the IP address of the device (or your proxy server) you are using to access the Internet, which could be used to infer your geographical location. We keep IP addresses confidential, except as provided in this Policy. If you are visiting OWASP Sites with your mobile device, we may use your IP address to provide anonymized or aggregated information to service providers regarding the volume of usage in certain areas.
 
-We use this location information to make your experience with the OWASP Sites safer and better, to gain a greater understanding of user preferences and their interaction with the OWASP Sites, and to generally improve our services. For example, we use this information to provide greater security, optimize mobile applications, and learn how to expand and better support Wikimedia communities. We also use Personal Information in the manner described in the sections of this Policy titled "For Legal Reasons" and "To Protect You, Ourselves & Others."
+We use this location information to make your experience with the OWASP Sites safer and better, to gain a greater understanding of user preferences and their interaction with the OWASP Sites, and to generally improve our services. For example, we use this information to provide greater security, optimize mobile applications, and learn how to expand and better support OWASP communities. We also use Personal Information in the manner described in the sections of this Policy titled "For Legal Reasons" and "To Protect You, Ourselves & Others."
 
 
 ### When May We Share Your Information?
@@ -181,11 +180,11 @@ In the extremely unlikely event that ownership of all or substantially all of th
 #### To Protect You, Ourselves & Others
 We, or users with certain administrative rights, may disclose information that is reasonably necessary to:
 
-- enforce or investigate potential violations of the Wikimedia Foundation or community-based policies;
+- enforce or investigate potential violations of the OWASP Foundation or community-based policies;
 - protect our organization, infrastructure, employees, contractors, or the public; or
 - prevent imminent or serious bodily harm or death to a person.
 
-We, or particular users with certain administrative rights as described below, may need to share your Personal Information if it is reasonably believed to be necessary to enforce or investigate potential violations of our Terms of Use, this Privacy Policy, or any Wikimedia Foundation or user community-based policies. We may also need to access and share information to investigate and defend ourselves against legal threats or actions.
+We, or particular users with certain administrative rights as described below, may need to share your Personal Information if it is reasonably believed to be necessary to enforce or investigate potential violations of our Terms of Use, this Privacy Policy, or any OWASP Foundation or user community-based policies. We may also need to access and share information to investigate and defend ourselves against legal threats or actions.
 
 OWASP Sites are collaborative, with users writing most of the policies and selecting from amongst themselves people to hold certain administrative rights. These rights may include access to limited amounts of otherwise nonpublic information about recent contributions and activity by other users. They use this access to help protect against vandalism and abuse, fight harassment of other users, and generally try to minimize disruptive behavior on the OWASP Sites. These various user-selected administrative groups have their own privacy and confidentiality guidelines, but all such groups are supposed to agree to follow our Access to Nonpublic Information Policy. These user-selected administrative groups are accountable to other users through checks and balances: users are selected through a community-driven process and overseen by their peers through a logged history of their actions. However, the legal names of these users are not known to the OWASP Foundation.
 
@@ -230,19 +229,19 @@ Once we receive Personal Information from you, we keep it for the shortest possi
 Please remember that certain information, such as your IP address (if you edit while not logged in) and any public contributions to the OWASP Sites, is archived and displayed indefinitely by design; the transparency of the projects’ contribution and revision histories is critical to their efficacy and trustworthiness. To learn more about our data retention practices, see our data retention guidelines. For further information about how you may request access to or deletion of your Personal Information, or other rights you may have with respect to your Personal Information, see our FAQ.
 
 ## Important info
-For the protection of the Wikimedia Foundation and other users, if you do not agree with this Privacy Policy, you may not use the OWASP Sites.
+For the protection of the OWASP Foundation and other users, if you do not agree with this Privacy Policy, you may not use the OWASP Sites.
 
 ### Where is the Foundation & What Does That Mean for Me?
-The Wikimedia Foundation is a non-profit organization with its legal headquarters in Maryland, USA, with content and data hosted on sites around the world. If you decide to use OWASP Sites, whether from inside or outside of the U.S., you understand that your Personal Information will be collected, transferred, stored, processed, disclosed and otherwise used in the U.S. as described in this Privacy Policy. You also understand that your information may be transferred by us from the U.S. to other countries, which may have different or less stringent data protection laws than your country, in connection with providing services to you.
+The OWASP Foundation is a non-profit organization with its legal headquarters in Maryland, USA, with content and data hosted on sites around the world. If you decide to use OWASP Sites, whether from inside or outside of the U.S., you understand that your Personal Information will be collected, transferred, stored, processed, disclosed and otherwise used in the U.S. as described in this Privacy Policy. You also understand that your information may be transferred by us from the U.S. to other countries, which may have different or less stringent data protection laws than your country, in connection with providing services to you.
 
 ### Changes to This Privacy Policy
 Substantial changes to this Policy will not be made until after a public comment period of at least 30 days.
 
 Because things naturally change over time and we want to ensure our Privacy Policy accurately reflects our practices and the law, it may be necessary to modify this Privacy Policy from time to time. We reserve the right to do so in the following manner:
 
-In the event of substantial changes, we will provide the proposed changes to our users in at least three (3) languages (selected at our discretion) for open comment period lasting at least thirty (30) calendar days. Prior to the start of any comment period, we will provide notice of such changes and the opportunity to comment via the OWASP Sites, and via a notification on WikimediaAnnounce-L or a similar mailing list.
+In the event of substantial changes, we will provide the proposed changes to our users in at least three (3) languages (selected at our discretion) for open comment period lasting at least thirty (30) calendar days. Prior to the start of any comment period, we will provide notice of such changes and the opportunity to comment via the OWASP Sites, and via a notification on OWASP mailing lists.
 
-For minor changes, such as grammatical fixes, administrative or legal changes, or corrections of inaccurate statements, we will post the changes and, when possible, provide at least three (3) calendar days' prior notice via WikimediaAnnounce-L or similar mailing list.
+For minor changes, such as grammatical fixes, administrative or legal changes, or corrections of inaccurate statements, we will post the changes and, when possible, provide at least three (3) calendar days' prior notice via a notification on OWASP mailing lists.
 
 We ask that you please review the most up-to-date version of our Privacy Policy. Your continued use of the OWASP Sites after this Privacy Policy becomes effective constitutes acceptance of this Privacy Policy on your part. Your continued use of the OWASP Sites after any subsequent version of this Privacy Policy becomes effective, following notice as outlined above, constitutes acceptance of that version of the Privacy Policy on your part.
 
