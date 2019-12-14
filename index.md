@@ -39,6 +39,8 @@ Contract and Agreement Templates
 {% endfor %}
 </ul>
 
+## Others
+- [Employee Handbook](/www-policy/employee)
 
 ## TODO
 - Local Event Policies
