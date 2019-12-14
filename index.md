@@ -51,6 +51,8 @@ Contract and Agreement Templates
 - Mailing Lists
 - Elections
 - Licenses
+- Donations - unrestricted, restricted and process. Being listed as a supporter
 - Website Contributors
+- Contact Us (responsivness to tickets, SLA, submitting complete information, submitting accurate information)
 
 
