@@ -44,12 +44,10 @@ Contract and Agreement Templates
 
 ## TODO
 - Donations - unrestricted, restricted and process. Being listed as a supporter
-- Website Contributors
 - Contact Us (responsivness to tickets, SLA, submitting complete information, submitting accurate information)
 - Membership - terms, discounts, submitting accurate info, pricing, honorary process, peference for Foundation events (like PRoject Summits etc
 - Acknowledgements
 - Advertising
-- Privacy Policy
 - Local Event Policies
 - Travel Assistance Program - member, workflow, limits, 
 - Grants
