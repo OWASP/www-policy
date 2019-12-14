@@ -2,7 +2,6 @@
 
 layout: col-sidebar
 title: Policies & Procedures
-permalink: /policies
 
 ---
 
