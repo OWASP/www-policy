@@ -1,6 +1,6 @@
 ---
 
-title: OWASP Expense Policy
+title: Expense Policy
 layout: full-width
 review-end-date: 2019-12-15
 
