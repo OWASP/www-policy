@@ -40,4 +40,17 @@ Contract and Agreement Templates
 </ul>
 
 
+## TODO
+- Local Event Policies
+- Travel Assistance Program
+- Grants
+- Local Partnerships
+- Acknowledgements
+- Advertising
+- Privacy Policy
+- Mailing Lists
+- Elections
+- Licenses
+- Website Contributors
+
 
