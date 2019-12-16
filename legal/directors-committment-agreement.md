@@ -10,13 +10,12 @@ All Global Foundation Board Members must read the following and acknowledge comp
 
 As a member of the Board of Directors of the OWASP Foundation, I understand that I have a legal and ethical responsibility to ensure that the organization does the best work possible in pursuit of its mission and strategic goals. I believe in the purpose and the mission of the organization, and I will act responsibly and prudently as its steward.
 
-In preparation for my term as a board member, I have read and understand the [board orientation materials](/www-policy/operational/board-orientation)
+In preparation for my term as a board member, I have read and understand the board orientation materials below:
 
 Required Reading
 - General Information about the Role and Responsibilities of Non-profit Board Members:
    - Board Member Orientation: The Concise & Complete Guide to nonprofit Board Success - Michael E Batts
    - The Ultimate Board Members Book - Kay Sprinkel Grace
-
 - Organization specific information:
    - [OWASP Foundation By-laws](/assets/legal/bylaws)
    - [Conflict of Interest Policy and Annual Conflict Questionnaire](/www-policy/operational/conflict-of-interest)
