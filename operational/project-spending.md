@@ -4,10 +4,11 @@ title: Project Spending
 layout: full-width
 
 ---
+## Project Spending
 
 Below you will find a series of guidelines aimed at assisting OWASP Project Leaders with OWASP Project spending related questions. In order to avoid any problems or misunderstandings in the future, we have developed these guidelines to provide clear expectations of how OWASP Projects should spend project funds, and what are appropriate project expenses. 
 
-## Guidelines
+### Guidelines
 
 1. OWASP Project funds are to be spent on project related expenses ONLY. If your project has more than one Project Leader, then all Project Leaders must agree to the expense before the purchase.  
 2. Before a purchase is made, the Project Leader must make sure that his/her project actually has the funds to cover the purchase. The easiest way to do this is to communicate your purchase needs to the OWASP Projects Manager, or you can look at the running funds list provided by the foundation.
