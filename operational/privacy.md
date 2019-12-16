@@ -97,9 +97,7 @@ Account Information & Registration
 You are not required to create an account to read or contribute to a OWASP Site, except under rare circumstances.
 
 #### GPS & Other Location Technologies
-Some features we offer work better if we know what area you are in.
-
-If you consent, we can use GPS (and other technologies commonly used to determine location) to show you more relevant content. We keep information obtained by these technologies confidential, except as provided in this Policy. You can learn more by checking out the list of examples of how we use these technologies in our FAQ.
+If you consent, we can use GPS (and other technologies commonly used to determine location) to show you more relevant content. We keep information obtained by these technologies confidential, except as provided in this Policy.
 
 #### Metadata
 Sometimes, we automatically receive location data from your device. For example, if you want to upload a photo, we may receive metadata, such as the place and time you took the photo, automatically from your device. Please be aware that, unlike location information collected using GPS signals described above, the default setting on your mobile device typically includes the metadata in your photo or video upload to the OWASP Sites. If you do not want metadata sent to us and made public at the time of your upload, please change your settings on your device.
@@ -129,9 +127,7 @@ Depending on which technology we use, locally stored data can be anything from t
 We use this information to make your experience with the OWASP Sites safer and better, to gain a greater understanding of user preferences and their interaction with the OWASP Sites, and to generally improve our services. We will never use third-party cookies, unless we get your permission to do so. If you ever come across a third-party data collection tool that has not been authorized by you (such as one that may have been mistakenly placed by another user or administrator), please report it to us at info@owasp.org
 
 #### More on Locally Stored Data
-Want to know even more? You can read more about some of the specific cookies we use, when they expire, and what we use them for in our FAQ.
-
-We believe this data collection helps improve your user experience, but you may remove or disable some or all locally stored data through your browser settings, depending on your browser. You can learn more about some options you have in our FAQ. While locally stored data may not be necessary to use our sites, some features will not function properly if you disable locally stored data.
+We believe this data collection helps improve your user experience, but you may remove or disable some or all locally stored data through your browser settings, depending on your browser. While locally stored data may not be necessary to use our sites, some features will not function properly if you disable locally stored data.
 
 While the examples above concerning information about you collected through the use of data collection tools are kept confidential in accordance with this Policy, please note that some information about the actions taken by your username is made publicly available through public logs alongside actions taken by other users. For example, a public log may include the date your account was created on a OWASP Site along with the dates that other accounts were created on a OWASP Site.
 
@@ -213,9 +209,9 @@ We will never ask for your password by email (but may send you a temporary passw
 #### How Long Do We Keep Your Data?
 Except as otherwise stated in this policy, we only keep your Personal Information as long as necessary to maintain, understand and improve the OWASP Sites or to comply with U.S. law.
 
-Once we receive Personal Information from you, we keep it for the shortest possible time that is consistent with the maintenance, understanding, and improvement of the OWASP Sites, and our obligations under applicable U.S. law. Non-personal information may be retained indefinitely. (Check out the list of examples in our FAQ.)
+Once we receive Personal Information from you, we keep it for the shortest possible time that is consistent with the maintenance, understanding, and improvement of the OWASP Sites, and our obligations under applicable U.S. law. Non-personal information may be retained indefinitely.
 
-Please remember that certain information, such as your IP address (if you edit while not logged in) and any public contributions to the OWASP Sites, is archived and displayed indefinitely by design; the transparency of the projects’ contribution and revision histories is critical to their efficacy and trustworthiness. To learn more about our data retention practices, see our data retention guidelines. For further information about how you may request access to or deletion of your Personal Information, or other rights you may have with respect to your Personal Information, see our FAQ.
+Please remember that certain information, such as your IP address (if you edit while not logged in) and any public contributions to the OWASP Sites, is archived and displayed indefinitely by design; the transparency of the projects’ contribution and revision histories is critical to their efficacy and trustworthiness. To learn more about our data retention practices, see our data retention guidelines.
 
 ## Important info
 For the protection of the OWASP Foundation and other users, if you do not agree with this Privacy Policy, you may not use the OWASP Sites.
