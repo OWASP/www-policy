@@ -1,7 +1,7 @@
 ---
 
 title: Privacy Policy
-layout: col-generic
+layout: full-width
 
 ---
 
