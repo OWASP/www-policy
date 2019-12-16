@@ -1,6 +1,6 @@
 ---
 
-title:  Chapter Leader Guidebook
+title:  Chapter Leader Guidebook - Draft WIP
 layout: full-width
 
 ---
@@ -138,7 +138,7 @@ Spread tasks across many individuals in order to ensure that your meeting runs s
 ### Meeting Content
 **Job announcements**: Some chapters encourage recruiters or other individuals who are hiring in their area to come for their meeting and make the job announcement in person. At the beginning of the meeting they ask anyone who is hiring to stand up and introduce themselves and who they are looking for. Then at a break or after the meeting, attendees can get in touch with them. This encourages recruiters/employers to invest a small amount of time in your chapter (attending the meeting) and also gives both the person hiring and the people looking for jobs the benefit of face-to-face contact.
 
-** Present an OWASP Update**: Always cover the OWASP mission and goals at each meeting to reinforce it to the attendees of why and what the purpose of the chapter is. Explain the web application security problem in a general way to attract a large crowd and to educate the new members and guests.
+**Present an OWASP Update**: Always cover the OWASP mission and goals at each meeting to reinforce it to the attendees of why and what the purpose of the chapter is. Explain the web application security problem in a general way to attract a large crowd and to educate the new members and guests.
  
 **OWASP Conferene Recap**: Additionally, if you or any of your chapter members have recently attended an OWASP conference or other event, this is a good time for a short (5-10 minutes) presentation about the event.
 
