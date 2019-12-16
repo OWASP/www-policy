@@ -1,6 +1,6 @@
 ---
 
-title:  Chapter Rules of Procedure
+title:  Chapter Rules of Procedure (Draft WIP)
 layout: full-width
 
 ---
