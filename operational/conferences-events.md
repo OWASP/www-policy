@@ -33,7 +33,7 @@ OWASP reserves the right to use images taken at conference and events with your 
 
 ### Conference and Event Anti-Harassment Policy
 
-Attendees, staff, sponsors, and exhibitors at Foundation Conferences and Events shall together provide a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Additionally participating in our events means you shall also adhere to the [Code of Conduct](/www-policy/code-of-conduct).
+Attendees, staff, sponsors, and exhibitors at Foundation Conferences and Events shall together provide a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Additionally participating in our events means you shall also adhere to the [Code of Conduct](/www-policy/operational/code-of-conduct).
 
 Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers. Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion and actions such as deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 - Participants asked to stop any harassing behavior are expected to comply immediately.
