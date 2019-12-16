@@ -5,6 +5,7 @@ layout: full-width
 
 ---
 
+## Community Engagement
 The purpose of this page is to outline how OWASP Community Leaders can request funding to support the mission of OWASP. If you can't find what you are looking for, please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72).
 
 Successful global outreach and community support are critical activities that support our purpose of driving visibility and evolution of safety and security of the worlds software.  To this end, some guidelines have been established for the OWASP community leadership to follow as they support the OWASP Foundation and it’s core purpose.
