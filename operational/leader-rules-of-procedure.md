@@ -1,6 +1,6 @@
 ---
 
-title:  Leader Rules of Procedure
+title:  Leader Rules of Procedure (Draft WIP)
 layout: full-width
 
 ---
