@@ -43,7 +43,7 @@ In connection with any actual or possible conflict of interest, an interested pe
 
 Board members, employees, community members, or other third parties are encouraged to notify the board any any undisclosed financial interest or other conflict of interest by a board member or employee including material facts supporting the conflict.  
 
-**3.3 Determining Whether a Conflict of Interest Exists **
+**3.3 Determining Whether a Conflict of Interest Exists**
 
 After disclosure of the financial interest and all material facts, and after any discussion with the interested person, he/she shall leave the governing board or committee meeting while the determination of a conflict of interest is discussed and voted upon.  The remaining board or committee members shall decide if a conflict of interest exists.
            
@@ -107,7 +107,7 @@ I do hereby certify that the above stated Conflict of Interest Policy and Agreem
 Secretary_______________
 Date: ________________ 
 
-``
+```
 
 
 ## Annual Conflict of Interest Questionnaire:
