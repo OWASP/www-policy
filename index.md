@@ -1,6 +1,6 @@
 ---
 
-layout: col-sidebar
+layout: col-generic
 title: Policies & Procedures
 
 ---
