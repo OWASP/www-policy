@@ -4,12 +4,13 @@ title: Project Sponsorship
 layout: full-width
 
 ---
+## Project Sponsorship
 
 The set of guidelines below aim to inform project sponsors of what they can expect if they donate funds, or other resources, to an OWASP Project. Additionally, they outline what project leaders can offer sponsors in exchange for donating funds to their OWASP Project. 
 
 In order to avoid any problems or misunderstandings, we have developed these guidelines to provide clear expectations of how sponsors and projects are expected to interact when funds are given to a project for product development. 
 
-## Guidelines
+### Guidelines
 
 1. Any company or individual can donate funds to a project in exchange for the placement of one sponsorship logo on the OWASP project page and product they have sponsored. 
 2. Donations or project sponsorship funds will be allocated with 10% going to the Foundation and 90% going to the Projects.
