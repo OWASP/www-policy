@@ -4,13 +4,15 @@ title: General Disclaimer
 layout: full-width
 
 ---
-## OWASP Makes No Gaurantee of Validity
+## General Disclaimer
+
+### OWASP Makes No Gaurantee of Validity
 
 OWASP is an online open-content collaborative project, that is, a voluntary association of individuals and groups who are developing a common resource of human knowledge. The structure of the project allows anyone with an Internet connection and World Wide Web browser to alter its content.  Please be advised that nothing found here has necessarily been reviewed by professionals with the expertise required to provide you with complete, accurate or reliable information.
 
 That is not to say that you will not find valuable and accurate information in OWASP; much of the time you will.  However, OWASP cannot guarantee the validity of the information found here.  The content of any given article may recently have been changed, vandalized or altered by someone whose opinion does not correspond with the state of knowledge in the relevant fields.  
 
-### No formal peer review
+#### No formal peer review
 We are working on ways to select and highlight reliable versions of articles.  Our active community of editors uses tools to monitor new and changing content.  However, OWASP is not uniformly peer reviewed; while readers may correct errors or engage in casual peer review, they have no legal duty to do so and thus all information read here is without any implied warranty of fitness for any purpose or use whatsoever.  Even articles that have been vetted by informal peer review or featured article processes may later have been edited inappropriately, just before you view them.
 
 None of the authors, contributors, sponsors, administrators, sysops, or anyone else connected with OWASP in any way whatsoever can be responsible for the appearance of any inaccurate or libelous information or for your use of the information contained in or linked from these web pages.
@@ -28,5 +30,3 @@ Publication of information found in OWASP may be in violation of the laws of the
 
 ### Not professional advice
 If you need specific advice (for example, medical, legal, financial, or risk management) please seek a professional who is licensed or knowledgeable in that area.
-
-Thank you for taking the time to read this page, and please enjoy your use of OWASP.
