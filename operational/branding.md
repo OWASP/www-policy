@@ -4,9 +4,11 @@ title: Branding Guidelines
 layout: full-width
 
 ---
+## Branding
+
 On this page, you will find the most current marketing materials and brand guidelines used by the OWASP Foundation. We have everything from logos and business cards to banner stand and brochure designs all for your use. 
 
-##  Guidelines
+###  Guidelines
 
 The OWASP brand is the property of the OWASP Foundation. The right to use the name or logo is granted as long as the following guidelines are followed. The right to use the OWASP brand may be revoked at any time. The following rules make reference to the OWASP Materials, meaning any tools, documentation, or other content from OWASP.
 
@@ -72,14 +74,6 @@ The Following items are outdated and are in process of redesign
 
 The templates and icons below are the files used for our OWASP Projects. Here you will find icons that you can place on your wiki project page to let viewers know what type of project they are looking at, and what stage the project is in. Click on an image to view information and download the file. 
 
-
-[[Image:OWASP_Project_Header.jpg|Owasp logo|500px]]
-
-[[Image:Project_Type_Files_TOOL.jpg|Owasp logo|200px]] [[Image:Project_Type_Files_DOC.jpg||Owasp logo 1c|200px]]  
-
-[[Image:Project_Type_Files_CODE.jpg|Owasp logo|200px]] [[Image:Owasp-defenders-small.png|Owasp logo|100px]] [[Image:Owasp-builders-small.png|Owasp logo|100px]] [[Image:Owasp-breakers-small.png|Owasp logo|100px]] 
-
-[[Image:New projects.png|Owasp logo rev icon|100px]] [[Image:Midlevel projects.png|Owasp logo flat|100px]] [[image:Mature projects.png|Owasp logo icon|100px]]
-
+ [Under development for new site]
 
 
