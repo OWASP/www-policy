@@ -1,6 +1,6 @@
 ---
 
-title: Events Policy (WIP)
+title: Events Policy Draft (WIP)
 layout: full-width
 
 ---
@@ -44,7 +44,7 @@ All vendors will be selected through the RFP process. Vendors will be selected b
 
 ### Content
 
-Content will be created be sources and selected by the Program Team in accordance with the {Program Teams Charter](https://www.globalappsec.org/forms/team_application).  OWASP Staff will be responsible for keynote speakers and non-programmatic content. 
+Content will be created be sources and selected by the Program Team in accordance with the [Program Teams Charter](https://www.globalappsec.org/forms/team_application).  OWASP Staff will be responsible for keynote speakers and non-programmatic content. 
 
 Content will be shared with the community when possible. OWASP will not incur additional expenses such as web casting, third party hosting sites, or video recording in order to make the content available to those that were not in attendance. 
 
@@ -94,19 +94,19 @@ Giveaways/Hard Goods
 Marketing   
 ```
 
-For internal accounting practices, Local host chapters who comply with the terms of these policies will share 90% of OWASP event net profits. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. A Regional Event Profit and Loss statement will be provided to all parties no later than 120 days following the event. Uncollected sponsorship revenue will not included in this revenue reconciliation.
+For internal accounting practices, Local host chapters who comply with the terms of these policies will share 90% of OWASP event net profits. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. A Regional Event Profit and Loss statement will be provided to all parties no later than 120 days following the event. Uncollected sponsorship revenue will not be included in this revenue reconciliation.
 
-All expense reimbursements and payments will be paid in accordance with the expense policy with particular attention to the following:
-- It the responsibility of those incurring expenses to obtain pre-approval of any planned expense likely to exceed $2,500 and failure to do so may result in your reimbursement request being denied.
-- When any expenses other than airfare is expected to exceed $5,000, an invoice must be requested from the vendor so the Foundation can remit payment directly.
+All expense reimbursements and payments will be paid in accordance with the [expense policy](/www-policy/operational/expense-reimbursement) with particular attention to the following:
+- It the responsibility of those incurring expenses to obtain pre-approval of any unbudgeted expense likely to exceed $2,500 and failure to do so may result in your reimbursement request being denied.
+- When any expense other than airfare is expected to exceed $5,000, an invoice must be requested from the vendor so the Foundation can remit payment directly.
 - Invoices from vendors should have Net 60 terms and the OWASP Foundation will make a best effort to pay within current Service Level Agreement which the writing of this policy is 22 days. Invoices received within 30 days of when payment is required cannot be guaranteed to be paid on time.
-- Invoices or expense reimbursements submitted more than 60 days following the event will be denied.
+- Invoices and expense reimbursements submitted more than 60 days following the event will be denied.
 
 ### Sponsorships
 
-At the descretion of the Executive Director, the OWASP Foundation may provide services to Regional Event Teams to identify, solicit, contract, invoice, and collect sponsorship revenue from partners. The OWASP Foundation is the exclusive sponsorship representative of all OWASP Events. In collaboration with the Founation, Regional Event Teams will develop a collection of sponsorship opportunities that offer uniqe value to partners when supporting these events. Regional Event Teams explicitly acknowledge that pricing and benefits for these events must be compatible with offerings for Global AppSec events. 
+ The OWASP Foundation is the exclusive sponsorship representative of all OWASP Events. At the descretion of the Executive Director, the OWASP Foundation may provide services to Regional Event Teams to identify, solicit, contract, invoice, and collect sponsorship revenue from partners. In collaboration with the Foundation, Regional Event Teams can develop a collection of sponsorship opportunities that offer uniqe value to partners when supporting these events. Regional Event Teams acknowledge that pricing and benefits for these events must be compatible with offerings for Global AppSec events. 
 
-From time to time, the OWASP Foundation may offer "bundled" sponsorships that may include benefits delivered through Regional Events. Both the OWASP Foundation and Regional Event Teams will make a best case effort to alwasy ensure each partners' satisfaction with their sponsorship. In those cases where a Corporate Sponsor selects a Regional Event for their exhibition benefit, Regional Event Teams' revenue, for internal accounting practices, shall be increased according to the following:
+From time to time the OWASP Foundation may offer "bundled" sponsorships that may include benefits delivered through Regional Events. Both the OWASP Foundation and Regional Event Teams will make a best case effort to always ensure each partners' satisfaction with their sponsorship. In those cases where a Corporate Sponsor selects a Regional Event for their exhibition benefit, Regional Event Teams' revenue, for internal accounting practices, shall be increased according to the following schedule:
 
 - $7,000 if the event is AppSec California
 - $5,000 for Event Revenue more than $250,000
@@ -117,7 +117,9 @@ Additionally any other Sponsor Benefits beyond the standard base Event Sponsorsh
 
 ### Ticketing
 
-Regional Event Teams are explicity prohibited from offering OWASP Membership sold separetely or bundled with any attendee service or ticket. Complimentary tickets shall be provided to Board Members and OWASP Staff to all OWASP Events. All ticketing shall be done through OWASP managed services. Each event has a revenue forecast that is built on a particular number of tickets sold at various discounts. Ticketing systems may not collect charitble gifts. The Regional Event Team will make its best effort to achieve the events' revenue forecast.
+All ticketing shall be done through OWASP managed services. Discount codes shall be provided in a reasonable timeframe for event teams to affect those discounts. Each event has a revenue forecast that is built on a particular number of tickets sold at various discounts. The Regional Event Team will make its best effort to achieve the events' revenue forecast.
+
+Both Global and Regional Event Teams are explicity prohibited from offering OWASP Membership sold separetely or bundled with any attendee service or ticket. Complimentary tickets shall be provided to Board Members and OWASP Staff to all OWASP Events. Ticketing systems may not collect charitble gifts.  
 
 
 ### Venue
