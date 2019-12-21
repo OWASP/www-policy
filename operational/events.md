@@ -66,22 +66,24 @@ Applications to host Regional Events will be evaluated on the following:
 
 ### Budget/Financials
 
-Each appliation must also include a complete budget. Budgets must be reviewed and approved by the Executive Director. The revenue forecasts will be itemized for (1) Event Registrations, (2) Training Registrations, and (3) Sponsorships.  Expese budget categories will minimally include:
+Each application must also include a complete budget. Budgets must be reviewed and approved by the Executive Director. The revenue forecasts will be itemized for (1) Event Registrations, (2) Training Registrations, and (3) Sponsorships.  Expese budget categories will minimally include:
 
-- Catering                                     
-  - Conference 
-  - Training
-  - Social Events 
-- Exposition
-- Meeting Room Rental                          
-- Trainer Fees  
-- A/V
-- Printing & Branding 
-- Accommodation 
-- Travel
-- Internet
-- Giveaways/Hard Goods
-- Marketing   
+```
+Catering                                     
+    Conference 
+    Training
+    Social Events 
+Exposition
+Meeting Room Rental                          
+Trainer Fees  
+A/V
+Printing & Branding
+Accommodation 
+Travel
+Internet
+Giveaways/Hard Goods
+Marketing   
+```
 
 For internal accounting practices, Local host chapters who comply with the terms of these policies will share 90% of OWASP event profits. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. A Regional Event Profit and Loss statement will be provided to all parties no later than 120 days following the event. Uncollected sponsorship revenue will not included in this revenue reconciliation.
 
