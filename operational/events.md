@@ -9,6 +9,16 @@ layout: full-width
 
 # Events Policy
 
+## Safe and Fun Networking
+All OWASP events must be conducted in a manner consistent with the OWASP Mission, Principles and [Code of Conduct](/www-policy/operational/code-of-conduct). To ensure a safe, consistent learning and networking experience, OWASP events shall conform to the [Conference & Event Attendee Policy](/www-policy/operational/conferences-events) and in particular its Anti-Harrassment Policies. Additionally, organizers are required to follow the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure GDPR compliance. 
+
+## Speaker/Trainer policy
+
+Training providers and Speakers for both Global AppSec and Regional Events are required to sign and adhere to the terms of the [speaker/trainer agreement](/www-policy/legal/speaker-agreement.html). An online version can be provided to Regional Event Teams upon request. Failure by Trainers or speakers to execute this agreement within seven days of the event are minimally grounds for cancellation. While the complete terms are included in the agreement it should be highlightes that:
+- Speakers do not any receive compensation for their participation
+- Travel expenses are not reimburseable for Speakers or Trainers
+
+
 ## Global AppSec Events
 
 ### Budget/Financials
@@ -110,7 +120,6 @@ Additionally any other Sponsor Benefits beyond the standard base Event Sponsorsh
 
 Regional Event Teams are explicity prohibited from offering OWASP Membership sold separetely or bundled with any attendee service or ticket. Complimentary tickets shall be provided to Board Members and OWASP Staff to all OWASP Events. All ticketing shall be done through OWASP managed services. Each event has a revenue forecast that is built on a particular number of tickets sold at various discounts. Ticketing systems may not collect charitble gifts. The Regional Event Team will make its best effort to achieve the events' revenue forecast.
 
-The Regional Event Team will ensure their event conforms to the [Conference & Event Attenee Policy](/www-policy/operational/conferences-events)
 
 ### Venue
 
@@ -144,9 +153,5 @@ Organizers Shall Not:
 - Charge any event-related expenses on their personal credit cards (personal travel expenses to the event excluded)
 - Plan a regional event where it's end date is within 30 days of a Global AppSec Event
 
-## Speaker/Trainer policy
 
-Training providers and Speakers for both Global AppSec and Regional Events are required to sign and adhere to the terms of the [speaker/trainer agreement](/www-policy/legal/speaker-agreement.html). An online version can be provided to Regional Event Teams upon request. Failure by Trainers or speakers to execute this agreement within seven days of the event are minimally grounds for cancellation. While the complete terms are included in the agreement it should be highlightes that:
-- Speakers do not any receive compensation for their participation
-- Travel expenses are not reimburseable for Speakers or Trainers
 
