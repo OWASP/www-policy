@@ -39,6 +39,10 @@ Content will be created be sources and selected by the Program Team in accordanc
 
 Content will be shared with the community when possible. OWASP will not incur additional expenses such as web casting, third party hosting sites, or video recording in order to make the content available to those that were not in attendance. 
 
+### Event Volunteers
+
+How sourced and what do they get?
+
 ***
 
 ## Regional Event Policy
