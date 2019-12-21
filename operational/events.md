@@ -10,7 +10,7 @@ layout: full-width
 # Events Policy
 
 ## Safe and Fun Networking
-All OWASP events must be conducted in a manner consistent with the OWASP Mission, Principles and [Code of Conduct](/www-policy/operational/code-of-conduct). To ensure a safe, consistent learning and networking experience, OWASP events shall conform to the [Conference & Event Attendee Policy](/www-policy/operational/conferences-events) and in particular its Anti-Harrassment Policies. Additionally, organizers are required to follow the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure GDPR compliance. 
+All OWASP events must be conducted in a manner consistent with the OWASP Mission, Principles and [Code of Conduct](/www-policy/operational/code-of-conduct). To ensure a safe, consistent learning and networking experience, OWASP events shall conform to the [Conference & Event Attendee Policy](/www-policy/operational/conferences-events) and in particular its Anti-Harrassment provisions. Additionally, organizers are required to follow the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure GDPR compliance. 
 
 ## Speaker/Trainer policy
 
@@ -18,14 +18,13 @@ Training providers and Speakers for both Global AppSec and Regional Events are r
 - Speakers do not any receive compensation for their participation
 - Travel expenses are not reimburseable for Speakers or Trainers
 
-
 ## Global AppSec Events
 
 ### Budget/Financials
 
 Budgets will be developed based on the proposals received by both vendor and venue proposals and will be presented to the Board of Directors for its approval no later than 16 months prior to the start of the conference. Once approved, the Executive Director, or their designatee, may execute instruments that contractually and financially obligate the OWASP Foundation to execute the event. 
 
-Local host chapters for internal accounting practices may share in Global AppSec event net profits up to 10% based on chapter participation. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. Profit share of 10% can be achieved by completing the following:
+Local host chapters for internal accounting practices may share in Global AppSec event net profits up to 10% based on chapter participation. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. Net profit sharing can be achieved by completing the following:
 
 - Recruiting and supervising local volunteers
 - Participating in the CfT/CfP Review Process
@@ -66,7 +65,7 @@ General Process and Highlights
 - Contracts along with finanical obligations and revenue must be managed by the OWASP Foundation
 - OWASP Events must provide a safe, and supportive environment for all attendees
 
-All OWASP Events must be approved by OWASP Foundation Staff by submitting an event description and comprehensive budget via JIRA. Regional events may not take place within 30 days of a Global AppSec Event. Regional events must be conducted in a manner consistent with the OWASP Mission, Principles and [Code of Conduct](/www-policy/operational/code-of-conduct). All regional organizers are required to follow the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure GDPR compliance. 
+All OWASP Events must be approved by OWASP Foundation Staff by submitting an event description and comprehensive budget via a process designated by the Executive Director. Regional events may not take place within 30 days of a Global AppSec Event. Regional events must be conducted in a manner consistent with the OWASP Mission, Principles and [Code of Conduct](/www-policy/operational/code-of-conduct). All regional organizers are required to follow the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure GDPR compliance. 
 
 Applications to host Regional Events will be evaluated on the following: 
 - Previous experience organizing a Regional Event
