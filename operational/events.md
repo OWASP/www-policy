@@ -1,6 +1,6 @@
 ---
 
-title: Events Policy Draft (WIP)
+title: Events Policy (Draft WIP)
 layout: full-width
 
 ---
