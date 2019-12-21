@@ -85,9 +85,9 @@ Giveaways/Hard Goods
 Marketing   
 ```
 
-For internal accounting practices, Local host chapters who comply with the terms of these policies will share 90% of OWASP event profits. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. A Regional Event Profit and Loss statement will be provided to all parties no later than 120 days following the event. Uncollected sponsorship revenue will not included in this revenue reconciliation.
+For internal accounting practices, Local host chapters who comply with the terms of these policies will share 90% of OWASP event net profits. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. A Regional Event Profit and Loss statement will be provided to all parties no later than 120 days following the event. Uncollected sponsorship revenue will not included in this revenue reconciliation.
 
-All payments will be paid in accordance with the expense policy with particular attention to the following:
+All expense reimbursements and payments will be paid in accordance with the expense policy with particular attention to the following:
 - It the responsibility of those incurring expenses to obtain pre-approval of any planned expense likely to exceed $2,500 and failure to do so may result in your reimbursement request being denied.
 - When any expenses other than airfare is expected to exceed $5,000, an invoice must be requested from the vendor so the Foundation can remit payment directly.
 - Invoices from vendors should have Net 60 terms and the OWASP Foundation will make a best effort to pay within current Service Level Agreement which the writing of this policy is 22 days. Invoices received within 30 days of when payment is required cannot be guaranteed to be paid on time.
