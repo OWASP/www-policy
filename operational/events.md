@@ -47,6 +47,8 @@ How sourced and what do they get?
 
 ## Regional Event Policy
 
+General Process and Highlights
+
 - Event Teams must apply and be approved
 - An Event Budget must be provided as part of the application process
 - If selected the Event Team must acknowledge receipt of and their agreement with these policies
