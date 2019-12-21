@@ -104,7 +104,7 @@ Additionally any other Sponsor Benefits beyond the standard base Event Sponsorsh
 
 ### Ticketing
 
-Regional Event Teams are explicity prohibited from offering OWASP Membership sold separetely or bundled with any attendee service or ticket. All ticketing shall be done through OWASP managed services. Each event has a revenue forecast that is built on a particular number of tickets sold at various discounts. Ticketing systems may not collect charitble gifts. The Regional Event Team will make its best effort to achieve the events' revenue forecast.
+Regional Event Teams are explicity prohibited from offering OWASP Membership sold separetely or bundled with any attendee service or ticket. Complimentary tickets shall be provided to Board Members and OWASP Staff to all OWASP Events. All ticketing shall be done through OWASP managed services. Each event has a revenue forecast that is built on a particular number of tickets sold at various discounts. Ticketing systems may not collect charitble gifts. The Regional Event Team will make its best effort to achieve the events' revenue forecast.
 
 The Regional Event Team will ensure their event conforms to the [Conference & Event Attenee Policy](/www-policy/operational/conferences-events)
 
