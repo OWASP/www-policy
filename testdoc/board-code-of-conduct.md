@@ -3,7 +3,8 @@
 title: Board of Directors Code of Conduct
 layout: col-document
 document: Rules of Procedure
-order:
+order: 5
+tags:rules
 ---
 
 ## Board of Directors Code of Conduct
