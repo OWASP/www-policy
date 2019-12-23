@@ -5,9 +5,9 @@ layout: full-width
 version: draft
 
 ---
-Draft
+
 <div class="alert">
-    <p>This is a DRAFT or substainually modified existing policy currently in an open review period. Please <a href='https://owasp.wufoo.com/forms/q119kwb0hp2nqz/def/field3={{ page.title }}'>respond with your comments</a> and inputs regarding this page or directly submit a pull request.</p>
+    <p>This is a DRAFT or SUBSTAINUALLY MODIFIED existing policy currently in an open review period. Please <a href='https://owasp.wufoo.com/forms/q119kwb0hp2nqz/def/field3={{ page.title }}'>respond with your comments</a> and inputs regarding this page or directly submit a pull request.</p>
 </div>
           
 
@@ -15,7 +15,7 @@ Draft
 
 ## Overview
 
-In the course of fulfilling the mission and business interests of the OWASP Foundation, members, staff, and partners will incur expenses that may be reimbursable. Generally, the policy of the Foundation is that all expenses should be "fair and reasonable" as measured by leadership, the community, and the standards for non-profit foundations.
+In the course of fulfilling the mission and business interests of the OWASP Foundation, members, staff, and partners will incur expenses that may be reimbursable. Generally, the policy of the Foundation is that all expenses should be "fair and reasonable" as measured by leadership, the community, and the standards for non-profit foundations. Expense categories are defined by the annual budget process and funds are approved and disbursed within those budgetary limits.
 
 ## Fair and Reasonable Expenses
 Generally, the policy of the Foundation is that all expenses should be "fair and reasonable" as measured by leadership, the community, and the standards for non-profit foundations. Historical approval of expenses does not obligate the Foundation to appoval like expenses in the future. Those items which are considered fair and reasonable include:
