@@ -3,6 +3,7 @@
 title:  Chapter Rules of Procedure (Draft WIP)
 layout: col-document
 document: Rules of Procedure
+order:
 
 
 ---

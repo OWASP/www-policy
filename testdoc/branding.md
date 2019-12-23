@@ -3,6 +3,7 @@
 title: Branding Guidelines
 layout: col-document
 document: Rules of Procedure
+order:
 ---
 ## Branding
 
