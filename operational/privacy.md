@@ -5,6 +5,8 @@ layout: full-width
 
 ---
 
+#Privacy Policy
+
 ## Summary
 
 **Disclaimer: This summary is not a part of the Privacy Policy and is not a legal document. It is simply a handy reference for understanding the full Privacy Policy. Think of it as the user-friendly interface to our Privacy Policy.**
