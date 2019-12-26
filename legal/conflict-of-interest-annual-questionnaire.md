@@ -1,9 +1,12 @@
 ---
 
 title: Conflict of Interest Annual Questionnaire
-layout: full-width
+layout: col-document
+document: Contract and Agreement Templates
+tags: Contract and Agreement Templates
 
 ---
+
 
 ## Annual Conflict of Interest Questionnaire:
 
@@ -16,7 +19,7 @@ layout: full-width
 
 4. Additional notes: 
 
-I have received the OWASP Foundation Conflict of Interest Policy, have read and understand  the policy, and agree to comply with the policy.  I also understand that the Foundation is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
+I have received the OWASP Foundation Conflict of Interest Policy, have read and understand the policy, and agree to comply with the policy.  I also understand that the Foundation is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
 
 Signature ___________________________
 Date: _______________________________
