@@ -1,6 +1,6 @@
 ---
 
-title: Employee Manual Annual Questionnaire
+title: Employee Manual Annual Acknowledgement
 layout: col-document
 document: Contract and Agreement Templates
 tags: Contract and Agreement Templates
@@ -8,7 +8,7 @@ tags: Contract and Agreement Templates
 ---
 
 
-## Annual Employee Manual Acknowledgment Questionnaire:
+## Employee Manual Annual Acknowledgment:
 
 ```
 Name of employee:
