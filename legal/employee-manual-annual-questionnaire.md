@@ -1,9 +1,7 @@
 ---
 
 title: Employee Manual Annual Acknowledgement
-layout: col-document
-document: Contract and Agreement Templates
-tags: Contract and Agreement Templates
+layout: col-sidebar
 
 ---
 
