@@ -7,7 +7,7 @@ tags: Rules of Procedure
 
 ---
 
-{% include deprecated-notice.html %}
+{% include deprecated.html %}
 
 
 Below you will find a series of guidelines aimed at assisting OWASP Project Leaders with OWASP Project spending related questions. In order to avoid any problems or misunderstandings in the future, we have developed these guidelines to provide clear expectations of how OWASP Projects should spend project funds, and what are appropriate project expenses.
