@@ -1,9 +1,7 @@
 ---
 
 title: Local Event Partnership Memo of Understanding
-layout: col-document
-document: Contract and Agreement Templates
-tags: Contract and Agreement Templates
+layout: col-sidebar
 
 ---
 
