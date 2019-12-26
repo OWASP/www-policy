@@ -1,8 +1,7 @@
 ---
 
 title: OWASP Speaker Agreementlayout: col-document
-document: Contract and Agreement Templates
-tags: Contract and Agreement Templates
+layout: col-sidebar
 
 ---
 
