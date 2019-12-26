@@ -27,8 +27,7 @@ Handbooks to help Chapter, Project, and Event Leaders in their volunteer work.
 {% endfor %}
 </ul>
 
-## Legal
-Contract and Agreement Templates
+## Contract and Agreement Templates
 {% assign pages = site.pages | sort: 'title' | limit: 1000 %}
 <ul>
 {% for page in pages %}
