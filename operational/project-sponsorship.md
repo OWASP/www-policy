@@ -7,7 +7,7 @@ tags: Rules of Procedure
 
 ---
 
-{% include deprecated-notice.html %}
+{% include deprecated.html %}
 
 ## Project Sponsorship
 
