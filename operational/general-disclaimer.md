@@ -1,16 +1,17 @@
 ---
 
 title: General Disclaimer
-layout: full-width
+layout: col-document
+document: Rules of Procedure
+tags: Rules of Procedure
 
 ---
-## General Disclaimer
 
 ### OWASP Makes No Gaurantee of Validity
 
 OWASP is an online open-content collaborative project, that is, a voluntary association of individuals and groups who are developing a common resource of human knowledge. The structure of the project allows anyone with an Internet connection and World Wide Web browser to alter its content.  Please be advised that nothing found here has necessarily been reviewed by professionals with the expertise required to provide you with complete, accurate or reliable information.
 
-That is not to say that you will not find valuable and accurate information in OWASP; much of the time you will.  However, OWASP cannot guarantee the validity of the information found here.  The content of any given article may recently have been changed, vandalized or altered by someone whose opinion does not correspond with the state of knowledge in the relevant fields.  
+That is not to say that you will not find valuable and accurate information in OWASP; much of the time you will.  However, OWASP cannot guarantee the validity of the information found here.  The content of any given article may recently have been changed, vandalized or altered by someone whose opinion does not correspond with the state of knowledge in the relevant fields.
 
 #### No formal peer review
 We are working on ways to select and highlight reliable versions of articles.  Our active community of editors uses tools to monitor new and changing content.  However, OWASP is not uniformly peer reviewed; while readers may correct errors or engage in casual peer review, they have no legal duty to do so and thus all information read here is without any implied warranty of fitness for any purpose or use whatsoever.  Even articles that have been vetted by informal peer review or featured article processes may later have been edited inappropriately, just before you view them.
@@ -22,7 +23,7 @@ Please make sure that you understand that the information provided here is being
 
 There is "no agreement or understanding between you and OWASP" regarding your use or modification of this information beyond the Creative Commons Attribution-ShareAlike 2.5; neither is anyone at OWASP responsible should someone change, edit, modify or remove any information that you may post on OWASP or any of its associated projects.
 
-### Trademarks 
+### Trademarks
 Any of the trademarks, service marks, collective marks, design rights, personality rights or similar rights that are mentioned, used or cited in the articles of the OWASP are the property of their respective owners. Their use here does not imply that you may use them for any other purpose other than for the same or a similar informational use as contemplated by the original authors of these OWASP articles under the  Creative Commons Attribution-ShareAlike 2.5 licensing scheme. Unless otherwise stated OWASP sites are neither endorsed nor affiliated with any of the holders of any such rights and as such OWASP can not grant any rights to use any otherwise protected materials. Your use of any such or similar incorporeal property is at your own risk. For use of the OWASP brand, please refer to the OWASP brand usage rules.
 
 ### Jurisdiction and legality of content

@@ -1,11 +1,13 @@
 ---
 
 title:  Chapter Rules of Procedure (Draft WIP)
-layout: full-width
+layout: col-document
+document: Rules of Procedure
+tags: Rules of Procedure
 
 ---
 
-# Chapter Rules of Procedure
+{% include draft-notice.html %}
 
 # How to Start a Chapter
 
@@ -35,7 +37,7 @@ The OWASP Foundation no-longer grants country-wide chapters. Historically a chap
 ## OWASP Website
 Maintaining the website is the most basic aspect of promoting an OWASP chapter. This is the place where people will be directed when looking at our list of meeting locations by geographic region: and one of the main ways for prospective members or sponsors to find your chapter.
 
-Part of holding free and open chapter meetings is making the information about your meetings (time and place) freely available and accessible. Therefore it is imperative that  the information is posted on your wiki page as soon as the meeting is set.  People must not be required to pay or sign up for a service to learn about your meetings. 
+Part of holding free and open chapter meetings is making the information about your meetings (time and place) freely available and accessible. Therefore it is imperative that  the information is posted on your wiki page as soon as the meeting is set.  People must not be required to pay or sign up for a service to learn about your meetings.
 
 The local chapter wiki page must include at least:
 * Information about the chapter leadership, including best way to contact.
@@ -49,7 +51,7 @@ If you have not already created a user account on our wiki site to edit your cha
 
 To ensure uniformity and ease of reading on the wiki, OWASP has a set of guidelines for designing your wiki page.  Tips on wiki markup/editing can be found here: http://www.mediawiki.org/wiki/Help:Editing_pages#Edit_Summary and http://www.mediawiki.org/wiki/Help:FormattingYou can copy and paste the wiki code for the chapter template .
  
-# Governance 
+# Governance
 
 ## Chapter Leadership
 Chapter leaders serve as the main point of contact for the local chapter and are responsible for ensuring that the local chapter fulfills its requirements, including planning at least two meetings per year.
@@ -69,7 +71,7 @@ In the course of time, a leader may want to move on and leave his/her role. Whil
 
 Please let us know of your wish to leave the job and let us help you in finding a successor.
 
-When a new leader is to be added to your team or a current leader is leaving you must fill out the change of leadership form to complete the activity.  Chapter leadership is an agreement with the OWASP Foundation to take on responsibilities as well as privileges; records of who is in what role need to be up to date.   
+When a new leader is to be added to your team or a current leader is leaving you must fill out the change of leadership form to complete the activity.  Chapter leadership is an agreement with the OWASP Foundation to take on responsibilities as well as privileges; records of who is in what role need to be up to date.
 
 ## Chapter Elections
 It is always advisable to avoid elections. Running a chapter is a hard, volunteer job and sharing the load is always advisable. Since the chapter leader role structure is flexible, choosing the defined  chapter structure (such as a board of leaders who work by consensus) may help to avoid elections. However, if there is a lack of agreement between chapter members on structure, roles or any other issues an election for a role or a poll on any other subject may be required:

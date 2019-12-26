@@ -1,7 +1,9 @@
 ---
 
 title: Conference & Event Attendee
-layout: full-width
+layout: col-document
+document: Rules of Procedure
+tags: Rules of Procedure
 
 ---
 

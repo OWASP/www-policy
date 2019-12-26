@@ -1,11 +1,13 @@
 ---
 
 title: Conflict of Interest Policy
-layout: full-width
+layout: col-document
+document: Rules of Procedure
+tags: Rules of Procedure
 
 ---
 
-# OWASP Conflict of Interest Policy
+{% include draft-notice.html %}
  
 ## ARTICLE I
 ### PURPOSES
@@ -24,7 +26,7 @@ In connection with any actual or possible conflict of interest, an interested pe
  
 Any director, principal officer, member of a committee with governing board delegated powers, or employee who has a direct or indirect financial interest, as defined below, is an interested person.
            
-**2.2 Financial Interest** 
+**2.2 Financial Interest**
 
 A person has a financial interest if the person has, directly or indirectly, through business, investment, or family:
 1. An ownership or investment interest in any entity with which the Foundation  has a transaction or arrangement,
@@ -41,7 +43,7 @@ In connection with any actual or possible conflict of interest, an interested pe
 
 **3.2 Third Party Disclosure**
 
-Board members, employees, community members, or other third parties are encouraged to notify the board any any undisclosed financial interest or other conflict of interest by a board member or employee including material facts supporting the conflict.  
+Board members, employees, community members, or other third parties are encouraged to notify the board any any undisclosed financial interest or other conflict of interest by a board member or employee including material facts supporting the conflict.
 
 **3.3 Determining Whether a Conflict of Interest Exists**
 
@@ -105,7 +107,7 @@ When conducting the periodic reviews as provided for in Article VII, the Foundat
 I do hereby certify that the above stated Conflict of Interest Policy and Agreement for the OWASP  Foundation  were approved and adopted by the board of directors on insert date  and constitute a complete copy of the Conflict of Interest Policy of the Foundation.
  
 Secretary_______________
-Date: ________________ 
+Date: ________________
 
 ```
 
@@ -119,7 +121,7 @@ Date: ________________
 
 3. Disclosures of entities, Foundation board members, and or employee that you have an actual or perceived conflict of interest with due to  financial interests directly or indirectly, through business, investment, or family:
 
-4. Additional notes: 
+4. Additional notes:
 
 I have received the OWASP Foundation Conflict of Interest Policy, have read and understand  the policy, and agree to comply with the policy.  I also understand that the Foundation is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
 

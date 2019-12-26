@@ -1,12 +1,17 @@
 ---
 
 title: Branding Guidelines
-layout: full-width
+layout: col-document
+document: Rules of Procedure
+tags: Rules of Procedure
 
 ---
+
+{% include draft-notice.html %}
+
 ## Branding
 
-On this page, you will find the most current marketing materials and brand guidelines used by the OWASP Foundation. We have everything from logos and business cards to banner stand and brochure designs all for your use. 
+On this page, you will find the most current marketing materials and brand guidelines used by the OWASP Foundation. We have everything from logos and business cards to banner stand and brochure designs all for your use.
 
 ###  Guidelines
 
@@ -25,7 +30,7 @@ The OWASP brand is the property of the OWASP Foundation. The right to use the na
 
 ### Customization
 
-Customization of OWASP identity graphics is a way to reflect individual characteristics of conferences, events, chapters and projects. The branding guidelines allow for minimal customization of identity graphics. Please see the Identity section for details. A color palette is provided in the Identity Standards Quick Reference Guide. Background images, such as a country flag to identify a local chapter, may be acceptable as long as it does not obscure the branded identity. All customized identity graphics, including logos, banners, avatars, cover photos, presentation templates, etc. must follow these guidelines. 
+Customization of OWASP identity graphics is a way to reflect individual characteristics of conferences, events, chapters and projects. The branding guidelines allow for minimal customization of identity graphics. Please see the Identity section for details. A color palette is provided in the Identity Standards Quick Reference Guide. Background images, such as a country flag to identify a local chapter, may be acceptable as long as it does not obscure the branded identity. All customized identity graphics, including logos, banners, avatars, cover photos, presentation templates, etc. must follow these guidelines.
 
 Questionable practices include changing the circle to a square, altering the angle of the wasp feature, using non-branded wasp images, copyrighted images and any other treatment that alters or obscures the OWASP brand. The OWASP Foundation reserves the right to request changes to any graphic that does not comply with these rules.
 
@@ -66,13 +71,13 @@ The Following items are outdated and are in process of redesign
 The Following items are outdated and are in process of redesign
 - About Us Flyer
 - Corporate and Individual Membership Flyer
-- New Member Welcome Flyer ### 
+- New Member Welcome Flyer ###
 - ZAP Flyer
 - E-Brochure
 
 ### Project Class and Type Indicators
 
-The templates and icons below are the files used for our OWASP Projects. Here you will find icons that you can place on your wiki project page to let viewers know what type of project they are looking at, and what stage the project is in. Click on an image to view information and download the file. 
+The templates and icons below are the files used for our OWASP Projects. Here you will find icons that you can place on your wiki project page to let viewers know what type of project they are looking at, and what stage the project is in. Click on an image to view information and download the file.
 
  [Under development for new site]
 

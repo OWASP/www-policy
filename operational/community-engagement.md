@@ -1,9 +1,13 @@
 ---
 
 title: Community Engagement
-layout: full-width
+layout: col-document
+document: Rules of Procedure
+tags: Rules of Procedure
 
 ---
+
+{% include deprecated.html %}
 
 ## Community Engagement
 The purpose of this page is to outline how OWASP Community Leaders can request funding to support the mission of OWASP. If you can't find what you are looking for, please [Contact Us](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72).
@@ -20,7 +24,7 @@ Successful global outreach and community support are critical activities that su
 
 ## Types of Activity Supported
 
-The Board of Directors approved a motion at the October 14, 2015 board meeting that any request for funding that has been approved for one chapter or project, can be considered an acceptable expense for all chapters or projects. If you have an account balance which covers that expense in full, then the item should be considered pre-approved for spending. 
+The Board of Directors approved a motion at the October 14, 2015 board meeting that any request for funding that has been approved for one chapter or project, can be considered an acceptable expense for all chapters or projects. If you have an account balance which covers that expense in full, then the item should be considered pre-approved for spending.
 
 See '''[https://www.owasp.org/index.php/Community_Engagement_-_Payments Community Engagement Payments]''' for a list of previously approved expenses. If you do not see a comparable expense or expense category or aren't sure your expense is pre-approved, you must submit a request for approval via the [Request Funding Pre-Approval](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/14) form before requesting reimbursement.
 
@@ -60,7 +64,7 @@ Merchandise
 
 The following rules apply for community engagement funding:
 1. Funding opportunities are available to chapter or project leaders and active OWASP members.
-2. All funding requests MUST be pre-approved. This is necessary for global budgeting. 
+2. All funding requests MUST be pre-approved. This is necessary for global budgeting.
 3. Requested funds will first be deducted from the local chapter or project budget.
 4. A chapter or project without sufficient funds may request funding from the foundation "Community Engagement" budget.  These funds are available on a first come-first serve basis.
 5. he standard funding thresholds are listed above based on the type of activity.

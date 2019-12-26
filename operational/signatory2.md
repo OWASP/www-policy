@@ -1,11 +1,13 @@
 ---
 
 title: Signatory Version 2 (WIP)
-layout: full-width
+layout: col-document
+document: Rules of Procedure
+tags: Rules of Procedure
 
 ---
 
-**DRAFT**
+{% include draft-notice.html %}
 
 ## Financial and Spending Authority
 

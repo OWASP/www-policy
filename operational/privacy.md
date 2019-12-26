@@ -1,11 +1,13 @@
 ---
 
 title: Privacy Policy
-layout: full-width
+layout: col-document
+document: Rules of Procedure
+tags: Rules of Procedure
 
 ---
 
-#Privacy Policy
+{% include draft-notice.html %}
 
 ## Summary
 
@@ -156,7 +158,7 @@ We use this location information to make your experience with the OWASP Sites sa
 ### When May We Share Your Information?
 With Your Permission
 - We may share your information when you give us specific permission to do so, for legal reasons, and in the other circumstances described below.
-- We share your information for a particular purpose, if you agree. 
+- We share your information for a particular purpose, if you agree.
 
 #### For Legal Reasons
 We will disclose your information in response to an official legal process only if we believe it to be legally valid. We will notify you of such requests when possible.
@@ -181,7 +183,7 @@ We, or particular users with certain administrative rights as described below, m
 
 OWASP Sites are collaborative, with users writing most of the policies and selecting from amongst themselves people to hold certain administrative rights. These rights may include access to limited amounts of otherwise nonpublic information about recent contributions and activity by other users. They use this access to help protect against vandalism and abuse, fight harassment of other users, and generally try to minimize disruptive behavior on the OWASP Sites. These various user-selected administrative groups have their own privacy and confidentiality guidelines, but all such groups are supposed to agree to follow our Access to Nonpublic Information Policy. These user-selected administrative groups are accountable to other users through checks and balances: users are selected through a community-driven process and overseen by their peers through a logged history of their actions. However, the legal names of these users are not known to the OWASP Foundation.
 
-We hope that this never comes up, but we may disclose your Personal Information if we believe that it's reasonably necessary to prevent imminent and serious bodily harm or death to a person, or to protect our organization, employees, contractors, users, or the public. We may also disclose your Personal Information if we reasonably believe it necessary to detect, prevent, or otherwise assess and address potential spam, malware, fraud, abuse, unlawful activity, and security or technical concerns. 
+We hope that this never comes up, but we may disclose your Personal Information if we believe that it's reasonably necessary to prevent imminent and serious bodily harm or death to a person, or to protect our organization, employees, contractors, users, or the public. We may also disclose your Personal Information if we reasonably believe it necessary to detect, prevent, or otherwise assess and address potential spam, malware, fraud, abuse, unlawful activity, and security or technical concerns.
 
 #### To Our Service Providers
 As hard as we may try, we can't do it all. So sometimes we use third-party service providers or contractors who help run or improve the OWASP Sites for you and other users. We give access to your Personal Information to these providers or contractors as needed to perform their services for us or to use their tools and services. We put requirements, such as confidentiality agreements, in place to help ensure that these service providers treat your information consistently with, and no less protective of your privacy than, the principles of this Policy. Our primary service providers, who may change without prior notice include, GitHub, SalesForce, Atlassian, Expensify, RegOnline, Eventbrite, Paypal, and Stripe.
@@ -196,7 +198,7 @@ The software that powers much of the functionality of OWASP Sites depends on the
 
 Similarly, we share non-Personal Information or aggregated information with researchers, scholars, academics, and other interested third parties who wish to study the OWASP Sites. Sharing this information helps them understand usage, viewing, and demographics statistics and patterns. They then can share their findings with us and our users so that we can all better understand and improve the OWASP Sites.
 
-When we give access to personal information to third-party developers or researchers, we put requirements, such as reasonable technical and contractual protections, in place to help ensure that these service providers treat your information consistently with the principles of this Policy and in accordance with our instructions. If these developers or researchers later publish their work or findings, we ask that they not disclose your personal information. Please note that, despite the obligations we impose on developers and researchers, we cannot guarantee that they will abide by our agreement, nor do we guarantee that we will regularly screen or audit their projects. 
+When we give access to personal information to third-party developers or researchers, we put requirements, such as reasonable technical and contractual protections, in place to help ensure that these service providers treat your information consistently with the principles of this Policy and in accordance with our instructions. If these developers or researchers later publish their work or findings, we ask that they not disclose your personal information. Please note that, despite the obligations we impose on developers and researchers, we cannot guarantee that they will abide by our agreement, nor do we guarantee that we will regularly screen or audit their projects.
 
 #### Because You Made It Public
 Any information you post publicly on the OWASP Sites is just that – public. For example, if you put your mailing address on any page, that is public, and not protected by this Policy. Please think carefully about your desired level of anonymity before you disclose Personal Information on your user page or elsewhere.

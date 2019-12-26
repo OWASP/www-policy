@@ -2,8 +2,12 @@
 
 title: Signatory
 layout: full-width
+layout: col-document
+document: Rules of Procedure
+tags: Rules of Procedure
 
 ---
+
 ## Signatory
 
 The OWASP Foundation will use the following policy when approving financial transactions or entering into contracts or other agreements requiring a financial commitment by the Foundation, to ensure financial transparency and achieve operational independence from board members:

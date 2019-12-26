@@ -1,7 +1,9 @@
 ---
 
 title: Board of Directors Code of Conduct
-layout: full-width
+layout: col-document
+document: Rules of Procedure
+tags: Rules of Procedure
 
 ---
 
@@ -18,7 +20,7 @@ All members of the Board of Directors, including those serving as Chairman and V
 - Participate in scheduled activities to increase team effectiveness and review Board procedures, such as this Code of Conduct
 
 ## Board Conduct with One Another
-- Practice civility and respect in discussions and debate - The dignity, style, values and opinions of each Board Member shall be respected. Difficult questions, tough challenges to a particular point of view, and criticism of ideas and information are legitimate elements of a free democracy in action. This does not allow, however, Board Members to make belligerent comments. 
+- Practice civility and respect in discussions and debate - The dignity, style, values and opinions of each Board Member shall be respected. Difficult questions, tough challenges to a particular point of view, and criticism of ideas and information are legitimate elements of a free democracy in action. This does not allow, however, Board Members to make belligerent comments.
 - Honor the role of the Chair in maintaining order. It is the responsibility of the Chair to keep the comments of Board Members on track during public meetings. Board Members should honor efforts by the Chair to focus discussion on current agenda items. If there is disagreement about the agenda or the Chair’s actions, those objections should be voiced politely and with reason.
 - Avoid personal comments that could offend other Board Members.
 - Demonstrate effective problem-solving approaches. Board Members have a public stage to show how individuals with disparate and differing points of view can find common ground and seek a compromise that benefits the community as a whole.

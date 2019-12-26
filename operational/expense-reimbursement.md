@@ -1,17 +1,13 @@
 ---
 
 title: Expense Policy (Draft WIP)
-layout: full-width
-version: draft
+layout: col-document
+document: Rules of Procedure
+tags: Rules of Procedure
 
 ---
 
-<div class="alert">
-    <p>This is a DRAFT or SUBSTAINUALLY MODIFIED existing policy currently in an open review period. Please <a href='https://owasp.wufoo.com/forms/q119kwb0hp2nqz/def/field3={{ page.title }}'>respond with your comments</a> and inputs regarding this page or directly submit a pull request.</p>
-</div>
-          
-
-# Expense Policy
+{% include draft-notice.html %}
 
 ## Overview
 
@@ -60,7 +56,7 @@ Capital asset purchases for chapters and proejcts is strongly discouraged and if
 
 ## OWASP Project Contracting
 
-All OWASP Projects are started with the understanding that they will be volunteer run, and they must remain volunteer run. 
+All OWASP Projects are started with the understanding that they will be volunteer run, and they must remain volunteer run.
 
 In the event that a project’s Leaders decide they would like to hire a contractor to work on a particular aspect of the project, for instance user interface design, then the Project Leaders must manage the recruitment, contracting, and payment on a task/work assignment basis. Contractors must be paid upon satisfactory completion of the task/work assignment and execute a completed [OWASP Foundation Consulting Agreement](/www-policy/legal/contractor-template).
 
