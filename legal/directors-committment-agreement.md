@@ -1,10 +1,11 @@
 ---
 
-layout: full-width
 title: Board of Directors Committment Agreement
+layout: col-document
+document: Contract and Agreement Templates
+tags: Contract and Agreement Templates
 
 ---
-## Board of Directors Committment Agreement
 
 All Global Foundation Board Members must read the following and acknowledge completion by signing document (below) by Jan 1. New board members to sign by January (following their election), and subject to disciplinary action if not completed by February 1. Board members will not be allowed to participate in Board votes until acknowledgement is signed.
 
