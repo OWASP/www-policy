@@ -1,10 +1,11 @@
 ---
 
-layout: full-width
-title: OWASP Speaker Agreement
+title: OWASP Speaker Agreementlayout: col-document
+document: Contract and Agreement Templates
+tags: Contract and Agreement Templates
 
 ---
-## OWASP Speaker Agreement
+
 V2019-11 
  
 **PRESENTER AGREEMENT & RELEASE**
