@@ -1,7 +1,9 @@
 ---
 
-title: Whistleblower & Anti-Retaliation
-layout: full-width
+title: Whistleblower & Anti-Retaliation Policy
+layout: col-document
+document: Rules of Procedure
+tags: Rules of Procedure
 
 ---
 
@@ -10,10 +12,10 @@ layout: full-width
 The OWASP Foundation requires board members, employees, and volunteers to observe high standards of business and personal ethics in the conduct of their duties and responsibilities. As employees and representatives of the OWASP Foundation, we must practice honesty and integrity in fulfilling our responsibilities and comply with all applicable laws and regulations. The purpose of this policy is to encourage any concerned parties to come forward with credible information on illegal practices or violations of adopted policies of the organization. The policy specifies that the organization will protect the individual from retaliation and identifies the appropriate procedure(s) for reporting these issues.
  
 ### I. Reporting Responsibility
-This Whistleblower Policy is intended to encourage and enable employees and others to raise serious concerns internally so that the OWASP Foundation can address and correct inappropriate conduct and actions. It is the responsibility of all board members, employees and volunteers to report concerns about violations of the OWASP Foundation’s code of ethics or suspected violations of law or regulations that govern the OWASP Foundation’s operations. 
+This Whistleblower Policy is intended to encourage and enable employees and others to raise serious concerns internally so that the OWASP Foundation can address and correct inappropriate conduct and actions. It is the responsibility of all board members, employees and volunteers to report concerns about violations of the OWASP Foundation’s code of ethics or suspected violations of law or regulations that govern the OWASP Foundation’s operations.
  
 ### II. No Retaliation
-It is contrary to the values of the OWASP Foundation for anyone to retaliate against any board member, employee, or volunteer who in good faith reports an ethics violation, or a suspected violation of law, such as a complaint of discrimination, or suspected fraud, or suspected violation of any regulation governing the operations of the OWASP Foundation. Anyone who retaliates against someone who has reported a violation in good faith is subject to discipline up to and including termination of employment, removal from office, and revocation of membership. 
+It is contrary to the values of the OWASP Foundation for anyone to retaliate against any board member, employee, or volunteer who in good faith reports an ethics violation, or a suspected violation of law, such as a complaint of discrimination, or suspected fraud, or suspected violation of any regulation governing the operations of the OWASP Foundation. Anyone who retaliates against someone who has reported a violation in good faith is subject to discipline up to and including termination of employment, removal from office, and revocation of membership.
  
 ### III. Initiating an Informal Complaint
 
@@ -41,7 +43,7 @@ Once the OWASP Foundation Board of Directors receives the final report, actor co
 ### IX. Compliance Officer
 The OWASP Foundation’s Compliance Officer is responsible for ensuring that all complaints about unethical or illegal conduct are investigated and resolved. The Compliance Officer will advise the Board of Directors on all complaints and their resolution and will report at least annually on any compliance activity relating to accounting or alleged financial improprieties. The Compliance Officer is empowered to conduct their investigations in isolation of the Board in order to maintain independence, but are free to involve members of the Board as necessary.  It is solely the Compliance Officer’s charge to determine whether or not a complaint can be considered valid for investigation though any individual may submit a complaint as noted above.
 
-The Compliance Officer shall immediately notify the Board of Directors and Executive Director of any concerns or complaint regarding corporate accounting practices, internal controls or auditing and work with the committee until the matter is resolved. 
+The Compliance Officer shall immediately notify the Board of Directors and Executive Director of any concerns or complaint regarding corporate accounting practices, internal controls or auditing and work with the committee until the matter is resolved.
 
 A Compliance Officer shall be identified by the Board of Directors and approved by a unanimous vote by January 1 of each year.  A member of the OWASP Board of Directors may not also serve as the Compliance Officer during their tenure on the Board.  If the Board of Directors is not able to unanimously agree on the Compliance Officer, a neutral, third-party executive ombuds services will be contracted to serve in this role.
 
