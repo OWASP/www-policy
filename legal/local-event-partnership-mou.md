@@ -2,8 +2,8 @@
 
 title: Local Event Partnership Memo of Understanding
 layout: col-document
-document: Rules of Procedure
-tags: Rules of Procedure
+document: Contract and Agreement Templates
+tags: Contract and Agreement Templates
 
 ---
 
