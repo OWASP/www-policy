@@ -4,8 +4,7 @@ title: Events Policy (Draft WIP)
 layout: full-width
 
 ---
-
-**DRAFT**
+{% include /www-policy/draft-notice.html %}
 
 # Events Policy
 
