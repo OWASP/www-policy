@@ -5,7 +5,7 @@ layout: full-width
 
 ---
 
-{% include /www-policy/draft-notice.html %}
+{% include draft-notice.html %}
 
 # Events Policy
 
