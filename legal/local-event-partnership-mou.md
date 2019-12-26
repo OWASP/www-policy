@@ -7,8 +7,6 @@ tags: Rules of Procedure
 
 ---
 
-# Local Event Partnership Memo of Understanding
-
 This Memorandum of Understanding outlines the roles and responsibilities of a collaborative Local Event Partnership between the OWASP Foundation managed by an OWASP Champion with the Partner named below.
 
 Local Events between OWASP Chapters and other organizations provide mutually beneficial awareness and advocacy opportunities to promote secure software development techniques, tools, and projects. The OWASP Foundation is not a party of the actual organizing of this Local Event Partnership and is only responsible for the specific items outlined below.
@@ -34,7 +32,7 @@ In rare cases, the OWASP Foundation may financially support the Local Event; pro
 
 Terms outlined above only apply to the single Local Event listed below. This Memorandum of Understanding is agreed to all parties by the authorized representatives below:
 
-Form [https://owasp.wufoo.com/forms/local-event-partnership/](available on online for signatory)
+Form [available online for signatory](https://owasp.wufoo.com/forms/local-event-partnership/)
 
 v. 2019-12-26
 
