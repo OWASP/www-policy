@@ -58,6 +58,12 @@ From time to time, the OWASP Foundation will budget funds for leaders and member
 
 Capital asset purchases for chapters and proejcts is strongly discouraged and if over $250 requires pre-approval. The primary reason for this policy is the complexity of warehousing and asset tracking. Capital assets under $2,000 purchased by the Foundation will be expensed and not amortized.
 
+## OWASP Project Contracting
+
+All OWASP Projects are started with the understanding that they will be volunteer run, and they must remain volunteer run. 
+
+In the event that a project’s Leaders decide they would like to hire a contractor to work on a particular aspect of the project, for instance user interface design, then the Project Leaders must manage the recruitment, contracting, and payment on a task/work assignment basis. Contractors must be paid upon satisfactory completion of the task/work assignment and execute a completed [OWASP Foundation Consulting Agreement](/www-policy/legal/contractor-template)
+
 ## Reimbursement Process
 
 Expenses, along with receipts for reimbursement, shall be submitted through the OWASP Foundation ticketing system for processing and payment.
