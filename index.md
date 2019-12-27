@@ -41,14 +41,10 @@ Handbooks to help Chapter, Project, and Event Leaders in their volunteer work.
 - [Employee Handbook](/www-policy/employee)
 
 ## TODO
-- Donations - unrestricted, restricted and process. Being listed as a supporter
 - Contact Us (responsivness to tickets, SLA, submitting complete information, submitting accurate information)
 - Membership - terms, discounts, submitting accurate info, pricing, honorary process, peference for Foundation events (like PRoject Summits etc
-- Acknowledgements
 - Advertising
-- Local Event Policies
 - Travel Assistance Program - member, workflow, limits, 
-- Grants
 - Local Partnerships
 - Mailing Lists
 - Elections
