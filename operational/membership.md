@@ -19,9 +19,11 @@ Individual Members can check their Membership Status, renewal dates, and for aut
 
 ## Becoming an Individual Member
 
-Individuals can become a member of the OWASP Foundation by completing the [Membership Form](/membership) on our website. Applicants must provide their Country of Residence, Postal Code, Email address, name, and billing information. Members are not attached to any particular Chapter or Project but are at-large members. By submitting the Membership Form, applicants consent to receive communications from the OWASP Foundation concerning the status of membership.
+Individuals can only become a member of the OWASP Foundation by completing the [Membership Form](/membership) on our website and paying dues. Applicants must provide their Country of Residence, Postal Code, Email address, name, and billing information. Members are not attached to any particular Chapter or Project but are at-large members. By submitting the Membership Form, applicants consent to receive communications from the OWASP Foundation concerning the status of membership.
 
 Membership Dues are not prorated nor can they be cancelled once purchased. Discounted and Student Memberships are only offered to qualifying individuals. Fraudulent membership submissions will be revoked without notice for no refund. Memberships and member benefits are not transferrable.
+
+The OWASP Foundation is the exclusive grantor of OWASP Memberships. No person or entity can act as a membership agent or grant complimentary memberships except for the OWASP Board of Directors.
 
 ## Becoming a Corporate Member
 
