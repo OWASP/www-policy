@@ -7,8 +7,6 @@ tags: Rules of Procedure
 
 ---
 
-# Chapter Handbook
-
 The Chapter Handbook v.2 was last revised and approved by the Global Board of Directors in 2017. Before that it was revised by the Global Chapter Committee in December 2011. If you have questions or need help: Click Here to Contact Us
 Global Chapter Committee - the page is retired.
  
@@ -16,7 +14,7 @@ The purpose of the OWASP Chapter Handbook is to provide chapter leaders with a c
 
 # Chapter 1:  Handbook Overview
 ## The Purpose of OWASP Chapters
-OWASP Chapters exist to raise awareness of the OWASP mission, making application security visible, at the local level. The OWASP Foundation encourages anyone with an interest in furthering the OWASP mission at the local level to either get involved in their local OWASP chapter, or if one doesn’t exist, start a new OWASP chapter. Local chapter outreach is one of the most significant ways that individuals learn about the organization and become connected to the OWASP community. Therefore, enabling local chapter leaders and volunteers to not only hold meetings, but also contribute to projects, organize training and events, and find new ways to evangelize about application security in their city or region becomes a key to the success and growth of the much larger global organization.
+OWASP Chapters exist to raise awareness of the OWASP mission, making application security visible, at the local level. The OWASP Foundation encourages anyone with an interest in furthering the OWASP mission at the local level to either get involved in their local OWASP chapter, or if one doesn't exist, start a new OWASP chapter. Local chapter outreach is one of the most significant ways that individuals learn about the organization and become connected to the OWASP community. Therefore, enabling local chapter leaders and volunteers to not only hold meetings, but also contribute to projects, organize training and events, and find new ways to evangelize about application security in their city or region becomes a key to the success and growth of the much larger global organization.
  
 # Chapter 2:  Mandatory Chapter Rules
 
@@ -26,18 +24,18 @@ Chapter meetings must be free and open to anyone for everyone to attend, regardl
 ## Hold a minimum of 4 chapter meetings or events each year
 There are a variety of meeting "formats" or events that may be used to fulfill this requirement.  Most chapters host a series of in-person meetings with 1-3 talks about security and time to network. Successful chapters usually supplement these types of meetings with specialty events like virtual meetings, social hours, hackathons, study groups, and contests like capture the flag.  Chapters that represent an entire state, region, or country usually host a smaller number of larger events in various locations throughout their geographic range. Possibilities for meeting formats and events are are nearly limitless.
  
-## Give official notice of the wiki, chapter mailing list, and OWASP Calendar
-Chapter meetings must be posted on the Chapter’s page on the OWASP wiki and a meeting announcement must be sent out to the OWASP mailing list [insert discourse pg]) to notify the OWASP community of each upcoming meeting. Also, the meeting must be listed on the OWASP Global Events Calendar. All chapter social media accounts must be linked on the wiki page. If you are using MeetUp chapter leaders should consider joining the Foundation’s MeetUp pro account to take advantage of the ability to simply update the MeetUp page and have your information mirrored on the OWASP Calendar and your wiki page (Available in late 2017).
+## Give official notice on the website and chapter mailing list
+Chapter meetings must be posted on the Chapter's page on the OWASP website and a meeting announcement must be sent out to the OWASP mailing list [insert discourse pg]) to notify the OWASP community of each upcoming meeting. Also, the meeting must be listed on the OWASP Global Events Calendar. All chapter social media accounts must be linked on the website page. If you are using MeetUp chapter leaders should consider joining the Foundation's MeetUp pro account to take advantage of the ability to simply update the MeetUp page and have your information mirrored on the OWASP Calendar and your website page (Available in late 2017).
  
 ## Abide by OWASP principles and code of ethics
-The OWASP Core Purpose, Values, Principles, and Code of Ethics are posted on the About OWASP wiki page.
+The OWASP Core Purpose, Values, Principles, and Code of Ethics are posted on the About OWASP website page.
 Breaches of the Code of Ethics may result in the Foundation taking disciplinary action, including replacing chapter leadership or revoking membership.
  
-## Protect the privacy of the chapter’s local contacts
+## Protect the privacy of the chapter's local contacts
 The privacy of chapter members and meeting attendees must be protected at all times. You should not disclose names, email addresses, or other identifying information about OWASP members or meeting attendees. Only aggregate statistics can be referenced. Sponsors should not have access to member lists; however, they may ask attendees to share contact information voluntarily, for example via submitting business cards voluntarily for a raffle.
  
 ## Maintain vendor neutrality (act independently)
-In order to preserve OWASP’s non-profit status and open, non-commercial principles it is important that no commercially-oriented "sales pitch" talks are given at OWASP events, be they chapter meetings or conferences. Such talks are not only against OWASP principles, they also blur the line between OWASP and commercial entities, thus diluting the OWASP brand name and agnostic status globally.
+In order to preserve OWASP's non-profit status and open, non-commercial principles it is important that no commercially-oriented "sales pitch" talks are given at OWASP events, be they chapter meetings or conferences. Such talks are not only against OWASP principles, they also blur the line between OWASP and commercial entities, thus diluting the OWASP brand name and agnostic status globally.
 
 To avoid sales pitches please adhere to the following guidelines:
 - Limit discussion of meeting sponsors to 5 minutes at either the beginning or end of each chapter meeting.
@@ -47,19 +45,19 @@ Anybody that observes chapter leaders that are not following these basic rules i
 
 ## Spend any Chapter funds in accordance with OWASP goals, code of ethics and principles
 Chapter funds should be used for your chapter and must be spent in line with the OWASP Foundation goals, principles, and code of ethics. Accordingly, chapter finances should be handled in a transparent manner. OWASP defines transparency as:
-- Keeping a public record of all requests for funding, who proposed the request, relevant discussions, votes around funding, and request approval/denial in a publicly accessible location.  We suggest on your wiki page.
+- Keeping a public record of all requests for funding, who proposed the request, relevant discussions, votes around funding, and request approval/denial in a publicly accessible location.  We suggest on your website page.
 - If a request for funding has been approved for one chapter or project, then it can be considered an acceptable expense for all chapters or projects which have funds to cover the expense in full.
 For more rules regarding  handling chapter funds, see section 4.7 on Handling Money.
 
 ## Chapter Oversight
-OWASP Chapters and Chapter Leaders are overseen on an operational basis by the Foundation Staff and, ultimately, the Global OWASP Board. Overall activities must comply with bylaws, policies and handbooks, and code of ethics. If the Foundation Staff or Global OWASP Board determines that an OWASP Chapter Leader has not complied with these rules, their status as an OWASP Chapter Leader may be revoked. Additionally, OWASP administrative access (including the leader’s owasp.org email address) may be immediately revoked.
+OWASP Chapters and Chapter Leaders are overseen on an operational basis by the Foundation Staff and, ultimately, the Global OWASP Board. Overall activities must comply with bylaws, policies and handbooks, and code of ethics. If the Foundation Staff or Global OWASP Board determines that an OWASP Chapter Leader has not complied with these rules, their status as an OWASP Chapter Leader may be revoked. Additionally, OWASP administrative access (including the leader's owasp.org email address) may be immediately revoked.
  
 ## Chapter Leader Perks
 We know that being a Chapter Leader is a lot of work--even when your chapter has multiple leaders.  As thanks for your contribution OWASP offers the following perks for every leader who has served for 6 months and hosted at least one event:
 - All chapter leaders can opt-in to Honorary Membership
 - All Chapter are provided with three passes for use by their leaders who have fulfilled the above requirements
 - At each Global AppSec Training event there will be 2 seats in each training event for leaders to have on a first come-first served basis.
-- Any leader who attends the in person Leader meetings can receive a special leader’s only shirt (first come-first served, limited quantities)
+- Any leader who attends the in person Leader meetings can receive a special leader's only shirt (first come-first served, limited quantities)
 
 Chapters are not mini organizations, instead they are akin to branches.  While you can develop your chapter to meet the needs of your audience and therefore have great freedom, your chapter is not an independent legal entity. Chapters cannot sign contracts, hold independent insurance, or hold funds independently of the Foundation. Chapters must abide by the code of conduct, Foundation bylaws, the Core Purpose, Core Values, and the Chapter Leader Handbook.  If any of these are contradictory please abide by the document preceding it in the above list.  If you are confused, you can contact the Community Manager through email, slack, or the contact us page.
 
@@ -70,18 +68,18 @@ The following information should be provided in an application (should be Chapte
 - List of the people that are founding the chapter. Each founding member(s) must submit:
    - Statement regarding their professional background or resume, and
    - Statement of why he or she wants to be an OWASP Leader.
-- The geographical area  city to be covered by the new chapter. Chapter names should represent the immediate city or region that is being served. It is also required that the chapter leader(s) work or live in the immediate geographical area.  (should be 50 miles)
+- The geographical area city to be covered by the new chapter. Chapter names should represent the immediate city or region that is being served. It is also required that the chapter leader(s) work or live in the immediate geographical area.  (should be 50 miles)
 - Acknowledgement that founding member(s) read, understands, and agrees to the terms of the Chapter Handbook.
 - While it is not mandatory, a good understanding of English will help with communication within the OWASP global community.
 Requests to start or restart an OWASP Chapter may be initiated through the Chapter Request form. If at any time you wish to leave your position as leader or add a new leader the same form may be used by selecting "Modify Chapter Leadership" from the drop down menu.
 
 ## New Chapter Approval Process
-After receiving the above information via the online form, an OWASP employee will give a cursory check of the above items to ensure new chapter leaders are serious and understand their commitment. Upon review of requester's credentials and resolution of any potential conflicts, the applicant can move forward as a chapter leader. A chapter wiki page and Meetup group mailing list will be set up for the new leader(s) and the chapter leader(s) will be given an OWASP email account and password to operate as the administrator of the new chapter mailing list. Additionally, every new chapter with at least 2 chapter leaders will be allocated a $500 budget to begin with.
+After receiving the above information via the online form, an OWASP employee will give a cursory check of the above items to ensure new chapter leaders are serious and understand their commitment. Upon review of requester's credentials and resolution of any potential conflicts, the applicant can move forward as a chapter leader. A chapter website page and Meetup group mailing list will be set up for the new leader(s) and the chapter leader(s) will be given an OWASP email account and password to operate as the administrator of the new chapter mailing list.
  
 ## Chapter Naming
 The format used for naming a chapter is: OWASP [Insert City, Region, or Country Name of Chapter]. For example: OWASP Austin, OWASP London, OWASP Malaysia.
 
-It is not necessary to specify your chapter is a "local" chapter, because by definition any chapter is "local". When registering your chapter name on Linkedin, Meetup, Twitter, or any other social media site this naming convention must be followed as it makes sorting and finding chapters easier. Where the Foundation owns an account with the same service, it is advisable to follow, join, or otherwise link the chapter’s account to the Foundation’s.
+It is not necessary to specify your chapter is a "local" chapter, because by definition any chapter is "local". When registering your chapter name on Linkedin, Meetup, Twitter, or any other social media site this naming convention must be followed as it makes sorting and finding chapters easier. Where the Foundation owns an account with the same service, it is advisable to follow, join, or otherwise link the chapter's account to the Foundation's.
  
 ## Geographic Area
 An OWASP chapter organizes OWASP activity in a given geographical area.(city.  A person or a group (the "founding members") can request to start a new chapter in a geographical area city not currently served by an OWASP group Chapter.
@@ -95,33 +93,33 @@ If a chapter is to cover a regional or national area, there should be a plan in 
 ## OWASP.org Email Accounts
 Owasp.org email accounts are provided for paid OWASP members, Chapter Leaders, and Project Leaders. If you do not have one and fall into one of these categories, submit your request through the contact us form.
 
-It is recommended that chapter leaders use their owasp.org email account for all OWASP related matters. There are a number of reasons for this including: a separation between your contributions for OWASP and other volunteer or paid work you may do, eliminating the appearance of conflict of interest (by using a work email address for OWASP matters), and protecting your personal privacy. The email address of chapter leaders is listed both on the chapter wiki page (a means of contact) as well as the administrator of the chapter mailing list. Using an owasp.org email address prevents your personal email address from being listed on a public site.
+It is recommended that chapter leaders use their owasp.org email account for all OWASP related matters. There are a number of reasons for this including: a separation between your contributions for OWASP and other volunteer or paid work you may do, eliminating the appearance of conflict of interest (by using a work email address for OWASP matters), and protecting your personal privacy. The email address of chapter leaders is listed both on the chapter website page (a means of contact) as well as the administrator of the chapter mailing list. Using an owasp.org email address prevents your personal email address from being listed on a public site.
 
 Your OWASP email account is also linked to your Google Drive account.  You can use it to access or build community documents as needed.
  
-## OWASP Wiki
+## OWASP Website
 
 Maintaining the website is the most basic aspect of promoting an OWASP chapter. This is the place where people will be directed when looking at our list of meeting locations by geographic region: and one of the main ways for prospective members or sponsors to find your chapter.
 
-Part of holding free and open chapter meetings is making the information about your meetings (time and place) freely available and accessible. Therefore it is imperative that  the information is posted on your wiki page as soon as the meeting is set.  People must not be required to pay or sign up for a service to learn about your meetings.
+Part of holding free and open chapter meetings is making the information about your meetings (time and place) freely available and accessible. Therefore it is imperative that  the information is posted on your website page as soon as the meeting is set.  People must not be required to pay or sign up for a service to learn about your meetings.
 
-The local chapter wiki page must include at least:
+The local chapter website page must include at least:
 - Information about the chapter leadership, including best way to contact.
-- Link to the chapter’s mailing list. Meetup
+- Link to the chapter's mailing list. Meetup
 - Information about future and historical events.
-- The presentations given in past meetings.  - I don’t think is being done
+- The presentations given in past meetings.  - I don't think is being done
 
-Other promotional services such as LinkedIn, Facebook, Twitter, Ning, Meetup, etc. are useful to inform people about your local chapter and its activities; however, the OWASP Chapter Wiki Page must be the authoritative information source at all times. Some services will have an official alternative.  One example of this is MeetUp Pro which will has an api that will allow you to mirror the meeting information you post on your MeetUp Pro account to your wiki page and the OWASP Events Calendar (Coming 2017).
+Other promotional services such as LinkedIn, Facebook, Twitter, Ning, Meetup, etc. are useful to inform people about your local chapter and its activities; however, the OWASP Chapter Wiki Page must be the authoritative information source at all times. Some services will have an official alternative.  One example of this is MeetUp Pro which will has an api that will allow you to mirror the meeting information you post on your MeetUp Pro account to your website page and the OWASP Events Calendar (Coming 2017).
 
-If you have not already created a user account on our wiki site to edit your chapter's wiki page, please do so.
-To ensure uniformity and ease of reading on the wiki, OWASP has a set of guidelines for designing your wiki page.
+If you have not already created a user account on our wiki site to edit your chapter's website page, please do so.
+To ensure uniformity and ease of reading on the wiki, OWASP has a set of guidelines for designing your website page.
  
 ## Local Domain Names
 Many leaders wish to purchase a local domain name for their OWASP chapter, and this domain should point to the chapter web page on the wiki and vice versa. It is important to note that the OWASP wiki is the only website that ensures OWASP values and principles.
 
-A few countries (such as China) have not been able to access the wiki and therefore the local domain name is used as the main source of information about OWASP for the country. If an exception is permitted, every effort must be made to announce changes to leadership and upcoming meetings on the chapter wiki page so that the global site information is up to date.  If all else fails, you can do this by submitting a case through the Contact Us form.
+A few countries (such as China) have not been able to access the wiki and therefore the local domain name is used as the main source of information about OWASP for the country. If an exception is permitted, every effort must be made to announce changes to leadership and upcoming meetings on the chapter website page so that the global site information is up to date.  If all else fails, you can do this by submitting a case through the Contact Us form.
 
-Chapter leaders are free to register local domain names and submit the expense for reimbursement from their chapter’s account.  To maintain brand cohesion all domain names must be "OWASP [Chapter location]"   If additional paperwork or authorization is needed for the registration, submit your request through the Contact Us form. You must notify the Foundation through this same form if you have registered the name to help us keep track of what domain names have been purchased by OWASP.
+Chapter leaders are free to register local domain names and submit the expense for reimbursement from their chapter's account.  To maintain brand cohesion all domain names must be "OWASP [Chapter location]"   If additional paperwork or authorization is needed for the registration, submit your request through the Contact Us form. You must notify the Foundation through this same form if you have registered the name to help us keep track of what domain names have been purchased by OWASP.
  
 ## Mailing Lists
 
@@ -133,8 +131,8 @@ When a person is listed as an administrator of a mailing list they will receive 
 
 Some other suggestions:
 - It is frowned upon by the OWASP Community to "spam" OWASP mailing lists regarding conferences in other regions. For example, it would be inappropriate for someone hosting a non-OWASP conference in India to send emails to multiple mailing lists outside of India.
-- The best way to prevent "spam" from your chapter’s mailing list is to enable list moderation. This can be done by logging into the mailing list administrative interface and clicking on "Privacy Options" and "Sender filter." There are options for moderating posts by both mailing list subscribers and nonsubscribers.
-- The subject of posting job leads to a chapter’s mailing list is handled differently by each chapter. Some chapters encourage it as long as the jobs are local and security related, others frown upon it, instead encouraging the people hiring to stand up and promote their openings in person at the chapter meetings.
+- The best way to prevent "spam" from your chapter's mailing list is to enable list moderation. This can be done by logging into the mailing list administrative interface and clicking on "Privacy Options" and "Sender filter." There are options for moderating posts by both mailing list subscribers and nonsubscribers.
+- The subject of posting job leads to a chapter's mailing list is handled differently by each chapter. Some chapters encourage it as long as the jobs are local and security related, others frown upon it, instead encouraging the people hiring to stand up and promote their openings in person at the chapter meetings.
 - For discussion details: see "[Owasp-leaders] Job Leads on Chapter Mailing Lists?"
 - OWASP has a Jobs Board on LinkedIn. OWASP does not endorse commercial products or services and provides this listing for the benefit of the community. If you have additional questions or would like to post a job opening to this page visit our LinkedIn Jobs page.
 
@@ -143,7 +141,7 @@ Similar to the OWASP chapter mailing lists, social media under the "OWASP" Chapt
 
 While the chapter leader or member that sets up the account will hold the password and be the official "owner" of the account,  this account login information with other members of the leadership team and with the Foundation. When new leadership takes over, the information must be handed over to the new leader(s).
 
-Note that, the chapter page on the OWASP wiki is the official representation of the chapter. Therefore, communication on social media platforms complement rather than replace the wiki page. Chapter members cannot be required to sign up for any social media account to get access to meeting notices. Do keep any new event or activity announcements up to date on the wiki page, per section 4.2. It is important that any social media platform the chapter uses be openly accessible, regularly maintained and updated with accurate information.  Should the chapter choose to leave a platform, it should close the social media account and alert the Foundation using the Contact Us form.
+Note that, the chapter page on the OWASP wiki is the official representation of the chapter. Therefore, communication on social media platforms complement rather than replace the website page. Chapter members cannot be required to sign up for any social media account to get access to meeting notices. Do keep any new event or activity announcements up to date on the website page, per section 4.2. It is important that any social media platform the chapter uses be openly accessible, regularly maintained and updated with accurate information.  Should the chapter choose to leave a platform, it should close the social media account and alert the Foundation using the Contact Us form.
  
 Ideas for social media platforms used by current OWASP chapters (it is not necessary for each chapter to have an account with each of these platforms -- choose the forum that will be best for your geographic area and audience):
 - Delicious
@@ -167,19 +165,19 @@ Chapter funds should be used for your chapter and must be spent in line with the
 
 A chapter should have a treasurer who is in charge of money. This person can be (and often is) the leader. His/her name should be communicated to the Community Manager so we can update our official records. Some key guidelines about managing your chapter budget:
 - Any Chapter which has a $0 or low bank account can ask for a grant.  The funding request must include specifically what you wish to spend the money on.  Any amount in your chapter account will first be subtracted from the request.  For example, if you ask for $100 to pay for refreshments but have $40 in your account, we may give you a grant of $60. Needing a grant does not guarantee the OWASP Foundation will provide a grant. Pre-approval is required to ensure an expense is covered, especially if there's a chance of it exceeding a chapters's total funds.
-- Any Chapter with more than $5000 at the end of the year must submit a budget for the use of these monies or risk the surplus being put in the general outreach fund
+- Any Chapter with more than $5,000 at the end of the year must submit a budget for the use of these monies or risk the surplus being put in the general outreach fund
 - Some ways of using funds require prior approval (see below).
-- All discussions about using funds, requests for funds, and budgets must be linked to transparently on the chapter wiki or in the chapter list archives.
+- All discussions about using funds, requests for funds, and budgets must be linked to transparently on the chapter website or in the chapter list archives.
 - Chapters have the right to ask for large budget items from the board during the annual budget creation (Prior to November first) (see below).
 
 ### Spending Guidelines
-For the following common expenses, if the expenditure is under $500, Chapter Leaders can consider their purchase "white-listed" for reimbursement out of the chapter’s account, provided that the chapter has the necessary funds in its account:
+For the following common expenses, if the expenditure is under $500, Chapter Leaders can consider their purchase "white-listed" for reimbursement out of the chapter's account, provided that the chapter has the necessary funds in its account:
 - Meeting venue rental
 - Refreshments for a meeting
 - Promotion of a meeting
 - OWASP Merchandise
 
-If, however, the expense does not fall under one of the above categories or is greater than $500, a second signer (another chapter leader or board member) must sign off on the purchase. While travel for speakers is a common expense and may fall under $500, some chapters still prefer to have a second signer to avoid the appearance of conflict of interest. . Similarly, a donation of money out of the chapter’s account back to the Foundation, requires a second signer. The exact details of the reimbursement process can be found under Reimbursement Process Details.
+If, however, the expense does not fall under one of the above categories or is greater than $500, a second signer (another chapter leader or board member) must sign off on the purchase. While travel for speakers is a common expense and may fall under $500, some chapters still prefer to have a second signer to avoid the appearance of conflict of interest. Similarly, a donation of money out of the chapter's account back to the Foundation, requires a second signer. The exact details of the reimbursement process can be found under Reimbursement Process Details.
 
 From an administrative perspective, OWASP has a responsibility to show its supporters that their donations (via members, sponsorship or other) are being used properly - in support of the OWASP mission. Visit the OWASP Funding page under "Additional Resources" to see your chapter's current funding balance. Exceptions to the guidelines can be brought to the Staff for potential approval and tracking.
 
@@ -194,17 +192,17 @@ The recommended process for paying for chapter-related expenses is to pay for th
 ### Chapter Budgets
 Chapters do not hold their own money, it is held in trust for them by the OWASP Foundation. However Chapters can track their balances using the Chapter funding totals provided on the OWASP Funding page and write a budget for the use of funds where desired.  However all chapters with more than $5,000 in their account by October 1st must submit a budget prior to November 1 for inclusion in the Foundation budget for the following calendar year. The budget should identify how they plan to spend the money in their account over the course of the next year. A future projection budget can be included as well for forecasted spending within the next 2 years. Unbudgeted funds may be diverted to other chapters, or Community Engagement Funding accounts if the chapter cannot be contacted or a budget is not received prior to January 1.
 
-Separate from the aforementioned budgeting process for chapter and project accounts, any OWASP Leader can create a budget and provide it to the OWASP Board prior to November 1 for inclusion in the Foundation budget planning process. The budget will be reviewed by the Executive Director and Board and, if approved, incorporated into the overall OWASP Foundation budget for the following year. This would effectively set aside the funds to use at the appropriate period of time, in the future, with no further approvals necessary. Money that is budgeted in this manner, that wasn’t spent during the calendar year, would be returned back to the OWASP Foundation general funds.
+Separate from the aforementioned budgeting process for chapter and project accounts, any OWASP Leader can create a budget and provide it to the OWASP Board prior to November 1 for inclusion in the Foundation budget planning process. The budget will be reviewed by the Executive Director and Board and, if approved, incorporated into the overall OWASP Foundation budget for the following year. This would effectively set aside the funds to use at the appropriate period of time, in the future, with no further approvals necessary. Money that is budgeted in this manner, that wasn't spent during the calendar year, would be returned back to the OWASP Foundation general funds.
 
 ### Money not Tracked by the Foundation
 Chapter leaders cannot accept finances/funds through their own bank accounts. OWASP Foundation (US) and OWASP Inc. (Europe) have been created for the purpose of handling funds. Other countries have hired third party companies to handle their finances. If OWASP funds will be handled by a third party, notify the OWASP Foundation in advance to make sure any necessary paperwork is completed.
 
 If a sponsor pays a vendor directly (for signage, food, venue, etc.), then this is a transaction that the Foundation does not need to track. However, if the sponsor needs a receipt or record of the transaction (for tax or other purposes), the money WILL need to go through the Foundation.
 
-To avoid the appearance of impropriety, direct all potential donors to the Donate button on your chapter wiki page or to an approved third party processor.
+To avoid the appearance of impropriety, direct all potential donors to the Donate button on your chapter website page or to an approved third party processor.
 
 ## Charging for Events
-It is against OWASP’s core values and principles to charge people to attend chapter meetings. However, a chapter may decide to charge for a training, or local conference. If your chapter is charging a fee for training, event, or conference, the registration must go through the Foundation’s account on your chosen registration platform.  Learn more by using the Contact Us form.
+It is against OWASP's core values and principles to charge people to attend chapter meetings. However, a chapter may decide to charge for a training, or local conference. If your chapter is charging a fee for training, event, or conference, the registration must go through the Foundation's account on your chosen registration platform.  Learn more by using the Contact Us form.
 
 Any event that charges an admission fee or requires more than $1000 foundation funds must be submitted to the OCMS System and approved by the Executive Director.  To host an event, please read the How to Host a Conference page.
 
@@ -218,7 +216,7 @@ Chapter leaders are not authorized to sign contracts or enter into any legal agr
  
 ## Chapter Leadership
 Chapter leaders serve as the main point of contact for the local chapter and are responsible for ensuring that the local chapter fulfills its requirements, including planning at least two meetings per year.
-- An Active Chapter Leader is responsive to all requests within a reasonable amount of time, generally within 5-7 business days. Chapter leaders must have their name and contact information clearly available on the Chapter wiki page.
+- An Active Chapter Leader is responsive to all requests within a reasonable amount of time, generally within 5-7 business days. Chapter leaders must have their name and contact information clearly available on the Chapter website page.
 - Preferably, a chapter should have as many organizers as possible.  Running a successful chapter requires concerted effort all year long, and these duties should be split between whoever is willing to volunteer to take the load. A single chapter leader has proven to be an anti-pattern for successful chapters and high performing chapters often have three or more co-organizers that meet regularly to plan.  In order to promote checks and balances, there are some benefits given explicitly to chapters with multiple leaders.  The most important of these is that every chapter with at least 2 leaders is given access to a minimum starting annual budget of $500.  You can read more about budgets in section four.
 - Chapter Leader (or Coordinator): Every chapter must nominate a Chapter Leader, who is the central point of contact for the chapter and responsible to the OWASP Board.  We suggest (but do not require) that leaders rotate every 24 months to allow for new ideas and to spread the workload. Leadership can be in the form of a few people who work by consensus, a leader with an advisory board, or, if you must, a single leader.   In case of dispute over the leader role, your leadership board may rotate over the 24 month term. If there are multiple candidates and no rotation agreement, elections should be held for a 24 months term (see elections below).
 - Board: Chapters are free to decide on the number of role holders, their titles, how they are selected and for how long. In case there are multiple candidates for a specific role, and no restructuring, rotation or teaming works, elections for the role should be held for a 24 months term.
@@ -240,7 +238,7 @@ When a new leader is to be added to your team or a current leader is leaving you
 It is always advisable to avoid elections. Running a chapter is a hard, volunteer job and sharing the load is always advisable. Since the chapter leader role structure is flexible, choosing the defined  chapter structure (such as a board of leaders who work by consensus) may help to avoid elections. However, if there is a lack of agreement between chapter members on structure, roles or any other issues an election for a role or a poll on any other subject may be required:
 A poll on a subject will be held if 10% of the chapter members request it.
 Elections for a role will be held if there are multiple candidates for a role at the end of the term for the role.
-Chapters that either choose to hold regular or one off elections as well as those that are driven to elections due to disagreement have the ability to request to use the Foundation’s Simply Voting or Surveymonkey services as their balloting system.
+Chapters that either choose to hold regular or one off elections as well as those that are driven to elections due to disagreement have the ability to request to use the Foundation's Simply Voting or Surveymonkey services as their balloting system.
  
 ## How should elections be held?
 OWASP does not enforce any procedure for elections and polls. However all elections must meet the OWASP core value of "Openness."  To this end, in the absence of a previously agreed upon process that is publicly accessible all elections must be announced on the chapter mailing list and all paid and honorary members must have the opportunity to vote.
@@ -256,7 +254,7 @@ This procedure for election heavily involves the OWASP Foundation as we feel tha
 
 While there is no requirement for Chapters to have their own bylaws or recommended template, if you do create bylaws, you should incorporate the following information as it applies in your country or region:
 - The Open Web Application Security Project (OWASP) is a not-for-profit worldwide charitable organization focused on improving the security of application software. Our mission is to make application security visible, so that people and organizations can make informed decisions about true application security risks. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
-- Reference to the OWASP Foundation Bylaws, the primary governing document for the OWASP, as well as this Handbook. Where there is conflict between chapter bylaws and the Foundation's bylaws or handbook the Foundation’s Bylaws and Handbooks take precedence. Should any Handbook conflict with the Foundation’s Bylaws, the Bylaws take precedence.
+- Reference to the OWASP Foundation Bylaws, the primary governing document for the OWASP, as well as this Handbook. Where there is conflict between chapter bylaws and the Foundation's bylaws or handbook the Foundation's Bylaws and Handbooks take precedence. Should any Handbook conflict with the Foundation's Bylaws, the Bylaws take precedence.
  
 Chapter by-laws that currently exist have been posted in one central place on the wiki - https://www.owasp.org/index.php/Local_Chapter_ByLaws. If your chapter has by-laws already or adopts by-laws in the future, please post them to the wiki on the Local Chapter ByLaws page, or submit them through the contact us form.
 
@@ -283,7 +281,7 @@ A chapter will be tagged as inactive if they have not hosted a meeting or event 
 
 If a leader has abandoned their chapter (left without finding a replacement leader) and no one has stepped up to take on the role, the chapter may also be tagged as inactive.
 
-Reporting an inactive chapter - If you think a chapter is inactive and are interested in helping out, we recommend reaching out to the chapter leader or board listed on the chapter’s wiki page as a starting point. They may welcome you to take over the reins or let you know the status of the chapter.
+Reporting an inactive chapter - If you think a chapter is inactive and are interested in helping out, we recommend reaching out to the chapter leader or board listed on the chapter's website page as a starting point. They may welcome you to take over the reins or let you know the status of the chapter.
 
 Every effort will be made to reach out to the chapter leader before a chapter is marked inactive. Chapter leaders will be given seven days to respond before the chapter is marked inactive.
 
@@ -291,10 +289,10 @@ If a chapter appears to be inactive, or in danger of becoming inactive, and the 
 
 ## Restarting an Inactive Chapter
 
-The process for restarting an inactive chapter is the same as starting a new chapter. Instead of a new wiki page and mailing list being created, however, the new chapter leader will be listed on the existing wiki page and given administrative access to the mailing list.
+The process for restarting an inactive chapter is the same as starting a new chapter. Instead of a new website page and mailing list being created, however, the new chapter leader will be listed on the existing website page and given administrative access to the mailing list.
 
 ## Call for Help
-Don’t be afraid to ask for help. Many chapter leaders have been in a situation where they wish they had more guidance on raising money, finding venues, finding speakers, attracting more members, and even handling conflicts within the chapters. Many OWASP chapters have set up regional lists to facilitate communication with leaders in their close vicinity or regarding local issues.
+Don't be afraid to ask for help. Many chapter leaders have been in a situation where they wish they had more guidance on raising money, finding venues, finding speakers, attracting more members, and even handling conflicts within the chapters. Many OWASP chapters have set up regional lists to facilitate communication with leaders in their close vicinity or regarding local issues.
 
 Also, the OWASP Operational Team is available to support chapters and help generate solutions. They can be reached through the contact us form. The OWASP Community Manager has a wealth of knowledge and resources available for your assistance.
  
@@ -356,14 +354,14 @@ OWASP on the Move funds are not to be used by speakers to attend OWASP conferenc
 
 
 ### Speaker Agreement
-Many chapters do not have every speaker sign the OWASP [Speaker Agreement] as part of their agreement or confirmation for the event. However, if you think OWASP values and principles may be an issue or are concerned that the speaker does not understand the terms of the arrangement, you may consider sending them this speaker agreement: https://www.owasp.org/index.php/Speaker_Agreement
- 
+Many chapters do not have every speaker sign the OWASP [Speaker Agreement] as part of their agreement or confirmation for the event. However, if you think OWASP values and principles may be an issue or are concerned that the speaker does not understand the terms of the arrangement, you may consider sending them the [OWASP Speaker Agreement](/www-policy/legal/speaker-agreement).
+
 ### Meeting Venue
 There are an infinite number of possibilities for a meeting location - local college, business, library, or even a restaurant or pub. Plan as far in advance as possible - good meeting spaces are often available at little or no cost (local colleges and universities are often willing to give meeting space for free), but they fill up quickly.
  
 Also, it is important to consider accessibility when looking at locations: Where will the attendees park? What is the average travel time for attendees? Is there a security checkpoint? What happens if attendees have not pre-registered, can they still attend? Can you serve food at this location?
  
-While having a permanent or stable meeting location for your chapter meetings may be convenient for planning, it is also important to consider any conflict of interest (or appearance of conflict of interest) your meeting venue may convey. For example: vendor neutrality is one of the core values of OWASP, but this doesn’t necessarily mean that a vendor cannot host a local chapter meeting. As long as the meeting is free and open and doesn’t violate other OWASP principles, a vendor’s office space may be a great location to hold a meeting. That being said, holding every meeting at this vendor’s office to the exclusion of other available and willing venues, may give an appearance of impropriety.
+While having a permanent or stable meeting location for your chapter meetings may be convenient for planning, it is also important to consider any conflict of interest (or appearance of conflict of interest) your meeting venue may convey. For example: vendor neutrality is one of the core values of OWASP, but this doesn't necessarily mean that a vendor cannot host a local chapter meeting. As long as the meeting is free and open and doesn't violate other OWASP principles, a vendor's office space may be a great location to hold a meeting. That being said, holding every meeting at this vendor's office to the exclusion of other available and willing venues, may give an appearance of impropriety.
  
 ### Setting a Date and Time
 
@@ -376,7 +374,7 @@ When setting your meeting date and time, be sure to consider:
 - Are there any local or regional events or holidays that will conflict?
 
 ### Posting Meeting Info on the Wiki
-General information about what should be on a chapter’s wiki page can be found under "administration" below. As soon as you know the time, date, and location of your meeting, be sure to post it to your chapter’s wiki page. Additionally, most chapters post information about the upcoming meeting such as: meeting agenda, speaker background, summary of the topic(s) to be covered by the speaker/meeting.
+General information about what should be on a chapter's website page can be found under "administration" below. As soon as you know the time, date, and location of your meeting, be sure to post it to your chapter's website page. Additionally, most chapters post information about the upcoming meeting such as: meeting agenda, speaker background, summary of the topic(s) to be covered by the speaker/meeting.
 
 ### Catering
 Many chapters provide food or refreshments before, during, or after their meeting. This is not a necessity for a chapter meeting, but something extra you might consider if you have the funds in your chapter account or are able to get a sponsor to cover costs (or provide food directly). It is also possible for meeting attendees to split the cost if they want food at the meeting; however, no one can be excluded from a meeting based on their ability or willingness to pay for food. Meetings must remain free and open.
@@ -386,7 +384,6 @@ If you need to decide on the amount of food ahead of time, line up the refreshme
 ### Sponsors & Affiliates
 In order to organize events, an OWASP chapter often needs to find sponsors. These sponsors may provide meeting facilities, refreshments, etc. While sponsorship is good, it is important to avoid the commercialization pitfalls that may accompany it.
 The following is specifically prohibited:
-
 - Providing sponsors with a list of people registering for or attending any event. This might even be illegal in certain countries due to privacy laws. The sponsor can collect leads in itself, for example by offering a prize for people providing contact details.
 - Providing the sponsor with a commercial or product centric presentation slot.
  
@@ -394,26 +391,22 @@ So what can sponsors get?*
 - Many thanks, and hopefully a very good feeling of helping the community.
 - A table top style mini booth where they can put up a "roll up" poster or two and hand out your brochures and freebies. This might not be possible in certain meeting facilities.
 - Logo on the local chapter or event page.
-- All of the OWASP sponsorship options are detailed on the OWASP Membership page:
-https://www.owasp.org/index.php/Membership
+- All of the OWASP sponsorship options are detailed on the [OWASP Sponsors page](/supporters)
  
 At the local level there are options for both Local Chapter Supporters (90/10 split with the Foundation, 90% directly supporting the local chapter) as well as Single Meeting Supporters.
 
 ## Meeting Promotion
 Here are some tips that chapter leaders can use to promote their meeting (and increase meeting attendance):
-- At a minimum, the date, time, location, speaker, and topic should be listed on your chapter’s wiki page and an email announcement sent out to your chapter’s mailing list.
+- At a minimum, the date, time, location, speaker, and topic should be listed on your chapter's website page and an email announcement sent out to your chapter's mailing list.
 - When sending out direct meeting invitations, use google calendar invites through your @owasp.org email account. General email assumes that people will read it in a timely manner and will remember to place it onto their calendar. By using the google calendar invitations, this task is done for them.
-- Make sure that your upcoming meeting is broadcast through a variety of channels. In addition to posting the meeting to your chapter’s wiki page and mailing list, consider blogging or tweeting about it, as well as posting it on social networking sites such as LinkedIn, Facebook, Meetup, and myowasp.
+- Make sure that your upcoming meeting is broadcast through a variety of channels. In addition to posting the meeting to your chapter's website page and mailing list, consider blogging or tweeting about it, as well as posting it on social networking sites such as LinkedIn, Facebook, Meetup, and myowasp.
 - Post your event to sites such as Yahoo Events and partner with other user groups to cross-market (i.e. ISSA, .Net SIG, Java SIG, SIM, DAMA).
 - Acknowledge the fact that even if people cannot physically attend, they may be able to participate remotely. The OWASP Foundation has an account with http://www.gotomeeting.com that is free for chapters to use. Account requests or details can be requested can be requested through: http://sl.owasp.org/contactus.
 - Many people are tired and hungry, especially after a long day at work. While you cannot cure tiredness, you can at least try to feed your attendees. Pizza is cheap and it is relatively easy to find a sponsor.
 - Make sure the topics you choose are broadly applicable and not just targeted at one group (i.e. penetration testers, software developers). Part of making web application security visible requires you to choose (or solicit) speakers that appeal to IT executives, enterprise architects, business analysis, legal and compliance, etc. If a particular group does happen to be the "target audience" at a meeting, try to change things up for your next meeting.
 
-### OWASP Calendar
-Most new chapter leaders are given edit privileges for the OWASP calendar at the time their chapter is created, but if you taking over leadership or have been the leader of a chapter for a while, you may not have permission. Calendar edit privileges can be requested through http://sl.owasp.org/contactus.
-
 ### RSVPs
-Posting your meeting on the chapter’s wiki page and emailing an announcement to the chapter’s mailing list are the prime methods of letting people know about OWASP meetings. Some other useful methods are:
+Posting your meeting on the chapter's website page and emailing an announcement to the chapter's mailing list are the prime methods of letting people know about OWASP meetings. Some other useful methods are:
 - Ask your speakers to send invites to their circle
 - Ask people on the list to forward to people in their organization.
 - Use your own personal contacts. Since OWASP is not a commercial organization, this would be usually acceptable by your business contacts. Again, this might actually help you keep in touch with them.
@@ -423,7 +416,7 @@ Meeting invitations/announcements should contain a request to forward it to othe
 You might also want to use event invites instead of e-mail messages. These services provide different advantages such as integration with the attendee calendar and RSVP management, but on the other hand might seem more commercial and obtrusive.
  
 You can send event invites using the following tools:
-- RegOnline - people can register for your meeting (and you can send invites and follow up emails) using OWASP’s RegOnline account. If you do not have access and would like to use this for your next chapter meeting, please request an account through http://sl.owasp.org/contactus
+- RegOnline - people can register for your meeting (and you can send invites and follow up emails) using OWASP's RegOnline account. If you do not have access and would like to use this for your next chapter meeting, please request an account through http://sl.owasp.org/contactus
 - Direct calendar invites: one can do that using a dedicated Google calendar account.
 - The tool most used by OWASP chapters is: Eventbrite, which is free for non-profits.
 - Others use: Meetup, which while not free is priced very low.
@@ -439,21 +432,20 @@ The OWASP Foundation can provide you with OWASP books, shirts, pens, lanyards, f
 Rocksports has also set up an OWASP Storefront to show items they have available and many OWASP books have been made available through Lulu.
  
 ### PPT Template
-You may want to send your speakers a PowerPoint template to use for their presentations. Here are some options:
-- https://www.owasp.org/images/c/c3/OWASP_Presentation_template.ppt
+You may want to send your speakers a [PowerPoint template](/www-policy/operational/branding) to use for their presentations.
 
 ### Screening Presentations
-In order to ensure that presentations remain vendor neutral and don’t turn into platforms for a sales pitch, it is recommended that you screen the presentations before the meeting. This may also be a good time to remind your speaker about the terms of the Speaker Agreement (or make sure they understand what is expected of them).
+In order to ensure that presentations remain vendor neutral and don't turn into platforms for a sales pitch, it is recommended that you screen the presentations before the meeting. This may also be a good time to remind your speaker about the terms of the Speaker Agreement (or make sure they understand what is expected of them).
 
 ### Remote Participation
-The OWASP Foundation has an account with http://www.gotomeeting.com that is free for chapters to use. Account requests can be requested through the http://sl.owasp.org/contactus and details on using GoToMeeting can be found here: https://www.owasp.org/index.php/Chapter_Leader_Handbook/GoToMeeting. As soon as you have scheduled the meeting date and time, the remote participation can also be scheduled so you can include details on your chapter’s wiki page or in your emails.
+The OWASP Foundation has an account with [http://www.gotomeeting.com](http://www.gotomeeting.com) that is free for chapters to use. As soon as you have scheduled the meeting date and time, the remote participation can also be scheduled so you can include details on your chapter's website page or in your emails.
  
 ### Speaker Gifts
 Although it is not necessary, giving speakers a small token of appreciation such as an OWASP t-shirt, mug, or pen set is encouraged.
  
 ### Communication
 The following is a recommended communication schedule for notifying members about an upcoming meeting:
-- Three weeks before the meeting - send meeting invitations and make sure meeting information has been posted to your chapter’s wiki page.
+- Three weeks before the meeting - send meeting invitations and make sure meeting information has been posted to your chapter's website page.
 - One week before the meeting - send reminders about the meeting to your mailing list and through other social media (LinkedIn, Facebook, Twitter, etc.)
 - Upon registration and again one day before the meeting - send confirmation to people that have signed up to attend the meeting.
 
@@ -471,10 +463,10 @@ Arrive early! Ensure that everything for the meeting space is set up before the 
 ### Video Recording
 If you have the equipment, you may want to consider recording a video of your meeting and posting for members who were not able to attend the meeting. This is also a nice resource for chapter leaders or event organizers to use in the future to screen a speaker or learn about his/her style.
 
-The OWASP Speaker Agreement includes authorization for the speaker’s presentation to be recorded and posted. If you plan to record the meeting, you should make sure the speaker is aware and has agreed to the reproduction of his/her presentation.
+The OWASP Speaker Agreement includes authorization for the speaker's presentation to be recorded and posted. If you plan to record the meeting, you should make sure the speaker is aware and has agreed to the reproduction of his/her presentation.
 
 ### Time Management
-Spread tasks across many individuals in order to ensure that your meeting runs smoothly and all of the tasks before, during, and after the meeting are handled in a timely fashion. There are usually people that attend the meetings who are willing to want to help the chapter be successful, but are not able to commit to a chapter leadership role - that doesn’t mean they aren’t willing to help out on a meeting-by-meeting basis.
+Spread tasks across many individuals in order to ensure that your meeting runs smoothly and all of the tasks before, during, and after the meeting are handled in a timely fashion. There are usually people that attend the meetings who are willing to want to help the chapter be successful, but are not able to commit to a chapter leadership role - that doesn't mean they aren't willing to help out on a meeting-by-meeting basis.
 
 ### Meeting Content
 **Job announcements**: Some chapters encourage recruiters or other individuals who are hiring in their area to come for their meeting and make the job announcement in person. At the beginning of the meeting they ask anyone who is hiring to stand up and introduce themselves and who they are looking for. Then at a break or after the meeting, attendees can get in touch with them. This encourages recruiters/employers to invest a small amount of time in your chapter (attending the meeting) and also gives both the person hiring and the people looking for jobs the benefit of face-to-face contact.
@@ -504,17 +496,17 @@ Review event, lessons learned, what can be improved with the other chapter leade
 Post meeting minutes to document what was covered at the meeting, including any announcements or decisions that were made. Pictures from the meeting are also encouraged.
 
 ### Posting Presentations and Recordings
-In addition to any meeting minutes and photos, try to collect the presentation from the speaker to post on the chapter’s wiki page.
+In addition to any meeting minutes and photos, try to collect the presentation from the speaker to post on the chapter's website page.
  
 If you took a video recording of the meeting, you should post that as well. Vimeo is commonly used to host the uploaded video, which can then be linked to your chapter page.
 
 ### Follow-up Communication
-Once you post meeting materials such as minutes, pictures, presentation, or video to your chapter wiki page, send a follow up email to meeting guests thanking them for attending, letting them know about the next meeting (if you have the information), and directing them to the material on your wiki page.
+Once you post meeting materials such as minutes, pictures, presentation, or video to your chapter website page, send a follow up email to meeting guests thanking them for attending, letting them know about the next meeting (if you have the information), and directing them to the material on your website page.
  
 If you collected any new email addresses, this will also be a confirmation that you have added their name to the mailing list.
  
 ### Certificate of Attendance
-It is not standard practice for OWASP to issue Certificates of Attendance for Chapter Meetings. Your chapter nominating someone hold onto a meeting sign-in sheet after each meeting. Meeting attendees are still responsible for submitting their own CPEs, but then the Chapter Leader (or whoever is keeping track of the sign-in sheets) can go back and audit against the chapter’s sign-in sheet if (ISC)2 or another organization audits them.
+It is not standard practice for OWASP to issue Certificates of Attendance for Chapter Meetings. Your chapter nominating someone hold onto a meeting sign-in sheet after each meeting. Meeting attendees are still responsible for submitting their own CPEs, but then the Chapter Leader (or whoever is keeping track of the sign-in sheets) can go back and audit against the chapter's sign-in sheet if (ISC)2 or another organization audits them.
  
 # Chapter 8:  Organizing Local Events
  
@@ -529,8 +521,6 @@ Many OWASP Chapters (or a group of chapters in the same region) have planned an 
 
 ## OWASP Training Days
 OWASP Training Days are full day training courses that are free for members (so non-members can attend by paying the $50 fee to becoming members). The course aims to educate people about OWASP Projects by providing a selection of mature and enterprise ready projects together with practical examples of how to use them.
-Training Materials: https://www.owasp.org/index.php/OWASP_Training
-Material downloads: http://code.google.com/p/owasp-training/downloads/list
  
 ## Regional Roadshows
 OWASP Regional Roadshows consist of one or more speakers visiting multiple chapters in a region (touring) either as speakers for chapter meetings or to provide training. These Roadshows help Chapter Leaders bring in great international speakers as well as generate awareness in their areas around Application Security and OWASP. Previous Roadshows include LATAM and EU Tours.
@@ -582,12 +572,14 @@ Paid Individual Memberships - encourage the people who participate in your local
 In the past, chapters have used (paid) membership drives to promote OWASP and raise money for their chapter. One approach is to enter all new members (or renewing members) in a raffle for prizes to be selected at your next meeting.
 
 ## Donations
-Donations from 3rd parties can be accepted via paypal. These funds are transferred to OWASP Foundation and then chapter leaders can submit receipts for reimbursement from their chapter’s account. For more information on reimbursement and your chapter account, see the section on Handling Money.
+Donations from 3rd parties can be accepted via the [OWASP Donation Form](/donate). Accessing the donation form by clicking the DONATE button from a Chapter page will allow donors to be publicly listed as supporters of your chapter. These funds are transferred to OWASP Foundation and then chapter leaders can submit receipts for reimbursement from their chapter's account. For more information on reimbursement and your chapter account, see the section on Handling Money.
 
 ## Chapter Sponsors – Local and Global
 In order to grow your chapter, it is usually necessary to obtain sponsorship to cover chapter operations. This can come from local businesses or larger companies.
  
 Local chapters get their funding primarily from local sponsorships. Any time you hold an event or conference you can ask companies to sponsor your event. Most of this money is spent on organizing the event including venue, food etc. However, whatever money is left can be used later for other expenses. Donations received from sponsors are shared between the local chapters and the OWASP Foundation.
+
+Generally, all charitable gifts to the OWASP Foundation are unrestricted and will be used at the sole discretion of the organization to fulfill its mission and objectives. Donors have the option to be listed as a Supporter of a Project or Chapter; however, this option does not restrict the gift in anyway whatsoever. More details can be found on the [Donations Policy](/www-policy/operational/donations)
  
 There are three different sponsorship options:
 1. Single Meeting Supporter
@@ -596,21 +588,17 @@ There are three different sponsorship options:
   - The dollar amount for this is set by each local chapter.
 2. Local Chapter Supporter - Organizations that are not yet interested in becoming full Organizational Supporters but who have a desire to direct their support in a more regional manner may prefer to become a Chapter Supporter.
   - Benefits include being recognized as a local supporter by posting the company logo on the OWASP Chapter website, and having (1) supporting member vote in elections and on issues that shape the direction of the community.
-  - Suggested dollar amounts are $500 (Silver), $1000 (Gold), and $2000 (Platinum) per year, split 10/90 with the Foundation - 90% of the funds going directly to the local chapter.
-3. Organizational Supporter (Global)- Organizations that wish to support OWASP with a 100% tax deductible donation to enable OWASP Foundation to continue the mission.
-  - Benefits include an opportunity to post a rotating banner ad on the OWASP home page for 30 days at no additional cost, being recognized as a supporter by posting the company logo on the OWASP Website, being listed as a sponsor in the OWASP newsletter that goes to over 10,000 individuals around the world on owasp mailing lists.
-  - Organizational Supporters have (1) supporting member vote in elections and on issues that shape the direction of the community.
-  - $5,000 per year, split 60/40 with the Foundation - 40% going to the local chapter designated at the time of payment.
+  - Suggested dollar amounts are $500 (Silver), $1,000 (Gold), and $2,000 (Platinum) per year.
 
 ## Spawning Other Chapters
 Some activities such as conferences, media relations and involvement with legislation and regulatory bodies are nationwide by nature. Such activities should be handled collectively by all chapters in the country and should be led by one of the chapter leaders, either by mutual agreement, election, or if all else fails, appointed by the Community Manager.
  
 # Chapter 10:  International Aspects
 ## Translation
-While knowledge of English is extremely helpful in communicating with the OWASP community around the world, it is certainly not necessary. To support the spread of the OWASP mission regardless of a person’s language, many chapters have worked as a team on translating OWASP Projects, Documentation, or even this Handbook.
+While knowledge of English is extremely helpful in communicating with the OWASP community around the world, it is certainly not necessary. To support the spread of the OWASP mission regardless of a person's language, many chapters have worked as a team on translating OWASP Projects, Documentation, or even this Handbook.
  
 ## Localization
-Understanding local culture and habits, and considering them when planning meetings can make a big difference in meeting attendance and the success of your chapter. For example, in some cultures it is not popular or even rude to discuss business over lunch. Thus, an OWASP meeting over lunch would not work very well. On the other hand, some areas have had great success with planning meetings during the lunch hour because it doesn’t cut into people’s "family" time in the evening. Talk to others in your city or region to find out what would work best for them and don’t be constrained by what chapters in other regions are doing.
+Understanding local culture and habits, and considering them when planning meetings can make a big difference in meeting attendance and the success of your chapter. For example, in some cultures it is not popular or even rude to discuss business over lunch. Thus, an OWASP meeting over lunch would not work very well. On the other hand, some areas have had great success with planning meetings during the lunch hour because it doesn't cut into people's "family" time in the evening. Talk to others in your city or region to find out what would work best for them and don't be constrained by what chapters in other regions are doing.
 ## Adjusted Memberships Fees
 Some regions (developing countries) of the world may qualify for a discounted membership of $20. If you are unsure of whether this applies to your chapter or would like to request a discount code, please submit your request through the contact us form.
  
