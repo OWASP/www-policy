@@ -109,15 +109,15 @@ The local chapter website page must include at least:
 - Information about future and historical events.
 - The presentations given in past meetings.  - I don't think is being done
 
-Other promotional services such as LinkedIn, Facebook, Twitter, Ning, Meetup, etc. are useful to inform people about your local chapter and its activities; however, the OWASP Chapter Wiki Page must be the authoritative information source at all times. Some services will have an official alternative.  One example of this is MeetUp Pro which will has an api that will allow you to mirror the meeting information you post on your MeetUp Pro account to your website page and the OWASP Events Calendar (Coming 2017).
+Other promotional services such as LinkedIn, Facebook, Twitter, Ning, Meetup, etc. are useful to inform people about your local chapter and its activities; however, the OWASP Chapter website Page must be the authoritative information source at all times. Some services will have an official alternative.  One example of this is MeetUp Pro which will has an api that will allow you to mirror the meeting information you post on your MeetUp Pro account to your website page and the OWASP Events Calendar (Coming 2017).
 
-If you have not already created a user account on our wiki site to edit your chapter's website page, please do so.
-To ensure uniformity and ease of reading on the wiki, OWASP has a set of guidelines for designing your website page.
+If you have not already created a user account on our web site to edit your chapter's website page, please do so.
+To ensure uniformity and ease of reading on the website, OWASP has a set of guidelines for designing your website page.
  
 ## Local Domain Names
-Many leaders wish to purchase a local domain name for their OWASP chapter, and this domain should point to the chapter web page on the wiki and vice versa. It is important to note that the OWASP wiki is the only website that ensures OWASP values and principles.
+Many leaders wish to purchase a local domain name for their OWASP chapter, and this domain should point to the chapter web page on the website and vice versa.
 
-A few countries (such as China) have not been able to access the wiki and therefore the local domain name is used as the main source of information about OWASP for the country. If an exception is permitted, every effort must be made to announce changes to leadership and upcoming meetings on the chapter website page so that the global site information is up to date.  If all else fails, you can do this by submitting a case through the Contact Us form.
+A few countries (such as China) have not been able to access the website and therefore the local domain name is used as the main source of information about OWASP for the country. If an exception is permitted, every effort must be made to announce changes to leadership and upcoming meetings on the chapter website page so that the global site information is up to date.  If all else fails, you can do this by submitting a case through the Contact Us form.
 
 Chapter leaders are free to register local domain names and submit the expense for reimbursement from their chapter's account.  To maintain brand cohesion all domain names must be "OWASP [Chapter location]"   If additional paperwork or authorization is needed for the registration, submit your request through the Contact Us form. You must notify the Foundation through this same form if you have registered the name to help us keep track of what domain names have been purchased by OWASP.
  
@@ -141,7 +141,7 @@ Similar to the OWASP chapter mailing lists, social media under the "OWASP" Chapt
 
 While the chapter leader or member that sets up the account will hold the password and be the official "owner" of the account,  this account login information with other members of the leadership team and with the Foundation. When new leadership takes over, the information must be handed over to the new leader(s).
 
-Note that, the chapter page on the OWASP wiki is the official representation of the chapter. Therefore, communication on social media platforms complement rather than replace the website page. Chapter members cannot be required to sign up for any social media account to get access to meeting notices. Do keep any new event or activity announcements up to date on the website page, per section 4.2. It is important that any social media platform the chapter uses be openly accessible, regularly maintained and updated with accurate information.  Should the chapter choose to leave a platform, it should close the social media account and alert the Foundation using the Contact Us form.
+Note that, the chapter page on the OWASP website is the official representation of the chapter. Therefore, communication on social media platforms complement rather than replace the website page. Chapter members cannot be required to sign up for any social media account to get access to meeting notices. Do keep any new event or activity announcements up to date on the website page, per section 4.2. It is important that any social media platform the chapter uses be openly accessible, regularly maintained and updated with accurate information.  Should the chapter choose to leave a platform, it should close the social media account and alert the Foundation using the Contact Us form.
  
 Ideas for social media platforms used by current OWASP chapters (it is not necessary for each chapter to have an account with each of these platforms -- choose the forum that will be best for your geographic area and audience):
 - Delicious
@@ -183,7 +183,7 @@ From an administrative perspective, OWASP has a responsibility to show its suppo
 
 ### Additional Expense Policies
 
-A chapter is free to adopt any additional procedure for authorizing expenses as long as it is also authorized by the treasurer (or leader) and documented on the wiki with all other chapter specific policies. The treasurer (or leader) must, in addition to any bookkeeping required by local authorities, keep a list of expenses made. This list should be made public on the wiki with the budget.
+A chapter is free to adopt any additional procedure for authorizing expenses as long as it is also authorized by the treasurer (or leader) and documented on the website with all other chapter specific policies. The treasurer (or leader) must, in addition to any bookkeeping required by local authorities, keep a list of expenses made. This list should be made public on the website with the budget.
 
 ### Reimbursement Process
 
@@ -223,7 +223,7 @@ Chapter leaders serve as the main point of contact for the local chapter and are
   - We recommend that a chapter would have also a board with at least 3 members, each one having a specific role. Common roles:
     - Organization: Secretary, PR/Marketing, Web, Membership, Finance & Meetings/Conferences
     - Content: Education, Industry, Projects
-- Any long term change in how governance is handled must be decided either by consensus or votes.  All paid or honorary members affiliated with your chapter must have sufficient notice and opportunity to take part in the discussion and decision making process.  It is incumbent upon the current leaders or actors urging the change to make sure this happens.   Unless otherwise stated, OWASP assumes that the leadership and chapter are governed by consensus.  Any changes in this structure must be posted on the wiki whether it is a simple decision like "We work by consensus" and "We vote every 2 years" or a complex governance document like some of our chapters have.
+- Any long term change in how governance is handled must be decided either by consensus or votes.  All paid or honorary members affiliated with your chapter must have sufficient notice and opportunity to take part in the discussion and decision making process.  It is incumbent upon the current leaders or actors urging the change to make sure this happens.   Unless otherwise stated, OWASP assumes that the leadership and chapter are governed by consensus.  Any changes in this structure must be posted on the website whether it is a simple decision like "We work by consensus" and "We vote every 2 years" or a complex governance document like some of our chapters have.
 - Your chapter page, must clearly identify who is the current leadership for the chapter or on the board of the chapter, including their phone numbers and/or email addresses. Additionally, post information on how people can get involved with the chapter planning, leadership, or decisions. What are your plans for the upcoming year? Are you looking for help with something particular? When are your elections held?
 
 ## Transferring Leadership
@@ -256,7 +256,7 @@ While there is no requirement for Chapters to have their own bylaws or recommend
 - The Open Web Application Security Project (OWASP) is a not-for-profit worldwide charitable organization focused on improving the security of application software. Our mission is to make application security visible, so that people and organizations can make informed decisions about true application security risks. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
 - Reference to the OWASP Foundation Bylaws, the primary governing document for the OWASP, as well as this Handbook. Where there is conflict between chapter bylaws and the Foundation's bylaws or handbook the Foundation's Bylaws and Handbooks take precedence. Should any Handbook conflict with the Foundation's Bylaws, the Bylaws take precedence.
  
-Chapter by-laws that currently exist have been posted in one central place on the wiki - https://www.owasp.org/index.php/Local_Chapter_ByLaws. If your chapter has by-laws already or adopts by-laws in the future, please post them to the wiki on the Local Chapter ByLaws page, or submit them through the contact us form.
+Chapter by-laws that currently exist have been posted in one central place on the website - https://www.owasp.org/index.php/Local_Chapter_ByLaws. If your chapter has by-laws already or adopts by-laws in the future, please post them to the website on the Local Chapter ByLaws page, or submit them through the contact us form.
 
 ## Legal Entity
 
@@ -603,4 +603,4 @@ Understanding local culture and habits, and considering them when planning meeti
 Some regions (developing countries) of the world may qualify for a discounted membership of $20. If you are unsure of whether this applies to your chapter or would like to request a discount code, please submit your request through the contact us form.
  
 ## Material distribution
-Some countries or regions may have trouble accessing OWASP tools such as google docs, the OWASP wiki site, or downloadable tools. If these access issues prevent a chapter from adhering to the mandatory chapter rules, they may ask the Global Chapter Committee for an exemption from the policy. Additionally, the OWASP foundation will work with the chapter to find a suitable alternative or workaround such as setting up local mirrors of tools or wiki.
+Some countries or regions may have trouble accessing OWASP tools such as google docs, the OWASP website, or downloadable tools. If these access issues prevent a chapter from adhering to the mandatory chapter rules, they may ask the Global Chapter Committee for an exemption from the policy. Additionally, the OWASP foundation will work with the chapter to find a suitable alternative or workaround such as setting up local mirrors of tools or website.
