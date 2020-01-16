@@ -13,6 +13,11 @@ tags: Rules of Procedure
 
 In the course of fulfilling the mission and business interests of the OWASP Foundation, members, staff, and partners will incur expenses that may be reimbursable. Generally, the policy of the Foundation is that all expenses should be "fair and reasonable" as measured by leadership, the community, and the standards for non-profit foundations. Expense categories are defined by the annual budget process and funds are approved and disbursed within those budgetary limits.
 
+## Helpful Links
+- [Submit Invoices](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/12){:target='_blank'} for Chapter and Project expenses
+- [Request Reimbursments](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/9){:target='_blank'} for OWASP Expenses
+- General [Service Desk](https://owasporg.atlassian.net/servicedesk/customer/portals){:target='_blank'} (JIRA) for ticketing
+
 ## Fair and Reasonable Expenses
 Generally, the policy of the Foundation is that all expenses should be "fair and reasonable" as measured by leadership, the community, and the standards for non-profit foundations. Historical approval of expenses does not obligate the Foundation to appoval like expenses in the future. Those items which are considered fair and reasonable include:
 - Chapter Specific
@@ -46,20 +51,6 @@ Travel expenses include but are not limited to economy airfare, or premium econo
 
 In cases where lodging is pre-arranged and direct billed by the Foundation as part of a room block, reimbursement requests for alternative lodging will be denied. Travel benefits are not transferable.
 
-## Travel Assistance Programs
-
-From time to time, the OWASP Foundation will budget funds for leaders and members to travel while furthering the mission of the Foundation. All travel reimbursed through the Travel Assistance Program must be pre-approved. The Executive Director along with the Treasurer will define the requirements and limits, along with the process for participating in these programs.
-
-## Hardware
-
-Capital asset purchases for chapters and proejcts is strongly discouraged and if over $250 requires pre-approval. The primary reason for this policy is the complexity of warehousing and asset tracking. Capital assets under $2,000 purchased by the Foundation will be expensed and not amortized.
-
-## OWASP Project Contracting
-
-All OWASP Projects are started with the understanding that they will be volunteer run, and they must remain volunteer run.
-
-In the event that a project’s Leaders decide they would like to hire a contractor to work on a particular aspect of the project, for instance user interface design, then the Project Leaders must manage the recruitment, contracting, and payment on a task/work assignment basis. Contractors must be paid upon satisfactory completion of the task/work assignment and execute a completed [OWASP Foundation Consulting Agreement](/www-policy/legal/contractor-template).
-
 ## Reimbursement Process
 
 Expenses, along with receipts for reimbursement, shall be submitted through the OWASP Foundation ticketing system for processing and payment. Please note ALL reimbursement request information, except payment instructions, will be shared publicly in various accounting reports and by submitting an expense reimbursment, you agree to that disclosure.
@@ -77,5 +68,24 @@ Approvals for reimbursments shall follow the [Signatory Guidelines](/www-policy/
 - In consultation with the Executive Directr, Treasurer will make final determination
 
 Our policies explicitly prohibit expenses and reimbursement behavior that personally enrich its Board, leaders, members, staff, or partners. It is a very serious matter if you record false or misleading information on expense reimbursements. You may not request reimbursement for expenses that you did not have or that were not business-related.
+
+## Helpful Links
+- [Submit Invoices](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/12){:target='_blank'} for Chapter and Project expenses
+- [Request Reimbursments](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/9){:target='_blank'} for OWASP Expenses
+- General [Service Desk](https://owasporg.atlassian.net/servicedesk/customer/portals){:target='_blank'} (JIRA) for ticketing
+
+## Travel Assistance Programs
+
+From time to time, the OWASP Foundation will budget funds for leaders and members to travel while furthering the mission of the Foundation. All travel reimbursed through the Travel Assistance Program must be pre-approved. The Executive Director along with the Treasurer will define the requirements and limits, along with the process for participating in these programs.
+
+## Hardware
+
+Capital asset purchases for chapters and proejcts is strongly discouraged and if over $250 requires pre-approval. The primary reason for this policy is the complexity of warehousing and asset tracking. Capital assets under $2,000 purchased by the Foundation will be expensed and not amortized.
+
+## OWASP Project Contracting
+
+All OWASP Projects are started with the understanding that they will be volunteer run, and they must remain volunteer run.
+
+In the event that a project’s Leaders decide they would like to hire a contractor to work on a particular aspect of the project, for instance user interface design, then the Project Leaders must manage the recruitment, contracting, and payment on a task/work assignment basis. Contractors must be paid upon satisfactory completion of the task/work assignment and execute a completed [OWASP Foundation Consulting Agreement](/www-policy/legal/contractor-template).
 
 **Failure to comply with any of the above policies may result in expenses, and in particular you reimbursement request, being denied.**
