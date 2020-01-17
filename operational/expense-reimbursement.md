@@ -69,11 +69,6 @@ Approvals for reimbursments shall follow the [Signatory Guidelines](/www-policy/
 
 Our policies explicitly prohibit expenses and reimbursement behavior that personally enrich its Board, leaders, members, staff, or partners. It is a very serious matter if you record false or misleading information on expense reimbursements. You may not request reimbursement for expenses that you did not have or that were not business-related.
 
-## Helpful Links
-- [Submit Invoices](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/12){:target='_blank'} for Chapter and Project expenses
-- [Request Reimbursments](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/9){:target='_blank'} for OWASP Expenses
-- General [Service Desk](https://owasporg.atlassian.net/servicedesk/customer/portals){:target='_blank'} (JIRA) for ticketing
-
 ## Travel Assistance Programs
 
 From time to time, the OWASP Foundation will budget funds for leaders and members to travel while furthering the mission of the Foundation. All travel reimbursed through the Travel Assistance Program must be pre-approved. The Executive Director along with the Treasurer will define the requirements and limits, along with the process for participating in these programs.
