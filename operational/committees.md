@@ -31,7 +31,8 @@ OWASP’s goals and if any conflicts exist with other committees.
 
 4.    If no conflict exists, the proposal will be discussed at the next
 Board of Directors meeting. This will involve community discussion and a
-vote on its formation. 
+vote on its formation.
+
 ![ProcessFlowCommittee2.0.png](/www-policy/assets/images/ProcessFlowCommittee2.0.png
 "ProcessFlowCommittee2.0.png") 
 
