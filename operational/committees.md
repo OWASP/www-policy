@@ -55,11 +55,11 @@ Meetings/Conferences 
 
 
 
-\== **I. Introduction** == The OWASP Global Committees empower members
-of the community to help shape OWASP and make the best decisions for the
-Foundation. The goal of the Global Committees 2.0 plan is to streamline
-the process for any member of the OWASP community who has an idea to
-improve the Foundation, to have a vehicle to act upon the idea and
+## **I. Introduction** 
+The OWASP Global Committees empower members of the community to help shape OWASP 
+and make the best decisions for the Foundation. The goal of the Global Committees 
+2.0 plan is to streamline the process for any member of the OWASP community who 
+has an idea to improve the Foundation, to have a vehicle to act upon the idea and
 successfully implement it.
 
 ## **II. High-Level Proposal**
