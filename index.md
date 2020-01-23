@@ -7,7 +7,7 @@ title: Policies & Procedures
 
 ## Rules of Procedure
 Policies and Procedures adopted by the Global Board for OWASP Operations. Last edition: xxxx-xx-xx
-{% assign pages = site.pages | sort: 'title' | limit: 1000 %}
+{% assign pages = site.pages | where_exp: "page", "page.document contains 'Rules of Procedure'" | sort: 'title' | limit: 1000 %}
 <ul>
 {% for page in pages %}
  {% if page.path contains 'operational/' %}
