@@ -2,7 +2,7 @@
 
 title: Branding Guidelines
 layout: col-document
-document: Rules of Procedure
+document: 
 tags: Rules of Procedure
 
 ---
