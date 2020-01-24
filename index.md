@@ -5,6 +5,8 @@ title: Policies & Procedures
 
 ---
 
+<!-- rebuild 1 -->
+
 ## Rules of Procedure
 Policies and Procedures adopted by the Global Board for OWASP Operations. Last edition: xxxx-xx-xx
 {% assign pages = site.pages | where_exp: "page", "page.document contains 'Rules of Procedure'" | sort: 'title' | limit: 1000 %}
