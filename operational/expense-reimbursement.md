@@ -20,12 +20,32 @@ In the course of fulfilling the mission and business interests of the OWASP Foun
 
 ## Fair and Reasonable Expenses
 Generally, the policy of the Foundation is that all expenses should be "fair and reasonable" as measured by leadership, the community, and the standards for non-profit foundations. Historical approval of expenses does not obligate the Foundation to appoval like expenses in the future. Those items which are considered fair and reasonable include:
+
 - Chapter Specific
-  - Event Services, Catering, and Space for Chapter Meetings
+  - Food and drink for chapter events
+  - Venue rental fee for chapter meetings
+  - Travel expenses for speakers for local events
+  - Payments for trainers at events
+  - Infrastructure costs, such as projectors, tablets, needed for meetings
+  - Annual “Thank You” dinner for chapter leaders/volunteers
+  - Food and drink for Chapter Board meetings
+  - Travel and parking for chapter leaders to attend chapter events
+  - Travel, food, and parking for other events where chapter has a table/booth
+  - Travel, food, and parking for other events where chapter representative is speaking on behalf of OWASP
+  - Travel expenses and food for chapter leaders attending Global AppSec conferences
+  - Costs for marketing, such as Google ads, to enhance presence at events
+  - Event management software solutions, such as Eventbrite, Boomset, Sched, etc.
+  - Transfers of funds to OWASP Projects
+  - Shipping and storage costs for events and equipment
+  - Raffle prizes and swag
+  - Literature costs
+  - Signage, tablecloth, banner costs
+
 - Project Specific
   - Graphic Design
   - Technical Contractor
   - Software Licenses
+  
 - Applicable to Chapters, Projects and Committees
   - Annual Celebratory Leader Gatherings
   - Printing
