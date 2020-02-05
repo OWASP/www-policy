@@ -22,6 +22,9 @@ In the course of fulfilling the mission and business interests of the OWASP Foun
 Generally, the policy of the Foundation is that all expenses should be "fair and reasonable" as measured by leadership, the community, and the standards for non-profit foundations. Historical approval of expenses does not obligate the Foundation to appoval like expenses in the future. Those items which are considered fair and reasonable include:
 - Chapter Specific
   - Event Services, Catering, and Space for Chapter Meetings
+  - Laptops and A/V equipment for broadcasting or recording meetings
+  - Books for study group participants
+  - Giveaways for meeting attendees
 - Project Specific
   - Graphic Design
   - Technical Contractor
