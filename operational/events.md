@@ -60,7 +60,7 @@ How sourced and what do they get?
 
 General Process and Highlights
 
-- Event Teams must apply and be approved
+- Event Teams must [apply](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19) and be approved to host an OWASP Branded Regional/Local Event
 - An Event Budget must be provided as part of the application process
 - If selected the Event Team must acknowledge receipt of and their agreement with these policies
 - OWASP Foundation staff and local volunteers collaborate to host a successful event
