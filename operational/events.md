@@ -16,7 +16,7 @@ All OWASP events must be conducted in a manner consistent with the OWASP Mission
 
 ## Speaker/Trainer policy
 
-Training providers and Speakers for both Global AppSec and Regional Events are required to sign and adhere to the terms of the [speaker/trainer agreement](/www-policy/legal/speaker-agreement.html). An online version can be provided to Regional Event Teams upon request. Failure by Trainers or speakers to execute this agreement within seven days of the event are minimally grounds for cancellation. While the complete terms are included in the agreement it should be highlightes that:
+Training providers and Speakers for both Global AppSec and Regional Events are required to sign and adhere to the terms of the [speaker/trainer agreement](/www-policy/legal/speaker-agreement). An online version can be provided to Regional Event Teams upon request. Failure by Trainers or speakers to execute this agreement within seven days of the event are minimally grounds for cancellation. While the complete terms are included in the agreement it should be highlightes that:
 - Speakers do not any receive compensation for their participation
 - Travel expenses are not reimburseable for Speakers or Trainers
 
