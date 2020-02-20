@@ -31,7 +31,7 @@ As a Presenter, I will receive a single non-transferable admission pass to the e
 
 I understand that the views and opinions expressed at the Conference will be mine and not those of the Company. 
 
-Presenters are encouraged to include their contact information when introducing themselves and their company logo if they want to on the corresponding slide, but may NOT include their logo on any other slide or handout materials. Presenters are to avoid any appearance of commercialism in their session and presentations are to be of a technical or solutions emphasis. Further, I understand that the program tracks of the Conference/event/chapter are an educational event, not a sales or marketing platform. I agree that my presentation(s) will be an objective review of the topic on which I am presenting, and will not contain any content that is a sales or promotional pitch for any specific product(s) or company(ies). My materials will also be reflective of the current status of the topic(s) I am addressing. 
+Presenters are encouraged to include their contact information when introducing themselves and their company logo if they want to on the corresponding slide, but are discouraged from including their logo on any other slide or handout materials. Presenters are to avoid any appearance of commercialism in their session and presentations are to be of a technical or solutions emphasis. Further, I understand that the program tracks of the Conference/event/chapter are an educational event, not a sales or marketing platform. I agree that my presentation(s) will be an objective review of the topic on which I am presenting, and will not contain any content that is a sales or promotional pitch for any specific product(s) or company(ies). My materials will also be reflective of the current status of the topic(s) I am addressing. 
 
 I agree that the information contained in my presentation(s) or related presentation materials (a) will be factual and not misleading, (b) will not violate any obligation of confidentiality that I (or my company or 2 organization) has with any third party, (c) will not violate the intellectual property of any third party and (d) will not defame any third party. 
 
@@ -39,11 +39,13 @@ In addition, I agree that Company events are not an appropriate forum for disclo
 
 I may use the handout materials, presentation, visual aids and any other material prepared by me for the above-mentioned presentation in any manner I desire, including publication. Papers and illustrations will not be returned. 
 
-If my session includes a presentation, I will use the Conference Template OWASP Presentation Template. I will submit to the Company’s Event Leader my presentation(s) in one of the previous formats no later than 15 days prior to the Conference. Should the presentation change after it has been submitted, I agree to notify the Company’s Event Leader that the presentation has changed and I will submit the changed presentation as soon as feasible and at least 24 hours prior to my scheduled session(s). 
+Except for TRAINERS, if my session includes a presentation, I will use the Conference Template OWASP Presentation Template. I will submit to the Company’s Event Leader my presentation(s) in one of the previous formats no later than 15 days prior to the Conference. Should the presentation change after it has been submitted, I agree to notify the Company’s Event Leader that the presentation has changed and I will submit the changed presentation as soon as feasible and at least 24 hours prior to my scheduled session(s). 
 
 <strong>COPYRIGHT PERMISSION</strong>
 
 I understand that the Company may record (audio and/or video) the Conference keynotes and/or sessions, and, that my presentation could be included in any reproduction of those Conference materials. I hereby authorize the Company to capture my keynote and/or session presentation on audio/visual format or a combination thereof for presentation by OWASP Conference Organizers. Accordingly, for my keynote and/or sessions, I grant the Company the right to: (1) Reproduce and distribute the handout materials in any format including paper and electronic formats to any audience, and (2) Distribute written materials to participants of the OWASP Conferences. 
+
+These Copyright Permissions do not apply to TRAINER sessions.
 
 <strong>I UNDERSTAND THE FOLLOWING:</strong> 
 
