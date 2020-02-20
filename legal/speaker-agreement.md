@@ -5,8 +5,6 @@ layout: col-sidebar
 
 ---
 
-v. 2019-11-23
-
 Form [available online for signatory](https://owasp.wufoo.com/forms/owasp-keynote-speaker-and-trainer-agreement/)
 
 <strong>PRESENTER AGREEMENT & RELEASE</strong>
@@ -27,7 +25,7 @@ As a Presenter, I will receive a single non-transferable admission pass to the e
 
 <strong>FOR CONFERENCE KEYNOTES</strong>. I will not receive any compensation for presenting at this Conference. However, the Company will reimburse fair and reasonable travel expenses in connection with the event for which I am a Presenter. This reimbursement may include Economy Airfare, or Premium Economy for flights greater than seven hours, lodging, and daily expenses for up to three days incurred while attending the Company’s Conference for which I am a Presenter. If housing arrangements are provided by the Company to the Presenter, separate lodging expenses will not be reimbursed.
 
-<strong>FOR TRAINERS</strong>. I am eligible for up to $5,000 per full day of scheduled sessions for which I present. I must provide appropriate taxing authority documentation as needed for final payment such as a W-9 in the United States. I will not be reimbursed for any travel expenses such as airfare, or any other daily expenses incurred while attending the Company’s Conference for which I am a Presenter. 
+<strong>FOR TRAINERS</strong>. For Global AppSec events I am eligible for up to $5,000 per full day of scheduled sessions for which I present. For other events, I am eligible according to terms in the Call for Trainers. I must provide appropriate taxing authority documentation as needed for final payment such as a W-9 in the United States. I will not be reimbursed for any travel expenses such as airfare, or any other daily expenses incurred while attending the Company’s Conference for which I am a Presenter. 
 
 <strong>CONTENT </strong>
 
@@ -56,3 +54,5 @@ Any claim, controversy or dispute arising out of or relating to this Agreement s
 I AM CONSENTING TO BE BOUND BY THE TERMS AND CONDITIONS CONTAINED IN THIS AGREEMENT. IF I DO NOT AGREE TO THESE TERMS, THEN I WILL NOT BE PERMITTED TO SPEAK AT THE COMPANY’S EVENT, IN WHICH INSTANCE  I WILL NOTIFY THE COMPANY AND I UNDERSTAND I WILL NOT BE ABLE TO PRESENT AT THE EVENT AND WILL BE REPLACED AS A PRESENTER.
 
  The OWASP Foundation Inc., 1200-C Agora Drive, #232 Bel Air, MD 21014
+ 
+v. 2020-02-19
