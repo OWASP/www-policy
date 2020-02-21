@@ -88,19 +88,19 @@ All expense reimbursements and payments will be paid in accordance with the [exp
 - Invoices from vendors should have Net 60 terms and the OWASP Foundation will make a best effort to pay within current Service Level Agreement which the writing of this policy is 22 days. Invoices received within 30 days of when payment is required cannot be guaranteed to be paid on time.
 - Invoices and expense reimbursements submitted more than 60 days following the event will be denied.
 
-### Sponsorships
+## Sponsorships
 
  The OWASP Foundation is the exclusive sponsorship representative of all OWASP Events. At the discretion of the Executive Director, the OWASP Foundation may provide services to Event Teams to identify, solicit, contract, invoice, and collect sponsorship revenue. In collaboration with the Foundation, Event Teams can develop a collection of sponsorship opportunities that offer unique value to partners when supporting these events. Event Teams acknowledge that pricing and benefits for their events must be compatible with offerings for Global AppSec events.
 
 From time to time the OWASP Foundation may offer "bundled" sponsorships that may include benefits delivered through Regional Events. Both the OWASP Foundation and Regional Event Teams will make a best case effort to always ensure each partners' satisfaction with their sponsorship.
 
-### Ticketing
+## Ticketing
 
 All ticketing shall be done through OWASP managed services. Discount codes shall be provided in a reasonable timeframe for event teams to affect those discounts. Each event has a revenue forecast that is built on a particular number of tickets sold at various discounts. Event Teams will make their best effort to achieve the events' revenue forecast.
 
 All OWASP Event Teams and Leaders are explicitly prohibited from offering OWASP Membership sold separately or bundled with any attendee service or ticket.  Ticketing systems may not collect charitable gifts. Upon request, complimentary tickets shall be provided to Board Members and OWASP Staff to all OWASP Events.
 
-### Profit Sharing (internal accounting practices)
+## Profit Sharing (internal accounting practices)
 
 Regional and Local Event Teams who comply with the terms of these policies will share 90% of OWASP event net profits. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. An event Profit and Loss statement will be provided to all parties no later than 120 days following the event. Uncollected sponsorship revenue will not be included in this revenue reconciliation.
 
@@ -127,11 +127,11 @@ All OWASP events must be conducted in a manner consistent with the OWASP Mission
 
 Event Teams are responsible for adequately staffing their event. Often times in addition to the Events Team, events should source a limited volunteers for their event from the Community; but a strong preference shall be given to OWASP Members. Leaders are encouraged to involve both longtime and new members of the OWASP Community. Generally it is recommended that volunteers commit to working at least a minimum of two four-hour shifts in exchange for a Conference pass to their volunteering event. No other compensation will be offered to Event Volunteers.
 
-## Regional Events
+# Regional Events
 
 All of the above policies apply to Regional events. Additionally prior to any public announcements of an event, the Leader must constitute an Event Team, develop a budget and then apply to the OWASP Foundation for event approval and the non exclusive limited use of OWASP trademarks in marketing the event.
 
-### Application Process
+## Application Process
 
 General Process and Highlights
 - Event Teams must [apply](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19)
@@ -148,7 +148,7 @@ Applications to host Regional Events will be evaluated on the following:
 - Date proximity to Global Events
 - Completeness of the application
 
-### Responsibilities
+## Responsibilities
 
 Regional Event Teams are solely responsibility for managing their respective Event. Some of those responsibilities include:
 - All event management logistics, budget management, website content, promotional items, site selection, catering, and venue
@@ -163,10 +163,12 @@ OWASP Foundation Staff is responsible for the following:
 - sponsorships
 - WHAT ELSE?
 
-## Local Events
+# Local Events
 
 All of the above policies apply to Local events. Separately to host a Local Event or a Local Event Partnership, a local OWASP Champion must executive a [Local Event Memo of Understanding](https://owasp.wufoo.com/forms/local-event-partnership/) with the Foundation.
 
-### Responsibilities
+## Responsibilities
 
 Local Event Teams are  responsible for managing all aspects of their Event. The OWASP Champion is solely responsible for ensuring all parties compliance to these terms of this Local Event Partnership and must be a member of the OWASP Foundation.
+
+
