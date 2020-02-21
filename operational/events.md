@@ -10,74 +10,52 @@ tags: Rules of Procedure
 
 {% include draft-notice.html %}
 
+# Classes of Events
 
-## Safe and Fun Networking
-All OWASP events must be conducted in a manner consistent with the OWASP Mission, Principles and [Code of Conduct](/www-policy/operational/code-of-conduct). To ensure a safe, consistent learning and networking experience, OWASP events shall conform to the [Conference & Event Attendee Policy](/www-policy/operational/conferences-events) and in particular its Anti-Harrassment provisions. Additionally, organizers are required to follow the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure GDPR compliance.
+OWASP Events are grouped into three classes: (1) Global, (2) Regional, and (3) Local. Many of the Event policies below apply to all events regardless of class and differences are noted below. At the discretion of the Executive Director, or their designatee, generally the definition of these classes are:
+1. Global: Staff managed events that include training, conference, and an exhibition hosted over a 4-5 day program. Financially supported by Sponsors and Attendee registration fees. Program Teams are constituted to guide and select conference program including keynotes, speakers, and trainers.
+2. Regional. OWASP local chapter managed events hosted over a 1-5 day program includes a conference and also may include  trainings and an exhibition hosted over a 4-5 day program. Supported by Sponsors and Attendee registration fees.
+3. Local. OWASP local chapter managed events that typically only include presentations and may be hosted with a coordinating third party non-profit organization.
 
-## Speaker/Trainer policy
+# General Policies
 
-Training providers and Speakers for both Global AppSec and Regional Events are required to sign and adhere to the terms of the [speaker/trainer agreement](/www-policy/legal/speaker-agreement). An online version can be provided to Regional Event Teams upon request. Failure by Trainers or speakers to execute this agreement within seven days of the event are minimally grounds for cancellation. While the complete terms are included in the agreement it should be highlightes that:
+## Event Teams
+Events shall be organized, managed, and led by an Event Team. Global Events are organized by a per event [Progam Team](/www-policy/operational/program-team) and are selected through a competitive application process. Regional and Local Events may organize their team at their discretion; however it is a requirement that Event Team members also be OWASP Members. Leaders of these Teams should strive to involve both longtime and new members of the OWASP Community. Events should be transparent of who is on its Event Team. Members of Event Teams will be not compensated for their volunteer work but shall receive a conference pass for the event organized.
+
+## Content
+Events offer unique opportunities for potential speakers to share their views with AppSec leaders in the OWASP Community. Where possible organizing teams should source content through a blind review process to ensure the highest integrity and objectivity in its selection. All calls for papers, training, and registration must be open and promoted to the public.
+
+Generally the Community is more receptive to new talks, not ones presented at previous conferences. It is the discretion of the Event Team on the archival of talks following their conference. Content will be shared with the community when possible. OWASP will not incur additional expenses such as web casting, third party hosting sites, or video recording in order to make the content available to those that were not in attendance.
+
+## Keynote, Speaker and Training Agreements
+
+Presenters at OWASP Events are required to sign and adhere to the terms of the [speaker/trainer agreement](/www-policy/legal/speaker-agreement). An online version can be provided to Regional Event Teams upon request. Failure by presenters to execute this agreement within seven days of the event result in their session being cancellation. While the complete terms are included in the agreement it should be highlighted that:
 - Speakers do not any receive compensation for their participation
-- Travel expenses are not reimburseable for Speakers or Trainers
+- Travel expenses are not reimbursable for Speakers or Trainers
 
-## Global AppSec Events
+## Marketing
 
-### Budget/Financials
+Event Teams are responsible for the majority of marketing activities promoting their event.  Additionally the Team is responsible for ensuring event website content is current and when requested, must provide administrative access to OWASP staff. Event Team Leaders will provide content for the ticketing/registration site no later than 15 days prior to registration launch date.
 
-Budgets will be developed based on the proposals received by both vendor and venue proposals and will be presented to the Board of Directors for its approval no later than 16 months prior to the start of the conference. Once approved, the Executive Director, or their designatee, may execute instruments that contractually and financially obligate the OWASP Foundation to execute the event.
+The Foundation will provide social media and email support where possible.
 
-Local host chapters for internal accounting practices may share in Global AppSec event net profits up to 10% based on chapter participation. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. Net profit sharing can be achieved by completing the following:
+## Site Selection/Venue
 
-- Recruiting and supervising local volunteers
-- Participating in the CfT/CfP Review Process
-- Successfully marketing the Global AppSec in the local area (to be tracked by discount code)
-
-### Site Selection/Venue
-
-Cities and venues will be selected through an RFP process. Criteria for selection will include but will not be limited to:
+Cities and venues for OWASP Events shall be selected through an Request for Proposal (RFP) process. Criteria for selection will include but will not be limited to:
 - Accessibility
 - Local community/security community presence
 - Venue availability
 - Value for attendees
 
-### Vendors
+## Vendors
 
-All vendors will be selected through the RFP process. Vendors will be selected based on the value they are able to provide to the conference.
+All vendors shall be selected through the Request for Proposal (RFP) process. Vendors will be selected based on the value they are able to provide to the conference.
 
-### Content
+## Budgets
 
-Content will be created be sources and selected by the Program Team in accordance with the [Program Teams Charter](https://www.globalappsec.org/forms/team_application).  OWASP Staff will be responsible for keynote speakers and non-programmatic content.
+Budgets for all events will be developed based on vendor and venue proposals along with forecasted revenue. Global Event budgets shall be presented to the Board of Directors for its approval no later than 16 months prior to the start of the conference. Regional and Local Events must submit their budget as part of the Event Application Process. Once approved by the Executive Director, or their designatee, they will be the sole executor of instruments that contractually and financially obligate the OWASP Foundation to execute events.
 
-Content will be shared with the community when possible. OWASP will not incur additional expenses such as web casting, third party hosting sites, or video recording in order to make the content available to those that were not in attendance.
-
-### Event Volunteers
-
-How sourced and what do they get?
-
-***
-
-## Regional Event Policy
-
-General Process and Highlights
-
-- Event Teams must [apply](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19) and be approved to host an OWASP Branded Regional/Local Event
-- An Event Budget must be provided as part of the application process
-- If selected the Event Team must acknowledge receipt of and their agreement with these policies
-- OWASP Foundation staff and local volunteers collaborate to host a successful event
-- Contracts along with finanical obligations and revenue must be managed by the OWASP Foundation
-- OWASP Events must provide a safe, and supportive environment for all attendees
-
-All OWASP Events must be approved by OWASP Foundation Staff by submitting an event description and comprehensive budget via a process designated by the Executive Director. Regional events may not take place within 30 days of a Global AppSec Event. Regional events must be conducted in a manner consistent with the OWASP Mission, Principles and [Code of Conduct](/www-policy/operational/code-of-conduct). All regional organizers are required to follow the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure GDPR compliance.
-
-Applications to host Regional Events will be evaluated on the following:
-- Previous experience organizing a Regional Event
-- Historical experiences cooperating with Foundation staff
-- Budget forecasts (balance, not profitability)
-- Community outreach potential
-
-### Budget/Financials
-
-Each application must also include a complete budget. Budgets must be reviewed and approved by the Executive Director. Budget categories will minimally include:
+Budget categories will minimally include:
 
 ```
 Income
@@ -100,8 +78,9 @@ Expenses
    Travel
    Internet
 ```
+## Finance, Invoicing, and Expenses
 
-For internal accounting practices, Local host chapters who comply with the terms of these policies will share 90% of OWASP event net profits. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. A Regional Event Profit and Loss statement will be provided to all parties no later than 120 days following the event. Uncollected sponsorship revenue will not be included in this revenue reconciliation.
+Exercising all necessary due diligence and care, Event Teams and their Leaders shall manage the finances of OWASP events. These efforts shall always be evaluated for their transparency and integrity.
 
 All expense reimbursements and payments will be paid in accordance with the [expense policy](/www-policy/operational/expense-reimbursement) with particular attention to the following:
 - It the responsibility of those incurring expenses to obtain pre-approval of any unbudgeted expense likely to exceed $2,500 and failure to do so may result in your reimbursement request being denied.
@@ -111,55 +90,83 @@ All expense reimbursements and payments will be paid in accordance with the [exp
 
 ### Sponsorships
 
- The OWASP Foundation is the exclusive sponsorship representative of all OWASP Events. At the descretion of the Executive Director, the OWASP Foundation may provide services to Regional Event Teams to identify, solicit, contract, invoice, and collect sponsorship revenue from partners. In collaboration with the Foundation, Regional Event Teams can develop a collection of sponsorship opportunities that offer uniqe value to partners when supporting these events. Regional Event Teams acknowledge that pricing and benefits for these events must be compatible with offerings for Global AppSec events.
+ The OWASP Foundation is the exclusive sponsorship representative of all OWASP Events. At the discretion of the Executive Director, the OWASP Foundation may provide services to Event Teams to identify, solicit, contract, invoice, and collect sponsorship revenue. In collaboration with the Foundation, Event Teams can develop a collection of sponsorship opportunities that offer unique value to partners when supporting these events. Event Teams acknowledge that pricing and benefits for their events must be compatible with offerings for Global AppSec events.
 
-From time to time the OWASP Foundation may offer "bundled" sponsorships that may include benefits delivered through Regional Events. Both the OWASP Foundation and Regional Event Teams will make a best case effort to always ensure each partners' satisfaction with their sponsorship. In those cases where a Corporate Sponsor selects a Regional Event for their exhibition benefit, Regional Event Teams' revenue, for internal accounting practices, shall be increased according to the following schedule:
-
-- $7,000 if the event is AppSec California
-- $5,000 for Event Revenue more than $250,000
-- $2,500 for Event Revenue more than $100,000 but less than $249,999
-- $1,000 for Event Revenue more up to $99,999
-
-Additionally any other Sponsor Benefits beyond the standard base Event Sponsorship delivered through a Regional Event Team, shall also increase the Regional Event Teams' revenue, for internal accounting practices, at the list price of those benefits.
+From time to time the OWASP Foundation may offer "bundled" sponsorships that may include benefits delivered through Regional Events. Both the OWASP Foundation and Regional Event Teams will make a best case effort to always ensure each partners' satisfaction with their sponsorship.
 
 ### Ticketing
 
-All ticketing shall be done through OWASP managed services. Discount codes shall be provided in a reasonable timeframe for event teams to affect those discounts. Each event has a revenue forecast that is built on a particular number of tickets sold at various discounts. The Regional Event Team will make its best effort to achieve the events' revenue forecast.
+All ticketing shall be done through OWASP managed services. Discount codes shall be provided in a reasonable timeframe for event teams to affect those discounts. Each event has a revenue forecast that is built on a particular number of tickets sold at various discounts. Event Teams will make their best effort to achieve the events' revenue forecast.
 
-Both Global and Regional Event Teams are explicity prohibited from offering OWASP Membership sold separetely or bundled with any attendee service or ticket. Complimentary tickets shall be provided to Board Members and OWASP Staff to all OWASP Events. Ticketing systems may not collect charitble gifts.
+All OWASP Event Teams and Leaders are explicitly prohibited from offering OWASP Membership sold separately or bundled with any attendee service or ticket.  Ticketing systems may not collect charitable gifts. Upon request, complimentary tickets shall be provided to Board Members and OWASP Staff to all OWASP Events.
 
+### Profit Sharing (internal accounting practices)
 
-### Venue
+Regional and Local Event Teams who comply with the terms of these policies will share 90% of OWASP event net profits. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. An event Profit and Loss statement will be provided to all parties no later than 120 days following the event. Uncollected sponsorship revenue will not be included in this revenue reconciliation.
 
-Venue selection is at the organizers’ discretion but should follow an RFP process.
+Local host chapters may share in Global AppSec event net profits up to 10% based on chapter participation. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. Net profit sharing can be achieved by completing the following:
 
-### Vendors
+- Recruiting and supervising local volunteers
+- Participating in the CfT/CfP Review Process
+- Successfully marketing the Global AppSec in the local area (to be tracked by discount code)
 
-Vendor selection is at the organizers’ discretion but should follow an RFP process.
- 
-### Content
+ For each Corporate Sponsorships sold and collection that select a Regional Event, that event's profit and loss statement shall be credited per the following schedule:
 
-All calls for papers, training, and registration must be open and promoted to the public and selected through a non bias review process. Content will be shared with the community when possible.
+- $7,000 if the event is AppSec California
+- $5,000 for total Event Revenue more than $250,000
+- $2,500 for total Event Revenue more than $100,000 but less than $249,999
+- $1,000 for total Event Revenue more up to $99,999
 
-### Marketing
+Additionally any other Sponsor Benefits beyond the standard base Event Sponsorship delivered through a Regional Event , shall also increase the Regional Event Teams' revenue, at the list price of those benefits.
 
-Organizers are responsible for ensuring event website content is current and when requested, must provide administrative access to all event websites to OWASP staff. Organizers will provide content for the registration site no later than 30 days prior to registration launch date.
+## Safe and Fun Networking
 
-Organizers are responsible for the majority of marketing activities promoting the event.  The Foundation will provide social media and email support when possible.
+All OWASP events must be conducted in a manner consistent with the OWASP Mission, Principles and [Code of Conduct](/www-policy/operational/code-of-conduct). To ensure a safe, consistent learning and networking experience, OWASP events shall conform to the [Conference & Event Attendee Policy](/www-policy/operational/conferences-events) and in particular its Anti-Harrassment provisions. Additionally, organizers are required to follow the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure GDPR compliance.
 
-### Organizer Agreement:
+## Event Volunteers
 
-Organizers Shall:
-- Adhere to OWASP code of conduct
-- Submit and adhere to event budget
-- Manage all participant data in accordance with GDPR
-- Provide registration information to
-- Provide discounted and free registrations, not to exceed more than 35% of total registrations
+Event Teams are responsible for adequately staffing their event. Often times in addition to the Events Team, events should source a limited volunteers for their event from the Community; but a strong preference shall be given to OWASP Members. Leaders are encouraged to involve both longtime and new members of the OWASP Community. Generally it is recommended that volunteers commit to working at least a minimum of two four-hour shifts in exchange for a Conference pass to their volunteering event. No other compensation will be offered to Event Volunteers.
 
-Organizers Shall Not:
-- Sign or enter into contracts on behalf of the Foundation
-- Charge any event-related expenses on their personal credit cards (personal travel expenses to the event excluded)
-- Plan a regional event where it's end date is within 30 days of a Global AppSec Event
+## Regional Events
 
+All of the above policies apply to Regional events. Additionally prior to any public announcements of an event, the Leader must constitute an Event Team, develop a budget and then apply to the OWASP Foundation for event approval and the non exclusive limited use of OWASP trademarks in marketing the event.
 
+### Application Process
 
+General Process and Highlights
+- Event Teams must [apply](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19)
+- An Event Budget must be provided as part of the application process
+- If selected the Event Team must acknowledge receipt of and their agreement with these policies
+- OWASP Foundation staff and local volunteers collaborate to host a successful event
+- Contracts along with financial obligations and revenue must be managed by the OWASP Foundation
+
+Applications to host Regional Events will be evaluated on the following:
+- Previous experience organizing a Regional Event
+- Historical experiences cooperating with Foundation staff
+- Budget forecasts (balance, not profitability)
+- Community outreach potential
+- Date proximity to Global Events
+- Completeness of the application
+
+### Responsibilities
+
+Regional Event Teams are solely responsibility for managing their respective Event. Some of those responsibilities include:
+- All event management logistics, budget management, website content, promotional items, site selection, catering, and venue
+- Manage facility space allocation and programming layout
+- Management of other meetings and receptions
+- Graphical design of conference including signage and print materials
+- All other Conference-related activities not explicitly delegated and then accepted by OWASP Staff.
+- Ensure events are conducted in a manner consistent with the OWASP Mission, Principles and [Code of Conduct](/www-policy/operational/code-of-conduct)
+- Comply with the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure GDPR compliance.
+
+OWASP Foundation Staff is responsible for the following:
+- sponsorships
+- WHAT ELSE?
+
+## Local Events
+
+All of the above policies apply to Local events. Separately to host a Local Event or a Local Event Partnership, a local OWASP Champion must executive a [Local Event Memo of Understanding](https://owasp.wufoo.com/forms/local-event-partnership/) with the Foundation.
+
+### Responsibilities
+
+Local Event Teams are  responsible for managing all aspects of their Event. The OWASP Champion is solely responsible for ensuring all parties compliance to these terms of this Local Event Partnership and must be a member of the OWASP Foundation.
