@@ -31,7 +31,7 @@ Generally, the policy of the Foundation is that all expenses should be "fair and
   - Printing
   - Domain Names
 
-There are no pre-set limits for most expense beyond the "fair and reasonable" test; however, it is the responsibility of those incurring an expense to:
+Provided sufficient Chapter or Project balances, there are no pre-set limits for most expense beyond the "fair and reasonable" test; however, it is the responsibility of those incurring an expense to:
 - Obtain pre-approval of any planned expense likely to exceed $2,500
 - When an expense is expected to be more than $5,000, an invoice is required from the vendor for direct remittance.
 
