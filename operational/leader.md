@@ -20,7 +20,7 @@ Leaders shall:
 - Use good faith efforts to be inclusive in their group's work items
 - Follow these and other policies of the OWASP Foundation
 - Protect participant data and ensure GDPR Compliance in proceedings
-- - Annually sign a Leaders' Agreement that includes these Core Principles
+  - Annually sign a Leaders' Agreement that includes these Core Principles
 
 Leaders shall not:
 - Sign agreements on behalf of the OWASP Foundation
