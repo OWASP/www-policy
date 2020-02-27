@@ -35,7 +35,7 @@ Provided sufficient Chapter or Project balances, there are no pre-set limits for
 - No later than 30 days prior to the expense, obtain pre-approval of any planned expense likely to exceed $2,500
 - When an expense is expected to be more than $5,000, an invoice is required from the vendor for direct remittance.
 
-The OWASP Foundation does not condone the consumption of alcohol and expects its staff, members, and partners to use good judgment when entertaining. Alcohol expenses are reimbursable when part of a food bill provided the alcohol costs are no more than 50% of the total expenses for that event.
+The OWASP Foundation does not promote the consumption of alcohol and expects its staff, members, and partners to use good judgment when entertaining. Alcohol expenses are reimbursable when part of a food bill provided the alcohol costs are no more than 50% of the total expenses for that event.
 
 ## Travel
 
