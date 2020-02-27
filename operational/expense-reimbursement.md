@@ -42,7 +42,7 @@ The OWASP Foundation does not promote the consumption of alcohol and expects its
 Good business judgment is always expected when determining the need to travel on behalf of the Foundation where reimbursement is expected. The OWASP Foundation will reimburse travel expenses incurred on behalf of the Foundation for:
 - Board members when traveling to Board Meetings and OWASP Global AppSec conferences
 - Keynote speakers for approved OWASP conference at their respective speaking opportunity
-- Guest speakers, when pre-approved by the Executive Director, for Chapter Events.
+- Guest speakers, when pre-approved by the Executive Director
 - Staff on general business for the Foundation
 
 Travel which is explicitly not reimbursable includes leaders or members attending OWASP Conferences unless as a keynote speaker or in an official capacity as a Director of the Foundation.
