@@ -56,7 +56,7 @@ In cases where lodging is pre-arranged and direct billed by the Foundation as pa
 Expenses, along with receipts for reimbursement, shall be submitted through the OWASP Foundation ticketing system for processing and payment. Please note ALL reimbursement request information, except payment instructions, will be shared publicly in various accounting reports and by submitting an expense reimbursment, you agree to that disclosure.
 
 - Reimbursement requests must be submitted within 60 days of the expense.
-- Requests must include receipts, payment instructions, and supporting documentation.
+- Requests must include itemized receipts, payment instructions, and supporting documentation.
 - Wire transfer reimbursements are net banking fees.
 - Service Level Agreement (SLA) for reimbursements is 22 days provided the information submitted is complete and accurate.
 - Bundling complete trip expenses into one submission is preferred.
