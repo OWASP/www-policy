@@ -47,7 +47,7 @@ Good business judgment is always expected when determining the need to travel on
 
 Travel which is explicitly not reimbursable includes leaders or members attending OWASP Conferences unless as a keynote speaker or in an official capacity as a Director of the Foundation.
 
-Travel expenses include but are not limited to economy airfare, or premium economy if the flight is greater than seven hours, ground transportation, parking, food & beverage, lodging, and other daily business-related expenses. Travel bookings, whenever possible, should be made no later than 21 days prior to departure to reduce costs. When arranging airfare for extended trips, including a weekend night stay at the convenience of the Foundation may result in a cost savings. Extra lodging expenses in these particular extended trip cases may be reimbursable and require pre-approval with additional documentation.
+Travel expenses include but are not limited to economy airfare, or premium economy if the flight is greater than seven hours, ground transportation, parking, food & beverage, lodging, and other daily business-related expenses. Travel bookings, whenever possible, should be made no later than 21 days prior to departure to reduce costs.
 
 In cases where lodging is pre-arranged and direct billed by the Foundation as part of a room block, reimbursement requests for alternative lodging will be denied. Travel benefits are not transferable.
 
