@@ -64,7 +64,7 @@ Expenses, along with receipts for reimbursement, shall be submitted through the 
 
 Approvals for reimbursments shall follow the [Signatory Guidelines](/www-policy/operational/signatory) of the OWASP Foundation. Exception process for denied reimbursments shall be:
 - Email with narrative and expense information sent to the Treasurer
-- Proper compliance to policy and extenduating circumstanced wll be considered.
+- Proper compliance to policy and extenuating circumstances will be considered.
 - In consultation with the Executive Director, Treasurer will make final determination
 
 Our policies explicitly prohibit expenses and reimbursement behavior that personally enrich its Board, leaders, members, staff, or partners. It is a very serious matter if you record false or misleading information on expense reimbursements. You may not request reimbursement for expenses that you did not have or that were not business-related.
