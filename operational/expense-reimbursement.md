@@ -58,7 +58,7 @@ Expenses, along with receipts for reimbursement, shall be submitted through the 
 - Reimbursement requests must be submitted within 60 days of the expense.
 - Requests must include itemized receipts, payment instructions, and supporting documentation.
 - Wire transfer reimbursements are net banking fees.
-- Service Level Agreement (SLA) for reimbursements is 22 days provided the information submitted is complete and accurate.
+- Reimbursements will be made within 30 days provided the information submitted is approved, complete, and accurate.
 - Bundling complete trip expenses into one submission is preferred.
 - When submitting expenses for travel, please subtotal amounts for Transit (Air/train/taxi), Lodging, and Meals.
 
