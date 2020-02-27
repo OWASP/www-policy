@@ -67,7 +67,7 @@ Approvals for reimbursments shall follow the [Signatory Guidelines](/www-policy/
 - Proper compliance to policy and extenuating circumstances will be considered.
 - In consultation with the Executive Director, Treasurer will make final determination
 
-Our policies explicitly prohibit expenses and reimbursement behavior that personally enrich its Board, leaders, members, staff, or partners. It is a very serious matter if you record false or misleading information on expense reimbursements. You may not request reimbursement for expenses that you did not have or that were not business-related.
+It is a very serious matter if you record false or misleading information on expense reimbursements. You may not request reimbursement for expenses that you did not have or that were not business-related.
 
 ## Travel Assistance Programs
 
@@ -75,7 +75,7 @@ From time to time, the OWASP Foundation will budget funds for leaders and member
 
 ## Hardware
 
-Capital asset purchases for chapters and proejcts is strongly discouraged and if over $250 requires pre-approval. The primary reason for this policy is the complexity of warehousing and asset tracking. Capital assets under $2,000 purchased by the Foundation will be expensed and not amortized.
+Capital asset purchases for chapters and projects is strongly discouraged and if over $250 requires pre-approval. The primary reason for this policy is the complexity of warehousing and asset tracking. Capital assets under $2,000 purchased by the Foundation will be expensed and not amortized.
 
 ## OWASP Project Contracting
 
