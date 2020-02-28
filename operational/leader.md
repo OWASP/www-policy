@@ -20,7 +20,7 @@ Leaders shall:
 - Use good faith efforts to be inclusive in their group's work items
 - Follow these and other policies of the OWASP Foundation
 - Protect participant data and ensure GDPR Compliance in proceedings
-  - Annually sign a Leaders' Agreement that includes these Core Principles
+- Annually sign a Leaders Agreement that includes these Core Principles
 
 Leaders shall not:
 - Sign agreements on behalf of the OWASP Foundation
@@ -39,12 +39,12 @@ Chapters, Projects and groups are not legal entities and are organized under the
 ### Leadership
 Leaders serve as the main point of contact for Chapters, Projects, and group and are responsible for ensuring the group complies with OWASP policies while fulfilling its mission and obligations. Leaders shall:
 
-- Publicly list their owasp.org contact information on the OWASP website
-- Consistently maintain OWASP website information in a timely manner
+- Publicly list their owasp.org contact information on the OWASP website.
+- Consistently maintain OWASP website information.
 - Be responsive to all requests generally within 5-7 business days.
-- Serve for a minimum term of 24 months.
-- Administer fair and open elections once every 24 months for Leadership roles in their group
-- Encourage consensus in decision-making and when not possible administer voting amoung OWASP Members
+- Commit to serve for a minimum term of 24 months.
+- Administer fair and open elections as often as once every 24 months for Leadership roles in their group.
+- Encourage consensus in decision-making and when not possible administer voting among OWASP Members.
 
 ### Consensus Driven
 The Foundation strives to operate in a consensus-driven decision making environment. Groups are encouraged to negotiate a common ground with regard to decisions and policy. However, at times it may be necessary to vote on decisions. Only OWASP Members have voting rights and all matters will be decided on a simple majority. Due process is expected and stakeholders should be given sufficient notice of upcoming decisions which might require a formal vote.
@@ -56,7 +56,7 @@ Leaders are required to govern their group in accordance with OWASP Foundation p
 2. If you are unable to resolve at the local level, please contact staff through the Contact form.
 3. If staff is unable to handle your concern or you would like to challenge their feedback/decision, the concern can be raised with the OWASP Board of Directors.
 
-If you feel an Code of Ethics violation has occurred, you may review the Whistleblower Policy for instructions on how to file a complaint.
+If you feel an Code of Ethics violation has occurred, you may review the [Whistleblower Policy](/www-policy/operational/whistleblower) for instructions on how to file a complaint.
 
 ## Section 3: Administration
 
