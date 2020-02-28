@@ -90,13 +90,13 @@ All expense reimbursements and payments will be paid in accordance with the [exp
 
 ## Sponsorships
 
- The OWASP Foundation is the exclusive sponsorship representative of all OWASP Events. At the discretion of the Executive Director, the OWASP Foundation may provide services to Event Teams to identify, solicit, contract, invoice, and collect sponsorship revenue. In collaboration with the Foundation, Event Teams can develop a collection of sponsorship opportunities that offer unique value to partners when supporting these events. Event Teams acknowledge that pricing and benefits for their events must be compatible with offerings for Global AppSec events.
+ The OWASP Foundation is the exclusive sponsorship agent of all OWASP Events. At the discretion of the Executive Director, the OWASP Foundation may provide services to Event Teams to identify, solicit, contract, invoice, and collect sponsorship revenue. In collaboration with the Foundation, Event Teams can develop a collection of sponsorship opportunities that offer unique value to partners when supporting these events. Event Teams acknowledge that pricing and benefits for their events must be compatible with offerings for Global AppSec events.
 
 From time to time the OWASP Foundation may offer "bundled" sponsorships that may include benefits delivered through Regional Events. Both the OWASP Foundation and Regional Event Teams will make a best case effort to always ensure each partners' satisfaction with their sponsorship.
 
 ## Ticketing
 
-All ticketing shall be done through OWASP managed services. Discount codes shall be provided in a reasonable timeframe for event teams to affect those discounts. Each event has a revenue forecast that is built on a particular number of tickets sold at various discounts. Event Teams will make their best effort to achieve the events' revenue forecast.
+All ticketing shall be done through OWASP managed services. Discount code requests shall be provided no later than 15 days prior to the opening of event ticketing. Each event has a revenue forecast that is built on a particular number of tickets sold at various discounts. Event Teams will make their best effort to achieve the events' revenue forecast.
 
 All OWASP Event Teams and Leaders are explicitly prohibited from offering OWASP Membership sold separately or bundled with any attendee service or ticket.  Ticketing systems may not collect charitable gifts. Upon request, complimentary tickets shall be provided to Board Members and OWASP Staff to all OWASP Events.
 
