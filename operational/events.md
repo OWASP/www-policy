@@ -85,7 +85,7 @@ Exercising all necessary due diligence and care, Event Teams and their Leaders s
 All expense reimbursements and payments will be paid in accordance with the [expense policy](/www-policy/operational/expense-reimbursement) with particular attention to the following:
 - It the responsibility of those incurring expenses to obtain pre-approval of any unbudgeted expense likely to exceed $2,500 and failure to do so may result in your reimbursement request being denied.
 - When any expense other than airfare is expected to exceed $5,000, an invoice must be requested from the vendor so the Foundation can remit payment directly.
-- Invoices from vendors should have Net 60 terms and the OWASP Foundation will make a best effort to pay within current Service Level Agreement which the writing of this policy is 22 days. Invoices received within 30 days of when payment is required cannot be guaranteed to be paid on time.
+- Invoices from vendors should have Net 60 terms and the OWASP Foundation will make a best effort to pay within current Service Level Agreement. Invoices received within 30 days of when payment is required cannot be guaranteed to be paid on time.
 - Invoices and expense reimbursements submitted more than 60 days following the event will be denied.
 
 ## Sponsorships
