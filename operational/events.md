@@ -136,6 +136,7 @@ All of the above policies apply to Regional events. Additionally prior to any pu
 General Process and Highlights
 - Event Teams must [apply](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19)
 - An Event Budget must be provided as part of the application process
+- Sponsorship terms and offers shall be provided as part of the application process
 - If selected the Event Team must acknowledge receipt of and their agreement with these policies
 - OWASP Foundation staff and local volunteers collaborate to host a successful event
 - Contracts along with financial obligations and revenue must be managed by the OWASP Foundation
