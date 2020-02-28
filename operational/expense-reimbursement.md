@@ -19,7 +19,7 @@ In the course of fulfilling the mission and business interests of the OWASP Foun
 - General [Service Desk](https://owasporg.atlassian.net/servicedesk/customer/portals){:target='_blank'} (JIRA) for ticketing
 
 ## Fair and Reasonable Expenses
-Generally, the policy of the Foundation is that all expenses should be "fair and reasonable" as measured by leadership, the community, and the standards for non-profit foundations. Historical approval of expenses does not obligate the Foundation to appoval like expenses in the future. Those items which are considered fair and reasonable include:
+Generally, the policy of the Foundation is that all expenses should be "fair and reasonable" as measured by leadership, the community, and the standards for non-profit foundations. Historical approval of expenses does not obligate the Foundation to approval like expenses in the future. Those items which are considered fair and reasonable include:
 - Chapter Specific
   - Event Services, Catering, and Space for Chapter Meetings
 - Project Specific
