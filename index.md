@@ -5,7 +5,7 @@ title: Policies & Procedures
 
 ---
 
-<!-- rebuild 2 -->
+<!-- rebuild 3 -->
 
 ## Rules of Procedure
 Policies and Procedures adopted by the Global Board for OWASP Operations. Last edition: xxxx-xx-xx
