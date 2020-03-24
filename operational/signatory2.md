@@ -7,7 +7,7 @@ tags: Rules of Procedure
 
 ---
 
-{% include draft-notice.html %}
+Adopted by the Board of Directors 24-Mar-2020
 
 ## Financial and Spending Authority
 
