@@ -10,7 +10,7 @@ tags: Rules of Procedure
 {% include draft-notice.html %}
 
 ## Overview
-The OWASP Foundation is a member led organization. Members serve as Board Members, Chapter & Project Leaders, as well as volunteers for our community. Members have a vote in the election of OWASP Leaders. Membership is a priviledge and has dues which are set by the OWASP Board of Directors and are currently $50 per year. Discounts are available for multi-year memberships, for students, and for people living in developing economies which are outlined below.
+The OWASP Foundation is a member led organization. Members serve as Board Members, Chapter & Project Leaders, as well as volunteers for our community. All members have a vote in the election of OWASP Leaders. Membership is a priviledge and has dues which are set by the OWASP Board of Directors and are currently $50 per year. Discounts are available for multi-year memberships, for students, and for people living in developing economies which are outlined below.
 
 ## Membership
 Membership is explictly defined as people or corporations that pay dues. Nearly all OWASP activities are open to both members and nonmembers alike. Some example activities include participating in a Project or Chapter, attending chapter meetings, joining mailing lists or attending events. Merely participating in the activities of the OWASP Foundation does not make that person a Member; membership covers only those who pay dues - as defined below - to the OWASP Foundation.
@@ -54,8 +54,9 @@ of Adjusted Net National Income Per Capita Countries according to the World Bank
 ## Current Honorary Membership / Proposed Complementary Membership
 
 This membership type (formerly known as Honoury Membership) is awarded at the discression of the Foundation on a year-by-year basis to existing members in good standing for their contributions to the Foundation over the previous twelve months. The  means to earn complementary membership for the following year include:
-- Chapter leaders for running chapter meet-ups (6 or more in a given year);
-- Contributions to OWASP Projects (as determined by the Project Leader); or
+- Chapter Leaders for running chapter meet-ups (6 or more in a given year);
+- Project Leaders of active projects (ongoing contributions during the course of the year);
+- Other members contributions to OWASP Projects (as determined by the Project Leader); or
 - Volunteering at Global AppSec Conferences (or qualifying Local AppSec ones). 
 
 Requests for complementary memberships and be [applied for here](https://owasp.wufoo.com/forms/honorary-membership-application/).
