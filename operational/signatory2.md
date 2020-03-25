@@ -1,13 +1,13 @@
 ---
 
-title: Signatory Version 2 (WIP)
+title: Signatory
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
 
 ---
 
-Adopted by the Board of Directors 24-Mar-2020
+Version 2.0, Adopted by the Board of Directors 24-Mar-2020
 
 ## Financial and Spending Authority
 
