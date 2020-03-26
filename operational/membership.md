@@ -47,9 +47,9 @@ of Adjusted Net National Income Per Capita Countries according to the World Bank
 
 **Complementary Membership** Individual Membership offered, dues-free, to existing members in good standing who have contributed materially to the Foundation over the previous twelve months (see below).
 
-**Lifetime Membership** Dues one-time $500. Individuals can choose this membership which terminates upon the death of the member.
+**Lifetime Membership** When a member makes one time non refundable $500 payment to the Foundation, they are granted a lifetime membership which grants them all membership rights, including the ability to vote (subjected to following organisations code of conduct). The term of this membership terminates of death of the member.
 
-**Honorary Lifetime Membership** Lifetime Individual Membership awarded by the Global Board of Directors (see below).
+**Honorary Lifetime Membership** Lifetime Individual Membership as described above, awarded by the Global Board of Directors (see criteria below).
 
 ## Current Honorary Membership / Proposed Complementary Membership
 
