@@ -59,7 +59,7 @@ This membership type (formerly known as Honoury Membership) is awarded at the di
 - Other members contributions to OWASP Projects (as determined by the Project Leader); or
 - Volunteering at Global AppSec Conferences (or qualifying Local AppSec ones). 
 
-Requests for complementary memberships and be [applied for here](https://owasp.wufoo.com/forms/honorary-membership-application/).
+Requests for complementary memberships can be [submitted here](https://owasp.wufoo.com/forms/honorary-membership-application/).
 
 ## Proposed Honorary Lifetime Membership
 
