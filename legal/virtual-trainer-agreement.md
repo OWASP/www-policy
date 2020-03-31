@@ -15,7 +15,7 @@ In the unavoidable situation that I am unable to fulfill my commitment to presen
 
 The Conference program, including dates and sessions times, is designed at the sole discretion of the Company. Reasonable accommodations can be made for schedule requests but cannot always be guaranteed. The Conference program is finalized no later than fourteen (14) days prior to the event and up until that time, any session can be moved or cancelled.
 
-To successfully deliver my session, I may request contact information about my attendees including email addresses. I agree to ONLY USE this information for the purposes of preparing and delivering materials needed for my session associated with this Conference. I additionally agree using attendee contact inromation in ANY OTHER MANNER, and in particular for soliciting future business, is EXPLICITY prohibited and will be prosecuted to the fullest extent of the law. Furthermore I agree that any accepted attendee information provided is subject to GDPR terms and cannot be disclosed to any third party for any reason unless required by law.
+To successfully deliver my session, I may request contact information about my attendees including email addresses. I agree to ONLY USE this information for the purposes of preparing and delivering materials needed for my session associated with this Conference. I additionally agree using attendee contact information in ANY OTHER MANNER, and in particular for soliciting future business, is EXPLICITLY prohibited and will be prosecuted to the fullest extent of the law. Furthermore I agree that any accepted attendee information provided is subject to GDPR terms and cannot be disclosed to any third party for any reason unless required by law.
 
 <strong>REMUNERATION AND PAYMENT</strong>
 
