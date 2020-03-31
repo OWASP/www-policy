@@ -13,9 +13,9 @@ I agree to indemnify and hold harmless the Company against any claims, losses, e
 
 In the unavoidable situation that I am unable to fulfill my commitment to present, I will promptly notify the primary point of contact of the event via telephone/email so that the Company may find an alternate Presenter for my session. If I violate the terms of this agreement or fail to meet any established deadlines, the Company reserves the right to replace me as a Presenter with another presenter from my company or organization or from another company or organization at the sole discretion of the Company.
 
-The Conference program, including dates and sessions times, is designed at the sole discretion of the Company. Reasonable accommodations can be made for schedule requests but cannot always be guaranteed. The Conference program is finalized no later than fourteen (14) days prior to the event and up until that time, any session can be moved or cancelled.
+The Conference program, including dates and sessions times, is designed at the sole discretion of the Company. The Conference program is finalized no later than fourteen (14) days prior to the event and up until that time, any session can be moved or cancelled.
 
-To successfully deliver my session, I may request contact information about my attendees including email addresses. I agree to ONLY USE this information for the purposes of preparing and delivering materials needed for my session associated with this Conference. I additionally agree using attendee contact information in ANY OTHER MANNER, and in particular for soliciting future business, is EXPLICITLY prohibited and will be prosecuted to the fullest extent of the law. Furthermore I agree that any accepted attendee information provided is subject to GDPR terms and cannot be disclosed to any third party for any reason unless required by law.
+To successfully deliver my session, I may request contact information about my attendees including email addresses. I agree to ONLY use this information for the purposes of preparing and delivering materials needed for my session associated with this Conference. I additionally agree using attendee contact information in ANY OTHER MANNER, and in particular for soliciting future business, is EXPLICITLY prohibited and will be prosecuted to the fullest extent of the law. Furthermore I agree that any accepted attendee information provided is subject to GDPR terms and cannot be disclosed to any third party for any reason unless required by law.
 
 <strong>REMUNERATION AND PAYMENT</strong>
 
@@ -35,12 +35,6 @@ In addition, I agree that Company events are not an appropriate forum for disclo
 
 I may use the handout materials, presentation, visual aids and any other material prepared by me for the above-mentioned presentation in any manner I desire, including publication. Papers and illustrations will not be returned. 
 
-<strong>COPYRIGHT PERMISSION</strong>
-
-I understand that the Company may record (audio and/or video) the Conference keynotes and/or sessions, and, that my presentation could be included in any reproduction of those Conference materials. I hereby authorize the Company to capture my keynote and/or session presentation on audio/visual format or a combination thereof for presentation by OWASP Conference Organizers. Accordingly, for my keynote and/or sessions, I grant the Company the right to: (1) Reproduce and distribute the handout materials in any format including paper and electronic formats to any audience, and (2) Distribute written materials to participants of the OWASP Conferences. 
-
-These Copyright Permissions do not apply to TRAINER sessions.
-
 <strong>I UNDERSTAND THE FOLLOWING:</strong> 
 
 The governing language of this Agreement, the Service, the Application and the Documentation is English.
@@ -49,6 +43,5 @@ Any claim, controversy or dispute arising out of or relating to this Agreement s
 
 I AM CONSENTING TO BE BOUND BY THE TERMS AND CONDITIONS CONTAINED IN THIS AGREEMENT. IF I DO NOT AGREE TO THESE TERMS, THEN I WILL NOT BE PERMITTED TO SPEAK AT THE COMPANY’S EVENT, IN WHICH INSTANCE  I WILL NOTIFY THE COMPANY AND I UNDERSTAND I WILL NOT BE ABLE TO PRESENT AT THE EVENT AND WILL BE REPLACED AS A PRESENTER.
 
-The OWASP Foundation Inc., 1200-C Agora Drive, #232 Bel Air, MD 21014
-
+ The OWASP Foundation Inc., 1200-C Agora Drive, #232 Bel Air, MD 21014
 v 2020-03-31-online-trainer
