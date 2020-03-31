@@ -5,7 +5,7 @@ layout: col-sidebar
 
 ---
 
-Form [available online for signatory](https://owasp.wufoo.com/confirm/owasp-virtual-appsec-days-trainer-agreement/)
+Form [available online for signatory](https://owasp.wufoo.com/forms/owasp-virtual-appsec-days-trainer-agreement/)
 
 I accept the offer of the OWASP Foundation Inc., (the "Company") to participate as a conference keynote, speaker, or trainer (a "Presenter") as part of the event listed below (“Conference”) subject to the terms and conditions set forth herein.
 
