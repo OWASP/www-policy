@@ -8,6 +8,8 @@ tags: Rules of Procedure
 
 ---
 
+**Deprecated by Board of Directors 24-Mar-2020 by the Signatory Policy v2**
+
 ## Signatory
 
 The OWASP Foundation will use the following policy when approving financial transactions or entering into contracts or other agreements requiring a financial commitment by the Foundation, to ensure financial transparency and achieve operational independence from board members:

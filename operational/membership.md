@@ -34,7 +34,7 @@ Individuals can only become a member of the OWASP Foundation by completing the [
 
 Membership Dues are not prorated nor can they be cancelled once purchased. Complimentary, Discounted and Student Memberships are only offered to qualifying individuals. Fraudulent membership submissions will be revoked without notice for no refund. Memberships and member benefits are not transferrable.
 
-The OWASP Foundation is the exclusive grantor of OWASP Memberships. No person or entity can act as a membership agent or grant complimentary memberships except for the OWASP Board of Directors or their nominated agents.
+The OWASP Foundation is the exclusive grantor of OWASP Memberships. No person or entity can act as a membership agent or grant complimentary memberships except for the OWASP Board of Directors. Membership dues are to be paid by the Member and cannot be subsidized or funded by OWASP Projects, Chapters, or Events.
 
 ## Individual Membership Types
 

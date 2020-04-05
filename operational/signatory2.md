@@ -1,13 +1,13 @@
 ---
 
-title: Signatory Version 2 (WIP)
+title: Signatory
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
 
 ---
 
-{% include draft-notice.html %}
+Version 2.0, Adopted by the Board of Directors 24-Mar-2020
 
 ## Financial and Spending Authority
 
@@ -34,6 +34,6 @@ Any transfer of funds from one OWASP account to any other OWASP account exceedin
 
 ### Terms
 
-Payments conforming to the limits and specifications above will be presented to the Chair and Treasurer of OWASP for review prior to final processing. Either the Chair or Treasure may refuse payment with an email recieved within 72 hours of presentation indicating its denial, otherwise those payments are considered approved for processing.
+Payments conforming to the limits and specifications above will be presented to the Chair and Treasurer of OWASP for review prior to final processing. Either the Chair or Treasure may refuse payment with an email received within 72 hours of presentation indicating its denial, otherwise those payments are considered approved for processing.
 
 These polices are subject to annual review by the Board and shall be considered in effect, unless revoked by resolution of the Board. All delegations of authority granted in these policies are limited by the quarterly budget totals as set forth in Quarterly Plan as approved by the Board, which retains the right to alter spending authority limits required.
