@@ -43,10 +43,10 @@ About the OWASP Foundation: The Open Web Application Security Project (OWASP) is
 ##  Screen Resolution Marks
 (Right mouse click to Save Image As...)
 
-##### Combination Mark (Logo + Wordmark w/TM) 
+#### Combination Mark (Logo + Wordmark w/TM) 
 ![Combination Mark (Logo + Wordmark w/TM)](/www-policy/branding-assets/OWASP-Combination-mark-tm.jpg)
 
-##### Logo Mark (Logo w/TM) 
+#### Logo Mark (Logo w/TM) 
 ![Combination Mark (Logo + Wordmark w/TM)](/www-policy/branding-assets/OWASP-logo-tm.jpg)
 
 ##  Assets and Collatoral
