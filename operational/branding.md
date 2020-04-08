@@ -40,12 +40,13 @@ OWASP does not endorse any product, services or tools. The following disclaimer/
 
 About the OWASP Foundation: The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible, so that individuals and organizations worldwide can make informed decisions about true software security risks. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license. You'll find everything about OWASP linked from our wiki and current information on our OWASP Blog. OWASP does not endorse or recommend any product or service This allows our community to remain vendor neutral with the collective wisdom of the best minds in software security worldwide.
 
-##  Screen Resolution Marks (Right mouse click to Save Image As...)
+##  Screen Resolution Marks
+(Right mouse click to Save Image As...)
 
-#### Combination Mark (Logo + Wordmark w/TM) 
+##### Combination Mark (Logo + Wordmark w/TM) 
 ![Combination Mark (Logo + Wordmark w/TM)](/www-policy/branding-assets/OWASP-Combination-mark-tm.jpg)
 
-#### Logo Mark (Logo w/TM) 
+##### Logo Mark (Logo w/TM) 
 ![Combination Mark (Logo + Wordmark w/TM)](/www-policy/branding-assets/OWASP-logo-tm.jpg)
 
 ##  Assets and Collatoral
