@@ -373,7 +373,7 @@ Employees share the responsibility of identifying violators of this policy. If y
  
 ## BENEFITS
 
-A benefits package is provided to eligible employees through The OWASP Foundation’s co-employment relationship with Insperity. Details describing these benefits, including eligibility information, can be found in the Benefits Book provided to each employee when hired. Additionally, you can call the Insperity Contact Center at 1-866-715-3552, 7:00 a.m. – 7:00 p.m. CT, Monday through Friday for more information on the benefits available to you from Insperity.
+A benefits package is provided to eligible employees through The OWASP Foundation’s co-employment relationship with Insperity. Details describing these benefits, including eligibility information, can be found in the Benefits Book provided to each employee when hired. Benefits begin on the first day of employment. Additionally, you can call the Insperity Contact Center at 1-866-715-3552, 7:00 a.m. – 7:00 p.m. CT, Monday through Friday for more information on the benefits available to you from Insperity.
 
 The costs of these benefits for the employee and their dependents may be subsidized by the company. Insurance plans are renewed annually and subsidies may change from time to time. 
 
