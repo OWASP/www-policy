@@ -10,7 +10,7 @@ tags: Rules of Procedure
 {% include draft-notice.html %}
 
 ## Overview
-The OWASP Foundation is a member led organization. Members serve as Board Members, Leaders, and volunteers for our community. Members have a vote in the election of OWASP Leaders. Membership is a priviledge has dues which are set by the OWASP Board of Directors and are currently $50 per year. Discounts are available for multi-year memberships and for people living in developing economies and are outlined below.
+The OWASP Foundation is a member led organization. Members serve as Board Members, Leaders, and volunteers for our community. Members have a vote in the election of OWASP Leaders. Membership is a priviledge guided by the [Code of Conduct](/www-policy/operational/code-of-conduct) which has dues that are set by the OWASP Board of Directors and are currently $50 per year. Discounts are available for multi-year memberships and for people living in developing economies and are outlined below.
 
 ## Membership
 Membership is explictly defined as people or corporations that pay dues. Nearly all OWASP activities are open to both members and nonmembers. Some example activities include participating in a Project or Chapter, attending chapter meetings, joining mailing lists or attending events. Merely participating in the activities of the OWASP Foundation does not make that person a Member; membership includes only those who pay dues to the OWASP Foundation.
