@@ -377,6 +377,12 @@ A benefits package is provided to eligible employees through The OWASP Foundatio
 
 The costs of these benefits for the employee and their dependents may be subsidized by the company. Insurance plans are renewed annually and subsidies may change from time to time. 
 
+Below is a list of the 2020 Plans, Terms, and rates.
+- [Benefits at a Glance](/www-policy/employee/2020-Freedom-Premier-BAAG.pdf)
+- [Benefits Book](/www-policy/employee/2020-Freedom-Premier-Benefits-Book.pdf)
+- [ 2020 Rate Sheet](/www-policy/employee/2020-Employee-Contributions-Report.pdf)
+
+
 <a name="holidays"></a>
 ## HOLIDAYS
 
