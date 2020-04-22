@@ -60,7 +60,7 @@ OWASP Corporate Logo
 Templates
 - Slide Templates
    - Google Slides
-   - Microsoft PowerPoint
+   - [Microsoft PowerPoint](/www-policy/branding-assets/OWASP_Template_r5.potx)
 
 Typefaces
 - Similar to House Gothic
