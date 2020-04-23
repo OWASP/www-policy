@@ -59,8 +59,8 @@ OWASP Corporate Logo
 
 Templates
 - Slide Templates
-   - Google Slides
-   - [Microsoft PowerPoint](/www-policy/branding-assets/OWASP_Template_r5.potx) for Virtual AppSec Days
+   - [Google Slides](https://docs.google.com/presentation/d/1tbvT9WDb0q6RN9OgsAHBjN0QHNPZay8WSule74MzzZ4/edit?usp=sharing)
+   - [Microsoft PowerPoint](/www-policy/branding-assets/OWASP_Generic_Template_r1.potx)
 
 Typefaces
 - Similar to House Gothic
