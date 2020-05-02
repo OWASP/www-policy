@@ -15,7 +15,7 @@ The OWASP Foundation is a member led organization. Members serve as Board Member
 ## Membership
 Membership is explictly defined as people or corporations that pay dues. Nearly all OWASP activities are open to both members and nonmembers. Some example activities include participating in a Project or Chapter, attending chapter meetings, joining mailing lists or attending events. Merely participating in the activities of the OWASP Foundation does not make that person a Member; membership includes only those who pay dues to the OWASP Foundation.
 
-Individual Members can check their Membership Status, renewal dates, and for auto-renewing Memberships update their billing information by visiting the [Manage your Membership Form](/manage-membrship). Members must provide the email address used when applying for membership, and if a member matches that address, an email will be sent to verify or update membership.
+Individual Members can check their Membership Status, renewal dates, and for auto-renewing Memberships update their billing information by visiting the [Manage your Membership Form](/manage-membership). Members must provide the email address used when applying for membership, and if a member matches that address, an email will be sent to verify or update membership.
 
 While the Foundation will make diligent efforts to inform members of their membership - in particular expiration dates - it is the sole responsibility of the member to manage their membership and renewals.
 
