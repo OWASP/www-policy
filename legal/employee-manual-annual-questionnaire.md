@@ -12,7 +12,7 @@ Name of employee: __________________________
 
 I acknowledge that I have received a copy of the OWASP Employee Handbook dated: 2019-11-01. I understand that this employee handbook replaces any and all prior verbal and written communications regarding OWASP working conditions, policies, procedures, appeal processes, and benefits.
 
-I have read and understood the contents of this handbook and will act in accord with these policies and procedures as a condition of my employment with (Your Company Name).
+I have read and understood the contents of this handbook and will act in accordance with these policies and procedures as a condition of my employment with the OWASP Foundation.
 
 I also acknowledge that the handbook contains an employment-at-will provision that states:
 
