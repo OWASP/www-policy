@@ -7,7 +7,8 @@ layout: col-sidebar
 
 
 ```
-Name of employee:
+
+Name of employee: __________________________
 
 I acknowledge that I have received a copy of the OWASP Employee Handbook dated: 2019-11-01. I understand that this employee handbook replaces any and all prior verbal and written communications regarding OWASP working conditions, policies, procedures, appeal processes, and benefits.
 
