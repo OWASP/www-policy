@@ -6,8 +6,6 @@ layout: col-sidebar
 ---
 
 
-## Employee Manual Annual Acknowledgment:
-
 ```
 Name of employee:
 
@@ -21,6 +19,8 @@ Your employment with The OWASP Foundation is at-will which means that you or The
 
 Finally, I understand that the contents of this employee handbook are simply policies and guidelines, not a contract or implied contract with employees. The contents of the employee handbook may change at any time.
 
+
 Signature ___________________________
+
 Date: _______________________________
 ```
