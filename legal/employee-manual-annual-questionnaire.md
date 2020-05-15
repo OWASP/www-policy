@@ -5,6 +5,7 @@ layout: col-sidebar
 
 ---
 
+[Downloadable PDF](/www-policy/legal/2020-Employee-Manual-Annual-Acknowledgement.pdf)
 
 ```
 
