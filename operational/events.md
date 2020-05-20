@@ -110,7 +110,7 @@ Local host chapters may share in Global AppSec event net profits up to 10% based
 - Participating in the CfT/CfP Review Process
 - Successfully marketing the Global AppSec in the local area (to be tracked by discount code)
 
- For each Corporate Sponsorships sold and collection that select a Regional Event, that event's profit and loss statement shall be credited per the following schedule:
+ For each Corporate Sponsorships sold and collected that select a Regional Event, that event's profit and loss statement shall be credited per the following schedule:
 
 - $7,000 if the event is AppSec California
 - $5,000 for total Event Revenue more than $250,000
