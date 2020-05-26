@@ -50,24 +50,3 @@ The primary purpose of the OWASP Community Review (CR) is to systematically impr
 4. Where members are invited, invitations are valid for seven days, will be made via email on or before December 1st, and will be revoked once expired
 5. Project and Chapter Leader members cannot serve consecutive year terms
 
-
-## FAQ’s
-Q1: What is a Community Review?
-A review process that is used to systematically improve policies with regards to services, events, chapters, projects, committees, and programs that drive the visibility and evolution of safety and security of the world’s software.
-
-Q2: Why is OWASP looking to develop a Community Review? 
-To harmonize policies and while giving OWASP Members the opportunity to contribute to the success and health of the organization by driving policies that meet the OWASP mission.
-
-Q3: What will require Community Review?
-Policy documents
-
-Q4: Who can participate in the Community Review?
-Anyone who is an OWASP Member can participate in the Community Review.
-
-Q5: How will the Community Review be conducted? 
-
-Q6: Where will this Community Review be accessible? (i.e., OWASP Website)
-
-Q7: How will the Community Review be announced?
-An email invitation will be sent out the all currently paid OWASP members with instructions and deadline dates.
-
