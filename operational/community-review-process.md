@@ -14,7 +14,9 @@ The primary purpose of the OWASP Community Review (CR) is to systematically impr
 
 ## Key Attributes
 - Members have a voice in Foundation Policy
+- Policy commenting shall be done in a fashion that protects disenting opinions
 - A Policy Review Team will be created each calendar year for policy review
+- All comments to policies will be answered
 - Policies will be approved by the Policy Review Team and Board of Directors
  
 ## Review/Approval Process
@@ -28,8 +30,8 @@ The primary purpose of the OWASP Community Review (CR) is to systematically impr
   - OWASP Review Team has 30 days to review all comments.
   - Comments can either be:
     - Accepted: Means the PRT agreed exactly with the comment and change proposed by the commenter, which results in changes made to the policy. 
-    - Revised:  Means the PRT agrees with the comment (at least in part) and implements a change that is not exactly what the commenter proposed, still resulting in changes made to the policy.
-    - Rejected -Means the PRT does not agree to make the change or cannot come to a consensus to make changes necessary to address the comment. A rational should be provided to explain why the comment is being rejected.
+    - Revised: Means the PRT agrees with the comment (at least in part) and implements a change that is not exactly what the commenter proposed, still resulting in changes made to the policy.
+    - Rejected: Means the PRT does not agree to make the change or cannot come to a consensus to make changes necessary to address the comment. A rational should be provided to explain why the comment is being rejected.
     - Comments along with the comment resolution document will be posted to the website
 6. Once the comments have been reviewed and changes made to the policy based on comments that have been accepted or revised, the Policy Review Team votes to recommend to the OWASP Board the approval of the final document.
 7. Policy Review Team sends the policy and comment resolution document along with their recommendation for approval to the OWASP Board.
