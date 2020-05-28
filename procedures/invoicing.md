@@ -1,0 +1,52 @@
+---
+
+title: Invoice Process
+layout: col-sidebar
+
+---
+v1 
+
+## Invoice Process
+
+1. Opportunity in Copper is moved by Kelly from “60-Contact-Sent” to “75-Contract-Signed” stage
+2. Automation in Copper creates:
+  - Todo for Lisa: Collect Corporate Assets via https://owasp.wufoo.com/forms/corporate-supporter-assets/
+  - Todo for Lisa: Post Corporate Assets on Event/Main website as appropriate
+  - Todo for Dawn: Create invoice in Stripe
+3. Create Invoice in Stripe
+  - Navigate in Copper to Opportunity
+  - Copy the Email address of the Opportinity Primary Contact
+  - Login to Stripe
+  - Validate or Create Customer in Stripe
+    - Search for email address of Opportunity Contact
+    - If not found, add Contact into Stripe
+      - Name is person’s name
+      - Click on Company Name for Billing Details (Address)
+    - Use company name in Address Line 1
+    - If Billing Details are missing assign task to Kelly (or review documents in DocuSign section of Opportunity).
+    - Select Language (if appropriate)
+    - Select Currency of the invoice (not necessarily the country of the company)
+    - Add Customer
+4. Navigate in Stripe to Customers > Invoices
+5. Select NEW Invoice
+  - Enter Customer Email
+  - Enter Item as {item - detail} as in “Event Sponsorship - 2020 Summer of Security” or “Corporate Membership - Annual”
+  - Use Memo field for Corporate Memberships ONLY and include:
+```
+Summary of OWASP Corporate Membership Benefits:
+
+- Listing in rotation as Corporate Supporter site-wide on https://owasp.org/
+- Up to $2,500 of your Fee can be applied to Corporate Sponsorship https://owasp.org/pages/corporate-sponsorships
+- Public acknowledgment on various other channels.
+```
+6. Send Invoice
+  - Validate customer email address
+  - CC accounting@owasp.com, kelly.santalucia@owasp.com
+  - Press Send Invoice
+7. Update Copper
+  - From Stripe Copy 12 digit Invoice number
+  - Return to Copper and the Opportunity
+  - Paste Invoice number into “Invoice number” field
+  - Change “Invoice Date” to “today”
+  - Change opportunity stage from “75-Contract-Signed” to “90-Invoice-Sent”
+8. Close Task as done
