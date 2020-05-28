@@ -6,8 +6,6 @@ layout: col-sidebar
 ---
 v1 
 
-## Invoice Process
-
 1. Opportunity in Copper is moved by Kelly from “60-Contact-Sent” to “75-Contract-Signed” stage
 2. Automation in Copper creates:
   - Todo for Lisa: Collect Corporate Assets via https://owasp.wufoo.com/forms/corporate-supporter-assets/
