@@ -30,6 +30,7 @@ v1
   - Enter Customer Email
   - Enter Item as {item - detail} as in “Event Sponsorship - 2020 Summer of Security” or “Corporate Membership - Annual”
   - Use Memo field for Corporate Memberships ONLY and include:
+
 ```
 Summary of OWASP Corporate Membership Benefits:
 
@@ -37,6 +38,7 @@ Summary of OWASP Corporate Membership Benefits:
 - Up to $2,500 of your Fee can be applied to Corporate Sponsorship https://owasp.org/pages/corporate-sponsorships
 - Public acknowledgment on various other channels.
 ```
+
 6. Send Invoice
   - Validate customer email address
   - CC accounting@owasp.com, kelly.santalucia@owasp.com
@@ -48,3 +50,7 @@ Summary of OWASP Corporate Membership Benefits:
   - Change “Invoice Date” to “today”
   - Change opportunity stage from “75-Contract-Signed” to “90-Invoice-Sent”
 8. Close Task as done
+9. Virtual accounting will enter invoice received via email to QuickBooks
+10. Customer can pay via CC or wire transfer directly to Stripe
+10. Virtual accounting will mark invoice paid once payment recieved via Stripe
+11. At anytime staff/Virtual can check Stripe for status of open invoices
