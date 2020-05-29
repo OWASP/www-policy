@@ -53,4 +53,4 @@ Summary of OWASP Corporate Membership Benefits:
 9. Virtual accounting will enter invoice received via email to QuickBooks
 10. Customer can pay via CC or wire transfer directly to Stripe
 10. Virtual accounting will mark invoice paid once payment recieved via Stripe
-11. At anytime staff/Virtual can check Stripe for status of open invoices
+11. At anytime staff/Virtual can [check Stripe for status of open invoices](https://dashboard.stripe.com/invoices?closed=false&status=open)
