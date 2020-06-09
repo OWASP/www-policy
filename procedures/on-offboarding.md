@@ -21,6 +21,7 @@ v2020.6.1
 5. Add to [Copper](https://www.copper.com/)
     - Add to Staff Team in Copper
 6. Add to [Slack](https://owaspstaff.slack.com/admin)
+7. Add to [Spanning Backup](https://us.spanningbackup.com/app/)
 7. Add to other services as required by position
     - [Eventbrite](https://www.eventbrite.com/)
     - [Submittable](https://www.submittable.com/)
@@ -54,6 +55,7 @@ v2020.6.1
 5. Remove from [Copper](https://www.copper.com/)
     - Remove from Staff Team in Copper
 6. Remove from [Slack](https://owaspstaff.slack.com/admin)
+7. Remove [Spanning Backup](https://us.spanningbackup.com/app/)
 7. Remove from other services, if added:
     - [Eventbrite](https://www.eventbrite.com/)
     - [Submittable](https://www.submittable.com/)
