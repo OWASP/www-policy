@@ -12,6 +12,7 @@ v2020.6.1
     - Add to staff@owasp.org group (this also adds the person to the Staff Time-Off Calendar and OWASP-Staff Shared Drive)
     - Add to other groups as appropriate for position
     - Add to other shared drives as appropriate for position
+    - Add to [Spanning Backup](https://us.spanningbackup.com/app/)
 2. Add to [LastPass](https://www.lastpass.com) 
     - Assign to General Folder
     - Assign to other folders as appropriate for position
@@ -21,7 +22,6 @@ v2020.6.1
 5. Add to [Copper](https://www.copper.com/)
     - Add to Staff Team in Copper
 6. Add to [Slack](https://owaspstaff.slack.com/admin)
-7. Add to [Spanning Backup](https://us.spanningbackup.com/app/)
 7. Add to other services as required by position
     - [Eventbrite](https://www.eventbrite.com/)
     - [Submittable](https://www.submittable.com/)
@@ -47,6 +47,7 @@ v2020.6.1
     - Remove from staff@owasp.org group
     - Remove from other groups
     - Remove from other shared drives
+    - Remove from [Spanning Backup](https://us.spanningbackup.com/app/)
 2. Suspend user in [LastPass](https://www.lastpass.com) 
     - Remove from General Folder
     - Remove from other folders
@@ -55,7 +56,6 @@ v2020.6.1
 5. Remove from [Copper](https://www.copper.com/)
     - Remove from Staff Team in Copper
 6. Remove from [Slack](https://owaspstaff.slack.com/admin)
-7. Remove [Spanning Backup](https://us.spanningbackup.com/app/)
 7. Remove from other services, if added:
     - [Eventbrite](https://www.eventbrite.com/)
     - [Submittable](https://www.submittable.com/)
