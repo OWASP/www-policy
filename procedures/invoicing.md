@@ -24,6 +24,7 @@ v1
     - If Billing Details are missing assign task to Kelly (or review documents in DocuSign section of Opportunity).
     - Select Language (if appropriate)
     - Select Currency of the invoice (not necessarily the country of the company)
+    - If there is a VAT number, select the correct VAT type for Tax ID and put the number in the value box.
     - Add Customer
 4. Navigate in Stripe to Customers > Invoices
 5. Select NEW Invoice
