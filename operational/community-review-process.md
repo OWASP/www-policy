@@ -40,13 +40,13 @@ The primary purpose of the OWASP Community Review (CR) is to systematically impr
 
 ## Policy Review Team
 1. Comprised of seven members who are seated on January 1st of each calendar year.
-2. Membership is limited to Members and must be maintained for continued service
+2. Membership is limited to Members and Membership must be maintained for continued service
 3. Membership of the Team includes
   - One Project Leader from a Flagship Project, as invited in descending website traffic order
   - One Chapter Leader from an active Chapter, as invited in descending website traffic order
   - One Staff Member as assigned by the Executive Director
-  - Up to two not re-elected Board Members from the previous election
-  - As many Board Member nominees who were not elected from the previous election, as invited in descending voting order, to reach a total of seven members
-4. Where members are invited, invitations are valid for seven days, will be made via email on or before December 1st, and will be revoked once expired
-5. Project and Chapter Leader members cannot serve consecutive year terms
+  - Up to two not re-elected Board Members from the the previous election
+  - As many Board Member nominees who were not elected from the previous election, as invited in descending voting order, to reach a total of seven members.
+4. Where members are invited, invitations are valid for seven days, will be made via email on or before December 1st, and will be revoked once expired.
+5. Project and Chapter Leader members cannot serve consecutive year terms.
 
