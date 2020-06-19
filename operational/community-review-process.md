@@ -48,5 +48,6 @@ The primary purpose of the OWASP Community Review (CR) is to systematically impr
   - Up to two not re-elected Board Members from the the previous election
   - As many Board Member nominees who were not elected from the previous election, as invited in descending voting order, to reach a total of seven members.
 4. Where members are invited, invitations are valid for seven days, will be made via email on or before December 1st, and will be revoked once expired.
+4. Should any Policy Review Team members be unable to complete their term, a like selected member will be invited. 
 5. Project and Chapter Leader members cannot serve consecutive year terms.
 
