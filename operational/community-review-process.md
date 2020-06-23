@@ -37,6 +37,7 @@ The primary purpose of the OWASP Community Review (CR) is to systematically impr
 7. Policy Review Team sends the policy and comment resolution document along with their recommendation for approval to the OWASP Board.
 8. The OWASP Board votes to approve the new or revised policy. If the board disapproves the policy, it is sent back along with the rational for the disapproval to the Policy Review Team of the policy for review and revision to policy. Then sent back to the board for approval. 
 9. Once approved, the policy is posted to the OWASP website having removed the "Draft WIP" label
+10. Notice via email will be provided to Members and Leaders of the new policy.
 
 ## Policy Review Team
 1. Comprised of seven members who are seated on January 1st of each calendar year.
