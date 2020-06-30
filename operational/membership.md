@@ -57,7 +57,7 @@ This membership type (formerly known as Honoury Membership) is awarded at the di
 - Chapter Leaders for running chapter meet-ups (6 or more in a given year);
 - Project Leaders of active projects (ongoing contributions during the course of the year);
 - Other members contributions to OWASP Projects (as determined by the Project Leader); or
-- Volunteering at Global AppSec Conferences (or qualifying Local AppSec ones). 
+- Serving on the Planning Committee for Global AppSec Conferences (or qualifying Local AppSec ones). 
 
 Requests for complementary memberships can be [submitted here](https://owasp.wufoo.com/forms/honorary-membership-application/).
 
