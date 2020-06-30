@@ -22,7 +22,8 @@ v2020.6.1
 5. Add to [Copper](https://www.copper.com/)
     - Add to Staff Team in Copper
 6. Add to [Slack](https://owaspstaff.slack.com/admin)
-7. Add to other services as required by position
+7. Add to [JIRA](https://admin.atlassian.com/s/b8f98d6f-1c2b-4c04-b8a7-186d736d50c4/users)
+8. Add to other services as required by position
     - [Eventbrite](https://www.eventbrite.com/)
     - [Submittable](https://www.submittable.com/)
     - [Mailchimp](https://mailchimp.com/)
@@ -38,7 +39,7 @@ v2020.6.1
     - [Combell](https://www.combell.com/en/)
     - [Meetup](https://www.meetup.com/topics/owasp/)
     - [Paypal](https://www.paypal.com/us/home)
-8. Add to owasp.org staff on [website](https://owasp.org/corporate/)
+9. Add to owasp.org staff on [website](https://owasp.org/corporate/)
 
 
 ### Staff Off-boarding
@@ -56,7 +57,8 @@ v2020.6.1
 5. Remove from [Copper](https://www.copper.com/)
     - Remove from Staff Team in Copper
 6. Remove from [Slack](https://owaspstaff.slack.com/admin)
-7. Remove from other services, if added:
+7. Remove from [JIRA](https://admin.atlassian.com/s/b8f98d6f-1c2b-4c04-b8a7-186d736d50c4/users)
+8. Remove from other services, if added:
     - [Eventbrite](https://www.eventbrite.com/)
     - [Submittable](https://www.submittable.com/)
     - [Mailchimp](https://mailchimp.com/)
@@ -72,4 +74,4 @@ v2020.6.1
     - [Combell](https://www.combell.com/en/)
     - [Meetup](https://www.meetup.com/topics/owasp/)
     - [Paypal](https://www.paypal.com/us/home)
-8. Remove from owasp.org staff on [website](https://owasp.org/corporate/)
+9. Remove from owasp.org staff on [website](https://owasp.org/corporate/)
