@@ -1,13 +1,12 @@
 ---
 
-title:  Community Review Process (Draft WIP)
+title:  Community Review Process
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
 
 ---
-
-{% include draft-notice.html %}
+Adopted by the Board on June 23, 2020
 
 ## Overview
 The primary purpose of the OWASP Community Review (CR) is to systematically improve policies with regards to services, events, chapters, projects, committees, and programs that drive the visibility and evolution of safety and security of the world’s software. To achieve this purpose, the Community Review has been designed as an open member facing collaborative review for OWASP Members to provide their input in an easy and inclusive process.
