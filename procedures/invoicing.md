@@ -4,7 +4,9 @@ title: Invoice Process
 layout: col-sidebar
 
 ---
-v1 
+v1.1 
+
+## Creating Invoice
 
 1. Opportunity in Copper is moved by Kelly from “60-Contact-Sent” to “75-Contract-Signed” stage
 2. Automation in Copper creates:
@@ -55,3 +57,20 @@ Summary of OWASP Corporate Membership Benefits:
 10. Customer can pay via CC or wire transfer directly to Stripe
 10. Virtual accounting will mark invoice paid once payment recieved via Stripe
 11. At anytime staff/Virtual can [check Stripe for status of open invoices](https://dashboard.stripe.com/invoices?closed=false&status=open)
+
+## Changing Invoice
+
+Stripe does not allow invoices which have been finalized/sent to be changed. Not the amount, not the date, not the items. This seems to make a good deal of sense for auditing purposes. If an invoice was sent in error, or it contains errors you must:
+
+1. VOID the invoice in Stripe and include a reason in the note field
+2. Download a PDF of the VOIDED invoice 
+3. Email the PDF to accounting@owasp.com, kelly.santalucia@owasp.com
+4. Create a new invoice with the process above
+
+## Payment made to the Wrong Invoice
+
+1. Create a note on the paid invoice of overpayment and which invoice overage will be apply to.
+2. Open the invoice to which the payment was to be made and issue a CREDIT NOTE
+3. Include the paid invoice reference number
+2. Download a PDF of the paid invoice 
+3. Email the PDF to accounting@owasp.com, kelly.santalucia@owasp.com
