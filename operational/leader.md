@@ -24,6 +24,7 @@ Leaders shall:
 
 Leaders shall not:
 - Sign agreements on behalf of the OWASP Foundation
+- Injure or impugn the reputation the Foundation, colleagues, staff, or Directors on social media
 - Collect or accept money on behalf of the OWASP Foundation for any purpose
 - Authorize expenses that are in violation of OWASP Foundation polocy
 
