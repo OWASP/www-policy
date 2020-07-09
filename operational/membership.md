@@ -46,13 +46,9 @@ of Adjusted Net National Income Per Capita Countries according to the World Bank
 
 **Student Membership** Dues $20 per year. Full-time students may apply for this discounted membership. This membership cannot be set to auto-renew.
 
-## Current Honorary Membership
+## Honorary Lifetime Membership
 
-[Apply for Honorary Membership](https://owasp.wufoo.com/forms/honorary-membership-application/)
-
-## Proposed Honorary Lifetime Membership
-
-Honorary Lifetime Membership can be awarded to long-time contributors to the OWASP cause and activities. The Honorary Lifetime Membership program will work as following:
+Honorary Lifetime Membership can be awarded to long-time contributors to the OWASP cause and activities. The Honorary Lifetime Membership program will work as follows:
 - Each year up to three Lifetime Honorary Memberships may be granted.
 - Nominations will be accepted by the Board from staff, Board Members, or other Leaders. Individuals cannot nominate themselves.
 - Nominees will have been a leader and member of the Foundation for at least five years and have held more than one type of leadership role.
