@@ -71,11 +71,11 @@ It is a very serious matter if you record false or misleading information on exp
 
 ## Travel Assistance Programs
 
-From time to time, the OWASP Foundation will budget funds for leaders and members to travel while furthering the mission of the Foundation. All travel reimbursed through the Travel Assistance Program must be pre-approved. The Executive Director along with the Treasurer will define the requirements and limits, along with the process for participating in these programs.
+From time to time, the OWASP Foundation will budget funds for Leaders and Members to travel while furthering the mission of the Foundation. All travel reimbursed through the Travel Assistance Program must be pre-approved. The Executive Director along with staff will define the requirements and limits, along with the process for participating in these programs.
 
 ## Hardware
 
-Capital asset purchases for chapters and projects are strongly discouraged and if over $250 requires pre-approval by the Executive Director. The primary reason for this policy is the complexity of warehousing and asset tracking. Capital assets under $2,000 purchased by the Foundation will be expensed and not amortized, additionally Capital assets under $1,000, when purchased for staff or contractor business use, are removed from Foundation inventory after 12 months of use.
+Capital asset purchases for chapters and projects are strongly discouraged and if over $250 requires pre-approval by the Executive Director. The primary reason for this policy is the complexity of warehousing and asset tracking. Capital assets under $2,000 purchased by the Foundation will be expensed and not amortized, additionally capital assets under $1,000, when purchased for staff or contractor business use, are removed from Foundation inventory after 12 months of use.
 
 ## OWASP Project Contracting
 
