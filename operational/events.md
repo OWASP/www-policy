@@ -107,12 +107,10 @@ Regional and Local Event Teams who comply with the terms of these policies will 
 Local host chapters may share in Global AppSec event net profits up to 10% based on chapter participation. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. Net profit sharing can be achieved by completing the following:
 
 - Recruiting and supervising local volunteers
-- Participating in the CfT/CfP Review Process
 - Successfully marketing the Global AppSec in the local area (to be tracked by discount code)
 
- For each Corporate Sponsorships sold and collected that select a Regional Event, that event's profit and loss statement shall be credited per the following schedule:
+For each Corporate Sponsorships sold and collected that select a Regional Event, that event's profit and loss statement shall be credited per the following schedule:
 
-- $7,000 if the event is AppSec California
 - $5,000 for total Event Revenue more than $250,000
 - $2,500 for total Event Revenue more than $100,000 but less than $249,999
 - $1,000 for total Event Revenue more up to $99,999
@@ -161,8 +159,11 @@ Regional Event Teams are solely responsibility for managing their respective Eve
 - Comply with the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure GDPR compliance.
 
 OWASP Foundation Staff is responsible for the following:
-- sponsorships
-- WHAT ELSE?
+- Signatory of Contracts and Agreements
+- Securing necessary insurance given parameters provided by the Regional Event Team 
+- Solicitation and securing event sponsors
+- Processing of payments 
+- Accounting of profit and loss statement for event
 
 # Local Events
 
