@@ -5,6 +5,8 @@ layout: full-width
 
 ---
 
+{% include draft-notice.html %}
+
 # Organizing Chapter Meetings
 
 ## Meeting Formula
