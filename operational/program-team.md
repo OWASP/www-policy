@@ -8,6 +8,8 @@ tags: Rules of Procedure
 
 ---
 
+{% include draft-notice.html %}
+
 Global AppSec events offer practitioners worldwide the opportunity to come together to share their passion and knowledge of OWASP, infosec, and appsec. Each event features presentations from experts in the field, networking events, and opportunities to share experiences amongst the infosec community.
 
 The Conference Program Team exists to create an impactful program that speaks to appsec practitioners through high-quality learning experiences, exclusive opportunities, and innovative event elements. The goal is to establish Global AppSec Events as a must-attend, world-class event.
