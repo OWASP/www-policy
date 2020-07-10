@@ -8,6 +8,8 @@ tags: Rules of Procedure
 
 ---
 
+{% include draft-notice.html %}
+
 # Chapter Rules of Procedure
 
 # How to Start a Chapter
