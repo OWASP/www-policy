@@ -9,6 +9,8 @@ tags: Rules of Procedure
 
 {% include draft-notice.html %}
 
+{% include policy-feedback.html %}
+
 ## Branding
 
 On this page, you will find the most current marketing materials and brand guidelines used by the OWASP Foundation. We have everything from logos and business cards to banner stand and brochure designs all for your use.
