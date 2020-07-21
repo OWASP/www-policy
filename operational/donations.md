@@ -4,10 +4,11 @@ title: Donations (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2020-07-22
 
 ---
 
-{% include draft-notice.html %}
+{% include policy-feedback.html start-date="{{ page.notice }}" %}
 
 ## Overview
 The OWASP Foundation is a U.S. 501(c)3 and accepts gifts through its website and via postal mail. Online gifts are processed from the OWASP website by clicking the DONATE button using Stripe as the backend credit card transaction processor. Various business logic has been coded into this form including:
