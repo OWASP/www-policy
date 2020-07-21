@@ -13,10 +13,6 @@ notice: 2020-07-22
 
 ---
 
-<strong>Members are invited to provide feedback on this draft policy starting {{ page.notice | date: '%B %d, %Y'}} for 21 days. </strong>The Policy Review Team will respond to comments mailed from your owasp.org email address to <a href='mailto:policy-review@owasp.com?subject=Re:%20{{ page.title | replace: " ", "%20" }}'>this address</a>.
-
----
-
 ## Overview
 The OWASP Foundation is a U.S. 501(c)3 and accepts gifts through its website and via postal mail. Online gifts are processed from the OWASP website by clicking the DONATE button using Stripe as the backend credit card transaction processor. Various business logic has been coded into this form including:
 
