@@ -4,8 +4,12 @@ title: Committees
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2020-09-02
 
 ---
+
+{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
+{% include policy-feedback.html start-date=date-to-pass %}
 
 ## **OWASP Global Committees 2.0 Operational Model**
 
