@@ -10,7 +10,7 @@ notice: 2020-07-22
 
 {% include policy-feedback.html start-date="{{ page.notice }}" %}
 
-<strong>Members are invited to provide feedback on this draft policy between {{ page.notice | date: '%B %d, %Y'}} and {{ page.notice | plus:1814400 | date: '%B %d, %Y'}}. </strong>The Policy Review Team will respond to comments mailed from your owasp.org email address to <a href='mailto:policy-review@owasp.com?subject=Re:%20{{ page.title | replace: " ", "%20" }}'>this address</a>.
+<strong>Members are invited to provide feedback on this draft policy starting {{ page.notice | date: '%B %d, %Y'}} for 21 days. </strong>The Policy Review Team will respond to comments mailed from your owasp.org email address to <a href='mailto:policy-review@owasp.com?subject=Re:%20{{ page.title | replace: " ", "%20" }}'>this address</a>.
 
 
 ## Overview
