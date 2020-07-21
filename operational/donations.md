@@ -8,7 +8,8 @@ notice: 2020-07-22
 
 ---
 
-{% include policy-feedback.html start-date='{{ page.notice }}' %}
+{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
+{% include policy-feedback.html start-date=date-to-pass %}
 
 <strong>Members are invited to provide feedback on this draft policy starting {{ page.notice | date: '%B %d, %Y'}} for 21 days. </strong>The Policy Review Team will respond to comments mailed from your owasp.org email address to <a href='mailto:policy-review@owasp.com?subject=Re:%20{{ page.title | replace: " ", "%20" }}'>this address</a>.
 
