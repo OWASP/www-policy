@@ -4,8 +4,12 @@ title: Conference & Event Attendee
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2020-07-22
 
 ---
+
+{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
+{% include policy-feedback.html start-date=date-to-pass %}
 
 ## Conference & Event Attendees
 
