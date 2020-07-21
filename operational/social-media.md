@@ -4,8 +4,13 @@ title: Social Media
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2020-08-12
 
 ---
+
+{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
+{% include policy-feedback.html start-date=date-to-pass %}
+
 ## Social Media
 
 As an worldwide open community, the OWASP Foundation encourages both staff and volunteers to share information with the world about their efforts and passion as they align with the OWASP mission. Whether you do so by participating in a blog, wiki, online social network or any other form of online publishing or discussion is completely up to you. However, these new ways of communication are changing the way we collaborate and even how others learn about our organization and gain perspective on our mission.
