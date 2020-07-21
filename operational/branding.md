@@ -1,15 +1,14 @@
 ---
 
-title: Branding Guidelines
+title: Branding Guidelines (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-
+notice: 2020-09-09
 ---
 
-{% include draft-notice.html %}
-
-{% include policy-feedback.html %}
+{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
+{% include policy-feedback.html start-date=date-to-pass %}
 
 ## Branding
 
