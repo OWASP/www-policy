@@ -4,10 +4,12 @@ title:  Leaders (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2020-08-19
 
 ---
 
-{% include draft-notice.html %}
+{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
+{% include policy-feedback.html start-date=date-to-pass %}
 
 ## Section 1: Core Principles
 Leaders of Chapters, Projects, Committees, and other teams are the outward face of the organization. While it is a great privilege to serve as a leader in the OWASP Community, it also comes with obligations and responsibilies. Leaders serve at the pleasure of the OWASP Board and the larger AppSec Community.
