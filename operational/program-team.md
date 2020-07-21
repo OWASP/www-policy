@@ -5,10 +5,12 @@ layout: full-width
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2020-07-22
 
 ---
 
-{% include draft-notice.html %}
+{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
+{% include policy-feedback.html start-date=date-to-pass %}
 
 Global AppSec events offer practitioners worldwide the opportunity to come together to share their passion and knowledge of OWASP, infosec, and appsec. Each event features presentations from experts in the field, networking events, and opportunities to share experiences amongst the infosec community.
 
