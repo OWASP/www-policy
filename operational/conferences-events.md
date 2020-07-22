@@ -19,7 +19,7 @@ The OWASP Foundation and its supporters host events around the world in a variet
 At events where they are provided, all persons must have a badge visible at all times. Spouses, friends, peers, etc. are not granted access any conference areas or events without a badge. If you wish for anyone to accompany you to any of the conference events including meals, reception, breaks or sessions, you must register them and pay the appropriate fees. Lost, misplaced, stolen, forgotten badges will incur a replacement fee equal to the current, on-site rate of your pass type. If your badge was complimentary, the fee will be the current, on-site rate.
 
 ### Discount Codes
-Some OWASP Events have attendee and participant fees. From time-to-time, the Foundation may elect, at their sole descretion, to offer discounts for certain attendees. Using a Discount Code indicates that you qualify for the offer and its restrictions. Any attempt to defaud the Foundation and its partners could result in the cancellation of your registration with no refund.
+Some OWASP Events have attendee and participant fees. From time-to-time, the Foundation may elect, at its sole descretion, to offer discounts for certain attendees. Discount Codes are not transferable and using one indicates that you qualify for the offer and its restrictions. Any attempt to defaud the Foundation and its partners could result in the cancellation of your registration with no refund.
 
 ### Cancellation Policy
 Since ticket sales are final, the Foundation does not offer refunds. The sole exception to this policy is when an event or session is cancelled at the Foundation's convenience. We strongly encourage training registrants who plan to travel for their session to purchase travel insurance in the event their session is cancelled.
@@ -33,7 +33,7 @@ During the course of event registration and related communications, OWASP may co
 - demographic information such as postcode, preferences and interests
  
 ### Photography
-OWASP events are open to the public, and OWASP does not restrict attendees (including OWASP staff, volunteers, sponsors, and media) from taking photos or videos at our events. By attending out events, you acknowledge that you are in a public space and that attendees  (including OWASP staff, volunteers, sponsors, and media) may capture your image in photos and videos.  Nevertheless, OWASP encourages event attendees to exercise common sense and good judgment, and respect the wishes of other attendees who do not wish to be photographed at the Events.
+OWASP events are open to the public, and OWASP does not restrict attendees (including OWASP staff, volunteers, sponsors, and media) from taking photos or videos at our events. By attending our events, you acknowledge that you are in a public space and that attendees  (including OWASP staff, volunteers, sponsors, and media) may capture your image in photos and videos.  Nevertheless, OWASP encourages event attendees to exercise common sense and good judgment, and respect the wishes of other attendees who do not wish to be photographed at the Events.
  
 OWASP reserves the right to use images taken at conference and events with your photograph and/or likeness in future marketing materials.
 
