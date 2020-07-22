@@ -24,7 +24,7 @@ The primary purpose of the OWASP Community Review (CR) is to systematically impr
 3. At such time as the Review Process will be begin, an email notification will be sent to all OWASP Members. 
 4. Only those who are OWASP Members are eligible to review and submit comments on the policy.
   - The review process is open for 21 days. No further comments will be accepted after the review period has closed.
-  - All comments should be specific edits and must be submitted through the approriate mailing list topic.
+  - All comments should be specific edits and must be submitted through the approriate mailing list topic (linked via the banner on the "Draft WIP" policy(ies)).
 5. Once the review period is closed all comments will be sent to the Policy Review Team (PRT):
   - OWASP Review Team has 30 days to review all comments.
   - Comments can either be:
