@@ -18,6 +18,8 @@ Membership is explicitly defined as people or corporations that pay dues. Nearly
 
 Individual Members can check their Membership Status, renewal dates, and for auto-renewing Memberships update their billing information by visiting the [Manage your Membership Form](/manage-membership). Members must provide the email address used when applying for membership, and if a member matches that address, an email will be sent to verify or update membership.
 
+Members in "good standing" are defined as those who have paid dues appropriate with their membership level while also not subject to any disciplinary action(s) by the Board of Directors. When determining "continuous" membership status, a grace period of seven (7) days is permitted between the expiration and resumption of a person's membership.
+
 While the Foundation will make diligent efforts to inform members of their membership - in particular expiration dates - it is the sole responsibility of the member to manage their membership and renewals.
 
 ## Individual Membership Benefits
@@ -31,8 +33,6 @@ While the Foundation will make diligent efforts to inform members of their membe
 ## Becoming an Individual Member
 
 Individuals can only become a member of the OWASP Foundation by completing the [Membership Form](/membership) on our website and paying dues. Applicants must provide their Country of Residence, Postal Code, Email address, name, and billing information. Members are not attached to any particular Chapter or Project but are at-large members. By submitting the Membership Form, applicants consent to receive communications from the OWASP Foundation concerning the status of membership.
-
-Members in "good standing" are defined as those who have paid dues appropriate with their membership level while also not subject to any disciplinary action(s) by the Board of Directors. When determining "continuous" membership status, a grace period of seven (7) days is permitted between the expiration and resumption of a person's membership.
 
 Membership Dues are not prorated nor can they be cancelled once purchased. Discounted and Student Memberships are only offered to qualifying individuals. Fraudulent membership submissions will be revoked without notice for no refund. Memberships and member benefits are not transferable.
 
