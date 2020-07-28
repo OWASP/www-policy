@@ -4,7 +4,7 @@ title: Elections (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2020-07-29
+notice: 2020-08-05
 
 ---
 
