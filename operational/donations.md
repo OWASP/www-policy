@@ -23,7 +23,7 @@ The OWASP Foundation is a U.S. 501(c)3 and accepts gifts through its website and
 The website [DONATE form](/donate) is the sole online option for the processing and collection of gifts and support.
 
 ## Unrestricted Gifts
-Generally, all charitable gifts to the OWASP Foundation are unrestricted and will be used at the sole discretion of the organization to fulfill its mission and objectives. Donors have the option to be listed as a Supporter of a Project or Chapter; however, this option does not restrict the gift in anyway whatsoever.
+Generally, all charitable gifts to the OWASP Foundation are unrestricted and will be used at the sole discretion of the organization to fulfill its mission and objectives. Donors have the option to be listed as a Supporter of a Project or Chapter; however, this option does not restrict the gift in any way whatsoever.
 
 ## Restricted Gifts
 Gifts greater than or equal to $1,000 can optionally be Restricted. This practice is discouraged because of the internal accounting responsibilities for a restricted gift. Donors can indicate their restriction at the time of their online donation provided they visited the donation form by clicking the DONATE button on the respective Project, Chapter, or group. Restricted gifts are net 15% administration and processing costs. Unspent Restricted gift balances become unrestricted at the end of each calendar year.
