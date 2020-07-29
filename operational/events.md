@@ -106,7 +106,7 @@ All OWASP Event Teams and Leaders are explicitly prohibited from offering OWASP 
 
 ## Profit Sharing (internal accounting practices)
 
-Regional and Local Event Teams who comply with the terms of these policies will share 90% of OWASP event net profits. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. An event Profit and Loss statement will be provided to all parties no later than 120 days following the event. Uncollected sponsorship revenue will not be included in this revenue reconciliation.
+Regional and Local Event Teams who comply with the terms of these policies will share 40% of OWASP event net profits. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. An event Profit and Loss statement will be provided to all parties no later than 120 days following the event. Uncollected sponsorship revenue will not be included in this revenue reconciliation.
 
 Local host chapters may share in Global AppSec event net profits up to 10% based on chapter participation. In the case of multiple host chapters, the host chapters will be responsible for determining the division before the event. Net profit sharing can be achieved by completing the following:
 
