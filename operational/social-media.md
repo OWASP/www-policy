@@ -4,7 +4,7 @@ title: Social Media
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2020-08-12
+notice: 2020-08-05
 
 ---
 
