@@ -77,7 +77,7 @@ From time to time, the OWASP Foundation will budget funds for Leaders and Member
 
 ## Hardware
 
-Capital asset purchases for chapters and projects are strongly discouraged and if over $250 requires pre-approval by the Executive Director. The primary reason for this policy is the complexity of warehousing and asset tracking. Capital assets under $2,000 purchased by the Foundation will be expensed and not amortized, additionally capital assets under $1,000, when purchased for staff or contractor business use, are removed from Foundation inventory after 12 months of use.
+Capital asset purchases for chapters and projects are strongly discouraged and if over $250 requires pre-approval by the Executive Director. The primary reason for this policy is the complexity of warehousing and asset tracking. Capital assets under $2,000 purchased by the Foundation will be expensed and not amortized, additionally capital assets under $1,000 are removed from Foundation inventory after 12 months of use.
 
 ## OWASP Project Contracting
 
