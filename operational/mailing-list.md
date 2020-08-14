@@ -1,6 +1,6 @@
 ---
 
-title: Mailing LIsts (Draft WIP)
+title: Mailing Lists (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
