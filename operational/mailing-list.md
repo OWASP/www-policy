@@ -43,7 +43,7 @@ Membership can be requested and either the Group Owner(s) or Group Manager(s) sh
 
 Users of OWASP Mailing Lists shall use their real life identity and anonymous unverified identities are prohibited. Upon request, Members of Mailing Lists, shall provide within seven days of said request, proof of identity to Group Owner(s). Failure to provide adequate credititals for proof of identity will result in the Member being removed then banned from all OWASP Mailing Lists, and at the sole discretion of the Group Owner(s), all content posted by the Member being permanently removed.
 
-Aggresous single or repeated violations of the Code of Conduct shall result in a member being suspended and or banned from Mailing Lists. Suspension or banning members is the sole decision of the Executive Director.
+Egregious single or repeated violations of the Code of Conduct shall result in a member being suspended and/or banned from Mailing Lists. Suspension or banning members is at the sole decision of the Executive Director.
 
 With regard to the two Controlled owasp.org lists, following are their additional membership requirements:
 
@@ -59,11 +59,11 @@ Generally you must be a member of a list to post to an OWASP Mailing List. All u
 
 ## Moderation
 
-The default setting for Mailing Lists is not moderated. At the sole discretion of Group Owner(s) and subject to oversight by the Executive Director, Mailing Lists can be set to moderated at any time and without notice. Behaviors and posting in violation of the Code Conduct that are reported to Group Owner(s) may result in moderation.
+The default setting for Mailing Lists is not moderated. At the sole discretion of Group Owner(s) and subject to oversight by the Executive Director, Mailing Lists can be set to moderated at any time and without notice. Behaviors and posting in violation of the Code Conduct that are reported to Group Owner(s) is an exampple of behaviors that shall result in moderation.
 
-When Mailing Lists are set to Moderated, Group Owner(s) will review pending posts weekdays during normal business hours meaning posts may be held as pending for as long as 72 hours during normal non-U.S. holiday work weeks.  Posts that do not conform to the Code of Conduct will not be approved during periods of Moderation.
+When Mailing Lists are set to Moderated, Group Owner(s) will review pending posts weekdays during normal business hours meaning posts may be held as pending for as long as 72 hours during normal non-U.S. holiday work weeks.  Posts that do not conform to the Code of Conduct will not be approved during periods of Moderation. Where appropriate, Group Owner(s) who reject posts during moderation shall, at the request of the posting member, within seven days provide a written response related to the decision to deny.
 
-Members of Moderated Lists can request Group Owner(s) to remove Moderation every ten days; however each does not guarantee a return to normal moderation settings.
+Members of Moderated Lists can request Group Owner(s) to remove Moderation every ten days; however each request does not guarantee a return to normal moderation settings.
 
 ## Mailing List Default Settings
 
@@ -87,7 +87,7 @@ While circumstances may dictate modifications, all owasp.org domain Mailing List
 
 ## Privacy
 
-Use of OWASP Mailing Lists is not private and data about your and your behavior is collected and used according to the (OWASP Privacy Policy)[/www-policy/operational/privacy]. Your email address may be exposed to visitors and in most cases Mailing Lists are set to public meaning anyone on the internet can view your comments and your identity. This is by design. Certain lists, like those in the owasp.com domain, are not public but administrators and Group Owner(s) can always read and delete messages from any OWASP Mailing List without notice.
+Use of OWASP Mailing Lists is not private and data about your and your behavior is collected and used according to the (OWASP Privacy Policy)[/www-policy/operational/privacy]. Your email address may be publicly exposed to visitors and in most cases Mailing Lists are set to public meaning anyone on the internet can view your comments and your identity. This is by design. Certain lists, like those in the owasp.com domain, are not public but administrators and Group Owner(s) can always read and delete messages from any OWASP Mailing List without notice.
 
 ## Sole Mailing List Policy
 
