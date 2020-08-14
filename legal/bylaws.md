@@ -98,7 +98,7 @@ Directors are responsible for maintaining their membership in good standing for 
 
 A Director or Candidate for the Board shall have maintained continuous membership in good standing over the previous 12 months, notwithstanding any grace periods established in these bylaws.
 
-At the time of their election, to qualify as a candidate or re-election, Directors must have paid for their own Individual or Lifetime membership, or hold a valid Honorary Membership.
+At the time of their election, to qualify to stand, candidates must hold an Individual membership, Lifetime membership, or hold a valid Honorary Membership. This membership must have been in place for a 12 month period prior to the date of the election.
 
 ### SECTION 3.03 Regular Meetings
 
