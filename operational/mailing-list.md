@@ -29,9 +29,9 @@ Social Media like Twitter and Facebook along with messaging/collaboration tools 
 
 Staff selected by the Executive Director shall administer OWASP Mailing Lists. Each Chapter, Project, and Committee shall have a list created for the group no later than ten days following the official formation of the group as defined by its launch on the OWASP Foundation website. At their sole discretion with oversight from the Executive Director, Mailing List Administrators can create additional Mailing Lists upon request.
 
-All lists created in the owasp.org domain shall have the default settings as defined later in this policy. Leaders of the group as defined in the leaders.md file of the group, shall be allowed to be Group Managers of the list. Deviations from these settings require approval by the Executive Director.
+All Mailing Lists created in the owasp.org domain shall have the default settings as defined later in this policy. Leaders of the group as defined in the leaders.md file of the group, shall be allowed to be Group Managers of the list. Deviations from these settings require approval by the Executive Director.
 
-Lists will be considered abandoned if there are no posts within the past 18 months. From time-to-time staff will audit list use and Group Managers of abandoned lists will be requested to justify continued use of the list. Following a 30-day waiting period, either an approval by Group Managers to close the list or no response by any Group Manager will result in the closing of the list to future postings. At its sole discretion, the OWASP Foundation may choose to entirely remove or simply close and archive abandoned lists.
+Mailing Lists will be considered abandoned if there are no posts within the past 18 months. From time-to-time staff will audit list use and Group Managers of abandoned lists will be requested to justify continued use of the list. Following a 30-day waiting period, either an approval by Group Managers to close the list or no response by any Group Manager will result in the closing of the list to future postings. At its sole discretion, the OWASP Foundation may choose to entirely remove or simply close and archive abandoned lists.
 
 ## Membership
 
