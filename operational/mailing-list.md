@@ -23,7 +23,7 @@ While outlined in further detail below, the key points of using Mailing Lists ar
 - Nearly all lists with owasp.org domain lists are open for membership. Notable exceptions are leaders@ and global-board@
 - Leaders@ and global-board@ membership is curated and posting is limited to members
 
-Social Media like Twitter and Facebook along with messaging/collaboration tools like Slack are supplemental not replacement channels for email communications between the community and  the OWASP Board of Directors, Chapters, Projects, Committees, teams, and Members.
+Social Media like Twitter and Facebook along with messaging/collaboration tools like Slack are **supplemental not replacement** channels for email communications between the community and  the OWASP Board of Directors, Chapters, Projects, Committees, teams, and Members.
 
 ## Creating and Removing Lists
 
