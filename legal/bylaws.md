@@ -138,6 +138,20 @@ Directors shall serve without compensation with the exception that expenses incu
 
 A Director of the Foundation who is present at a meeting of the Board of Directors at which action on any corporate matter is taken shall be presumed to have assented to the action taken unless his or her dissent shall be entered in the minutes of the meeting or unless s/he shall file his or her written dissent to such action with the person acting as the Secretary of the meeting before the adjournment thereof, or shall forward such dissent to the Secretary of the Foundation immediately after the adjournment of the meeting. Such right to dissent shall not apply to any director who voted in favor of such action.
 
+### SECTION 3.14 Good standing exemption due to Foundation membership system failure
+
+Any member whose membership lapsed due to technical or procedural problems with the membership management system should be granted exemption from the "paid" component of the "in good standing" clause for eligibility. The exempted member must satisfy all of the following conditions:
+
+* The member fulfills all requirements to stand for the Board; and
+* The member can demonstrate evidence of having made a reasonable attempt to maintain continuous membership.
+
+Evidence of having made a reasonable attempt to maintain continuous membership requires one or more of the following: 
+* An email trail between the member and the Foundation's staff showing an honest effort to pay for one's membership through acceptable means; or
+* Evidence of a failed transaction to the OWASP account; or 
+* Evidence of a credit to the member's membership belatedly applied by the Foundation. 
+
+Should there be any doubt about the validity of the claim, a majority vote of the Board will decide the outcome on a case-by-case basis.
+
 ## ARTICLE IV - MEMBERS
 
 ### SECTION 4.01 Membership Classes
