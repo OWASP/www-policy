@@ -85,6 +85,8 @@ While circumstances may dictate modifications, all owasp.org domain Mailing List
 - Who can manage members: Group Managers
 - Who can modify roles: Group Managers
 
+The community is invited to report deviations from the Mailing Lists defaults to Mail List Adminstrators.
+
 ## Privacy
 
 Use of OWASP Mailing Lists is not private and data about your and your behavior is collected and used according to the (OWASP Privacy Policy)[/www-policy/operational/privacy]. Your email address may be publicly exposed to visitors and in most cases Mailing Lists are set to public meaning anyone on the internet can view your comments and your identity. This is by design. Certain lists, like those in the owasp.com domain, are not public but administrators and Group Owner(s) can always read and delete messages from any OWASP Mailing List without notice.
