@@ -27,7 +27,7 @@ Social Media like Twitter and Facebook along with messaging/collaboration tools 
 
 ## Creating and Removing Lists
 
-Staff selected by the Executive Director shall administer OWASP Mailing Lists. Each Chapter, Project, and Committee shall have a list created for the group no later than ten days following the official formation of the group as defined by its launch on the OWASP Foundation website. At their sole discretion with oversight from the Executive Director, Mailing List Administrators can create additional Mailing Lists upon request.
+Staff selected by the Executive Director shall administer OWASP Mailing Lists. Upon request, Leaders can be assigned at Group Manager(s). Each Chapter, Project, and Committee shall have a list created for the group no later than ten days following the official formation of the group as defined by its launch on the OWASP Foundation website. At their sole discretion with oversight from the Executive Director, Mailing List Administrators can create additional Mailing Lists upon request.
 
 All Mailing Lists created in the owasp.org domain shall have the default settings as defined later in this policy. Leaders of the group as defined in the leaders.md file of the group, shall be allowed to be Group Managers of the list. Deviations from these settings require approval by the Executive Director.
 
