@@ -96,6 +96,8 @@ Directors are responsible for maintaining their membership in good standing for 
 
 A Director or Candidate for the Board shall have maintained continuous membership in good standing over the previous 12 months, notwithstanding any grace periods established in these bylaws.
 
+At the time of their election, to qualify as a candidate or re-election, Directors must have paid for their own Individual or Lifetime membership, or hold a valid Honorary Membership.
+
 ### SECTION 3.03 Regular Meetings
 
 The Board of Directors shall have regular meetings as needed. A link to the board meeting agenda’s and the historical minutes is here: https://www.owasp.org/index.php/OWASP_Board_Meetings. Meetings shall be at such dates, times, and places as the Board shall determine in December of the preceding year and as amended by the Board. In no event will there be less than one meeting per quarter. These meetings will be open to public attendance, however, certain portions of the meeting may be closed to board members and their delegates when required for legal reasons, or to shield liability, or to handle personnel issues, or similar.
