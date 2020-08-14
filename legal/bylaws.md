@@ -152,6 +152,10 @@ Evidence of having made a reasonable attempt to maintain continuous membership r
 
 Should there be any doubt about the validity of the claim, a majority vote of the Board will decide the outcome on a case-by-case basis.
 
+### SECTION 3.15 Good standing grace period
+
+Directors and Candidates for the Board who have lapses in good standing have a grace period of 7 days to renew their membership. Directors or Candidates who fail to obtain paid individual membership, honorary membership, or renew their previous membership within the permitted grace period will not have maintained good standing for the purposes of election eligibility. Directors may continue to vote on the Board during the grace period.
+
 ## ARTICLE IV - MEMBERS
 
 ### SECTION 4.01 Membership Classes
