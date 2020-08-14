@@ -31,7 +31,7 @@ Staff selected by the Executive Director shall administer OWASP Mailing Lists. E
 
 All Mailing Lists created in the owasp.org domain shall have the default settings as defined later in this policy. Leaders of the group as defined in the leaders.md file of the group, shall be allowed to be Group Managers of the list. Deviations from these settings require approval by the Executive Director.
 
-Mailing Lists will be considered abandoned if there are no posts within the past 18 months. From time-to-time staff will audit list use and Group Managers of abandoned lists will be requested to justify continued use of the list. Following a 30-day waiting period, either an approval by Group Managers to close the list or no response by any Group Manager will result in the closing of the list to future postings. At its sole discretion, the OWASP Foundation may choose to entirely remove or simply close and archive abandoned lists.
+Mailing Lists will be considered abandoned if there are no posts within the past 18 months. From time-to-time staff will audit Mailing List use and Group Managers of abandoned Mailing Lists will be requested to justify continued use of the Mailing List. Following a 30-day waiting period, either an approval by Group Managers to close or no response by any Group Manager will result in the closing of the Mailing List to future postings. At its sole discretion, the OWASP Foundation may choose to entirely remove or simply close and archive abandoned Mailing Lists.
 
 ## Membership
 
@@ -47,11 +47,11 @@ Egregious single or repeated violations of the Code of Conduct shall result in a
 
 With regard to the two Controlled owasp.org lists, following are their additional membership requirements:
 
-**Global-board**. Membership of this is controlled to only include current Board members, recently elected incoming Board Members, the Executive Director, and Chief Financial Officer of the Foundation. While membership is controlled, all content posted to this mail list is public for anyone on the internet to read.
+**Global-board**. Membership of this Mailing List is controlled to only include current Board members, recently elected incoming Board Members, the Executive Director, and Chief Financial Officer of the Foundation. While membership is controlled, all content posted to this mail list is public for anyone on the internet to read.
 
-**Leaders**. Membership of this list is controlled to active Leaders in the Foundation which includes Project, Chapter, and Committee Leaders as listed in their respective leaders.md file on the owasp.org website. Incoming and departing Leaders are expected to voluntarily request membership to the list or personally opt-out of the list. While membership is controlled, all content posted to this mail list is public for anyone on the internet to read.
+**Leaders**. Membership of this Mailing List is controlled to active Leaders in the Foundation which includes Project, Chapter, and Committee Leaders as listed in their respective leaders.md file on the owasp.org website. Incoming and departing Leaders are expected to voluntarily request membership to the list or personally opt-out of the list. While membership is controlled, all content posted to this mail list is public for anyone on the internet to read.
 
-From time-to-time list membership shall be audited by Group Owner(s) and Individuals who do not meet list membership requirements shall be removed from the respective list with no notice and at any time.
+From time-to-time Mailing List membership shall be audited by Group Owner(s) and Individuals who do not meet list membership requirements shall be removed from the respective list with no notice and at any time.
 
 ## Posting
 
