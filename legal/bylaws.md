@@ -72,6 +72,8 @@ Any officer, contractor, member, or director may be removed by a unanimous vote 
 
 A vacancy in any office because of death, resignation, removal, disqualification or otherwise, may be filled by the Board of Directors for the unexpired portion of the term.
 
+If a Director creates a Vacancy, such as being removed or resigned, the entire term is considered served for that Member for the purposes of term limits.
+
 ### SECTION 2.06 INTENTIONALLY LEFT BLANK
 
 ### SECTION 2.07 Secretary
@@ -132,7 +134,9 @@ Any action that may be taken by the Board of Directors at a meeting may be taken
 
 ### SECTION 3.10 Vacancies
 
-Any vacancy occurring in the Board of Directors may be filled by the affirmative vote of a majority of the remaining directors though less than a quorum of the Board of Directors, unless otherwise provided by law. If there is an equal number of affirmative and negative votes then the ultimate determination shall be made by the then­ sitting Chairman of the Board. A director elected to fill a vacancy shall be elected for the unexpired term of his predecessor in office. Any directorship to be filled by reason of an increase in the number of directors may be filled by election by the Board of Directors for a term of office continuing only until the next election of directors by the Directors.
+Any vacancy occurring in the Board of Directors may be filled by the affirmative vote of a majority of the remaining directors though less than a quorum of the Board of Directors unless otherwise provided by law. If there is an equal number of affirmative and negative votes then the ultimate determination shall be made by the then­ sitting Chairman of the Board. A director elected to fill a vacancy shall be elected for the unexpired term of his predecessor in office. Any directorship to be filled by reason of an increase in the number of directors may be filled by election by the Board of Directors for a term of office continuing only until the next election of directors by the Directors.
+
+Appointed Directors filling a vacancy shall not have this partial term counted against term limits. Members can only be appointed to fill a vacancy once every ten years to prevent bypassing term limits.
 
 ### SECTION 3.11 Employment
 
