@@ -76,9 +76,6 @@ The OWASP Foundation uses Github to host group pages and content. Please use the
 
 ## Section 4: Meetings
 
-### Regular Meetings
-Leaders shall host group meetings no less than four times a year. Chapter Meetings must be in-person. OWASP meetings are free and open to anyone for anyone to attend, regardless of whether the attendee is a member of the OWASP Foundation. All channels of communication must be free and open, not requiring a paid subscription to consume. This includes but not limited to the OWASP Mailing Lists (Goolge Group), Meetup for Chapter Meetings, Slack, and with social media platforms like like Twitter and Facebook.
- 
 ### Meeting Notice
 Leaders shall post notice of meetings no less than two weeks prior to a meeting. The minimual acceptable channels for this posting is the group's main webpage on owasp.org and the OWASP Mailing List, or in the case of Chapter the OWASP Mailing List can be replaced with an OWASP Meetup account.
  
