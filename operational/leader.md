@@ -70,13 +70,10 @@ Leaders will be provided an Owasp.org email account and shall this address for a
 Leaders, along with support from staff, shall maintain their groups' web page on owasp.org. The OWASP website shall be the primary authoritative information source for OWASP Projects and Chapters. Other services such as LinkedIn, Facebook, Twitter, Ning, etc. maybe used but are additive not a replacement for the OWASP website. A group's webpage shall minimally include:
 
 - Group leadership with contact information
-- Link to the group's Mailing List (Google Group)
+- Link to the group's Mailing List
 - For Chapters, its Meetup Page
 
 The OWASP Foundation uses Github to host group pages and content. Please use the Contact Us form if you need assistance with access to the OWASP Github repo.
-
-### Mailing Lists
-OWASP Mailing Lists (Google Groups) shall be the primary and archival communication channel of OWASP group activites. Mailing Lists are discoverable, have open membership, and no posting restrictions; however, all participants shall follow the OWASP Code of Conduct. Violators of the Code of Conduct shall not be tolerated and displinary action, with consequences including up to expulsion from the Mailing List and suspension of OWASP Membership. Certain mailing lists for staff operations shall be non-public.
   
 ### Social Media
 All social media channels used by OWASP groups must abide by the OWASP Principles and Code of Ethics. Any person who posts or moderates OWASP branded social media must execute and abide by the OWASP Social Media Agreement.
@@ -95,7 +92,7 @@ Leaders can request the OWASP Foundation register a domain name for their Chapte
 Leaders shall host group meetings no less than four times a year. Chapter Meetings must be in-person. OWASP meetings are free and open to anyone for anyone to attend, regardless of whether the attendee is a member of the OWASP Foundation. All channels of communication must be free and open, not requiring a paid subscription to consume. This includes but not limited to the OWASP Mailing Lists (Goolge Group), Meetup for Chapter Meetings, Slack, and with social media platforms like like Twitter and Facebook.
  
 ### Meeting Notice
-Leaders shall post notice of meetings no less than two weeks prior to a meeting. The minimual acceptable channels for this posting is the group's main webpage on owasp.org and the OWASP Mailing List (Google Groups), or in the case of Chapter the OWASP Mailing List can be replaced with an OWASP Meetup account.
+Leaders shall post notice of meetings no less than two weeks prior to a meeting. The minimual acceptable channels for this posting is the group's main webpage on owasp.org and the OWASP Mailing List, or in the case of Chapter the OWASP Mailing List can be replaced with an OWASP Meetup account.
  
 ### Member Privacy
 The privacy of OWASP Members or meeting attendees must be protected at all times. Leaders shall not disclose names, email addresses, or other identifying information about OWASP Members or meeting attendees. Only aggregate statistics can be referenced. At the sole descretion of the attendee, they may share their own contact information voluntarily with third parties at meetings, such as in the case of Chapter Meeting raffle.
