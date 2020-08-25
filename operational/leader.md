@@ -75,13 +75,6 @@ Leaders, along with support from staff, shall maintain their groups' web page on
 
 The OWASP Foundation uses Github to host group pages and content. Please use the Contact Us form if you need assistance with access to the OWASP Github repo.
   
-### Social Media
-All social media channels used by OWASP groups must abide by the OWASP Principles and Code of Ethics. Any person who posts or moderates OWASP branded social media must execute and abide by the OWASP Social Media Agreement.
-
-Social Media accounts associated with OWASP Projects, Chapters, or groups are controlled by the OWASP Foundation. While the Leader, or in rare cases members, may create an account and manage its day-to-day operations, credentials including passwords and recovery emails must be transferred when there is a change of leadership.
-
-Group members shall not be required to sign up for any social media account to get access to meeting notices or other group information. Should a group choose to terminate its use of a platform, it should close the account and alert the Foundation using the Contact Us form. Abandoned social media accounts are those that have not had a post for over six months, and control of these accounts may be requested by the Foundation for termination.
-
 ### Domain Names
 
 Leaders can request the OWASP Foundation register a domain name for their Chapter, Project, or group. While discouraged, Leaders may register a domain name for their Chapter, Project, or group. Domain names must be transferred when there is a change of leadership for the group. In either case, custom domain names shall point to the corresponding page on the Foundation website for the group, and if maintained by a Leader, its use shall be registered with the Foundation.
