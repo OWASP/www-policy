@@ -34,7 +34,7 @@ Leaders shall not:
 ## Section 2: Governance
 
 ### Oversight
-Chapters, Projects and groups are overseen on an operational basis by the Foundation Staff and, ultimately, the OWASP Board of Directors. If the Foundation Staff or Board of Directors determines that a Leader has not complied with these rules, their status as a Leader may be revoked. Additionally, OWASP administrative access (including the leader’s owasp.org email address) may be immediately revoked.
+//TODO
 
 ### Legal Entity
 Chapters, Projects and groups are not legal entities and are organized under the authority of the OWASP Foundation. As non-legal entities Leaders or members of Chapters, Projects, or groups cannot sign contracts, hold independent insurance, or transact funds independently of the OWASP Foundation. Groups operate with a great deal of freedom; however groups must abide by the Code of Conduct, Foundation bylaws, and the polices in these Rules of Procedure.
