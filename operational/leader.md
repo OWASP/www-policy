@@ -70,7 +70,6 @@ Leaders will be provided an Owasp.org email account and shall this address for a
 Leaders, along with support from staff, shall maintain their groups' web page on owasp.org. The OWASP website shall be the primary authoritative information source for OWASP Projects and Chapters. Other services such as LinkedIn, Facebook, Twitter, Ning, etc. maybe used but are additive not a replacement for the OWASP website. A group's webpage shall minimally include:
 
 - Group leadership with contact information
-- Link to the group's Mailing List
 - For Chapters, its Meetup Page
 
 The OWASP Foundation uses Github to host group pages and content. Please use the Contact Us form if you need assistance with access to the OWASP Github repo.
