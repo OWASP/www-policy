@@ -74,10 +74,6 @@ Leaders, along with support from staff, shall maintain their groups' web page on
 - For Chapters, its Meetup Page
 
 The OWASP Foundation uses Github to host group pages and content. Please use the Contact Us form if you need assistance with access to the OWASP Github repo.
-  
-### Domain Names
-
-Leaders can request the OWASP Foundation register a domain name for their Chapter, Project, or group. While discouraged, Leaders may register a domain name for their Chapter, Project, or group. Domain names must be transferred when there is a change of leadership for the group. In either case, custom domain names shall point to the corresponding page on the Foundation website for the group, and if maintained by a Leader, its use shall be registered with the Foundation.
 
 ## Section 4: Meetings
 
