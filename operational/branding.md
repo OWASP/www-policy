@@ -45,13 +45,13 @@ About the OWASP Foundation: The Open Web Application Security Project (OWASP) is
 (Right mouse click to Save Image As...)
 
 #### Combination Mark (Logo + Wordmark w/R) 
-![Combination Mark (Logo + Wordmark w/R)](/www-policy/branding-assets/OWASP-Combination-mark-r.png | width=275)
+![Combination Mark (Logo + Wordmark w/R)](/www-policy/branding-assets/OWASP-Combination-mark-r.png)
 
 #### Logo Mark (Logo w/TM) 
-![Logo Mark (Logo w/TM)](/www-policy/branding-assets/OWASP-logo-tm.jpg | width=100)
+![Logo Mark (Logo w/TM)](/www-policy/branding-assets/OWASP-logo-tm.jpg)
 
 #### Website SVG Logo
-![SVG Website Logo](/assets/images/logo.svg | width=100)
+![SVG Website Logo](/assets/images/logo.svg)
 ##  Assets and Collatoral
 
 OWASP Corporate Logo
