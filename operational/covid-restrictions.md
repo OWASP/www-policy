@@ -21,7 +21,7 @@ Safety is paramount, with virtual activity and financial responsibility as secon
 * All travel is prohibited. Do not make plans or bookings to travel. No travel expenses will be paid
 * Regional and training events should not plan physical events in 2020, and will be approved on a case by case basis for 2021 with certain restrictions. No contracts will be signed without prior approval that meet the restrictions in that region
 
-We will review these restrictions every month until they are all gone, and communicate our current restrictions and any changes. 
+We will review these restrictions every month until they are all gone, and communicate our current restrictions and any changes. As key stakeholders, such as the OWASP Board, review and provide direction to the Foundation, details on these temporary restrictions will change. Any changes, including directions from the Board, will be announced to the OWASP Leaders list, OWASP Slack, and on the OWASP ED twitter account (@owasped). 
 
 
 ## Maximum expense cap
