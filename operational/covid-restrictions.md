@@ -29,8 +29,6 @@ We will review these restrictions every month until they are all gone, and commu
 
 During the COVID pandemic, a cap of \$250 USD per request will be in place for expenses, and in return for a lower limit, we will only require a receipt and two leaders to approve the expense and it will be paid. Expenses over \$250 must be pre-approved by the Foundation. 
 
-Other than these caps and approval criteria, the current expense policy and procedures should be followed. 
-
 **Approval criteria:**
 
 * A short explanation of why this expenses is relevant to your chapter, project, or event
@@ -40,6 +38,9 @@ Other than these caps and approval criteria, the current expense policy and proc
 * Shared services, physical gathering or coworking spaces, travel expenses, and event expenses are subject to pre-approval per the following sections; and
 * Donations, sponsorships, or funding of external organizations require pre-approval, but we should be doing non-monetary donations or sponsorships rather than direct funding.
 
+During COVID, PPE, sanitization, and cleaning supplies are a fair and reasonable expense (see below in relation to gaining approval for physical gatherings). If you do not have pre-approval for a physical gathering, no expenses will be paid, including for PPE. 
+
+Other than these caps and approval criteria, the current expense policy and procedures should be followed. 
 
 ## Shared Services Preferred
 
