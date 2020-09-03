@@ -1,12 +1,13 @@
-
 ---
 
 title: Temporary Covid Restrictions 
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2020-09-03
 
 ---
+
 
 OWASP has a responsibility to provide its community and staff with a safe environment, promote chapter, project and committee mission related activity, and to be financially responsible. The following restrictions are in place until they are all lifted. 
 
