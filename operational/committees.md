@@ -4,7 +4,7 @@ title: Committees
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2020-09-02
+notice: 2020-09-16
 
 ---
 
