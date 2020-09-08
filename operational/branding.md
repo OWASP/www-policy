@@ -71,7 +71,7 @@ Typefaces
   - [Armata Typeface](http://www.fontsquirrel.com/fonts/armata)
 - Similar to Joanna:
   - [Enriqueta](http://www.fontsquirrel.com/fonts/enriqueta)
-  - [Deja Vu](http://www.fontsquirrel.com/fonts/DejaVu-Serif
+  - [Deja Vu](http://www.fontsquirrel.com/fonts/DejaVu-Serif)
   - [Brawler](http://www.fontsquirrel.com/fonts/brawler Brawler)
 
 The Following items are outdated and are in process of redesign
