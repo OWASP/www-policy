@@ -9,7 +9,7 @@ notice: 2020-09-03
 ---
 
 
-OWASP has a responsibility to provide its community and staff with a safe environment, promote chapter, project and committee mission related activity, and to be financially responsible. The following restrictions are in place until they are all lifted. 
+OWASP has a responsibility to provide its community and staff with a safe environment, promote chapter, project and committee mission related activity, and to be financially responsible. The following restrictions are in place until they are all lifted. All of these sections have a exceptions to the rule, so please don't assume that something can't happen, please talk to us about your region's COVID situation. 
 
 *tl;dr*
 
@@ -75,7 +75,7 @@ Some chapters and events have filed expenses for physical event spaces or shared
 This will become standard policy once consultation has occurred and after COVID restrictions are lifted. 
 
 
-## Travel prohibited
+## Travel generally prohibited
 
 Chapters, projects, and events have free access to a wide variety of virtual meeting tools, learning platforms, and webinar platforms. During COVID, these should be used. 
 
@@ -86,6 +86,7 @@ Travellers may get stuck in quarantine or stranded in another place away from ho
 * Travel expenses are not permitted during COVID restrictions. 
 * OWASP will not pay any expenses related to being quarantined or stuck in a destination. 
 
+Exceptions may be granted if domestic travel is fully open. Please apply before assuming that you can't travel. 
 
 ## Physical Event Contracting
 
