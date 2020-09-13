@@ -4,10 +4,11 @@ title:  Chapters (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-
+notice: 2020-08-26
 ---
 
-{% include draft-notice.html %}
+{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
+{% include policy-feedback.html start-date=date-to-pass %}
 
 # How to Start a Chapter
 
@@ -205,7 +206,7 @@ Here are some tips that chapter leaders can use to promote their meeting (and in
 * When sending out direct meeting invitations, use google calendar invites through your @owasp.org email account. General email assumes that people will read it in a timely manner and will remember to place it onto their calendar. By using the google calendar invitations, this task is done for them.
 * Make sure that your upcoming meeting is broadcast through a variety of channels. In addition to posting the meeting to your chapter’s wiki page and mailing list, consider blogging or tweeting about it, as well as posting it on social networking sites such as LinkedIn, Facebook, Meetup, and myowasp.
 * Post your event to sites such as Yahoo Events and partner with other user groups to cross-market (i.e. ISSA, .Net SIG, Java SIG, SIM, DAMA).
-* Acknowledge the fact that even if people cannot physically attend, they may be able to participate remotely. The OWASP Foundation has an account with http://www.gotomeeting.com that is free for chapters to use. Account requests or details can be requested can be requested through: http://sl.owasp.org/contactus.
+* Acknowledge the fact that even if people cannot physically attend, they may be able to participate remotely. The OWASP Foundation has an account with [Zoom](https://www.zoom.com) that is free for chapters to use. Account requests or details can be requested can be requested through [Contact Us](https://contact.owasp.org/).
 * Many people are tired and hungry, especially after a long day at work. While you cannot cure tiredness, you can at least try to feed your attendees. Pizza is cheap and it is relatively easy to find a sponsor.
 * Make sure the topics you choose are broadly applicable and not just targeted at one group (i.e. penetration testers, software developers). Part of making web application security visible requires you to choose (or solicit) speakers that appeal to IT executives, enterprise architects, business analysis, legal and compliance, etc. If a particular group does happen to be the “target audience” at a meeting, try to change things up for your next meeting.
  
@@ -239,7 +240,7 @@ In order to ensure that presentations remain vendor neutral and don’t turn int
 This may also be a good time to remind your speaker about the terms of the Speaker Agreement (or make sure they understand what is expected of them).
  
 ### Remote Participation
-The OWASP Foundation has an account with http://www.gotomeeting.com that is free for chapters to use. Account requests can be requested through the http://sl.owasp.org/contactus and details on using GoToMeeting can be found here: https://www.owasp.org/index.php/Chapter_Leader_Handbook/GoToMeeting. As soon as you have scheduled the meeting date and time, the remote participation can also be scheduled so you can include details on your chapter’s wiki page or in your emails.
+The OWASP Foundation has an account with [Zoom](https://www.zoom.com) that is free for chapters to use. Account requests can be requested through [Contact Us](https://contact.owasp.org). As soon as you have scheduled the meeting date and time, the remote participation can also be scheduled so you can include details on your chapter’s web page, meetup, and/or in your emails.
  
 ### Speaker Gifts
 Although it is not necessary, giving speakers a small token of appreciation such as an OWASP t-shirt, mug, or pen set is encouraged.
@@ -359,16 +360,13 @@ Consider putting together a flyer about your Chapter with upcoming speakers, top
 There are a number of different ways in which to raise money for your chapter.
  
 Paid Individual Memberships - encourage the people who participate in your local chapter and attend your meetings to become a paid OWASP member.
-
-* Individual supporters pay $50 per year for their membership and the fee is split 60/40 with the Foundation (40% goes to the local chapter or project account designated by the member at the time of joining).
-* All paid memberships are processed through RegOnline - http://www.regonline.com/owasp_membership
-* Some regions (developing countries) of the world may qualify for a discounted membership of $20. If you are unsure of whether this applies to your chapter or would like to request a discount code, please submit your request through http://sl.owasp.org/contactus.
+* All paid memberships are processed through [Become a Member](https://owasp.org/membership/)
  
 In the past, chapters have used (paid) membership drives to promote OWASP and raise money for their chapter. One approach is to enter all new members (or renewing members) in a raffle for prizes to be selected at your next meeting.
  
 ## Donations
-Donations from 3rd parties can be accepted via paypal. These funds are transferred to OWASP Foundation and then chapter leaders can submit receipts for reimbursement from their chapter’s account. For more information on reimbursement and your chapter account, see the section on Handling Money.
- 
+Donations from 3rd parties can be accepted via [Donate](https://owasp.org/donate/). To receive a donation allocated to your chapter the donation button in the website header must be clicked while on your Chapter web page.
+
 ## Chapter Sponsors – Local and Global
 In order to grow your chapter, it is usually necessary to obtain sponsorship to cover chapter operations. This can come from local businesses or larger companies.
  
@@ -386,7 +384,7 @@ There are three different sponsorship options:
    * Organizational Supporters have (1) supporting member vote in elections and on issues that shape the direction of the community.
    * $5000 per year, split 60/40 with the Foundation - 40% going to the local chapter designated at the time of payment.
  
-More details on the different levels of sponsorship can be found at: https://www.owasp.org/index.php/Membership
+More details on the different levels of sponsorship can be found at [Corporate Supporters](https://owasp.org/supporters/)
  
 leaders, either by mutual agreement, election, or if all else fails, appointed by the Community Manager.
  

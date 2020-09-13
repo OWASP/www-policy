@@ -5,8 +5,12 @@ layout: full-width
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2020-07-22
 
 ---
+
+{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
+{% include policy-feedback.html start-date=date-to-pass %}
 
 Global AppSec events offer practitioners worldwide the opportunity to come together to share their passion and knowledge of OWASP, infosec, and appsec. Each event features presentations from experts in the field, networking events, and opportunities to share experiences amongst the infosec community.
 
@@ -21,7 +25,7 @@ Team members contribute via email and video conference, and are required to atte
 Finally, Team members will be asked to sign an agreement at the beginning of their term and are expected to abide by the agreement and OWASP Code of Conduct. Team members are not eligible to speak at the Global AppSec which they plan.
 
 ## Responsibilities
-The Program Team will meet on a regular cadence, which will become meet more frequently as circumstances require. Team membership is a substantial commitment beginning prior to the Global AppSec and up to one-month post-event.
+The Program Team will meet on a regular cadence, which may become more frequent as circumstances require. Team membership is a substantial commitment beginning prior to the Global AppSec and up to one-month post-event.
 
 Team Members:
 - Identify program themes

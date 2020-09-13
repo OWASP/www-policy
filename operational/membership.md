@@ -4,18 +4,21 @@ title: Individual Membership (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2020-07-29
 
 ---
-
-{% include draft-notice.html %}
+{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
+{% include policy-feedback.html start-date=date-to-pass %}
 
 ## Overview
-The OWASP Foundation is a member led organization. Members serve as Board Members, Chapter & Project Leaders, as well as volunteers for our community. All members have a vote in the election of OWASP Leaders. Membership is a priviledge guided by the [Code of Conduct](/www-policy/operational/code-of-conduct) and has dues which are set by the OWASP Board of Directors and are currently $50 per year. Discounts are available for multi-year memberships, for students, and for people living in developing economies which are outlined below.
+The OWASP Foundation is a member led organization. Members serve as Board Members, Leaders, and volunteers for our community. Members have a vote in the election of OWASP Leaders. Membership is a privilege guided by the [Code of Conduct](/www-policy/operational/code-of-conduct) which has dues that are set by the OWASP Board of Directors and are currently $50 per year. Discounts are available for multi-year memberships and for people living in developing economies and are outlined below.
 
 ## Membership
-Membership is explictly defined as people or corporations that pay dues. Nearly all OWASP activities are open to both members and nonmembers alike. Some example activities include participating in a Project or Chapter, attending chapter meetings, joining mailing lists or attending events. Merely participating in the activities of the OWASP Foundation does not make that person a Member; membership covers only those who pay dues - as defined below - to the OWASP Foundation.
+Membership is explicitly defined as people or corporations that pay dues. Nearly all OWASP activities are open to both members and nonmembers. Some example activities include participating in a Project or Chapter, attending chapter meetings, joining mailing lists or attending events. Merely participating in the activities of the OWASP Foundation does not make that person a Member; membership includes only those who pay dues to the OWASP Foundation.
 
-Individual Members can check their Membership Status, renewal dates, and (for auto-renewing Memberships) update their billing information by visiting the [Manage your Membership Form](https://owasp.org/manage-membership/). Members must provide the email address used when applying for membership, and if a member matches that address, an email will be sent to verify or update membership.
+Individual Members can check their Membership Status, renewal dates, and for auto-renewing Memberships update their billing information by visiting the [Manage your Membership Form](/manage-membership). Members must provide the email address used when applying for membership, and if a member matches that address, an email will be sent to verify or update membership.
+
+Members in "good standing" are defined as those who have paid dues appropriate with their membership level while also not subject to any disciplinary action(s) by the Board of Directors. When determining "continuous" membership status, a grace period of seven (7) days is permitted between the expiration and resumption of a person's membership.
 
 While the Foundation will make diligent efforts to inform members of their membership - in particular expiration dates - it is the sole responsibility of the member to manage their membership and renewals.
 
@@ -41,7 +44,7 @@ The OWASP Foundation is the exclusive grantor of OWASP Memberships. No person or
 **One or Two-Year** Dues $50 and $95 for each respective period. Individuals can choose either a single or two-year membership. Members will begin to recieve renewal email reminders as early as 60 days prior to renewal. The OWASP Foundation will make its best-efforts to notify members of impending renewals, but it is the sole responsibility of the member to monitor their membership status.
 
 **Developing Economy Discounted Membership** Persons living in developing economies as defined in the lower 50% percentile
-of Adjusted Net National Income Per Capita Countries according to the World Bank, shall be offerred a one year membership for $20 per year.
+of Adjusted Net National Income Per Capita Countries according to the World Bank, shall be offered a one year membership for $20 per year.
 
 **Student Membership** Dues $20 per year. Full-time students may apply for this discounted membership. This membership cannot be set to auto-renew.
 
@@ -63,7 +66,7 @@ Requests for complementary memberships can be [submitted here](https://owasp.wuf
 
 ## Proposed Honorary Lifetime Membership
 
-Honorary Lifetime Membership can be awarded to long-time contributors to the OWASP cause and activities. The Honorary Lifetime Membership program will work as following:
+Honorary Lifetime Membership can be awarded to long-time contributors to the OWASP cause and activities. The Honorary Lifetime Membership program will work as follows:
 - Each year up to three Lifetime Honorary Memberships may be granted.
 - Nominations will be accepted by the Board from staff, Board Members, or other Leaders. Individuals cannot nominate themselves.
 - Nominees will have been a leader and member of the Foundation for at least five years and have held more than one type of leadership role.
@@ -72,7 +75,3 @@ Honorary Lifetime Membership can be awarded to long-time contributors to the OWA
 ## Becoming a Corporate Member
 
 Organizations can also become members of the OWASP Foundation. Those details can be found on the [Supporters page](/supporters) under Corporate Membership.
-
-
-
-

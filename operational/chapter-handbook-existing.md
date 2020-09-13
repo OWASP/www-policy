@@ -322,36 +322,6 @@ One technique for bringing in international speakers is to coordinate your meeti
 Also, the OWASP Speakers Project is available to help local chapters or application security conferences to find OWASP related speakers.
 
 If you have found an international speaker who is not able to pay for the travel themselves, and your chapter does not have the funds to cover the travel costs, you may be able to apply for "OWASP on the Move" funds (outlined below).
- 
-### OWASP on the Move
-In order to better support local chapter meetings and (web application) security events, the Global Chapters Committee started a travel-support program for OWASP presenters.
- 
-The OWASP on the Move program allows local chapters to have OWASP presenters on site; it is not for speakers to attend OWASP conferences. This program allows 3 parties to find each other:
-- Local chapters events that want to attract an OWASP speaker
-- OWASP speakers to entertain OWASP presentations and that want to see the world
-- OWASP sponsors that want to support spreading the OWASP message
- 
-To find available speakers in your area, see the OWASP Speakers Project
- 
-Application Process:
-- Upfront the chapter leader submits an OotM request (event details, who to cover, etc...) via http://sl.owasp.org/contactus
-- The request will be reviewed by the Global Chapter Committee. If the request is within the rules (see below), it will be rapidly approved.
-- The speaker, who made the travel/lodging expenses, submits a reimbursement request with receipts after the presentation is performed.
-- The reimbursement is approved and processed.
- 
-OWASP on the Move Rules:
-The following rules apply for the OotM project:
-- Primary funding would be deducted from the local chapter budget.
-   - A chapter without sufficient funds for a speaker may request the Global Chapter Committee vote to approve the use of OWASP funds.
-- The normal maximum amount per speaker is $500 USD
-- Only in special circumstances the maximum amount per speaker can be raised to a maximum of $1000 USD
-- There is a proposed limit of $2,000 USD on the amount of money provided to any individual per year (*see 'further funding' below)
-- There is a proposed limit of $2,000 USD on the amount of money provided to any chapter per year(*see 'further funding' below)
-A chapter can use the sponsorship 4 times a year, with a maximum of 2 speakers sponsored by OotM for one single event.
-Further funding: for active chapters or speakers who have reach the proposed financial limits, further funding is possible but will depend on available budget, since priority would be given to chapters below these thresholds
- 
-OWASP on the Move funds are not to be used by speakers to attend OWASP conferences. If assistance is needed to attend a conference, contact the conference chair.
-
 
 ### Speaker Agreement
 Many chapters do not have every speaker sign the OWASP [Speaker Agreement] as part of their agreement or confirmation for the event. However, if you think OWASP values and principles may be an issue or are concerned that the speaker does not understand the terms of the arrangement, you may consider sending them the [OWASP Speaker Agreement](/www-policy/legal/speaker-agreement).
@@ -401,7 +371,7 @@ Here are some tips that chapter leaders can use to promote their meeting (and in
 - When sending out direct meeting invitations, use google calendar invites through your @owasp.org email account. General email assumes that people will read it in a timely manner and will remember to place it onto their calendar. By using the google calendar invitations, this task is done for them.
 - Make sure that your upcoming meeting is broadcast through a variety of channels. In addition to posting the meeting to your chapter's website page and mailing list, consider blogging or tweeting about it, as well as posting it on social networking sites such as LinkedIn, Facebook, Meetup, and myowasp.
 - Post your event to sites such as Yahoo Events and partner with other user groups to cross-market (i.e. ISSA, .Net SIG, Java SIG, SIM, DAMA).
-- Acknowledge the fact that even if people cannot physically attend, they may be able to participate remotely. The OWASP Foundation has an account with http://www.gotomeeting.com that is free for chapters to use. Account requests or details can be requested can be requested through: http://sl.owasp.org/contactus.
+- Acknowledge the fact that even if people cannot physically attend, they may be able to participate remotely. 
 - Many people are tired and hungry, especially after a long day at work. While you cannot cure tiredness, you can at least try to feed your attendees. Pizza is cheap and it is relatively easy to find a sponsor.
 - Make sure the topics you choose are broadly applicable and not just targeted at one group (i.e. penetration testers, software developers). Part of making web application security visible requires you to choose (or solicit) speakers that appeal to IT executives, enterprise architects, business analysis, legal and compliance, etc. If a particular group does happen to be the "target audience" at a meeting, try to change things up for your next meeting.
 
@@ -416,13 +386,12 @@ Meeting invitations/announcements should contain a request to forward it to othe
 You might also want to use event invites instead of e-mail messages. These services provide different advantages such as integration with the attendee calendar and RSVP management, but on the other hand might seem more commercial and obtrusive.
  
 You can send event invites using the following tools:
-- RegOnline - people can register for your meeting (and you can send invites and follow up emails) using OWASP's RegOnline account. If you do not have access and would like to use this for your next chapter meeting, please request an account through http://sl.owasp.org/contactus
+- [Meetup](https://owasp.meetup.com)
 - Direct calendar invites: one can do that using a dedicated Google calendar account.
 - The tool most used by OWASP chapters is: Eventbrite, which is free for non-profits.
 - Others use: Meetup, which while not free is priced very low.
 - Yet others use a meeting Doodle.
-- http://myowasp.ning.com/
-- You can always just use Excel to track the individuals that reply to your email invitations.
+- You can always just use spreadsheets to track the individuals that reply to your email invitations.
  
  
 Note! Whatever tool you use, personally responding to each person who has RSVPed greatly increase the rate of people who actually attend. Just write back "Great! see you in the meeting" or whatever fits your local culture and is short.
@@ -438,7 +407,7 @@ You may want to send your speakers a [PowerPoint template](/www-policy/operation
 In order to ensure that presentations remain vendor neutral and don't turn into platforms for a sales pitch, it is recommended that you screen the presentations before the meeting. This may also be a good time to remind your speaker about the terms of the Speaker Agreement (or make sure they understand what is expected of them).
 
 ### Remote Participation
-The OWASP Foundation has an account with [http://www.gotomeeting.com](http://www.gotomeeting.com) that is free for chapters to use. As soon as you have scheduled the meeting date and time, the remote participation can also be scheduled so you can include details on your chapter's website page or in your emails.
+The OWASP Foundation has an account with [Zoom](https://www.zoom.com) that is free for chapters to use. As soon as you have scheduled the meeting date and time, the remote participation can also be scheduled so you can include details on your chapter's website page, meetup, and/or in your emails.
  
 ### Speaker Gifts
 Although it is not necessary, giving speakers a small token of appreciation such as an OWASP t-shirt, mug, or pen set is encouraged.

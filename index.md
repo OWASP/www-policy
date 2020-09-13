@@ -42,6 +42,16 @@ Handbooks to help Chapter, Project, and Event Leaders in their volunteer work.
 ## Others
 - [Employee Handbook](/www-policy/employee)
 
+## Staff Workflow Procedures (in development)
+{% assign pages = site.pages | sort: 'title' | limit: 1000 %}
+<ul>
+{% for page in pages %}
+ {% if page.path contains 'procedures/' %}
+ <li><a href="/www-policy{{ page.url | replace: '.html', '' }}">{{ page.title }}</a></li>
+ {% endif %}
+{% endfor %}
+</ul>
+
 ## TODO
 - Contact Us (responsivness to tickets, SLA, submitting complete information, submitting accurate information)
 - Membership - terms, discounts, submitting accurate info, pricing, honorary process, peference for Foundation events (like PRoject Summits etc

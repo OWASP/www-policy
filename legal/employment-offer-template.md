@@ -27,7 +27,7 @@ Following your start date you will be eligible to participate in various benefit
 
 Your employment with the Company is at will. This means it is for no specified term and may be terminated by you or the Company at any time, with or without cause or advance notice. In addition, the Company reserves the right to modify your compensation, position, duties or reporting/managerial relationship to meet business needs and to decide on appropriate discipline.
 
-As a condition of your employment you will be required to provide the Company with documents establishing your identity and right to work in the United States. Those documents must be provided to the Company within three (3) business days of your employment start date.
+As a condition of your employment you will be required to provide the Company with documents establishing your identity and right to work in the United States. Those documents must be provided to the Company within three (3) business days of your employment start date. Additionally throughout your employment you will be required to annually endorse the Employee Manual Annual Acknowledgement.
 
 This Offer Letter constitutes the entire agreement between you and the Company regarding the terms and conditions of your employment. This agreement supersedes all prior or contemporaneous negotiations, representations or agreements between you and the Company. The provisions of this agreement regarding at-will employment and arbitration may only be modified by a document signed by you and an authorized representative of the Company.
 

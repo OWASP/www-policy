@@ -525,7 +525,7 @@ Following the employee’s start date, you will be provided with a personal comp
 
 The company will provide you a monthly Technology and Office Supplies taxable allowance of $125 to be included as part of your payroll. This allowance is to assist you in paying for your mobile phone, internet access, computer peripherals, paper, ink, and other items you regularly need for your work function. 
 
-You will be liable for company supplied equipment is to be used for business purposes only. Upon termination of employment or upon request, all company property less than two years old will be returned to the company.
+You will be liable for company supplied equipment is to be used for business purposes only. Upon termination of employment or upon request, all company property costing more than $1,000 and less than one year old will be returned to the company.
 
 <a name="mobile-while-driving"></a>
 ### Safety Concerns for Mobile Phone Usage While Driving

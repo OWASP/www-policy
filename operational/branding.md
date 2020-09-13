@@ -1,13 +1,14 @@
 ---
 
-title: Branding Guidelines
+title: Branding Guidelines (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-
+notice: 2020-09-09
 ---
 
-{% include draft-notice.html %}
+{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
+{% include policy-feedback.html start-date=date-to-pass %}
 
 ## Branding
 
@@ -43,11 +44,11 @@ About the OWASP Foundation: The Open Web Application Security Project (OWASP) is
 ##  Screen Resolution Marks
 (Right mouse click to Save Image As...)
 
-#### Combination Mark (Logo + Wordmark w/TM) 
-![Combination Mark (Logo + Wordmark w/TM)](/www-policy/branding-assets/OWASP-Combination-mark-tm.jpg)
+#### Combination Mark (Logo + Wordmark w/R) 
+![Combination Mark (Logo + Wordmark w/R)](/www-policy/branding-assets/OWASP-Combination-mark-r.png)
 
 #### Logo Mark (Logo w/TM) 
-![Combination Mark (Logo + Wordmark w/TM)](/www-policy/branding-assets/OWASP-logo-tm.jpg)
+![Logo Mark (Logo w/TM)](/www-policy/branding-assets/OWASP-logo-tm.jpg)
 
 #### Website SVG Logo
 ![SVG Website Logo](/assets/images/logo.svg)
@@ -70,7 +71,7 @@ Typefaces
   - [Armata Typeface](http://www.fontsquirrel.com/fonts/armata)
 - Similar to Joanna:
   - [Enriqueta](http://www.fontsquirrel.com/fonts/enriqueta)
-  - [Deja Vu](http://www.fontsquirrel.com/fonts/DejaVu-Serif
+  - [Deja Vu](http://www.fontsquirrel.com/fonts/DejaVu-Serif)
   - [Brawler](http://www.fontsquirrel.com/fonts/brawler Brawler)
 
 The Following items are outdated and are in process of redesign
