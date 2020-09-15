@@ -9,8 +9,7 @@ notice: 2020-07-22
 
 ---
 
-{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
-{% include policy-feedback.html start-date=date-to-pass %}
+{% include review-complete.html %}
 
 Global AppSec events offer practitioners worldwide the opportunity to come together to share their passion and knowledge of OWASP, infosec, and appsec. Each event features presentations from experts in the field, networking events, and opportunities to share experiences amongst the infosec community.
 
@@ -20,7 +19,7 @@ The Conference Program Team exists to create an impactful program that speaks to
 
 Conference Program Teams are constituted for each Global AppSec event and consists of members of OWASP members and staff. The selection of team members is based on subject-matter expertise and balanced representation of the OWASP community. For planning purposes, team members shall reside on the continent of the Global AppSec for which they serve. Teams are constituted no later than six months prior to the Global AppSec event.
 
-Team members contribute via email and video conference, and are required to attend up to two face-to-face meetings throughout the program development process, as well as the Global AppSec Event. Terms are for one Global AppSec. Meetings are usually held on a fortnight cadence, with meetings potentially increasing in frequency as the Event nears. Team members can expect to spend approximately 2-10 hours per week on this commitment.
+Team members contribute via email and video conference, and are expected to attend up to two called face-to-face meetings throughout the program development process, as well as the Global AppSec Event. Terms are for one Global AppSec. Meetings are usually held on a fortnight cadence, with meetings potentially increasing in frequency as the Event nears. Team members can expect to spend approximately 2-10 hours per week on this commitment.
 
 Finally, Team members will be asked to sign an agreement at the beginning of their term and are expected to abide by the agreement and OWASP Code of Conduct. Team members are not eligible to speak at the Global AppSec which they plan.
 
@@ -57,7 +56,16 @@ OWASP Staff Support:
 - All event management logistics, budget management, website content, promotional items, site selection, catering, and venue
 - Manage facility space allocation and programming layout
 - Management of leader meeting and receptions
+- Video Recordings management
 - All other Conference-related activities not explicitly delegated to the Program Team.
+
+Local Chapters (where applicable)
+
+- Supports logistic tasks on site before and during Event
+- Contributes knowledge about local cultural practices and local knowledge.
+- Provides timely ideas, suggestions for local services, catering and complementary events.
+- Helps logistically at arrival of other team members, speakers, and guests.
+
 
 ## Compensation
 
