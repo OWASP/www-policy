@@ -8,9 +8,7 @@ notice: 2020-07-22
 
 ---
 
-{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
-{% include policy-feedback.html start-date=date-to-pass %}
-
+{% include review-complete.html %}
 
 ## Overview
 The OWASP Foundation is a U.S. 501(c)3 and accepts donations through its website and via postal mail. Online donations are processed from the OWASP website by clicking the DONATE button as supported by OWASP Foundation staff. Various business logic has been coded into this form including:
