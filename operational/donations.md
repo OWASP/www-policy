@@ -4,7 +4,6 @@ title: Donations (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2020-07-22
 
 ---
 
@@ -31,7 +30,7 @@ Donations greater than or equal to $1,000 can optionally be Restricted. This pra
 
 ## Recognizing Supporters
 
-As noted above, the Donate Form will present donors with the option to be publicly listed as a supporter of the referring Project, Chapter, or group page. By checking this option on the Form, once a donation has been made, the donor's NAME will be appended to an online donor page for that group's respective website repository. The placement of the donors name into the online donor's file is automatic, but the  Leader will need to include code to render this information on the website. This feature does not however restrict other methods of recognitio that the Leaders may decide to make availabe. Leaders can request from staff a listing of Supporters including email and amounts of supporters.
+As noted above, the Donate Form will present donors with the option to be publicly listed as a supporter of the referring Project, Chapter, or group page. By checking this option on the Form, once a donation has been made, the donor's NAME will be appended to an online donor page for that group's respective website repository. The placement of the donors name into the online donor's file is automatic, but the Leader will need to include code to render this information on the website. This feature does not however restrict other methods of recognition that the Leaders may decide to make availabe. Leaders can request from staff a listing of Supporters including email and amounts of supporters.
 
 Projects and Chapters may recognize individuals and corporations by name that have provided substantive support, financial, in-kind, or charitible on the project or chapters' respective web page provided this recognition is on a "Acknowledgements" or "Supporters" tab. These donations will be recognizied as "supporting" or "donating" to a Project or Chapter and the Foundation reserves the term "Sponsors" soley for OWASP Foundation Events. These types of public recognition shall be online no less than one year, or in the case of Project no less than the next major release, whichever is greater. In addition to listing supporters, this tab must also include "The OWASP Foundation is very grateful for the support by the individuals and organizations listed. However please note, the OWASP Foundation is strictly vendor neutral and does not endorse any of its supporters."
 
