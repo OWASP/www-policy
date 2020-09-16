@@ -4,7 +4,6 @@ title: Conference & Event Attendee
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2020-07-22
 
 ---
 
