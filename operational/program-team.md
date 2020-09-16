@@ -5,7 +5,6 @@ layout: full-width
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2020-07-22
 
 ---
 
@@ -59,13 +58,12 @@ OWASP Staff Support:
 - Video Recordings management
 - All other Conference-related activities not explicitly delegated to the Program Team.
 
-Local Chapters (where applicable)
+Local Chapters (where applicable):
 
 - Supports logistic tasks on site before and during Event
 - Contributes knowledge about local cultural practices and local knowledge.
 - Provides timely ideas, suggestions for local services, catering and complementary events.
 - Helps logistically at arrival of other team members, speakers, and guests.
-
 
 ## Compensation
 
