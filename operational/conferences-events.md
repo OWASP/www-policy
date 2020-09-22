@@ -7,7 +7,7 @@ tags: Rules of Procedure
 
 ---
 
-{% include review-complete.html %}
+Adopted by the Board on 22-Sept-2020
 
 ## Conference & Event Attendees
 
