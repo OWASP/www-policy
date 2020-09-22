@@ -1,13 +1,12 @@
 ---
 
-title: Donations (Draft WIP)
+title: Donations
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
 
 ---
-
-{% include review-complete.html %}
+Adopted by the Board on 22-Sept-2020
 
 ## Overview
 The OWASP Foundation is a U.S. 501(c)3 and accepts donations through its website and via postal mail. Online donations are processed from the OWASP website by clicking the DONATE button as supported by OWASP Foundation staff. Various business logic has been coded into this form including:
@@ -41,4 +40,5 @@ The OWASP Foundation welcomes major foundation and corporate grants. Special ter
 ## Sole Donation Policy
 
 Regardless of the information or offers presented throughout the OWASP website or conveyed by its Leaders, members, staff or Directors, this page is the sole and authoritative Donation and Giving policy of the OWASP Foundation, Inc. From time to time the terms "gifts" and "donations" have been interchangable in policies and OWASP Foundation Board of Directors motions.
+
 
