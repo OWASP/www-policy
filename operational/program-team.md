@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec Program Teams (DRAFT WIP)
+title: Global AppSec Program Teams
 layout: full-width
 layout: col-document
 document: Rules of Procedure
@@ -8,7 +8,9 @@ tags: Rules of Procedure
 
 ---
 
-{% include review-complete.html %}
+Adopted by the Board on 22-Sept-2020
+
+## Overview
 
 Global AppSec events offer practitioners worldwide the opportunity to come together to share their passion and knowledge of OWASP, infosec, and appsec. Each event features presentations from experts in the field, networking events, and opportunities to share experiences amongst the infosec community.
 
