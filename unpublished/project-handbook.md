@@ -2,6 +2,7 @@
 
 title: Project Handbook (Draft WIP)
 layout: col-sidebar
+revision: 2020-10
 
 ---
 
