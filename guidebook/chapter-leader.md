@@ -55,6 +55,14 @@ When setting your meeting date and time, be sure to consider:
  
 ### Posting Meeting Info on the Website
 General information about what should be on a chapter’s wiki page can be found under “administration” below. As soon as you know the time, date, and location of your meeting, be sure to post it to your chapter’s wiki page. Additionally, most chapters post information about the upcoming meeting such as: meeting agenda, speaker background, summary of the topic(s) to be covered by the speaker/meeting.
+#### How to add Meetup Events to Your Chapter Page
+Events on your chapter Meetup page can be added to your OWASP Chapter page by including a meetup-group front matter and the following code:
+
+```
+{% raw %}
+{% include chapter_events.html group=page.meetup-group %}
+{% endraw %}
+```
 
 ### Catering
 Many chapters provide food or refreshments before, during, or after their meeting. This is not a necessity for a chapter meeting, but something extra you might consider if you have the funds in your chapter account or are able to get a sponsor to cover costs (or provide food directly). It is also possible for meeting attendees to split the cost if they want food at the meeting; however, no one can be excluded from a meeting based on their ability or willingness to pay for food. Meetings must remain free and open.

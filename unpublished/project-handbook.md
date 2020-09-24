@@ -6,6 +6,8 @@ revision: 2020-10
 
 ---
 
+{% include draft-notice.html %}
+
 ## [TBD]
 The guidelines for this project handbook are as follows: 
 
