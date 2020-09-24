@@ -63,6 +63,8 @@ Events on your chapter Meetup page can be added to your OWASP Chapter page by in
 {% include chapter_events.html group=page.meetup-group %}
 {% endraw %}
 ```
+For a more detailed example see [https://owasp.org/www-projectchapter-example/]
+
 
 ### Catering
 Many chapters provide food or refreshments before, during, or after their meeting. This is not a necessity for a chapter meeting, but something extra you might consider if you have the funds in your chapter account or are able to get a sponsor to cover costs (or provide food directly). It is also possible for meeting attendees to split the cost if they want food at the meeting; however, no one can be excluded from a meeting based on their ability or willingness to pay for food. Meetings must remain free and open.
