@@ -19,7 +19,7 @@ Membership is explicitly defined as people or corporations that pay dues. Nearly
 
 Individual Members can check their Membership Status, renewal dates, and for auto-renewing Memberships update their billing information by visiting the [Manage your Membership Form](/manage-membership). Members must provide the email address used when applying for membership, and if a member matches that address, an email will be sent to verify or update membership.
 
-Members in "good standing" are defined as those who have paid dues appropriate with their membership level while also not subject to any disciplinary action(s) by the Board of Directors. When determining "continuous" membership status, a grace period of seven (7) days is permitted between the expiration and resumption of a person's membership.
+Members in "good standing" are defined as those who have paid dues appropriate with their membership level while also not subject to any disciplinary action(s) by the OWASP Foundation. When determining "continuous" membership status, a grace period of seven (7) days is permitted between the expiration and resumption of a person's membership.
 
 While the Foundation will make diligent efforts to inform members of their membership - in particular expiration dates - it is the sole responsibility of the member to manage their membership and renewals.
 
@@ -46,14 +46,14 @@ of Adjusted Net National Income Per Capita Countries according to the World Bank
 
 **One or Two-Year**. Dues $50 and $95 for each respective period. Individuals can choose either a single or two-year membership. Members will begin to receive renewal email reminders as early as 60 days prior to renewal. The OWASP Foundation will make its best-efforts to notify members of impending renewals, but it is the sole responsibility of the member to monitor their membership status.
 
-**Lifetime Membership** Dues one-time $500. Individuals can choose this membership which terminates upon the death of the member. Additionally Members who can provide proof of payment for ten one-year members can request a compliementary upgrade to Lifetime Membership.
+**Lifetime Membership** Dues one-time $500. Individuals can choose this membership which terminates upon the death of the member. Additionally Members who can provide proof of payment for ten one-year memberships can request a compliementary upgrade to Lifetime Membership.
 
 **Student Membership** Dues $20 per year. Full-time students may apply for this discounted membership. This membership cannot be set to auto-renew.
 
 ## Honorary Lifetime Membership
 
 Honorary Lifetime Membership can be awarded to long-time contributors to the OWASP cause and activities. The Honorary Lifetime Membership program will work as follows:
-- Each year up to three Lifetime Honorary Memberships may be granted.
+- Each year in December, up to three Lifetime Honorary Memberships may be granted.
 - Nominations will be accepted by the Board from staff, Board Members, or other Leaders. Individuals cannot nominate themselves.
 - Nominees will have been a leader and member of the Foundation for at least five years and have held more than one type of leadership role.
 - Each nominee is confirmed by majority vote of the Global Board of Directors each year at the October meeting.
