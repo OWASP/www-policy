@@ -92,6 +92,8 @@ The business and affairs of the Foundation shall be managed by its Board of Dire
 
 The number of directors of the Foundation shall be no less than five and no more than seven. Each director shall hold office for two years unless duly removed. An individual is limited to four (4) consecutive two (2) year terms effective January 1, 2014. Each director must be elected as prescribed in the election policy and procedure. An individual is limited to no more than two (2) terms in a ten (10) year period.
 
+Foundation funds should not be used to pay for membership. Foundation paid memberships of any class, from any funding source including conferences, chapters, projects, donations, etc, shall not constitute paid membership nor possess voting rights.
+
 ### SECTION 3.03 Regular Meetings
 
 The Board of Directors shall have regular meetings as needed. A link to the board meeting agenda’s and the historical minutes is here: https://www.owasp.org/index.php/OWASP_Board_Meetings. Meetings shall be at such dates, times, and places as the Board shall determine in December of the preceding year and as amended by the Board. In no event will there be less than one meeting per quarter. These meetings will be open to public attendance, however, certain portions of the meeting may be closed to board members and their delegates when required for legal reasons, or to shield liability, or to handle personnel issues, or similar.
