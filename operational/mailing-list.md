@@ -8,12 +8,11 @@ notice: 2020-08-14
 
 ---
 
-{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
-{% include policy-feedback.html start-date=date-to-pass %}
+{% include review-complete.html %}
 
 ## Overview
 
-The OWASP Foundation maintains Mailing Lists for its community to, among other things, manage Projects, share information about Chapters, collaborate on OWASP activities, communicate with subgroups like the Board of Directors, and discussions amongst Leaders. Mailing lists are the preferred collaboration channel for OWASP activities. 
+The OWASP Foundation maintains Mailing Lists for its community to, among other things, manage Projects, share information about Chapters, collaborate on OWASP activities, communicate with subgroups like the Board of Directors, and discussions amongst Leaders. Mailing lists are the preferred collaboration channel for OWASP activities.
 
 While outlined in further detail below, the key points of using Mailing Lists are:
 
@@ -35,7 +34,7 @@ Mailing Lists will be considered abandoned if there are no posts within the past
 
 ## Membership
 
-Participating in Mailing Lists is a privilege which can be revoked at any time and without notice. Generally anyone can join most every Mailing List in the owasp.org domain with two exceptions: (1) the global-board, and (2) leaders lists. 
+Participating in Mailing Lists is a privilege which can be revoked at any time and without notice. Generally anyone can join most every Mailing List in the owasp.org domain with two exceptions: (1) the global-board, and (2) leaders lists.
 
 The community can locate all OWASP Mailing Lists (groups) at (https://groups.google.com/a/owasp.com/)[https://groups.google.com/a/owasp.com/]. There visitors can view historical conversations on public lists, search lists and content, where applicable join a list, and control their email settings. Google makes a best effort to deliver email from Mailing Lists, but users may need to configure their inbox and spam filter/folder to ensure expected timely delivery of messages. The OWASP Foundation is not responsible for delivery or delays associated of content from Mailing Lists.
 

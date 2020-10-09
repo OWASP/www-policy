@@ -8,8 +8,7 @@ notice: 2020-08-05
 
 ---
 
-{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
-{% include policy-feedback.html start-date=date-to-pass %}
+{% include review-complete.html %}
 
 
 ## Overview
@@ -35,7 +34,7 @@ No later than two months prior to an election, a timeline will be publicly avail
 - Election Voting Closes, October 30
 - Results announced to the community, November 1
 
-Elections shall include a method for the electorate to get to know the candidates and their position on topical matters. For the Board of Directors election, this method will minimally include a (1) two week call for questions from the community where a final list sorted by popularity for up to six questions will be provided to candidates, and (2) each candidate will post an online video linked on the Foundation’s website to a candidate community page. 
+Elections shall include a method for the electorate to get to know the candidates and their position on topical matters. For the Board of Directors election, this method will minimally include a (1) two week call for questions from the community where a final list sorted by popularity for up to six questions will be provided to candidates, and (2) each candidate will post an online video linked on the Foundation’s website to a candidate community page.
 
 Email sent to Members shall be the official and primary communication method to engage candidates and Members for OWASP elections.  Members shall receive no less than three (3) email notices for the following: (1) call for candidates, (2) call for questions, (3) notice that in order to vote you must be a Member, and (4) notice to vote. Timelines for elections may include courtesy notices through other channels including social media and mailing lists; however, they are not required and should not be expected for official communications from the OWASP Foundation to Members and the community at large.
 
@@ -55,14 +54,15 @@ Additionally, some leadership positions may additionally require winning candida
 
 ## Voting
 
-Voting in elections shall be of secret ballot of Members. Balloting shall be open for no less than ten (10) and no more than (20) days. Voting closes at 11:59pm US-Pacific Time on the election voting end date. In the case of Board Elections, staff will ensure current Members of the Foundation receive a serialized ballot. Members can vote only once in each election per election cycle. Fraudulent behavior and efforts to either suppress or influence votes shall not be tolerated.
+Voting in elections shall be of secret ballot of Members. Balloting shall be open for no less than fourteen (14) and no more than (20) days. Voting closes at 11:59pm US-Pacific Time on the election voting end date. In the case of Board Elections, staff will ensure current Members of the Foundation receive a serialized ballot. Members can vote only once in each election per election cycle. Fraudulent behavior and efforts to either suppress or influence votes shall not be tolerated.
+
 In situations where an election will be selecting more than one candidate, such is the case when Directors are elected to the Board, ballots will be designed to allow electors to cast as many votes as are allowed on one ballot. Electors are not required to cast the full number of votes allowed and can only vote for a single candidate once.
 
 ## Results
 
 All OWASP elections shall fully report the results of balloting in no more than three (3) days following the close of voting. Each candidate with each individual vote total, and in the case where the electorate can cast more than one vote the cumulative total of all ballots cast, will be listed in a publicly available manner that is minimally shared on the OWASP website
 
-The Executive Director or their designee shall certify an election results. Member voting history is private, so no one other than the Member shall know their vote. Ballots will be destroyed following the certification of the election.
+The Executive Director or their designee shall certify an election results. Member voting history is private, so no one other than the Member shall know their vote.
 
 ## Sole Election Policy
 

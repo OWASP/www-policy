@@ -8,8 +8,7 @@ notice: 2020-08-05
 
 ---
 
-{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
-{% include policy-feedback.html start-date=date-to-pass %}
+{% include review-complete.html %}
 
 ## Social Media
 
