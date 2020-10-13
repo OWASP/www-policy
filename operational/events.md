@@ -38,7 +38,7 @@ Presenters at OWASP Events are required to sign and adhere to the terms of the [
 
 ## Marketing
 
-Event Teams are responsible for the majority of marketing activities promoting their event. Additionally the Team is responsible for ensuring event website content is current and when requested, must provide administrative access to OWASP staff. The Foundation may offer shared services like web hosting and when available should be used by the Event team.  Event Team Leaders will provide content for the ticketing/registration site no later than 15 days prior to registration launch date.
+Event Teams are responsible for the majority of marketing activities promoting their event. Additionally the Team is responsible for ensuring event website content is current and when requested, must provide administrative access to OWASP staff. Where possible, the Foundation will offer shared services like web hosting and when available should be used by the Event team.  Event Team Leaders will provide content for the ticketing/registration site no later than 15 days prior to registration launch date.
 
 The Foundation will provide social media and email support where possible.
 
@@ -163,7 +163,7 @@ Regional Event Teams are solely responsible for managing their respective Event.
 - Graphical design of conference including signage and print materials
 - All other Conference-related activities not explicitly delegated and then accepted by OWASP Staff.
 - Ensure events are conducted in a manner consistent with the OWASP Mission, Principles and [Code of Conduct](/www-policy/operational/code-of-conduct)
-- Comply with the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure GDPR compliance.
+- Comply with the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure that personal information is collected and stored in complaince with local laws and regulations like GDPR.
 
 OWASP Foundation Staff is responsible for the following:
 - Signatory of Contracts and Agreements
