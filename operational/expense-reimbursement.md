@@ -7,9 +7,8 @@ tags: Rules of Procedure
 notice: 2020-08-12
 
 ---
-
-{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
-{% include policy-feedback.html start-date=date-to-pass %}
+ 
+{% include review-complete.html %}
 
 ## Overview
 
@@ -26,16 +25,14 @@ Generally, the policy of the Foundation is that all expenses should be "fair and
   - Event Services, Catering, and Space for Chapter Meetings
 - Project Specific
   - Graphic Design
-  - Technical Contractor
+  - Technical Contractor (i.e. Developer or Technical Editor)
   - Software Licenses
-- Applicable to Chapters, Projects and Committees
-  - Annual Celebratory Leader Gatherings
+- Applicable to Chapters, Projects, and Committees
+  - Celebratory Gatherings
   - Printing
   - Domain Names
 
-Provided sufficient Chapter or Project balances, there are no pre-set limits for most expense beyond the "fair and reasonable" test; however, it is the responsibility of those incurring an expense to:
-- No later than 30 days prior to the expense, obtain pre-approval of any planned expense likely to exceed $2,500
-- When an expense is expected to be more than $5,000, an invoice is required from the vendor for direct remittance.
+For the items listed above, and those under $250, there are no pre-set limits beyond the "fair and reasonable" test. Expenses not listed and exceeding $250 require [pre-approval] (https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/14){:target='_blank'} by the Executive Director or their designatee. When in doubt, individuals requesting expense reimbursement should apply for pre-approval.
 
 The OWASP Foundation does not promote the consumption of alcohol and expects its staff, members, and partners to use good judgment when entertaining. Alcohol expenses are reimbursable when part of a food bill provided the alcohol costs are no more than 50% of the total expenses for that event.
 
@@ -51,11 +48,14 @@ Travel which is explicitly not reimbursable includes leaders or members attendin
 
 Travel expenses include but are not limited to economy airfare, or premium economy if the flight is greater than seven hours, ground transportation, parking, food & beverage, lodging, and other daily business-related expenses. Travel bookings, whenever possible, should be made no later than 21 days prior to departure to reduce costs.
 
-In cases where lodging is pre-arranged and direct billed by the Foundation as part of a room block, reimbursement requests for alternative lodging will be denied. Travel benefits are not transferable.
+In cases where lodging is pre-arranged and directly billed by the Foundation as part of a room block, reimbursement requests for alternative lodging will be denied. Travel benefits are not transferable.
+
+Any other Travel expenses require pre-approval by the Executive Director or their designatee.
+
 
 ## Reimbursement Process
 
-Expenses, along with receipts for reimbursement, shall be submitted through the OWASP Foundation ticketing system for processing and payment. Please note ALL reimbursement request information, except payment instructions, will be shared publicly in various accounting reports and by submitting an expense reimbursment, you agree to that disclosure.
+Expense reimbursement requests, along with receipts for each expense, shall be submitted through the OWASP Foundation ticketing system for processing and payment. Please note ALL reimbursement request information, except payment instructions, will be shared publicly in various accounting reports and by submitting an expense reimbursement, you agree to that disclosure.
 
 - Reimbursement requests must be submitted within 60 days of the expense.
 - Requests must include itemized receipts, payment instructions, and supporting documentation.
@@ -64,12 +64,12 @@ Expenses, along with receipts for reimbursement, shall be submitted through the 
 - Bundling complete trip expenses into one submission is preferred.
 - When submitting expenses for travel, please subtotal amounts for Transit (Air/train/taxi), Lodging, and Meals.
 
-Approvals for reimbursments shall follow the [Signatory Guidelines](/www-policy/operational/signatory) of the OWASP Foundation. Exception process for denied reimbursments shall be:
+Approvals for reimbursements shall follow the [Signatory Guidelines](/www-policy/operational/signatory) of the OWASP Foundation. Exception process for denied reimbursements shall be:
 - Email with narrative and expense information sent to the Treasurer
 - Proper compliance to policy and extenuating circumstances will be considered.
 - In consultation with the Executive Director, Treasurer will make final determination
 
-It is a very serious matter if you record false or misleading information on expense reimbursements. You may not request reimbursement for expenses that you did not have or that were not business-related.
+When an expense is expected to be more than $5,000, an invoice is required from the vendor for direct remittance. It is a very serious matter if you record false or misleading information on expense reimbursements. You may not request reimbursement for expenses that you did not have or that were not business-related.
 
 ## Travel Assistance Programs
 
@@ -77,7 +77,7 @@ From time to time, the OWASP Foundation will budget funds for Leaders and Member
 
 ## Hardware
 
-Capital asset purchases for chapters and projects are strongly discouraged and if over $250 requires pre-approval by the Executive Director. Capital assets under $2,000 purchased by the Foundation will be expensed and not amortized, additionally capital assets under $1,000 are removed from Foundation inventory after 12 months of use.
+Capital asset purchases for chapters and projects are strongly discouraged and if over $250 requires pre-approval by the Executive Director. Capital assets under $2,000 purchased by the Foundation will be expensed, not amortized, and shall be removed from Foundation inventory after 12 months of use.
 
 ## OWASP Project Contracting
 
@@ -85,4 +85,6 @@ All OWASP Projects are started with the understanding that they will be voluntee
 
 In the event that a Project's Leaders decide they would like to hire a contractor to work on a particular aspect of the project, for instance user interface design, then the Project Leaders must manage the recruitment, contracting, and payment on a task/work assignment basis. Contractors must be paid upon satisfactory completion of the task/work assignment and execute a completed [OWASP Foundation Consulting Agreement](/www-policy/legal/contractor-template).
 
-**Failure to comply with any of the above policies may result in expenses, and in particular you reimbursement request, being denied.**
+**Failure to comply with any of the above policies may result in expenses, and in particular you reimbursement request, being denied. When in doubt, please request pre-approval.**
+
+
