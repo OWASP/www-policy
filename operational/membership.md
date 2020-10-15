@@ -46,7 +46,7 @@ of Adjusted Net National Income Per Capita Countries according to the World Bank
 
 **One or Two-Year**. Dues $50 and $95 for each respective period. Individuals can choose either a single or two-year membership. Members will begin to receive renewal email reminders as early as 60 days prior to renewal. The OWASP Foundation will make its best-efforts to notify members of impending renewals, but it is the sole responsibility of the member to monitor their membership status.
 
-**Lifetime Membership** Dues one-time $500. Individuals can choose this membership which terminates upon the death of the member. Additionally Members who can provide proof of payment for ten one-year memberships can request a compliementary upgrade to Lifetime Membership.
+**Lifetime Membership** Dues one-time $500. Individuals can choose this membership which terminates upon the death of the member. Additionally Members who can provide proof of payment for ten one-year memberships can request a complimentary upgrade to Lifetime Membership.
 
 **Student Membership** Dues $20 per year. Full-time students may apply for this discounted membership. This membership cannot be set to auto-renew.
 
