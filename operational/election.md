@@ -1,15 +1,13 @@
 ---
 
-title: Elections (Draft WIP)
+title: Elections
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
 notice: 2020-08-05
 
 ---
-
-{% include review-complete.html %}
-
+Adopted by the Board on 20-Oct-2020
 
 ## Overview
 
