@@ -1,6 +1,6 @@
 ---
 
-title: Individual Membership
+title: Membership for Individuals
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
