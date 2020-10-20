@@ -8,7 +8,7 @@ notice: 2020-08-05
 
 ---
 
-{% include review-complete.html %}
+Adopted by the Board on 20-Oct-2020
 
 ## Social Media
 
