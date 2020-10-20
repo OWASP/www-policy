@@ -1,14 +1,13 @@
 ---
 
-title: Individual Membership (Draft WIP)
+title: Individual Membership
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
 notice: 2020-10-20
 
 ---
-{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
-{% include policy-feedback.html start-date=date-to-pass %}
+Adopted by the Board on 20-Oct-2020
 
 ## Overview
 
