@@ -1,6 +1,6 @@
 ---
 
-title: Mailing Lists (Draft WIP)
+title: Mailing Lists
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
@@ -8,7 +8,7 @@ notice: 2020-08-14
 
 ---
 
-{% include review-complete.html %}
+Adopted by the Board on 20-Oct-2020}
 
 ## Overview
 
