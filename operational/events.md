@@ -32,9 +32,7 @@ Generally the Community is more receptive to new talks, not ones presented at pr
 
 ## Keynote, Speaker and Training Agreements
 
-Presenters at OWASP Events are required to sign and adhere to the terms of the [speaker/trainer agreement](/www-policy/legal/speaker-agreement). An online version can be provided to Regional Event Teams upon request. Failure by presenters to execute this agreement within seven days of the event results in their session cancelled. While the complete terms are included in the agreement it should be highlighted that unless provided for in an approved budget:
-- Speakers do not receive any compensation for their participation
-- Travel expenses are not reimbursable for Speakers or Trainers
+Presenters at OWASP Events are required to sign and adhere to the terms of the [speaker/trainer agreement](/www-policy/legal/speaker-agreement). An online version can be provided to Regional Event Teams upon request. Failure by presenters to execute this agreement within seven days of the event results in their session cancelled. While the complete terms are included in the agreement it should be highlighted that unless provided for in an approved budget with explicit line items, unapproved expenses or travel will not be paid.
 
 ## Marketing
 
