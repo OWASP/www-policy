@@ -1,6 +1,6 @@
 ---
 
-title: Events Policy (Draft WIP)
+title: Events Policy
 layout: full-width
 layout: col-document
 document: Rules of Procedure
@@ -8,9 +8,7 @@ tags: Rules of Procedure
 notice: 2020-07-29
 
 ---
-
-
-{% include review-complete.html %}
+Adopted by the Board on 20-Oct-2020
 
 # Classes of Events
 
