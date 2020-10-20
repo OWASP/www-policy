@@ -1,14 +1,13 @@
 ---
 
-title: Expense Policy (Draft WIP)
+title: Expense Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
 notice: 2020-08-12
 
 ---
- 
-{% include review-complete.html %}
+Adopted by the Board on 20-Oct-2020
 
 ## Overview
 
