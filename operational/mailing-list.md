@@ -8,7 +8,7 @@ notice: 2020-08-14
 
 ---
 
-Adopted by the Board on 20-Oct-2020}
+Adopted by the Board on 20-Oct-2020
 
 ## Overview
 
@@ -36,13 +36,13 @@ Mailing Lists will be considered abandoned if there are no posts within the past
 
 Participating in Mailing Lists is a privilege which can be revoked at any time and without notice. Generally anyone can join most every Mailing List in the owasp.org domain with two exceptions: (1) the global-board, and (2) leaders lists.
 
-The community can locate all OWASP Mailing Lists (groups) at (https://groups.google.com/a/owasp.com/)[https://groups.google.com/a/owasp.com/]. There visitors can view historical conversations on public lists, search lists and content, where applicable join a list, and control their email settings. Google makes a best effort to deliver email from Mailing Lists, but users may need to configure their inbox and spam filter/folder to ensure expected timely delivery of messages. The OWASP Foundation is not responsible for delivery or delays associated of content from Mailing Lists.
+The community can locate all OWASP Mailing Lists (groups) at [https://groups.google.com/a/owasp.org/](https://groups.google.com/a/owasp.com/). There visitors can view historical conversations on public lists, search lists and content, where applicable join a list, and control their email settings. Google makes a best effort to deliver email from Mailing Lists, but users may need to configure their inbox and spam filter/folder to ensure expected timely delivery of messages. The OWASP Foundation is not responsible for delivery or delays associated of content from Mailing Lists.
 
 Membership can be requested and either the Group Owner(s) or Group Manager(s) shall grant membership to a Mailing List within seven business days of the request provided the requestor meets the membership requirements, if any.
 
 Users of OWASP Mailing Lists shall use their real life identity and anonymous unverified identities are prohibited. Upon request, Members of Mailing Lists, shall provide within seven days of said request, proof of identity to Group Owner(s). Failure to provide adequate credititals for proof of identity will result in the Member being removed then banned from all OWASP Mailing Lists, and at the sole discretion of the Group Owner(s), all content posted by the Member being permanently removed.
 
-Egregious single or repeated violations of the Code of Conduct shall result in a member being suspended and/or banned from Mailing Lists. Suspension or banning members is at the sole decision of the Executive Director.
+Egregious single or repeated violations of the Code of Conduct shall result in a member being suspended or banned from Mailing Lists. Suspension or banning members is at the sole decision of the Executive Director.
 
 With regard to the two Controlled owasp.org lists, following are their additional membership requirements:
 
@@ -54,7 +54,7 @@ From time-to-time Mailing List membership shall be audited by Group Owner(s) and
 
 ## Posting
 
-Generally you must be a member of a list to post to an OWASP Mailing List. All use of and behavior on Mailing Lists, and in particular posting, shall conform to the OWASP Foundation (Code of Conduct)[/www-policy/operational/code-of-conduct]. Posts and other behaviors related to Mailing Lists that violate the Code of Conduct should be reported to the Group Owner(s) and Group Manager(s) for moderation up to and including removal of the post and if any resulting threads, along with banning of the individual who made the post on all OWASP Mailing Lists.
+Generally you must be a member of a list to post to an OWASP Mailing List. All use of and behavior on Mailing Lists, and in particular posting, shall conform to the OWASP Foundation [Code of Conduct](/www-policy/operational/code-of-conduct). Posts and other behaviors related to Mailing Lists that violate the Code of Conduct should be reported to the Group Owner(s) and Group Manager(s) for moderation up to and including removal of the post and if any resulting threads, along with banning of the individual who made the post on all OWASP Mailing Lists.
 
 ## Moderation
 
@@ -88,7 +88,7 @@ The community is invited to report deviations from the Mailing Lists defaults to
 
 ## Privacy
 
-Use of OWASP Mailing Lists is not private and data about your and your behavior is collected and used according to the (OWASP Privacy Policy)[/www-policy/operational/privacy]. Your email address may be publicly exposed to visitors and in most cases Mailing Lists are set to public meaning anyone on the internet can view your comments and your identity. This is by design. Certain lists, like those in the owasp.com domain, are not public but administrators and Group Owner(s) can always read and delete messages from any OWASP Mailing List without notice.
+Use of OWASP Mailing Lists is not private and data about your and your behavior is collected and used according to the [OWASP Privacy Policy](/www-policy/operational/privacy). Your email address may be publicly exposed to visitors and in most cases Mailing Lists are set to public meaning anyone on the internet can view your comments and your identity. This is by design. Certain lists, like those in the owasp.com domain, are not public but administrators and Group Owner(s) can always read and delete messages from any OWASP Mailing List without notice.
 
 ## Sole Mailing List Policy
 
