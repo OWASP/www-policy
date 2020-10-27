@@ -7,12 +7,20 @@ tags: Rules of Procedure
 notice: 2020-09-09
 ---
 
-{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
-{% include policy-feedback.html start-date=date-to-pass %}
+{% include review-complete.html %}
+
+Please note, this page is supplemental to the [OWASP Foundation OWASP Word Mark and Logo Usage Guidelines](/www-policy/operational/mark-usage-guidelines.md). Usage requirements therein include:
+- No misrepresentation as to meaning
+- Do not disparage
+- Notice symbols
+- Attribution
+- Do not alter
+- Use as adjective
+- No use in Company names
 
 ## Branding
 
-On this page, you will find the most current marketing materials and brand guidelines used by the OWASP Foundation. We have everything from logos and business cards to banner stand and brochure designs all for your use.
+On this page, you will find the most current marketing materials and brand guidelines used by the OWASP Foundation.
 
 ###  Guidelines
 
@@ -44,21 +52,16 @@ About the OWASP Foundation: The Open Web Application Security Project (OWASP) is
 ##  Screen Resolution Marks
 (Right mouse click to Save Image As...)
 
-#### Combination Mark (Logo + Wordmark w/R) 
+#### Combination Mark (Logo + Wordmark w/R)
 ![Combination Mark (Logo + Wordmark w/R)](/www-policy/branding-assets/OWASP-Combination-mark-r.png)
 
-#### Logo Mark (Logo w/TM) 
+#### Logo Mark (Logo w/TM)
 ![Logo Mark (Logo w/TM)](/www-policy/branding-assets/OWASP-logo-tm.jpg)
 
 #### Website SVG Logo
 ![SVG Website Logo](/assets/images/logo.svg)
 ##  Assets and Collatoral
 
-OWASP Corporate Logo
-- Full Color Vector
-- Mono Vector
-- Full Color PNG
-- Mono PNG
 
 Templates
 - Slide Templates
@@ -79,18 +82,9 @@ The Following items are outdated and are in process of redesign
 - Letterhead
 - Business Cards
 - Envelope
-
-The Following items are outdated and are in process of redesign
 - About Us Flyer
 - Corporate and Individual Membership Flyer
-- New Member Welcome Flyer ###
-- ZAP Flyer
-- E-Brochure
+- New Member Welcome Flyer
 
-### Project Class and Type Indicators
-
-The templates and icons below are the files used for our OWASP Projects. Here you will find icons that you can place on your wiki project page to let viewers know what type of project they are looking at, and what stage the project is in. Click on an image to view information and download the file.
-
- [Under development for new site]
 
 
