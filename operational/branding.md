@@ -9,7 +9,7 @@ notice: 2020-09-09
 
 {% include review-complete.html %}
 
-Please note, this page is supplemental to the [OWASP Foundation OWASP Word Mark and Logo Usage Guidelines](/www-policy/operational/mark-usage-guidelines.md). Usage requirements therein include:
+Please note, this page is supplemental to the [OWASP Foundation OWASP Word Mark and Logo Usage Guidelines](/www-policy/operational/mark-usage-guidelines). Usage requirements therein include:
 - No misrepresentation as to meaning
 - Do not disparage
 - Notice symbols
