@@ -190,7 +190,7 @@ Individual, Corporate, and Student Membership may be granted to any individual o
 
 Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and has been in the top 5 position continuously for six months prior to applying for complimentary membership. Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complementary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership. Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership.
 
-Honorary Membership is equivalent to Individual Membership and valid for five years. Honorary Membership shall be determined and approved solely by a majority vote of the Board of Directors for long-standing and extraordinary services to the OWASP Community.
+Honorary Membership is equivalent to Lifetime Individual Membership. Honorary Membership shall be determined and approved solely by a majority vote of the Board of Directors for long-standing and extraordinary services to the OWASP Community.
 
 All membership classes are eligible to vote in elections.
 
