@@ -170,7 +170,7 @@ Should there be any doubt about the validity of the claim, a majority vote of th
 
 Directors and Candidates for the Board who have lapses in good standing have a grace period of 7 days to renew their membership. Directors or Candidates who fail to obtain paid individual or lifetime membership, honorary membership, or renew their previous membership within the permitted grace period will not have maintained good standing for the purposes of election eligibility. Directors may continue to vote on the Board during the grace period.
 
-Section 3.16 ADOPTION OF ROBERTS RULES OF ORDER
+### Section 3.16 ADOPTION OF ROBERTS RULES OF ORDER
 
 The rules contained in the current edition of Robert's Rules of Order Newly Revised (12th ed.) shall govern the OWASP Foundation Board and special meetings in all cases to which they are applicable and in which they are not inconsistent with the bylaws, and any special rules of order the Board may adopt.
 
