@@ -194,6 +194,8 @@ Honorary Membership is equivalent to Individual Membership and valid for five ye
 
 All membership classes are eligible to vote in elections.
 
+If an individual is a sanctioned individual or resides in a sanctioned country under US Government laws or regulations, the Foundation will either decline to grant membership, or revoke membership and participation if the individual is a member. For more details, please consult the Appendix.
+
 ### SECTION 4.03 Termination of Membership
 
 The Board of Directors, by affirmative vote of two thirds of all members of the Board, may suspend or expel a member, and may, by a majority vote of those present at any regularly constituted meeting, terminate, suspend or expel the membership of any member who becomes ineligible for membership.
@@ -305,6 +307,10 @@ These Bylaws may be amended by a majority vote of the Board of Directors, provid
 ### DOCUMENT HISTORY and Historical Versions
 
 Starting in March 2017, the OWASP Bylaws have been moved to a [https://owasp.org/www-policy/ git repository](https://owasp.org/www-policy/) to track all future changes.  Prior to that transition, new PDF versions were created upon every update. Those historical version can be obtained by using [Contact Us](https://owasp.org/contact/).
+
+### US Sanctioned Countries
+
+The US Treasury maintains a list of Sanctioned Individuals and Countries, which has different sanctions and scope for each country, and these change constantly. For more information, please visit the [OFAC Sanctions Program and Country Information site](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information). This link was correct as of October 30, 2020, but may change over time.
 
 ### Comments
 
