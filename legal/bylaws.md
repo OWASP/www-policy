@@ -220,9 +220,9 @@ Participation in OWASP activities (conferences, meetings, mailings lists, projec
 
 ## ARTICLE V - ADVISORY BOARDS, COMMITTEES AND LOCAL CHAPTERS
 
-### SECTION 5.01
+### SECTION 5.01 Committees
 
-Establishment. The Board of Directors may, by resolution adopted by a majority of the Directors in office, establish one or more Advisory Boards or Committees. Committees will be held to the core purpose and core values as outlined in Sections 1.02 and 1.03. Committees will be structured according to the guidelines in Policy and Procedure.
+Establishment. The Board of Directors may, by resolution adopted by a majority of the Directors in office, establish one or more Board sub-committees (e.g, fundraising, finance, audit, or executive), Advisory Boards, or Committees. These will be held to the core purpose and core values as outlined in Sections 1.02 and 1.03. Committees are formed and governed by the Committees Policy, and are limited the Charter's purpose and scope. As a Committee Charter might devolve powers currently held by the Board or the Foundation to the Committee, any such devolution to a Committee will require a 2/3rd majority vote.
 
 ### SECTION 5.02 Local Chapters
 
