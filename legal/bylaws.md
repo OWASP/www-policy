@@ -5,18 +5,20 @@ layout: full-width
 
 ---
 
-#  OWASP FOUNDATION Bylaws
+# OWASP FOUNDATION Bylaws
 
-- ARTICLE I OFFICES
-- ARTICLE II AUTHORITY AND DUTIES OF OFFICERS
-- ARTICLE III BOARD OF DIRECTORS
-- ARTICLE IV MEMBERS
-- ARTICLE V ADVISORY BOARDS, COMMITTEES AND LOCAL CHAPTERS
-- ARTICLE VI INDEMNITY
-- ARTICLE VII CONFLICTS OF INTEREST
-- ARTICLE VIII CONTRACTS AND FINANCIAL ADMINISTRATION
-- ARTICLE IX BOOKS AND RECORDS
-- ARTICLE X AMENDMENT OF BYLAWS
+Last amendment approval Oct 20, 2020. Text to take effect November 1, 2020.
+
+- [ARTICLE I OFFICES](#article-i---offices)
+- [ARTICLE II AUTHORITY AND DUTIES OF OFFICERS](#article-ii---authority-and-duties-of-officers)
+- [ARTICLE III BOARD OF DIRECTORS](#article-iii---board-of-directors)
+- [ARTICLE IV MEMBERS](#article-vi---members)
+- [ARTICLE V ADVISORY BOARDS, COMMITTEES AND LOCAL CHAPTERS](#article-v---advisory-boards,-committees-and-local-chapters)
+- [ARTICLE VI INDEMNITY](#article-vi---indemnity)
+- [ARTICLE VII CONFLICTS OF INTEREST](#article-vii---conflicts-of-interest)
+- [ARTICLE VIII CONTRACTS AND FINANCIAL ADMINISTRATION](#article-viii---contracts-and-financial-administration)
+- [ARTICLE IX BOOKS AND RECORDS](#article-ix---books-and-records)
+- [ARTICLE X AMENDMENT OF BYLAWS](#article-x---amendment-of-bylaws)
 
 ## ARTICLE I - OFFICES
 
@@ -42,6 +44,7 @@ The OWASP Foundation will be the thriving global community that drives visibilit
 Each Board Member will be assigned one of the following roles: Board Chair, Vice Chair, Secretary, Treasurer, or Board Member at large. These roles will carry the following responsibilities:
 
 **Board Chair** - The Chairman of the Board shall serve as the principal executive officer of the Foundation.
+
 - Fiduciary responsibilities: He/She shall, in general, supervise and control all of the business and affairs of the Foundation. He/She will monitor financial planning and financial reports He/She or he may sign, with the Secretary or any other proper officer of the Foundation thereunto authorized by the Board of Directors, any deeds, mortgages, bonds, contracts, or other instruments which the Board of Directors has authorized to be executed, except in cases where the signing and execution thereof shall be expressly delegated by the Board of Directors or by these Bylaws to some other officer or agent of the Foundation, or shall be required by law to be otherwise signed or executed;
 - Leadership and Direction: provides leadership to the Board of Directors with regards to policy setting and strategic planning. He/She helps guide and mediate board actions with respect to organizational priorities and governance concerns, and in general shall perform all duties incident to the office of Chairman of the Board subject to the control of the Board of Directors.
 - Organizational Responsibilities: He/She plays a leading role in fundraising activities, formally evaluate the performance of the Foundation Director and informally evaluate the effectiveness of the board members. An annual, overall evaluation of the performance of the organization in achieving its mission will be accomplished. He or she shall, when present, preside at all meetings of the Board of Directors, unless otherwise delegated, and such other duties as may be prescribed by the Board of Directors from time to time.
@@ -96,7 +99,7 @@ The business and affairs of the Foundation shall be managed by its Board of Dire
 
 The number of directors of the Foundation shall be no less than five and no more than seven. Each director shall hold office for two years unless duly removed. An individual is limited to four (4) elected two-year (2) terms effective January 1, 2014. Each director must be elected as prescribed in the election policy and procedure. An individual is limited to no more than two (2) two-year (2) terms in a ten (10) year period.
 
-Directors are responsible for maintaining their membership in good standing for the duration of their term. 
+Directors are responsible for maintaining their membership in good standing for the duration of their term.
 
 A Director or Candidate for the Board shall have maintained continuous membership in good standing over the previous 12 months, notwithstanding any grace periods established in these bylaws.
 
@@ -106,7 +109,7 @@ Foundation funds should not be used to pay for membership. Foundation paid membe
 
 ### SECTION 3.03 Regular Meetings
 
-The Board of Directors shall have regular meetings as needed. A link to the board meeting agenda’s and the historical minutes is here: https://www.owasp.org/index.php/OWASP_Board_Meetings. Meetings shall be at such dates, times, and places as the Board shall determine in December of the preceding year and as amended by the Board. In no event will there be less than one meeting per quarter. These meetings will be open to public attendance, however, certain portions of the meeting may be closed to board members and their delegates when required for legal reasons, or to shield liability, or to handle personnel issues, or similar.
+The Board of Directors shall have regular meetings as needed. A link to the board meeting agenda’s and the historical minutes is here: [https://owasp.org/www-board/](https://owasp.org/www-board/). Meetings shall be at such dates, times, and places as the Board shall determine in December of the preceding year and as amended by the Board. In no event will there be less than one meeting per quarter. These meetings will be open to public attendance, however, certain portions of the meeting may be closed to board members and their delegates when required for legal reasons, or to shield liability, or to handle personnel issues, or similar.
 
 Attendance in person or virtually by board members is required at no less than 75% of the total meetings each year and shall be highly encouraged to meet in person at least once annually at a date to be announced and agreed upon. To be considered as “attended” the board member must attend at least 90% of the meeting, starting at the published scheduled time until the published end time or the meeting is adjourned (whichever is earlier). Attendance is tabulated by the Executive Director or delegate within seven days after every scheduled meeting for the purpose of determining if the 75% attendance requirement has been met, and the tabulation is based upon the entire calendar year. Cancelled meetings are considered attended for the purposes of the tabulation. Failure by a board member to meet the 75% attendance requirement after any tabulation will cause a mandatory vote of confidence by the remaining board members, whose votes will be publicly recorded. The vote of confidence is to take place within 21 days, but not sooner than 7 days, of notification by the Executive Director or delegate that a board member has not met the attendance threshold. During the first seven days, the board member in question will have an opportunity to make their case to their fellow board members. The vote of confidence will take place on the OWASP Board of Directors email list, unless the Board votes to review the matter at their next meeting, so long as the next meeting occurs within the 21­day window. An overall vote of “no confidence” is recorded if more than half of the board members vote for it, which causes the board member in question to be instantly removed from their seat on the board. Vacancies on the board are handled as per SECTION 3.10.
 
@@ -156,13 +159,14 @@ A Director of the Foundation who is present at a meeting of the Board of Directo
 
 Any member whose membership lapsed due to technical or procedural problems with the membership management system should be granted exemption from the "paid" component of the "in good standing" clause for eligibility. The exempted member must satisfy all of the following conditions:
 
-* The member fulfills all requirements to stand for the Board; and
-* The member can demonstrate evidence of having made a reasonable attempt to maintain continuous membership.
+- The member fulfills all requirements to stand for the Board; and
+- The member can demonstrate evidence of having made a reasonable attempt to maintain continuous membership.
 
-Evidence of having made a reasonable attempt to maintain continuous membership requires one or more of the following: 
-* An email trail between the member and the Foundation's staff showing an honest effort to pay for one's membership through acceptable means; or
-* Evidence of a failed transaction to the OWASP account; or 
-* Evidence of a credit to the member's membership belatedly applied by the Foundation. 
+Evidence of having made a reasonable attempt to maintain continuous membership requires one or more of the following:
+
+- An email trail between the member and the Foundation's staff showing an honest effort to pay for one's membership through acceptable means; or
+- Evidence of a failed transaction to the OWASP account; or
+- Evidence of a credit to the member's membership belatedly applied by the Foundation.
 
 Should there be any doubt about the validity of the claim, a majority vote of the Board will decide the outcome on a case-by-case basis.
 
@@ -178,11 +182,17 @@ The rules contained in the current edition of Robert's Rules of Order Newly Revi
 
 ### SECTION 4.01 Membership Classes
 
-There shall be three classes of OWASP members: Corporate, Individual, and Educational.
+There shall be the following classes of OWASP members: Corporate, Individual, Complementary, Honorary, and Student.
 
 ### SECTION 4.02 Qualifications
 
-Membership may be granted to any individual or organization that supports the mission and purposes of the Foundation, is in good standing subject to our Code of Ethics, and who pays the annual dues as set by the Board of Directors or is approved by the Board of Directors as having provided a benefit to the organization deserving of membership.
+Individual, Corporate, and Student Membership may be granted to any individual or organization that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and pays the dues as set by the Board of Directors. The Foundation may, at its discretion, offer monthly, annual, two-year, and Lifetime memberships. Regional pricing is available to all paid membership classes.
+
+Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and has been in the top 5 position continuously for six months prior to applying for complimentary membership. Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complementary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership. Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership.
+
+Honorary Membership is equivalent to Individual Membership and valid for five years. Honorary Membership shall be determined and approved solely by a majority vote of the Board of Directors for long-standing and extraordinary services to the OWASP Community.
+
+All membership classes are eligible to vote in elections.
 
 ### SECTION 4.03 Termination of Membership
 
@@ -292,55 +302,10 @@ These Bylaws may be amended by a majority vote of the Board of Directors, provid
 
 ## APPENDIX
 
-**DOCUMENT HISTORY**
-```
-Approved: June 23, 2012
-Revised: March 4, 2013
-Revised: June 10, 2013
-Revised: August 19, 2013
-Revised: February 24, 2014
-Revised: April 4, 2014
-Revised: May 2015 &amp; September 2015
-Converted to Markdown: March 7, 2017
-Converted to Git Markdown, December 12, 2019
+### DOCUMENT HISTORY and Historical Versions
 
-**AMENDMENT TRACKING**
+Starting in March 2017, the OWASP Bylaws have been moved to a [https://owasp.org/www-policy/ git repository](https://owasp.org/www-policy/) to track all future changes.  Prior to that transition, new PDF versions were created upon every update. Those historical version can be obtained by using [Contact Us](https://owasp.org/contact/).
 
-##### 2011-08-23
-SECTION 2.02 contained the following as a footnote after the first sentence of that sentence &quot;Amendment to bylaws passed August 23, 2011&quot;
+### Comments
 
-##### 2013-03-14
-Removed references to 5.5.03 and 5.04 from 3.02; consolidated sections 2.06 and 2.01a and sections 2.01c and 2.07; subsequently deleted sections 2.06 and 2.07; Added link to board meeting agenda page in ### SECTION 3.03; added link to election timeline to ### SECTION 3.02; added the following sentence to sections 2.02 and 3.02 KH
-
-##### 2013-06-10
-Removed reference to chapter committee in 5.02, modified ### SECTION 3.03 to drop in person meeting requirement. SB
-
-##### 2013-08-13
-Modified SECTION 3.03 to quarterly board meetings, and attendance requirement to 3 of 4 meetings. SB
-
-##### 2014-02-24
-Modified SECTION 4.02 to include “is in good standing subject to our code of ethics”. SB
-
-##### 2014-04-07
-Added SECTION 4.07, approved by the Board of Directors on March 31, 2014. SB
-
-##### 2015-05-05
-SECTION 3.03 Regular Meetings was expanded to include 1 board meeting per quarter, and a Board attendance requirement of 75%, with a mechanism for measurement. Removed footnote #2 re: meetings. Approved via unanimous email vote May 5, 2015. P.Ritchie
-
-##### 2015-09-25
-SECTION 3.03 Regular Meetings text was expanded to clarify measurement &amp; voting timeline.
-
-If you have comments on this document please email **owasp[at]owasp.org**.
-
-## Historical Versions
-Starting in March 2017, the OWASP Bylaws have been moved to a [https://github.com/OWASP-Foundation/Bylaws git repository] to track all future changes.  Prior to that transition, new PDF versions were created upon every update.  Those historical version are listed below.
-* [[:File:OWASP-ByLaws-Unofficial 2017-03-07.pdf|March 7, 2017]]
-* [https://www.owasp.org/images/e/e1/OWASPByLawsOfficial-25Sept2015CLEAN.pdf September 25, 2015]
-* [https://www.owasp.org/images/4/46/OWASPByLawsOfficial-5May2015CLEAN.pdf May 5, 2015]
-* [https://www.owasp.org/images/9/92/April2014OWASPFoundationByLaws.pdf April 7, 2014]
-* [https://www.owasp.org/images/6/64/2014OWASPFoundationByLaws.pdf February 24, 2014]
-* [https://www.owasp.org/images/f/f5/2013OWASPFoundationByLaws_%281%29.pdf August 19, 2013]
-* [https://www.owasp.org/images/c/ca/2013OWASPFoundationByLaws.pdf June 10, 2013]
-* [https://www.owasp.org/images/0/05/OWASP_Foundation_ByLaws.pdf March 3, 2013]
-* [https://www.owasp.org/images/d/d6/2011-06-OWASP-BYLAWS.pdf June 23, 2011]
-* [https://www.owasp.org/images/0/0d/OWASP_ByLaws.pdf March 15, 2004]
+If you have comments on this document please email [admin@owasp.com](mailto:admin@owasp.com).
