@@ -69,7 +69,7 @@ Resignations are effective upon receipt by the Secretary of the Board of a writt
 
 ### SECTION 2.04 Removal
 
-Any officer, contractor, member, or director may be removed by a unanimous vote of the Board of Directors whenever, in its judgment, the best interests of the Foundation will be served thereby, but such removal shall be without prejudice to the contract rights, if any, of the person so removed. Election or appointment of an officer, agent, or director shall not of itself create contract rights, and such appointment shall be terminable at will.
+Any officer, contractor, member, or director may be removed by a two thirds vote of the Board of Directors whenever, in its judgment, the best interests of the Foundation will be served thereby, but such removal shall be without prejudice to the contract rights, if any, of the person so removed. Election or appointment of an officer, agent, or director shall not of itself create contract rights, and such appointment shall be terminable at will.
 
 ### SECTION 2.05 Vacancies
 
