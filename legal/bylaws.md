@@ -56,7 +56,9 @@ Each Board Member will be assigned one of the following roles: Board Chair, Vice
 
 ### SECTION 2.02 Election and Term of Office
 
-Each Board member will serve for a term of 2 years. The term will begin effective January 1 following the election period. A Board member may run again for re-election at any point in the future, but may serve no more than two two-year terms in any ten year period. The role of the Board Members shall be elected by the Board of Directors at the first meeting following the election of the Board of Directors. If the election of officers shall not be held at such meeting, such election shall be held as soon thereafter as conveniently may be. Each officer shall hold that role until the next election has been completed.
+Each Board member will serve for a term of 2 years. The term will begin effective January 1 following the election period. An individual is limited to four (4) elected two-year (2) terms. Each director must be elected as prescribed in the election policy and procedure. An individual is limited to no more than two (2) two-year (2) terms in a ten (10) year period.
+
+The role of the Board Members shall be elected by the Board of Directors at the first meeting following the election of the Board of Directors. If the election of officers shall not be held at such meeting, such election shall be held as soon thereafter as conveniently may be. Each officer shall hold that role until the next election has been completed.
 
 ### SECTION 2.03 Resignation
 
@@ -69,6 +71,8 @@ Any officer, contractor, member, or director may be removed by a unanimous vote 
 ### SECTION 2.05 Vacancies
 
 A vacancy in any office because of death, resignation, removal, disqualification or otherwise, may be filled by the Board of Directors for the unexpired portion of the term.
+
+If a Director creates a Vacancy, such as being removed or resigned, the entire term is considered served for that Member for the purposes of term limits.
 
 ### SECTION 2.06 INTENTIONALLY LEFT BLANK
 
@@ -90,7 +94,13 @@ The business and affairs of the Foundation shall be managed by its Board of Dire
 
 ### SECTION 3.02 Number, Tenure, and Qualifications
 
-The number of directors of the Foundation shall be no less than five and no more than seven. Each director shall hold office for two years unless duly removed. An individual is limited to four (4) consecutive two (2) year terms effective January 1, 2014. Each director must be elected as prescribed in the election policy and procedure. An individual is limited to no more than two (2) terms in a ten (10) year period.
+The number of directors of the Foundation shall be no less than five and no more than seven. Each director shall hold office for two years unless duly removed. An individual is limited to four (4) elected two-year (2) terms effective January 1, 2014. Each director must be elected as prescribed in the election policy and procedure. An individual is limited to no more than two (2) two-year (2) terms in a ten (10) year period.
+
+Directors are responsible for maintaining their membership in good standing for the duration of their term. 
+
+A Director or Candidate for the Board shall have maintained continuous membership in good standing over the previous 12 months, notwithstanding any grace periods established in these bylaws.
+
+At the time of their election, to qualify to stand, candidates must hold an Individual membership, Lifetime membership, or hold a valid Honorary Membership. This membership must have been in place for a 12 month period prior to the date of the election.
 
 Foundation funds should not be used to pay for membership. Foundation paid memberships of any class, from any funding source including conferences, chapters, projects, donations, etc, shall not constitute paid membership nor possess voting rights.
 
@@ -126,7 +136,9 @@ Any action that may be taken by the Board of Directors at a meeting may be taken
 
 ### SECTION 3.10 Vacancies
 
-Any vacancy occurring in the Board of Directors may be filled by the affirmative vote of a majority of the remaining directors though less than a quorum of the Board of Directors, unless otherwise provided by law. If there is an equal number of affirmative and negative votes then the ultimate determination shall be made by the then­ sitting Chairman of the Board. A director elected to fill a vacancy shall be elected for the unexpired term of his predecessor in office. Any directorship to be filled by reason of an increase in the number of directors may be filled by election by the Board of Directors for a term of office continuing only until the next election of directors by the Directors.
+Any vacancy occurring in the Board of Directors may be filled by the affirmative vote of a majority of the remaining directors though less than a quorum of the Board of Directors unless otherwise provided by law. If there is an equal number of affirmative and negative votes then the ultimate determination shall be made by the then­ sitting Chairman of the Board. A director elected to fill a vacancy shall be elected for the unexpired term of his predecessor in office. Any directorship to be filled by reason of an increase in the number of directors may be filled by election by the Board of Directors for a term of office continuing only until the next election of directors by the Directors.
+
+Appointed Directors filling a vacancy shall not have this partial term counted against term limits. Members can only be appointed to fill a vacancy once every ten years to prevent bypassing term limits.
 
 ### SECTION 3.11 Employment
 
@@ -139,6 +151,24 @@ Directors shall serve without compensation with the exception that expenses incu
 ### SECTION 3.13 Presumption of Assent
 
 A Director of the Foundation who is present at a meeting of the Board of Directors at which action on any corporate matter is taken shall be presumed to have assented to the action taken unless his or her dissent shall be entered in the minutes of the meeting or unless s/he shall file his or her written dissent to such action with the person acting as the Secretary of the meeting before the adjournment thereof, or shall forward such dissent to the Secretary of the Foundation immediately after the adjournment of the meeting. Such right to dissent shall not apply to any director who voted in favor of such action.
+
+### SECTION 3.14 Good standing exemption due to Foundation membership system failure
+
+Any member whose membership lapsed due to technical or procedural problems with the membership management system should be granted exemption from the "paid" component of the "in good standing" clause for eligibility. The exempted member must satisfy all of the following conditions:
+
+* The member fulfills all requirements to stand for the Board; and
+* The member can demonstrate evidence of having made a reasonable attempt to maintain continuous membership.
+
+Evidence of having made a reasonable attempt to maintain continuous membership requires one or more of the following: 
+* An email trail between the member and the Foundation's staff showing an honest effort to pay for one's membership through acceptable means; or
+* Evidence of a failed transaction to the OWASP account; or 
+* Evidence of a credit to the member's membership belatedly applied by the Foundation. 
+
+Should there be any doubt about the validity of the claim, a majority vote of the Board will decide the outcome on a case-by-case basis.
+
+### SECTION 3.15 Good standing grace period
+
+Directors and Candidates for the Board who have lapses in good standing have a grace period of 7 days to renew their membership. Directors or Candidates who fail to obtain paid individual or lifetime membership, honorary membership, or renew their previous membership within the permitted grace period will not have maintained good standing for the purposes of election eligibility. Directors may continue to vote on the Board during the grace period.
 
 ## ARTICLE IV - MEMBERS
 
