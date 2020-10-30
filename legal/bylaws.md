@@ -300,7 +300,9 @@ A complete financial audit will be performed every 3 years by a third party, ind
 
 ### SECTION 10.01 Amendments
 
-These Bylaws may be amended by a majority vote of the Board of Directors, provided prior notice is given of the proposed amendment in the notice of the meeting at which such action is taken, or provided all members of the Board waive such notice, or by unanimous consent in writing without a meeting.
+OWASP Bylaws and organizational policies may be amended at any regular meeting of the OWASP Board by an affirmative two thirds vote, provided that the amendment has been submitted in writing at the previous regular meeting, or a public notice is given no later than 7 days prior to the meeting.
+
+Amendments to the these bylaws and organizational policies should comply with RONR 12th Edition 57:1-19.
 
 ## APPENDIX
 
