@@ -101,6 +101,12 @@ However, regional and training events may be permitted to start planning a 2021 
 
 The only exception to this restriction is events currently approved: OWASP NZ Day, and we will work with the organizer closely to manage issues around running a physical event.
 
+## Minimum Meeting Requirements Feb 2020-March 31, 2021
+
+We are not involuntarily decommissioning chapters prior to March 31, 2021. Chapters must hold at least one meeting or event of some description between February 1, 2020 and March 31, 2021 to be considered "active" after March 31, 2021. After that date, the minimum of 4 meetings a year policy will be enforced. Chapter leaders are encouraged to run virtual meetings, including social events between now and March 31, 2021. Zoom is freely available to all chapter leaders.
+
+Chapters who have yet to migrate to the owasp.org website, setup their Meetup, or not yet obtained their owasp.org email or Zoom details should do so before March 31, 2021.
+
 ## Monthly Review of Restrictions
 
 These restrictions will be reviewed by the Foundation monthly just prior to the Connector being released, until they are all removed. We will communicate these restrictions and any changes in the Connector every month. We will post them to the OWASP website, and pin a message to the OWASP Community slack channel.
