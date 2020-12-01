@@ -4,8 +4,8 @@ title: TBA Process (DRAFT WIP)
 layout: col-sidebar
 
 ---
-
-# *Replace with a title that describes what this is about, such as Chapter Procedures"
+vYYYY.mm.dd
+## *Replace with a title that describes what this is about, such as Chapter Procedures"
 
 Think about the policy in terms of creating, updating or maintaining, or decommissioning or deleting something under the policy, for example, think abou the lifecycle of events, chapters, members, etc, and document each procedure. 
 
