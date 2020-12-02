@@ -4,13 +4,12 @@ title: Branding Guidelines (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2020-09-09
+notice: 2020-12-02
 ---
 
-{% include review-complete.html %}
-
 Please note, this page is supplemental to the [OWASP Foundation OWASP Word Mark and Logo Usage Guidelines](/www-policy/operational/mark-usage-guidelines). Usage requirements therein include:
-- No misrepresentation as to meaning
+
+- No misrepresentation as to the meaning
 - Do not disparage
 - Notice symbols
 - Attribution
@@ -34,20 +33,20 @@ The OWASP brand is the property of the OWASP Foundation. The right to use the na
 6. The OWASP Brand must not be used in a manner that suggests that The OWASP Foundation supports, advocates, endorses, or recommends any particular product or technology.
 7. The OWASP Brand must not be used in a manner that suggests that a product or technology is compliant with any OWASP Materials.
 8. The OWASP Brand must not be used in a manner that suggests that a product or technology can enable compliance with any OWASP Materials.
-9. The OWASP Brand must not be used in any materials that could mislead readers by narrowly interpreting a broad application security category. For example, a vendor product that can find or protect against forced browsing must not claim that they address all of the access control category.
+9. The OWASP Brand must not be used in any materials that could mislead readers by narrowly interpreting a broad application security category. For example, a vendor product that can find or protect against forced browsing must not claim that they address all of the access control categories.
 10. The OWASP Brand may be used by special arrangement with The OWASP Foundation.
 
 ### Customization
 
-Customization of OWASP identity graphics is a way to reflect individual characteristics of conferences, events, chapters and projects. The branding guidelines allow for minimal customization of identity graphics. Please see the Identity section for details. A color palette is provided in the Identity Standards Quick Reference Guide. Background images, such as a country flag to identify a local chapter, may be acceptable as long as it does not obscure the branded identity. All customized identity graphics, including logos, banners, avatars, cover photos, presentation templates, etc. must follow these guidelines.
+Customization of OWASP identity graphics is a way to reflect the individual characteristics of conferences, events, chapters, and projects. The branding guidelines allow for minimal customization of identity graphics. Please see the Identity section for details. A color palette is provided in the Identity Standards Quick Reference Guide. Background images, such as a country flag to identify a local chapter, may be acceptable as long as it does not obscure the branded identity. All customized identity graphics, including logos, banners, avatars, cover photos, presentation templates, etc., must follow these guidelines.
 
-Questionable practices include changing the circle to a square, altering the angle of the wasp feature, using non-branded wasp images, copyrighted images and any other treatment that alters or obscures the OWASP brand. The OWASP Foundation reserves the right to request changes to any graphic that does not comply with these rules.
+Questionable practices include changing the circle to a square, altering the angle of the wasp feature, using non-branded wasp images, copyrighted images, and any other treatment that alters or obscures the OWASP brand. The OWASP Foundation reserves the right to request changes to any graphic that does not comply with these rules.
 
 ### Statement of Non-Endorsement
 
-OWASP does not endorse any product, services or tools. The following disclaimer/About OWASP text can be used in projects or press releases that reference external products, services or tools. We ask that the community look out for inappropriate uses of the OWASP brand including use of our name, logos, project names and other trademark issues.
+OWASP does not endorse any product, services, or tools. The following disclaimer/About OWASP text can be used in projects or press releases that reference external products, services, or tools. We ask that the community look out for inappropriate uses of the OWASP brand, including the use of our name, logos, project names, and other trademark issues.
 
-About the OWASP Foundation: The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible, so that individuals and organizations worldwide can make informed decisions about true software security risks. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license. You'll find everything about OWASP linked from our wiki and current information on our OWASP Blog. OWASP does not endorse or recommend any product or service This allows our community to remain vendor neutral with the collective wisdom of the best minds in software security worldwide.
+About the OWASP Foundation: The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible so that individuals and organizations worldwide can make informed decisions about true software security risks. Everyone is free to participate in OWASP, and all of our materials are available under a free and open software license. You'll find everything about OWASP linked from our wiki and current information on our OWASP Blog. OWASP does not endorse or recommend any product or service. This allows our community to remain vendor neutral with the collective wisdom of the best minds in software security worldwide.
 
 ##  Screen Resolution Marks
 (Right mouse click to Save Image As...)
@@ -85,6 +84,3 @@ The Following items are outdated and are in process of redesign
 - About Us Flyer
 - Corporate and Individual Membership Flyer
 - New Member Welcome Flyer
-
-
-
