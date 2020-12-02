@@ -7,10 +7,9 @@ tags: Rules of Procedure
 notice: 2020-10-20
 
 ---
+Adopted by the Board 02-Dec-2020.
 
-{% include review-complete.html %}
-
-Participation in the OWASP Foundation is conditional upon individuals following the Code of Conduct, and as such individuals agree to conduct themselves per the following Code of Conduct:
+Participation in the OWASP Foundation is conditional upon individuals following the Code of Conduct, and as such, individuals agree to conduct themselves per the following Code of Conduct:
 
 ## Code of Conduct
 
@@ -24,17 +23,17 @@ Participation in the OWASP Foundation is conditional upon individuals following 
 - Reject inappropriate pressure from industry or others;
 - Not intentionally injure or impugn the professional reputation or practice of colleagues, clients, or employers;
 - Treat everyone with respect and dignity;
-- Not violate the OWASP Trademarks, copyrights, or licenses;
+- Not violate the OWASP trademarks, copyrights, or licenses;
 - Provide proper attribution to avoid plagiarism and copyright infringement, both within and outside of OWASP;
 - Ensure work submitted to OWASP is entirely yours and not copied, whole or in part, without proper attribution or permission;
-- Abide by all provisions in applicable OWASP Foundation organizational documents, agreements and policies
- (i) requiring adherence to applicable export laws, including the export control rules and regulations of the United States, or
- (ii) requiring adherence to the applicable antitrust and competition laws, including the antitrust rules and regulations of the United States;
+- Abide by all provisions in applicable OWASP Foundation organizational documents, agreements, and policies
+ (i) requiring adherence to applicable export laws, including the export control rules and regulations of the United States; or
+ (ii) requiring adherence to the applicable antitrust and competition laws, including the antitrust rules and regulations of the United States.
 - Not engage in any intimidating, harassment, discriminatory, abusive, derogatory, or demeaning speech or actions ("harassment" includes, but is not limited to: Communication or conduct that a reasonable person in the individual's circumstances would consider unwelcome, intimidating, hostile, threatening, violent, abusive or offensive, such communication may be related to gender, gender identity and expression, sexual orientation, disability, national origin, race, age, religion; it also includes stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention);
 - Avoid relationships that impair — or may appear to impair — the OWASP Foundation's objectivity and independence; and
 - Not engage in any illegal activities or commit violations of applicable law, including but not limited to the laws of the United States and its states or the European Union, that
- (i) could result or actually result in liability or harm to OWASP Foundation, or
- (ii) are related to your participation in OWASP Foundation, including use of OWASP Foundation materials and publications, sponsored activities, or
+ (i) could result or actually result in liability or harm to OWASP Foundation; or
+ (ii) are related to your participation in OWASP Foundation, including use of OWASP Foundation materials and publications, sponsored activities; or
  (iii) are related to your use of software developed in a project sponsored by OWASP Foundation.
 
 ## Sanctions
