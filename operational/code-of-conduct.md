@@ -4,7 +4,7 @@ title: Code of Conduct
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2020-10-20
+notice: 2020-12-02
 
 ---
 Adopted by the Board 02-Dec-2020.
