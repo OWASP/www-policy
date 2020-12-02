@@ -1,11 +1,13 @@
 ---
 
-title: Branding Guidelines (Draft WIP)
+title: Branding Guidelines
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
 notice: 2020-12-02
 ---
+
+Adopted by the Board on 02-12-2020.
 
 Please note, this page is supplemental to the [OWASP Foundation OWASP Word Mark and Logo Usage Guidelines](/www-policy/operational/mark-usage-guidelines). Usage requirements therein include:
 
