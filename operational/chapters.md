@@ -130,7 +130,7 @@ Chapters are overseen on an operational basis by the Chapters Committee, the OWA
 ## Code of Conduct and other relevant policies
 All leaders must follow and adhere to all OWASP Foundation [Policies and Procedures](https://owasp.org/www-policy/), which are in a central repository. As a US-based 501 (c)(3) non-profit organization, OWASP must follow specific financial and legal guidelines that can change from time to time. 
 
-Chapters operate with a great deal of freedom; however, Chapters must abide by the latest approved [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct-2), [Foundation bylaws](https://owasp.org/www-policy/legal/bylaws), and these [policies and procedures}(https://owasp.org/www-policy/). Copies of older versions are not relevant. 
+Chapters operate with a great deal of freedom; however, Chapters must abide by the latest approved [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct-2), [Foundation bylaws](https://owasp.org/www-policy/legal/bylaws), and these [policies and procedures](https://owasp.org/www-policy/). Copies of older versions are not relevant. 
 
 ## Privacy 
 OWASP membership and participation in chapter meetings are subject to the EU GDPR, and any other locally applicable data protection regulations. Chapter leaders are not permitted to share member lists, event attendees, or private information with third parties except where operationally necessary and only after informing relevant parties with opt-in acceptance. 
