@@ -11,7 +11,7 @@ Adopted by the Board on 20-Oct-2020
 
 ## Overview
 
-The OWASP Foundation is a member-led organization. Members serve as Board Members, Leaders, and volunteers for our community. Members have a vote in the election of OWASP Leaders. Membership is a privilege guided by the [Code of Conduct](/www-policy/operational/code-of-conduct), which has dues set by the OWASP Board of Directors are currently $50 per year. Discounts are available for multi-year memberships and for people living in developing economies and are outlined below.
+The OWASP Foundation is a member-led organization. Members serve as Board Members, Leaders, and volunteers for our community. Members have a vote in the election of OWASP Leaders. Membership is a privilege guided by the [Code of Conduct](/www-policy/operational/code-of-conduct), which has dues set by the OWASP Board of Directors, and are detailed below. Discounts are available for students, multi-year memberships, and for people living in developing economies. Complementary membership is available for active leaders, and Honorary Lifetime Membership may be granted by the Board of Directors for extraordinary service to OWASP and its mission over a long period of time.
 
 ## Membership
 
@@ -47,8 +47,7 @@ Individuals can only become members of the OWASP Foundation by completing the [M
 * Only qualifying individuals will be eligible for Complimentary, Regional, and Student Memberships.
 * Once paid, Membership Dues are not prorated, nor can they be canceled once purchased.
 
-The OWASP Foundation is the exclusive grantor of OWASP Memberships. 
-No person or entity can act as a membership agent or grant Honorary or Complimentary memberships except for the OWASP Board of Directors.
+The OWASP Foundation is the exclusive grantor of OWASP Memberships. No person or entity can act as a membership agent or grant Honorary or Complimentary memberships except for the OWASP Board of Directors.
 
 The Foundation will revoke fraudulent membership submissions without notice and no refund. Memberships and member benefits are not transferrable.
 
@@ -56,39 +55,27 @@ The Foundation will revoke fraudulent membership submissions without notice and 
 
 **One or Two-Year** Dues $50 and $95 for each respective period. Individuals can choose either a single or two-year membership. Members will begin to receive renewal email reminders as early as 60 days before renewal. The OWASP Foundation will do its best to notify members of impending renewals. It is the sole responsibility of the Member to monitor their membership status.
 
-**Developing Economy Discounted Membership** Persons living in developing economies as defined in the lower 50% percentile
-Adjusted Net National Income Per Capita Countries, according to the World Bank, shall be offered a one-year membership for $20 per year.
-
-**Lifetime Membership** When a member makes a time non-refundable $500 payment to the Foundation, they are granted a lifetime membership, which gives them all membership rights, including the ability to vote. Lifetime membership is subject to the OWASP Foundation's code of conduct. The term of this membership terminates of death of the Member.
+**Lifetime Membership** When a member makes a time non-refundable $500 payment to the Foundation, they are granted a lifetime membership, which gives them all membership rights, including the ability to vote. Lifetime membership applies until the member passes away.
 
 **Student Membership** Dues $20 per year. Full-time students may apply for this discounted membership. Student Members cannot auto-renew.
 
-**Proposed Complimentary Membership** Individual Membership offered, dues-free, to established leaders in good standing who have contributed materially to the Foundation over an extended period (see below).
+**Developing Economy Membership Pricing** Persons living in developing economies as defined in the lower 50% percentile Adjusted Net National Income Per Capita Countries, according to the World Bank, shall be offered any membership class at 2/5ths the rate of the standard membership, so $8 for student, $20 for one year, $35 for two year, and $200 for Lifetime membership.
 
-**Proposed Honorary Lifetime Membership** Lifetime Individual Membership, as described above, awarded by the Global Board of Directors (see criteria below).
+**Complimentary Membership** Individual Membership offered, dues-free, to active leaders in good standing who have contributed materially to the Foundation over an extended period (see below).
 
-## Proposed Complimentary Annual Membership
+**Honorary Lifetime Membership** Honorary Lifetime Membership, has the same benefits as Lifetime Membership described above, but is awarded by the Global Board of Directors for extraordinary contributions to OWASP over an extended period of time.
 
-This membership type (formerly known as Honorary Membership) is awarded at the discretion of the Foundation on a year-by-year basis to existing members in good standing for their contributions to the Foundation over the previous twelve months. Leaders do not need to accept complimentary leadership; retaining paid individual or lifetime membership is highly recommended for all who financially support OWASP's mission.
+## Complimentary Membership
 
-The means to earn complimentary membership for the following year include:
+Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and has been in the top 5 position continuously for six months prior to applying for complimentary membership.
 
-- Chapter Leaders for running chapter meet-ups (per activity requirements set out in the Chapters policy and handbook);
-- Project Leaders of active projects (ongoing contributions during the year);
-- (Planned) Committee Officers of active committees. 
+Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complementary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership. Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership.
 
-The Foundation is developing the automated complimentary membership application process. Once deployed, active leaders can accept the complimentary membership using the standard "Join" or "Renew" OWASP form. Complimentary membership will not auto-renew, and leaders do not need to take it. 
+Active leaders can accept the complimentary membership using the standard "Join" or "Renew" OWASP membership form. Complimentary membership must be manually renewed each 12 months.
 
-This section will be updated after a Board vote has been confirmed and the relevant automation deployed by the Foundation. 
+## Honorary Lifetime Membership
 
-## Proposed Honorary Lifetime Membership
-
-The Board can award Honorary Lifetime Membership to long-time contributors to the OWASP cause and activities. The Honorary Lifetime Membership program will work as follows:
-
-- The Board may grant up to three Lifetime Honorary Memberships per year.
-- Nominations will be accepted by the Board from staff, Board Members, or other Leaders. Individuals cannot nominate themselves.
-- Nominees will have been a Leader and Member of the Foundation for at least five years and have held more than one type of leadership role.
-- Each nominee is confirmed by a majority vote of the Global Board of Directors each year at the October meeting.
+Honorary Membership is equivalent to Lifetime Individual Membership. Honorary Membership shall be determined and approved solely by a majority vote of the Board of Directors for long-standing and extraordinary services to the OWASP Community.
 
 Nominations for honorary memberships can be [submitted here](https://owasp.wufoo.com/forms/honorary-membership-application/).
 
