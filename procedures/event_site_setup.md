@@ -12,7 +12,7 @@ layout: col-sidebar
 For OWASP Foundation Global or similar events, the repository should be created by someone with Github Administrator privileges following the standard event repository naming convention: www-event-YYYY-EVENTNAME, where YYYY is the 4 digit year and EVENTNAME is the name of the event.  For instance, an event named Yolo which is in 2021 would have a repository named www-event-2021-yolo.  In the case where multiple events of the same name occur in the same year, the pattern for the repository name should be www-event-YYYY-MM-EVENTNAME, where MM is the 2 digit month of the event. In addition, the repository should be created from the www-event-example template (see steps below).  The following is a general guideline for event repository creation:
 
 1. On the main [OWASP Github Page](https://github.com/owasp/), Click New
-   ![New Repository Image](/www-policy/www-policy/assets/images/event_site_setup_new_repo.png)
+   ![New Repository Image](/www-policy/assets/images/event_site_setup_new_repo.png)
 2. On the next page, click the Repository template dropdown and select OWASP/www-event-example
    ![Choose Template Image](/www-policy/assets/images/event_site_setup_template.png)
 3. Type in a Respository name following the aforementioned conventions, choose the Public option, and click Create repository
@@ -88,7 +88,7 @@ This image is produced by the following data in the pricing.yml file:
 
 The body section also contains the Keynote Speakers section which was not in the above picture (the event shown has no keynote speakers).  The keynote speakers sections looke like the following:
 
-![Eent Site Keynotes Image](/www-policy/assets/images/event_site_setup_keynotes.png)
+![Event Site Keynotes Image](/www-policy/assets/images/event_site_setup_keynotes.png)
 
 This section is controlled by the keynotespeakers.yml file located in the _data folder.  The keynotespeakers.yml file expects the following fields for each speaker:
 
