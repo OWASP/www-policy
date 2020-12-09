@@ -4,15 +4,15 @@ title: Invoice Process
 layout: col-sidebar
 
 ---
-v1.1 
+v2020-12-09
 
 ## Creating Invoice
 
-1. Opportunity in Copper is moved by Kelly from “60-Contact-Sent” to “75-Contract-Signed” stage
+1. Opportunity in Copper is moved by Kellty from “60-Contact-Sent” to “75-Contract-Signed” stage
 2. Automation in Copper creates:
-  - Todo for Lisa: Collect Corporate Assets via https://owasp.wufoo.com/forms/corporate-supporter-assets/
-  - Todo for Lisa: Post Corporate Assets on Event/Main website as appropriate
-  - Todo for Dawn: Create invoice in Stripe
+  - Collect Corporate Assets via https://owasp.wufoo.com/forms/corporate-supporter-assets/
+  - Post Corporate Assets on Event/Main website as appropriate
+  - Create invoice in Stripe
 3. Create Invoice in Stripe
   - Navigate in Copper to Opportunity
   - Copy the Email address of the Opportinity Primary Contact
@@ -23,7 +23,7 @@ v1.1
       - Name is person’s name
       - Click on Company Name for Billing Details (Address)
     - Use company name in Address Line 1
-    - If Billing Details are missing assign task to Kelly (or review documents in DocuSign section of Opportunity).
+    - If Billing Details are missing assign task to staff to collect (or review documents in DocuSign section of Opportunity).
     - Select Language (if appropriate)
     - Select Currency of the invoice (not necessarily the country of the company)
     - If there is a VAT number, select the correct VAT type for Tax ID and put the number in the value box.
