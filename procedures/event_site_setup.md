@@ -158,3 +158,18 @@ Everything in the footer section comes from the sponsors.yml file in the _data f
 | name | The name of the sponsor |
 | url | The url of the sponsor |
 
+<a href='' id='publishevent'>
+
+### Publishing the Event
+
+Once the site has basic information and is set up to your satisfaction, it is time to make the site available over HTTPS.  In order to do that, you must go to the repository in GitHub and select the Settings tab.
+
+![Event Site Settings Image]()
+
+On the settings page, scroll down to the GitHub Pages section and change Source from None to Branch: master and leave the folder as / (root) then click Save.
+
+![Event Site GitHub Pages Source Image]()
+
+At this point, your site is available as a page under the owasp.org site but the links will not work.  To get the links to work, you need to set up the Custom domain below where we just set up the GitHub Pages Source.  In addition, you will need to have already had configured a domain to point this repository at (DNS setup is outside this scope, please ask your I.T. admin to set this up).
+
+Under Custom domain type in your domain for this event WITHOUT the leading https://.  For instance, if your event website was meant to be https://mybigvent.owasp.org, you would type in mybigevent.owasp.org and then click Save.  You can now test your site and verify your configuration by going to the website
