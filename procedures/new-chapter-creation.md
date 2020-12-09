@@ -14,14 +14,26 @@ v2020.12.09
 ## Process for New Chapter Set-up 
 Creation of GitHub chapter repository and CRM record of chapter and leaders.(minmum of 2 leaders to start)
 
-[Start a New Chapter/New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73)is subitted.
+[Start a New Chapter/New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73) request subitted.
 * JIRA ticket NFRSD ticket # is created and received.
   * Review for a minimum of 2 leaders & all required information is included.
   * Check to make sure there is not an existing chapter.
   * Check to make sure not a chapter within 50 miles/80 km  
   * Check to make sure that the leaders’ residence is within 50 miles/80 km of the chapter.
   * Create owasp.org email addresses and send notifications.
-
+  
+## Create leaders owasp.org email address
+    * Google Admin - Admin Console
+      * Click User
+      * Click Add New User
+    * Pop Box appears
+      *Fill in First name
+      *Fill in Last name
+      * Primary email john.smith@owasp.org
+      * Secondary email is the personal email address 
+      * Email User Sign-in Info
+      * Send   
+    
 Slackbot command to type in /chapter-create (GitHub & Copper)
 *  Generates a templated form
    * Chapter City name
@@ -50,7 +62,7 @@ Copper (CRM)
 * Send out a Welcome letter in email to leaders.
 * Resolve and Close the JIRA ticket. 
 
-### SLA Response to all JIRA tickets requests is 72 working hours.
+### SLA Response to all JIRA tickets requests is 144 working hours; pauses when ticket is set to "Waiting for Customer"
 
 Issues with current policies that are blockers, risks, or issues:
 
