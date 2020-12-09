@@ -8,7 +8,7 @@ v2020-12-09
 
 ## Creating Invoice
 
-1. Opportunity in Copper is moved by Kellty from “60-Contact-Sent” to “75-Contract-Signed” stage
+1. Opportunity in Copper is moved by staff from “60-Contact-Sent” to “75-Contract-Signed” stage
 2. Automation in Copper creates:
   - Collect Corporate Assets via https://owasp.wufoo.com/forms/corporate-supporter-assets/
   - Post Corporate Assets on Event/Main website as appropriate
