@@ -34,8 +34,8 @@ Creation of GitHub chapter repository and CRM record of chapter and leaders.(min
       * Email User Sign-in Info
       * Send   
     
-Slackbot command to type in /chapter-create (GitHub & Copper)
-*  Generates a templated form
+Slackbot command /chapter-create
+*  Generates a templated form to create GitHub chapter repository & CRM records.
    * Chapter City name
    * Chapter leader’s name
    * Chapter leader owasp.org emails
@@ -65,7 +65,7 @@ Copper (CRM)
 ### SLA Response to all JIRA tickets requests is 144 working hours; pauses when ticket is set to "Waiting for Customer"
 
 Issues with current policies that are blockers, risks, or issues:
-
-* Blockers - the policy says something that we really can't do, such as keeping PII on minors, etc. 
-* Risks - e.g. if too many people take advantage of this process, we'll go broke, damage our reputation risk, legal liability, etc
-* Issues - the policy describes something that we shouldn't do, or there's conflicting statements on two different policies, and we want to stop folks from choosing their own policy, or forcing us to reverse our decision, or we can't manage to policy. 
+* Delay in Chapter policy, Chapter Handbook, Leadership policy 
+* leadership@owasp.org Google group is not current leaders
+* Google Admin email validation scrub to suspend owasp.org email addresses for individuals that are not members or leaders.
+* Issues - possiible updates to wording in JIRA for clarity. 
