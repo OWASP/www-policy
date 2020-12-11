@@ -10,7 +10,7 @@ v2020.12.09
 ## New Chapter Set-up Process 
 The new creation of GitHub chapter repository and CRM record of chapter and leaders.(minmum of 2 leaders to start)
 
-### Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and [Leader Policy](https://owasp.org/www-policy/operational/leader)        
+### Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and [Leader Policy](https://owasp.org/www-policy/operational/leader)       
 
 [Start a New Chapter/New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73) request subitted.
 * JIRA ticket NFRSD ticket # is created and received.
