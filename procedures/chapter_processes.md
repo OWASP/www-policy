@@ -1,6 +1,6 @@
 ---
 
-title: Chapter Procedures (DRAFT WIP)
+title: Chapter Procedures (WIP)
 layout: col-sidebar
 
 ---
