@@ -10,7 +10,7 @@ v2020.12.09
 ## New Chapter Set-up Process 
 The new creation of GitHub chapter repository and CRM record of chapter and leaders.(minmum of 2 leaders to start)
 
-## Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and [Leader Policy](https://owasp.org/www-policy/operational/leader)        
+### Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and [Leader Policy](https://owasp.org/www-policy/operational/leader)        
 
 [Start a New Chapter/New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73) request subitted.
 * JIRA ticket NFRSD ticket # is created and received.
@@ -100,8 +100,8 @@ OWASP.org email addresses deactivation did not follow a consistant policy when m
      * Payment method 
    * Assign a leader to Request a Participant for approval
    
-## SLA reponse from second leader depends on the Chapter policy and timeframe agreed on for leaders to respond to emails sent to owasp.org email address.
-## SLA to respond to OSD JIRA ticket is 72 hours
-## SLA to submit for reimbursement is dictated by [Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement) within 60 days 
-## SLA Not sure about a AP deadline
+ SLA reponse from second leader depends on the Chapter policy and timeframe agreed on for leaders to respond to emails sent to owasp.org email address.
+ SLA to respond to OSD JIRA ticket is 72 hours
+ SLA to submit for reimbursement is dictated by [Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement) within 60 days 
+ SLA Not sure about a AP deadline
 
