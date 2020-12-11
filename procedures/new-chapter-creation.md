@@ -12,7 +12,7 @@ v2020.12.09
 * [Chapter Policy](https://owasp.org/www-policy/operational/chapters)- the primary governing policies
 
 ## Process for New Chapter Set-up 
-Creation of GitHub chapter repository and CRM record of chapter and leaders.(minmum of 2 leaders to start)
+The new creation of GitHub chapter repository and CRM record of chapter and leaders.(minmum of 2 leaders to start)
 
 [Start a New Chapter/New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73) request subitted.
 * JIRA ticket NFRSD ticket # is created and received.
@@ -22,7 +22,7 @@ Creation of GitHub chapter repository and CRM record of chapter and leaders.(min
   * Check to make sure that the leaders’ residence is within 50 miles/80 km of the chapter.
   * Create owasp.org email addresses and send notifications.
   
-## Create leaders owasp.org email address
+## Leaders owasp.org email address creation - 
     * Google Admin - Admin Console
       * Click User
       * Click Add New User
@@ -33,8 +33,9 @@ Creation of GitHub chapter repository and CRM record of chapter and leaders.(min
       * Secondary email is the personal email address 
       * Email User Sign-in Info
       * Send   
+    **This is the only email address that is to be used for the leader in leader.md file in chapter repository.  
     
-Slackbot command /chapter-create
+Slackbot command "/chapter-create"
 *  Generates a templated form to create GitHub chapter repository & CRM records.
    * Chapter City name
    * Chapter leader’s name
@@ -44,7 +45,7 @@ Slackbot command /chapter-create
    * Region-6 selected regions-Africa, Asia, Europe, North America, Oceania, and South America
 *  SUBMIT to create the GitHub chapter repository and Copper CRM record.
 
-Copper (CRM)
+CRM (Copper)
 * Chapter file (OWASP-City) 
   * Add JIRA ticket URL or number in field.
   * Check city, country, and resgion fields were populated
@@ -62,8 +63,7 @@ Copper (CRM)
 * Send out a Welcome letter in email to leaders.
 * Resolve and Close the JIRA ticket. 
 
-### SLA Response to all JIRA tickets requests is 144 working hours; pauses when ticket is set to "Waiting for Customer"
-
+### SLA Response to all JIRA tickets requests is 144 working hours; pauses when ticket is set to "Waiting for Customer Response"
 Issues with current policies that are blockers, risks, or issues:
 * Delay in Chapter policy, Chapter Handbook, Leadership policy 
 * leadership@owasp.org Google group is not current leaders
