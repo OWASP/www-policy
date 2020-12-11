@@ -5,14 +5,12 @@ layout: col-sidebar
 
 ---
 v2020.12.09
-## *New Chapter Creation"
-
-## Relevant Policies
-
-* [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
+## "Chapter Processes"
 
 ## New Chapter Set-up Process 
 The new creation of GitHub chapter repository and CRM record of chapter and leaders.(minmum of 2 leaders to start)
+
+## Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and [Leader Policy](https://owasp.org/www-policy/operational/leader)        
 
 [Start a New Chapter/New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73) request subitted.
 * JIRA ticket NFRSD ticket # is created and received.
@@ -22,7 +20,7 @@ The new creation of GitHub chapter repository and CRM record of chapter and lead
   * Check to make sure that the leaders’ residence is within 50 miles/80 km of the chapter.
   * Create owasp.org email addresses and send notifications.
   
-## Leaders owasp.org email address creation 
+### Leaders owasp.org email address creation 
    * Google Admin - Admin Console
    * Click User
    * Click Add New User
@@ -42,8 +40,8 @@ The new creation of GitHub chapter repository and CRM record of chapter and lead
    * Chapter leader owasp.org emails
    * City
    * Country
-   * Region-6 selected regions-Africa, Asia, Europe, North America, Oceania, and South America
-*  SUBMIT to create the GitHub chapter repository and Copper CRM record.
+   * Region -6 choices: Africa, Asia, Europe, North America, Oceania, and South America
+* SUBMIT to create the GitHub chapter repository and Copper CRM record.
 
 ## CRM (Copper)
 * Chapter file (OWASP-City) 
@@ -70,6 +68,9 @@ Issues with current policies that are blockers, risks, or issues:
 * leadership@owasp.org Google group is not current leaders
 * Google Admin email validation scrub to suspend owasp.org email addresses for individuals that are not members or leaders.
 * Issues - possiible updates to wording in JIRA for clarity. 
+
+## Add/Change Chapter Leadership Process 
+## Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and [Leaders Policy](https://owasp.org/www-policy/operational/leader)
 
 ## Add/Change Chapter Leadership
   ## Remove leader
