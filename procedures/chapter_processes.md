@@ -72,14 +72,14 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
 
 **Add/Change Chapter Leadership
   **Remove leader
-   * The Leader(s) stepping down sends an email to the Foundation.  
-   * Complimentary membership and owasp.org email address will be suspended when the email is received.
+    * The Leader(s) stepping down sends an email to the Foundation.  
+    * Complimentary membership and owasp.org email address will be suspended when the email is received.
  **Add New leader(s)
-   * Submit [Start New chapter/new leader request ticket](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73)
-   * Answer and submit all requested information. (Delay only if the information is missing.)
-   * Create owasp.org email address for the leader(s)
-   * Resolve and close ticket
-   * Leader to update leader.md file in the chapter repository - leader name and leader owarp.org email address
+    * Submit [Start New chapter/new leader request ticket](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73)
+    * Answer and submit all requested information. (Delay only if the information is missing.)
+    * Create owasp.org email address for the leader(s)
+    * Resolve and close ticket
+    * Leader to update leader.md file in the chapter repository - leader name and leader owarp.org email address
 **SLA Response to JIRA ticket request is 144 working hours; pauses when ticket is set to "Waiting for Customer Response"**
 
 **Issue: Membership policy does not address what happens to a complimentary membership if a leader steps down or the chapter is deemed inactive. 
@@ -115,3 +115,7 @@ OWASP.org email addresses deactivation did not follow a consistant policy when m
 **Request for Shared Services offered to Chapters at no charge.**
   * Submit ["Contact Us"](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72)
     * Topic: Choose - Request Meetup or other Shared Services from drop down menu
+
+
+
+
