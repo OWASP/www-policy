@@ -5,11 +5,9 @@ layout: col-sidebar
 
 ---
 v2020.12.09
-## "Chapter Processes"
-
-## New Chapter Set-up Process 
+## Chapter Processes
 To create a new chapter repository in GitHub and CRM record of chapter and leaders.(minmum of 2 leaders to start)
-Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and [Leader Policy](https://owasp.org/www-policy/operational/leader)    
+**Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and Leader Policy**    
 
 **[Start a New Chapter/New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73) request subitted.**
 * Contact Us or on owasp.org> chapter page click and submit request ticket NFRSD ticket# 
@@ -59,13 +57,12 @@ Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapt
    * File - attach a copy of resume from NFRSD ticket.
 * Send out a Welcome letter in email to leaders.
 * Resolve and Close the JIRA ticket. 
-**SLA Response to all JIRA tickets requests is 144 working hours; pauses when ticket is set to "Waiting for Customer Response"**
-
-**Issues with current policies that are blockers, risks, or issues:**
-* Delay in Chapter policy, Chapter Handbook, Leadership policy 
-* leadership@owasp.org Google group is not current leaders
-* Google Admin email validation scrub to suspend owasp.org email addresses for individuals that are not members or leaders.
-* Issues - JIRA ticket should reconfigured to create individual workflows for clarity. Membership, Chapters, Projects, Corporate Members & Sponsors, Events, Marketing and Other
+**SLA for first response is 72 hours and 144 working hours to complete; pauses when ticket is set to "Waiting for Customer Response"**
+**Issues:**
+ * Delay in Chapter policy, Chapter Handbook, Leadership policy 
+ * leadership@owasp.org Google group is not current leaders
+ * Google Admin email validation scrub to suspend owasp.org email addresses for individuals that are not members or leaders.
+ * JIRA ticket should reconfigured to create individual workflows for clarity. Membership, Chapters, Projects, Corporate Members & Sponsors, Events, Marketing and Other
 
 ## Add/Change Chapter Leadership Process
  Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and [Leaders Policy](https://owasp.org/www-policy/operational/leader)
@@ -78,8 +75,7 @@ Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapt
     * Create owasp.org email address for the leader(s)
     * Resolve and close ticket
     * Leader to update leader.md file in the chapter repository - leader name and leader owarp.org email address
-**SLA** Response to JIRA ticket request is 144 working hours; pauses when ticket is set to "Waiting for Customer Response"
-
+**SLA for first response is 72 hours and 144 working hours to complete; pauses when ticket is set to "Waiting for Customer Response"**
 **Issue:** Membership policy does not address what happens to a complimentary membership if a leader steps down or the chapter is deemed inactive. 
 OWASP.org email addresses deactivation did not follow a consistant policy when membership or leadership ended. This was and still is manual process.
 
@@ -95,15 +91,15 @@ OWASP.org email addresses deactivation did not follow a consistant policy when m
      * Expense and description if applicable
      * Payment method 
    * Assign a leader to Request a Participant for Leader approval
-    **Issue:** SLA reponse from second leader depends on the timeframe listed in Chapter policy for a leaders to respond to emails sent to owasp.org email address and the submission and approval of chapter policy.
-    **SLAs:** 
-        * To respond to OSD JIRA ticket is 72 hours
-        * To submit for reimbursement is dictated by [Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement) within 60 days 
-        * Not sure about a AP deadline (Virtual)
+**SLAs:** 
+    * To respond to OSD JIRA ticket is 72 hours
+    * Submit expense for reimbursement within 60 days[Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement)  
+    * AP runs twice a month not sure of deadline (Virtual)
+**Issue:** SLA reponse from second leader depends on the timeframe listed in Chapter policy for a leaders to respond to emails sent to owasp.org email address and the submission and approval of chapter policy.
     
 **Google Group for Chapter or Chapter leaders creation**
 **Relevant Policy:** [Mailing List](https://owasp.org/www-policy/operational/mailing-list), [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct) and [Privacy Policy](https://owasp.org/www-policy/operational/privacy)
-  * Submit ["Contact Us"](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/720) Request ticket  
+  * Submit ["Contact Us"](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/720) RequeAOst ticket  
     * Topic: Choose - Request and OWASP email address from the drop down menu.
     * Name: First and Last name
     * Company: Chapter Name
@@ -114,7 +110,18 @@ OWASP.org email addresses deactivation did not follow a consistant policy when m
 **Request for Shared Services offered to Chapters at no charge.**
   * Submit ["Contact Us"](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72)
     * Topic: Choose - Request Meetup or other Shared Services from drop down menu
-    
+    * Name: First and Last name
+    * Company: Chapter Name
+    * Description: Type shared service requesting
+     * Virtual meeting service - reassign ticket to IT (Zoom)
+**SLA for first response is 72 hours and 144 working hours to complete; pauses when ticket is set to "Waiting for Customer Response"**
+**Issue:** 
+Meetup Groups are set up by city location, not region or country. 
+Leaders do not join or URL on OWASP chapter page or just don not use. 
+Allowed to use other social media
+
+Biggest Issue is that OWASP chapters are not required to post meeting activity on their OWASP chapter page to remain and active OWASP chapter. If required would increase website traffice, make determing inactive chapters much simpler.  
+Automation qualifies activity as simply as opening and closing a file in the chapter repository.  
 
 
 
