@@ -69,12 +69,10 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
 
 ## Add/Change Chapter Leadership Process** 
 ** Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and [Leaders Policy](https://owasp.org/www-policy/operational/leader)**
-
-**Add/Change Chapter Leadership
-  **Remove leader
+  ** Remove leader
     * The Leader(s) stepping down sends an email to the Foundation.  
     * Complimentary membership and owasp.org email address will be suspended when the email is received.
- **Add New leader(s)
+ ** Add New leader(s)
     * Submit [Start New chapter/new leader request ticket](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73)
     * Answer and submit all requested information. (Delay only if the information is missing.)
     * Create owasp.org email address for the leader(s)
