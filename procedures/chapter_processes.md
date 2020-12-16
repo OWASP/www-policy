@@ -9,7 +9,7 @@ v2020.12.09
 
 ## New Chapter Set-up Process 
 To create a new chapter repository in GitHub and CRM record of chapter and leaders.(minmum of 2 leaders to start)
-**Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and [Leader Policy](https://owasp.org/www-policy/operational/leader)**     
+** Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and [Leader Policy](https://owasp.org/www-policy/operational/leader)**     
 
 [Start a New Chapter/New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73) request subitted.
 * JIRA ticket NFRSD ticket # is created and received.
@@ -32,7 +32,7 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
       * Send   
 **This is the only email address that is to be used for the leader in leader.md file in chapter repository.  
     
-**Slackbot command "/chapter-create"
+** Slackbot command "/chapter-create"
 * Generates a templated form to create GitHub chapter repository & CRM records.
    * Chapter City name
    * Chapter leader’s name
@@ -42,7 +42,7 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
    * Region -6 choices: Africa, Asia, Europe, North America, Oceania, and South America
 * SUBMIT to create the GitHub chapter repository and Copper CRM record.
 
-**CRM (Copper)
+** CRM (Copper)
 * Chapter file (OWASP-City) 
   * Add JIRA ticket URL or number in field.
   * Check city, country, and resgion fields were populated
@@ -88,7 +88,7 @@ Issue: Membership policy does not address what happens to a complimentary member
 OWASP.org email addresses deactivation did not follow a consistant policy when membership or leadership ended. This was and still is manual process.
 
 ## Chapter Reimbursement Process
-**Relevant Policy: [Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement)
+** Relevant Policy: [Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement)
 
    JIRA request ticket received (OSD) 
    * Expense is for $ 250 or under and is applicable to chapters
@@ -100,12 +100,8 @@ OWASP.org email addresses deactivation did not follow a consistant policy when m
      * Expense and description if applicable
      * Payment method 
    * Assign a leader to Request a Participant for approval
-   
- ## SLA reponse from second leader depends on the Chapter policy and timeframe agreed on for leaders to respond to emails sent to owasp.org email address.
- 
- ## SLA to respond to OSD JIRA ticket is 72 hours
- 
- ## SLA to submit for reimbursement is dictated by [Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement) within 60 days 
- 
- ## SLA Not sure about a AP deadline (Virtual)
+   * SLA reponse from second leader depends on the Chapter policy and timeframe agreed on for leaders to respond to emails sent to owasp.org email address.
+   * SLA to respond to OSD JIRA ticket is 72 hours
+   * SLA to submit for reimbursement is dictated by [Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement) within 60 days 
+   * SLA Not sure about a AP deadline (Virtual)
 
