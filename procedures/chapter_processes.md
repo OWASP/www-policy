@@ -103,7 +103,7 @@ OWASP.org email addresses deactivation did not follow a consistant policy when m
     
 **Google Group for Chapter or Chapter leaders creation**
 **Relevant Policy:** [Mailing List](https://owasp.org/www-policy/operational/mailing-list), [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct) and [Privacy Policy](https://owasp.org/www-policy/operational/privacy)
-  * Submit ["Contact Us"]( https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/720 Request ticket  
+  * Submit ["Contact Us"](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/720) Request ticket  
     * Topic: Choose - Request and OWASP email address from the drop down menu.
     * Name: First and Last name
     * Company: Chapter Name
@@ -114,6 +114,7 @@ OWASP.org email addresses deactivation did not follow a consistant policy when m
 **Request for Shared Services offered to Chapters at no charge.**
   * Submit ["Contact Us"](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72)
     * Topic: Choose - Request Meetup or other Shared Services from drop down menu
+    
 
 
 
