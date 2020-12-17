@@ -196,7 +196,7 @@ Please register your event through the OWASP Conference Management System (OCMS)
 Many OWASP Chapters (or a group of chapters in the same region) have planned an OWASP Day which consists of a full day of talks about AppSec and sometimes and additional day of training, provided for little or no cost. The primary goals of OWASP Days are to educate people and raise awareness about application security, not make money.Previous OWASP Days include New Zealand Day, BeNeLux Day, and German OWASP Day.
 
 ## OWASP Training Days
-OWASP Training Days are full day training courses that are free for members (so non-members can attend by paying the $50 fee to becoming members). The course aims to educate people about OWASP Projects by providing a selection of mature and enterprise ready projects together with practical examples of how to use them. Training Materials: https://wiki.owasp.org/index.php/OWASP_Training, Material downloads: http://code.google.com/p/owasp-training/downloads/list
+OWASP Training Days are full day training courses that are free for members (so non-members can attend by paying the $50 fee to becoming members). The course aims to educate people about OWASP Projects by providing a selection of mature and enterprise ready projects together with practical examples of how to use them.
 
 ## Regional Roadshows
 OWASP Regional Roadshows consist of one or more speakers visiting multiple chapters in a region (touring) either as speakers for chapter meetings or to provide training. These Roadshows help Chapter Leaders bring in great international speakers as well as generate awareness in their areas around Application Security and OWASP. Previous Roadshows include LATAM and EU Tours.
