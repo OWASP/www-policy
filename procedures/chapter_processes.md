@@ -113,15 +113,19 @@ OWASP.org email addresses deactivation did not follow a consistant policy when m
     * Name: First and Last name
     * Company: Chapter Name
     * Description: Type shared service requesting
-     * Virtual meeting service - reassign ticket to IT (Zoom)
+  Virtual Meeting - Slack command /provision-zoom [chapter-url]. Example: Cairo it would be /provision-zoom www-chapter-cairo
+Response: "You have been assigned a shared Zoom account. As this is a shared account, you need to coordinate with other groups using the Zoom Scheduler.   Also, you are not allowed to change account settings or the account password.
+You will receive two emails shortly. One will contain the name of the account. The other will contain a link to the password. Be sure to check Spam as these emails often wind up there.
+  Chapter scheduling service for meeting/activity - LastPass sign in for Meetup using LastPass signin using the City and Country
+  Send Leader(s) New Meetup templated email in CRM with URL. 
+   
 **SLA for first response is 72 hours and 144 working hours to complete; pauses when ticket is set to "Waiting for Customer Response"**
 **Issue:** 
-Meetup Groups are set up by city location, not region or country. 
-Leaders do not join or URL on OWASP chapter page or just don not use. 
-Allowed to use other social media
-
-Biggest Issue is that OWASP chapters are not required to post meeting activity on their OWASP chapter page to remain and active OWASP chapter. If required would increase website traffice, make determing inactive chapters much simpler.  
-Automation qualifies activity as simply as opening and closing a file in the chapter repository.  
+1. Meetup Groups are set up by city location, not region or country. 
+2. Leaders do not join or use Meetup. 
+3. Allowed to use other social media do not post activity on chapter page.
+4. Leaders are not added to leaders@owasp.org google group as DRAFT chapter policy states.
+5. Automation not available to truly identify 4 meeting activity but just identifies activity as simply as opening and closing a file in the chapter repository.  
 
 
 
