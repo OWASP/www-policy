@@ -70,10 +70,10 @@ While circumstances may dictate modifications, all owasp.org domain Mailing List
 
 - Who can see the group: Anyone on the web
 - Who can join the group: Anyone on the web can ask
-- Allow external members: On to allow people outside the organization to request membership
+- Allow external members: On to allow people outside the organization to request membership.
 - Who can view conversations: Anyone of the web
 - Who can post: Group Members
-- Who can view members: Group Owers
+- Who can view members: Group Owners
 - Conversation History: On
 - Who can moderate content: Group Managers
 - Who can moderate metadata: Group Managers
@@ -88,7 +88,7 @@ The community is invited to report deviations from the Mailing Lists defaults to
 
 ## Privacy
 
-Use of OWASP Mailing Lists is not private and data about your and your behavior is collected and used according to the [OWASP Privacy Policy](/www-policy/operational/privacy). Your email address may be publicly exposed to visitors and in most cases Mailing Lists are set to public meaning anyone on the internet can view your comments and your identity. This is by design. Certain lists, like those in the owasp.com domain, are not public but administrators and Group Owner(s) can always read and delete messages from any OWASP Mailing List without notice.
+Use of OWASP Mailing Lists is not private and data about you and your behavior is collected and used according to the [OWASP Privacy Policy](/www-policy/operational/privacy). Your email address may be publicly exposed to visitors and in most cases Mailing Lists are set to public meaning anyone on the internet can view your comments and your identity. This is by design. Certain lists, like those in the owasp.com domain, are not public but administrators and Group Owner(s) can always read and delete messages from any OWASP Mailing List without notice.
 
 ## Sole Mailing List Policy
 
