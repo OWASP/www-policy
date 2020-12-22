@@ -44,7 +44,7 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
    * Country
    * Region -6 choices: Africa, Asia, Europe, North America, Oceania, and South America
 * SUBMIT to create the GitHub chapter repository and Copper CRM record.
- !{Chapter Processes chapter slackbot temp]{{{site.base_url}}}(/assets/images/chapter_slackbot_temp)
+ !{Chapter Processes chapter slackbot temp]{{{site.base_url}}}(/assets/images/chapter_slackbot_temp.png)
 
 **CRM (Copper)**
 * Chapter file (OWASP-City) 
