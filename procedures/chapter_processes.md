@@ -19,7 +19,7 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
    
 **Leaders owasp.org email address creation**
    * Google Admin - Admin Console   
-  * {{image: /assets/images/GoogleAdmin_User.png}}
+ ![Chapter Processes Admin]({{site.base_url}}/assets/images/GoogleAdmin_User.png)
    * Click User   
    * Click Add New User   
   * {{image: /assets/images/Add_new_user.png}}
