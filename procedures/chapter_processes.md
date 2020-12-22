@@ -22,7 +22,7 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
 ![Chapter Processes Admin]({{site.base_url}}/assets/images/GoogleAdmin_User.png)
    * Click User   
    * Click Add New User   
-![Chapter Processes Admin]({{site.base_url}}/assets/images/Add_new_user.png)
+![Add New User]{{{site.base_url}}}/assets/images/Add_new_user.png)
     * Pop Box appears
     * Fill in First nam
       * Fill in Last name
