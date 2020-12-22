@@ -25,12 +25,12 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
 ![Add New User]({{site.base_url}}/assets/images/Add_new_user.png)
     * Pop Box appears
     * Fill in First nam
-      * Fill in Last name
-      * Primary email john.smith@owasp.org
-      * Secondary email is the personal email address 
-      * Email User Sign-in Info   
+    * Fill in Last name
+    * Primary email john.smith@owasp.org
+    * Secondary email is the personal email address 
+    * Email User Sign-in Info   
 ![Email Login]({{site.base_url}}/assets/images/Email_login_info.png)
-      * Send   
+    * Send   
 **This is the only email address that is to be used for the leader in leader.md file in chapter repository.**
  Leader will receive a Google WorkSpace email like below.
 ![Chapter Processes Admin]({{site.base_url}}/assets/images/GoogleWorkspace_email.png)
@@ -105,7 +105,7 @@ OWASP.org email addresses deactivation did not follow a consistant policy when m
     
 **Google Group for Chapter or Chapter leaders creation**
 **Relevant Policy:** [Mailing List](https://owasp.org/www-policy/operational/mailing-list), [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct) and [Privacy Policy](https://owasp.org/www-policy/operational/privacy)
-  * Submit ["Contact Us"](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/720) RequeAOst ticket  
+  * Submit ["Contact Us"](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/720) Request ticket  
     * Topic: Choose - Request and OWASP email address from the drop down menu.
     * Name: First and Last name
     * Company: Chapter Name
@@ -133,6 +133,6 @@ You will receive two emails shortly. One will contain the name of the account. T
 4. Leaders are not added to leaders@owasp.org google group as DRAFT chapter policy states.
 5. Automation not available to truly identify 4 meeting activity but just identifies activity as simply as opening and closing a file in the chapter repository.  
 
-
+**Deactivation of Chapter**
 
 
