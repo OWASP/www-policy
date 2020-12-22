@@ -22,18 +22,18 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
  ![Chapter Processes Admin]({{site.base_url}}/assets/images/GoogleAdmin_User.png)
    * Click User   
    * Click Add New User   
- ![Chapter Processes New User]{{{site.base_url}}}(/assets/images/Add_new_user.png)
+ ![Chapter Processes Admin}\]{{{site.base_url}}}/asset/images/Add_new_user.png)
     * Pop Box appears
     * Fill in First nam
       * Fill in Last name
       * Primary email john.smith@owasp.org
       * Secondary email is the personal email address 
       * Email User Sign-in Info   
-  !{Chapter Processes Email]{{{site.base_url}}}(/assets/images/Email_login_info.png)
+  !{Chapter Processes Email]{{{site.base_url}}}/assets/images/Email_login_info.png)
       * Send   
 **This is the only email address that is to be used for the leader in leader.md file in chapter repository.**
  Leader will receive a Google WorkSpace email like below.
- !{Chapter Processes Email]{{{site.base_url}}}(/assets/images/GoogleAdmin_User.png)
+ !{Chapter Processes Email]{{{site.base_url}}}/assets/images/GoogleAdmin_User.png)
   
 **Slackbot command "/chapter-create"**
 * Generates a templated form to create GitHub chapter repository & CRM records.
@@ -44,7 +44,7 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
    * Country
    * Region -6 choices: Africa, Asia, Europe, North America, Oceania, and South America
 * SUBMIT to create the GitHub chapter repository and Copper CRM record.
- !{Chapter Processes chapter slackbot temp]{{{site.base_url}}}(/assets/images/chapter_slackbot_temp.png)
+ !{Chapter Processes chapter slackbot temp]{{{site.base_url}}}/assets/images/chapter_slackbot_temp.png)
 
 **CRM (Copper)**
 * Chapter file (OWASP-City) 
