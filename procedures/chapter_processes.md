@@ -22,14 +22,14 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
 ![Chapter Processes Admin]({{site.base_url}}/assets/images/GoogleAdmin_User.png)
    * Click User   
    * Click Add New User   
-![Add New User]{{{site.base_url}}}/assets/images/Add_new_user.png)
+![Add New User]({{site.base_url}}/assets/images/Add_new_user.png)
     * Pop Box appears
     * Fill in First nam
       * Fill in Last name
       * Primary email john.smith@owasp.org
       * Secondary email is the personal email address 
       * Email User Sign-in Info   
-![Chapter Processes Admin]({{site.base_url}}/assets/images/Email_login_info.png)
+![Email Login]({{site.base_url}}/assets/images/Email_login_info.png)
       * Send   
 **This is the only email address that is to be used for the leader in leader.md file in chapter repository.**
  Leader will receive a Google WorkSpace email like below.
@@ -44,7 +44,7 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
    * Country
    * Region -6 choices: Africa, Asia, Europe, North America, Oceania, and South America
 * SUBMIT to create the GitHub chapter repository and Copper CRM record.
-![Chapter Processes Admin]({{site.base_url}}/assets/images/chapter_slackbot_temp.png)
+![Slackbot template]({{site.base_url}}/assets/images/chapter_slackbot_temp.png)
 
 **CRM (Copper)**
 * Chapter file (OWASP-City) 
