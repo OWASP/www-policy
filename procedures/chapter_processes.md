@@ -19,21 +19,21 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
    
 **Leaders owasp.org email address creation**
    * Google Admin - Admin Console   
-  image: /assets/images/GoogleAdmin_User.png
+  * {{image: /assets/images/GoogleAdmin_User.png}}
    * Click User   
    * Click Add New User   
-  image: /assets/images/Add_new_user.png
+  * {{image: /assets/images/Add_new_user.png}}
     * Pop Box appears
     * Fill in First nam
       * Fill in Last name
       * Primary email john.smith@owasp.org
       * Secondary email is the personal email address 
       * Email User Sign-in Info   
-  image: /assets/images/Email_login_info.png
+  * {{image: /assets/images/Email_login_info.png}}
       * Send   
 **This is the only email address that is to be used for the leader in leader.md file in chapter repository.**
  Leader will receive a Google WorkSpace email like below.
-!{policy/assets/images/GoogleAdmin_User.png}
+*  {{image: policy/assets/images/GoogleAdmin_User.png}}
   
 **Slackbot command "/chapter-create"**
 * Generates a templated form to create GitHub chapter repository & CRM records.
