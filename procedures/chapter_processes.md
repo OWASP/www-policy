@@ -33,7 +33,7 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
       * Send   
 **This is the only email address that is to be used for the leader in leader.md file in chapter repository.**
  Leader will receive a Google WorkSpace email like below.
-image:  assets/images/GoogleWorkspace_email.png
+!{policy/assets/images/GoogleAdmin_User.png}
   
 **Slackbot command "/chapter-create"**
 * Generates a templated form to create GitHub chapter repository & CRM records.
