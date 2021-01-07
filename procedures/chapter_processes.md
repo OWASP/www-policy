@@ -142,8 +142,10 @@ You will receive two emails shortly. One will contain the name of the account. T
    *  Remove leaders from leader.md file
    *  Suspend OWASP email address. (If individual has a paid membership leave email address active.)
    *  Remove as co-organizer of Meetup Group
+**Issue:**
 
 
-
+**Chapter Reactivation**
+**Relevant Policy:** [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
 
 
