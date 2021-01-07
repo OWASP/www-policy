@@ -134,5 +134,12 @@ You will receive two emails shortly. One will contain the name of the account. T
 5. Automation not available to truly identify 4 meeting activity but just identifies activity as simply as opening and closing a file in the chapter repository.  
 
 **Deactivation of Chapter**
+**Relevant Policy:** [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
+* Review Chapter meetings and activites on chapter page to meet the criteria outlined in the chapter policy.
+* Send the inactive chapter(s) name(s)to the Chapter Committee.
+* Chapter Committee to reachout to leaders to help reactivate or confirm deactivate.
+
+
+
 
 
