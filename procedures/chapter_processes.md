@@ -4,7 +4,7 @@ title: Chapter Procedures (WIP)
 layout: col-sidebar
 
 ---
-v2020.12.09
+v2021.01.07
 ## Chapter Processes
 To create a new chapter repository in GitHub and CRM record of chapter and leaders.(minmum of 2 leaders to start)
 **Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and Leader Policy**    
