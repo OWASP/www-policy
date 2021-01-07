@@ -137,7 +137,11 @@ You will receive two emails shortly. One will contain the name of the account. T
 **Relevant Policy:** [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
 * Review Chapter meetings and activites on chapter page to meet the criteria outlined in the chapter policy.
 * Send the inactive chapter(s) name(s)to the Chapter Committee.
-* Chapter Committee to reachout to leaders to help reactivate or confirm deactivate.
+* Chapter Committee to reachout to leaders to help reactivate or confirm deactivate within 30 days.
+  *  Deactivation
+   *  Remove leaders from leader.md file
+   *  Suspend OWASP email address. (If individual has a paid membership leave email address active.)
+   *  Remove as co-organizer of Meetup Group
 
 
 
