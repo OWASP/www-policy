@@ -43,15 +43,15 @@ The OWASP Foundation will be the thriving global community that drives visibilit
 
 Each Board Member will be assigned one of the following roles: Board Chair, Vice Chair, Secretary, Treasurer, or Board Member at large. These roles will carry the following responsibilities:
 
-**Board Chair** - The Chairman of the Board shall serve as the principal executive officer of the Foundation.
+**Board Chair** - The Chairperson of the Board shall serve as the principal executive officer of the Foundation.
 
 - Fiduciary responsibilities: He/She shall, in general, supervise and control all of the business and affairs of the Foundation. He/She will monitor financial planning and financial reports He/She or he may sign, with the Secretary or any other proper officer of the Foundation thereunto authorized by the Board of Directors, any deeds, mortgages, bonds, contracts, or other instruments which the Board of Directors has authorized to be executed, except in cases where the signing and execution thereof shall be expressly delegated by the Board of Directors or by these Bylaws to some other officer or agent of the Foundation, or shall be required by law to be otherwise signed or executed;
-- Leadership and Direction: provides leadership to the Board of Directors with regards to policy setting and strategic planning. He/She helps guide and mediate board actions with respect to organizational priorities and governance concerns, and in general shall perform all duties incident to the office of Chairman of the Board subject to the control of the Board of Directors.
+- Leadership and Direction: provides leadership to the Board of Directors with regards to policy setting and strategic planning. He/She helps guide and mediate board actions with respect to organizational priorities and governance concerns, and in general shall perform all duties incident to the office of Chairperson of the Board subject to the control of the Board of Directors.
 - Organizational Responsibilities: He/She plays a leading role in fundraising activities, formally evaluate the performance of the Foundation Director and informally evaluate the effectiveness of the board members. An annual, overall evaluation of the performance of the organization in achieving its mission will be accomplished. He or she shall, when present, preside at all meetings of the Board of Directors, unless otherwise delegated, and such other duties as may be prescribed by the Board of Directors from time to time.
 
 **Vice Chair** - performs Chair responsibilities when the Chair cannot be available, works closely with Chair and other Board Members, participates closely with Chair to develop and implement officer transition plans, performs other responsibilities as assigned by the Board.
 
-**Secretary** - maintains records of the board and ensures effective management of organization’s records, manages minutes of board meetings, ensures minutes are distributed shortly after each meeting, is sufficiently familiar with legal documents (articles, by­laws, IRS letters, etc.) to note applicability during meetings; is the custodian of the corporate records and of the seal of the Foundation and see that the seal of the Foundation is affixed to all documents, the execution of which on behalf of the Foundation under its seal is duly authorized; keeps a register of the post office address of each Director which shall be furnished to the Secretary by such Director; and, in general perform all duties incident to the office of the Secretary and such other duties as from time to time may be assigned to him by the Chairman of the Board or by the Board.
+**Secretary** - maintains records of the board and ensures effective management of organization’s records, manages minutes of board meetings, ensures minutes are distributed shortly after each meeting, is sufficiently familiar with legal documents (articles, by­laws, IRS letters, etc.) to note applicability during meetings; is the custodian of the corporate records and of the seal of the Foundation and see that the seal of the Foundation is affixed to all documents, the execution of which on behalf of the Foundation under its seal is duly authorized; keeps a register of the post office address of each Director which shall be furnished to the Secretary by such Director; and, in general perform all duties incident to the office of the Secretary and such other duties as from time to time may be assigned to him by the Chairperson of the Board or by the Board.
 
 **Treasurer** - manages finances of the organization, administers fiscal matters of the organization, provides annual budget to the board for member’s approval, ensures development and board review of financial policies and procedures.
 
@@ -87,7 +87,7 @@ The Secretary shall:
 2. See that all notices are duly given in accordance with the provisions of these Bylaws or as required by law;
 3. Be custodian of the corporate records and of the seal of the Foundation and see that the seal of the Foundation is affixed to all documents, the execution of which on behalf of the Foundation under its seal is duly authorized;
 4. Keep a register of the post office address of each Director which shall be furnished to the Secretary by such Director; and
-5. In general perform all duties incident to the office of the Secretary and such other duties as from time to time may be assigned to him by the Chairman of the Board or by the Board.
+5. In general perform all duties incident to the office of the Secretary and such other duties as from time to time may be assigned to him by the Chairperson of the Board or by the Board.
 
 ## ARTICLE III - BOARD OF DIRECTORS
 
@@ -115,15 +115,15 @@ Attendance in person or virtually by board members is required at no less than 7
 
 ### SECTION 3.04 Special Meetings
 
-Special meetings of the Board of Directors may be called by or at the request of the Chairman or any two (2) directors. The person or persons authorized to call special meetings of the Board of Directors may fix the place for holding any special meeting of the Board of Directors called by them.
+Special meetings of the Board of Directors may be called by or at the request of the Chairperson or any two (2) directors. The person or persons authorized to call special meetings of the Board of Directors may fix the place for holding any special meeting of the Board of Directors called by them.
 
 ### SECTION 3.05 Notice of Special Meetings
 
-A special meeting may be called by the Chairman or at the request of any two (2) Board members by notice emailed, telephone, or telegraphed to each Board member not less one week before such meetings. Any directors may waive notice of any meeting. The attendance of a director at a meeting shall constitute a waiver of notice of such meeting, except where a director attends a meeting for the express purpose of objecting to the transaction of any business because the meeting is not lawfully called or convened.
+A special meeting may be called by the Chairperson or at the request of any two (2) Board members by notice emailed, telephone, or telegraphed to each Board member not less one week before such meetings. Any directors may waive notice of any meeting. The attendance of a director at a meeting shall constitute a waiver of notice of such meeting, except where a director attends a meeting for the express purpose of objecting to the transaction of any business because the meeting is not lawfully called or convened.
 
 ### SECTION 3.06 Quorum
 
-A majority of the number of Directors fixed by ### SECTION 2 of this Article shall constitute a quorum for the transaction of business at any meeting of the Board of Directors. If less than such majority is present at a meeting, a majority of the Directors present may adjourn the meeting from time to time without further notice. All decisions will be made by majority vote of those present at a meeting at which a quorum is present. If a board of Directors vote results in a split decision, the Chairman of the Board, if present at the meeting, can decide the issue.
+A majority of the number of Directors fixed by ### SECTION 2 of this Article shall constitute a quorum for the transaction of business at any meeting of the Board of Directors. If less than such majority is present at a meeting, a majority of the Directors present may adjourn the meeting from time to time without further notice. All decisions will be made by majority vote of those present at a meeting at which a quorum is present. If a board of Directors vote results in a split decision, the Chairperson of the Board, if present at the meeting, can decide the issue.
 
 ### SECTION 3.07 Participation in Meeting by Conference Telephone
 
@@ -139,7 +139,7 @@ Any action that may be taken by the Board of Directors at a meeting may be taken
 
 ### SECTION 3.10 Vacancies
 
-Any vacancy occurring in the Board of Directors may be filled by the affirmative vote of a majority of the remaining directors though less than a quorum of the Board of Directors unless otherwise provided by law. If there is an equal number of affirmative and negative votes then the ultimate determination shall be made by the then­ sitting Chairman of the Board. A director elected to fill a vacancy shall be elected for the unexpired term of his predecessor in office. Any directorship to be filled by reason of an increase in the number of directors may be filled by election by the Board of Directors for a term of office continuing only until the next election of directors by the Directors.
+Any vacancy occurring in the Board of Directors may be filled by the affirmative vote of a majority of the remaining directors though less than a quorum of the Board of Directors unless otherwise provided by law. If there is an equal number of affirmative and negative votes then the ultimate determination shall be made by the then­ sitting Chairperson of the Board. A director elected to fill a vacancy shall be elected for the unexpired term of his predecessor in office. Any directorship to be filled by reason of an increase in the number of directors may be filled by election by the Board of Directors for a term of office continuing only until the next election of directors by the Directors.
 
 Appointed Directors filling a vacancy shall not have this partial term counted against term limits. Members can only be appointed to fill a vacancy once every ten years to prevent bypassing term limits.
 
