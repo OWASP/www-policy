@@ -1,6 +1,6 @@
 ---
 
-title: Implementation of Bylaw or Policy Changes (Draft WIP)
+title: Implementation of Bylaw or Policy Changes
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
