@@ -7,9 +7,6 @@ tags: Rules of Procedure
 
 ---
 
-{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
-{% include policy-feedback.html start-date=date-to-pass %}
-
 ## Updates to bylaws, policies, and procedures
 
 Where an affirmative Board vote has passed to create, modify or delete by bylaws, policy or procedure, the Foundation has 30 days or until the next Board meeting to merge the approved change into any affected bylaws, policies and procedures. The Foundation shall note any changed bylaws, policies and procedures in the Board agenda for review by the Board. The Secretary of the Board shall confirm these changes during the Board meeting. 
