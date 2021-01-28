@@ -7,7 +7,7 @@ layout: full-width
 
 # OWASP FOUNDATION Bylaws
 
-Last amendment approval Oct 20, 2020. Text to take effect November 1, 2020.
+Last amended and effective date: January 27, 2021.
 
 - [ARTICLE I OFFICES](#article-i---offices)
 - [ARTICLE II AUTHORITY AND DUTIES OF OFFICERS](#article-ii---authority-and-duties-of-officers)
@@ -69,7 +69,11 @@ Resignations are effective upon receipt by the Secretary of the Board of a writt
 
 ### SECTION 2.04 Removal
 
-Any officer, contractor, member, or director may be removed by a two thirds vote of the Board of Directors whenever, in its judgment, the best interests of the Foundation will be served thereby, but such removal shall be without prejudice to the contract rights, if any, of the person so removed. Election or appointment of an officer, agent, or director shall not of itself create contract rights, and such appointment shall be terminable at will.
+Directors may be removed from office by the members, with or without cause, as permitted by and in accordance with the laws of the State of Delaware. The Board will recommend to the Members that a Director be removed from office when there is a finding that a Director has committed an action that results in a finding of “Cause.” A determination of “Cause” by the Board of Directors requires an affirmative vote of the full number of voting Directors then in office, except for the Director being considered for removal. For the purpose of these Bylaws, the term “Cause” shall mean
+
+(w) repeated violations of the Board Code of Conduct Policy or (x) a final conviction of a felony involving moral turpitude or (y) willful misconduct that is materially and demonstrably injurious to OWASP or (z) a no-confidence vote by the Board of Directors under Section 3.04 of the Bylaws.
+
+For purposes of the definition of “Cause,” no act, or failure to act, by a Director shall be considered “willful” unless committed in bad faith and without a reasonable belief that the act or failure to act was in the best interest of OWASP. As voting by OWASP Members is optional, a simple majority of votes received by members in good standing shall govern if the Director is removed.
 
 ### SECTION 2.05 Vacancies
 
@@ -109,9 +113,11 @@ Foundation funds should not be used to pay for membership. Foundation paid membe
 
 ### SECTION 3.03 Regular Meetings
 
-The Board of Directors shall have regular meetings as needed. A link to the board meeting agenda’s and the historical minutes is here: [https://owasp.org/www-board/](https://owasp.org/www-board/). Meetings shall be at such dates, times, and places as the Board shall determine in December of the preceding year and as amended by the Board. In no event will there be less than one meeting per quarter. These meetings will be open to public attendance, however, certain portions of the meeting may be closed to board members and their delegates when required for legal reasons, or to shield liability, or to handle personnel issues, or similar.
+The Board of Directors shall have regular meetings as needed. A link to the board meeting agenda’s and the historical minutes is here: [https://owasp.org/www-board/](https://owasp.org/www-board/). Meetings shall be at such dates, times, and places as the Board shall determine in December of the preceding year and as amended by the Board. In no event will there be less than one meeting per quarter. These meetings will be open to public attendance. However, certain portions of the meeting may be closed to board members and their delegates when required for legal reasons, or to shield liability, or to handle personnel issues, or similar.
 
-Attendance in person or virtually by board members is required at no less than 75% of the total meetings each year and shall be highly encouraged to meet in person at least once annually at a date to be announced and agreed upon. To be considered as “attended” the board member must attend at least 90% of the meeting, starting at the published scheduled time until the published end time or the meeting is adjourned (whichever is earlier). Attendance is tabulated by the Executive Director or delegate within seven days after every scheduled meeting for the purpose of determining if the 75% attendance requirement has been met, and the tabulation is based upon the entire calendar year. Cancelled meetings are considered attended for the purposes of the tabulation. Failure by a board member to meet the 75% attendance requirement after any tabulation will cause a mandatory vote of confidence by the remaining board members, whose votes will be publicly recorded. The vote of confidence is to take place within 21 days, but not sooner than 7 days, of notification by the Executive Director or delegate that a board member has not met the attendance threshold. During the first seven days, the board member in question will have an opportunity to make their case to their fellow board members. The vote of confidence will take place on the OWASP Board of Directors email list, unless the Board votes to review the matter at their next meeting, so long as the next meeting occurs within the 21­day window. An overall vote of “no confidence” is recorded if more than half of the board members vote for it, which causes the board member in question to be instantly removed from their seat on the board. Vacancies on the board are handled as per SECTION 3.10.
+Attendance in person or virtually by board members is required at no less than 75% of the total meetings each year and shall be highly encouraged to meet in person at least once annually at a date to be announced and agreed upon. To be considered as “attended,” the board member must attend at least 90% of the meeting, starting at the published scheduled time until the published end time or the meeting is adjourned (whichever is earlier). Attendance is tabulated by the Executive Director or delegate within seven days after every scheduled meeting for the purpose of determining if the 75% attendance requirement has been met, and the tabulation is based upon the entire calendar year. Canceled meetings are considered attended for the purposes of the tabulation.
+
+Failure by a board member to meet the 75% attendance requirement after any tabulation will cause a mandatory vote of confidence by the remaining board members, whose votes will be publicly recorded. If a vote of confidence does not pass, the Board will put forward a vote of removal to the members and recommend to remove the Director, per section 2.04.
 
 ### SECTION 3.04 Special Meetings
 

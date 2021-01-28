@@ -42,8 +42,13 @@ All members of the Board of Directors, including those serving as Chairman and V
 - Be clear about representing the Foundation or personal interests. If a Board Member appears before another governmental agency or organization to give a statement on an issue, the Board Member must clearly state: 1) if his or her statement reflects personal opinion or is the official stance of the Foundation; 2) whether this is the majority or minority opinion of the Board. If the Board Member is representing the Foundation, the Board Member must support and advocate the official Foundation position on an issue, not a personal viewpoint. If the Board Member is representing another organization whose position is different from the Foundation, the Board Member should withdraw from voting on the issue if it significantly impacts or is detrimental to the Foundation’s interest. Board Members should be clear about which organizations they represent and inform the President and Board of their involvement.
 - Correspondence also should be equally clear about representation on behalf of the  Foundation or other personal or business interests.
 
+## Anti-Harassment
+
+Board members must not engage in any intimidating, harassment, discriminatory, abusive, derogatory, or demeaning speech or actions (“harassment” includes, but is not limited to: communication or conduct that a reasonable person in the individual’s circumstances would consider unwelcome, intimidating, hostile, threatening, violent, abusive or offensive, such communication may be related to gender, gender identity and expression, sexual orientation, disability, national origin, race, age, religion; it also includes stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention).
+
 ## Sanctions
-Board Members Behavior and Conduct - Board Members who intentionally and repeatedly do not follow proper conduct may be reprimanded or formally censured by the Board.
+
+Repeated violations of the Board Code of Conduct, the Board can take the step of recommending the removal of a Director under Bylaw Section 2.04.”
 
 ## Principles of Proper Conduct
 Proper conduct IS …
