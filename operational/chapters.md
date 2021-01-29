@@ -172,7 +172,7 @@ Chapter members and leaders can use the following policies and reporting mechani
 
 OWASP must comply with international laws and regulations, including international sanctions. Sanctions take many forms and are often limited in scope to access to specific intellectual property, organizations, governments, and/or individuals.
 
-From time to time, the Executive Director and Chapter and Membership Managers will review sanctions from the EU, USA, and anywhere else the foundation has an operating entity, and apply the following policies.
+From time to time, the Executive Director and Community Manager will review sanctions from the EU, USA, and anywhere else the foundation has an operating entity, and apply the following policies.
 
 Until sanctions are lifted and where not complying with or breaching sanctions would cause the OWASP Foundation to be subject to fines, civil or criminal liability, the following policies will be applied:
 
@@ -181,6 +181,6 @@ b) Existing chapters may be disbanded or made independent of the Foundation depe
 c) Leaders and members who are sanctioned individuals will be removed from any leadership positions, and any membership fees refunded, including Lifetime membership.
 d) Access to OWASP materials are free and open-source, and can be obtained through many means, including OWASP's shared cloud platforms. For the purposes of curtailing access or prohibiting the ""export"" of such freely available information, OWASP relies solely upon the technical controls in place by our shared cloud platforms, which share the same sanction controls as the OWASP Foundation. The Foundation has no control over these technical controls, and the Foundation will not subvert these technical controls to allow access in sanctioned countries.
 
-The Executive Director and/or Chapter Manager will inform the OWASP Global Board and Chapter Committee of any changes to sanctioned chapters, leadership, or access.
+The Executive Director and/or Community Manager will inform the OWASP Global Board and Chapter Committee of any changes to sanctioned chapters, leadership, or access.
 
-The Chapter Manager will review the list of sanctioned chapters and leaders periodically to determine if the Foundation can restore the chapter, leadership, and membership.
+The Community Manager Manager will review the list of sanctioned chapters and leaders periodically to determine if the Foundation can restore the chapter, leadership, and membership.
