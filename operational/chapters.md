@@ -1,6 +1,6 @@
 ---
 
-title:  Chapters (Draft WIP)
+title:  Chapters Policy (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
