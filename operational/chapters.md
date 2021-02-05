@@ -8,8 +8,8 @@ notice: 2020-11-24
 
 ---
 
-{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
-{% include policy-feedback.html start-date=date-to-pass %}
+
+{% include review-complete.html %}
 
 Chapters are central to OWASP’s mission of achieving community around the world. This policy defines the rules related to starting, running, maintaining, and dissolving OWASP chapters. 
 
