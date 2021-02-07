@@ -411,7 +411,7 @@ A recognized holiday that falls on a Saturday will be observed on the preceding 
 Exempt employees do not accrue Personal-time-off benefits but are given an indeterminate amount of personal time off at the sole discretion of the company as operational conditions permit. During such personal time taken off, employees will receive no additional fixed pay. Rather, they will continue to receive their regular salary during their scheduled Personal-time-off. For purposes of this policy, personal time off does not include absences covered by the company’s Sick Policy.
 
 An employee taking personal time off is responsible for:
-* Notifying his/her direct supervisor two weeks prior to when he/she will be absent.
+* Notifying his/her direct supervisor two weeks prior to when they will be absent.
 * Documenting planned time off on the shared Staff Calendar
 * Meeting the expectations and requirements of the employee's position including timely and satisfactorily completing all work assignments. 
 * Arranging for time off on a schedule that is considerate of expected business needs.
