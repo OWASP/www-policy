@@ -163,7 +163,7 @@ When using the contact database, remember to abide by our privacy rule. Member c
 ## Handling Money
 Chapter funds should be used for your chapter and must be spent in line with the OWASP Foundation purpose, goals, principles, and code of ethics. Accordingly, chapter finances should be handled in a transparent manner as described in Chapter 2
 
-A chapter should have a treasurer who is in charge of money. This person can be (and often is) the leader. His/her name should be communicated to the Community Manager so we can update our official records. Some key guidelines about managing your chapter budget:
+A chapter should have a treasurer who is in charge of money. This person can be (and often is) the leader. their name should be communicated to the Community Manager so we can update our official records. Some key guidelines about managing your chapter budget:
 - Any Chapter which has a $0 or low bank account can ask for a grant.  The funding request must include specifically what you wish to spend the money on.  Any amount in your chapter account will first be subtracted from the request.  For example, if you ask for $100 to pay for refreshments but have $40 in your account, we may give you a grant of $60. Needing a grant does not guarantee the OWASP Foundation will provide a grant. Pre-approval is required to ensure an expense is covered, especially if there's a chance of it exceeding a chapters's total funds.
 - Any Chapter with more than $5,000 at the end of the year must submit a budget for the use of these monies or risk the surplus being put in the general outreach fund
 - Some ways of using funds require prior approval (see below).
@@ -228,7 +228,7 @@ Chapter leaders serve as the main point of contact for the local chapter and are
 
 ## Transferring Leadership
 
-In the course of time, a leader may want to move on and leave his/her role. While this chapter provides guidelines to the technical process to follow, we found in the past that the actual challenge is finding the new leader, especially in chapters that lack a board. We strongly suggest that a chapter leader who wants to stop would try to find a successor among the active members of the chapter. Such a process has the best chance of ensuring the continuous success of the chapter.
+In the course of time, a leader may want to move on and leave their role. While this chapter provides guidelines to the technical process to follow, we found in the past that the actual challenge is finding the new leader, especially in chapters that lack a board. We strongly suggest that a chapter leader who wants to stop would try to find a successor among the active members of the chapter. Such a process has the best chance of ensuring the continuous success of the chapter.
 Please let us know of your wish to leave the job and let us help you in finding a successor.
 
 When a new leader is to be added to your team or a current leader is leaving you must fill out the change of leadership form to complete the activity.  Chapter leadership is an agreement with the OWASP Foundation to take on responsibilities as well as privileges; records of who is in what role need to be up to date.
@@ -430,9 +430,9 @@ Arrive early! Ensure that everything for the meeting space is set up before the 
 - Equipment - projector, sound system, and any special items that may have been requested by the speaker(s)
 
 ### Video Recording
-If you have the equipment, you may want to consider recording a video of your meeting and posting for members who were not able to attend the meeting. This is also a nice resource for chapter leaders or event organizers to use in the future to screen a speaker or learn about his/her style.
+If you have the equipment, you may want to consider recording a video of your meeting and posting for members who were not able to attend the meeting. This is also a nice resource for chapter leaders or event organizers to use in the future to screen a speaker or learn about their style.
 
-The OWASP Speaker Agreement includes authorization for the speaker's presentation to be recorded and posted. If you plan to record the meeting, you should make sure the speaker is aware and has agreed to the reproduction of his/her presentation.
+The OWASP Speaker Agreement includes authorization for the speaker's presentation to be recorded and posted. If you plan to record the meeting, you should make sure the speaker is aware and has agreed to the reproduction of their presentation.
 
 ### Time Management
 Spread tasks across many individuals in order to ensure that your meeting runs smoothly and all of the tasks before, during, and after the meeting are handled in a timely fashion. There are usually people that attend the meetings who are willing to want to help the chapter be successful, but are not able to commit to a chapter leadership role - that doesn't mean they aren't willing to help out on a meeting-by-meeting basis.
