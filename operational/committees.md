@@ -1,6 +1,6 @@
 ---
 
-title: Committees
+title: Committees Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure

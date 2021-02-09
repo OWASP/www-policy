@@ -1,14 +1,11 @@
 ---
 
-title: Implementation of Bylaw or Policy Changes (Draft WIP)
+title: Implementation of Bylaw or Policy Changes
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
 
 ---
-
-{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
-{% include policy-feedback.html start-date=date-to-pass %}
 
 ## Updates to bylaws, policies, and procedures
 

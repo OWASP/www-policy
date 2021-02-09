@@ -1,6 +1,6 @@
 ---
 
-title: Membership
+title: Membership Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure

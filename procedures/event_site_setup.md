@@ -164,11 +164,11 @@ Everything in the footer section comes from the sponsors.yml file in the _data f
 
 Once the site has basic information and is set up to your satisfaction, it is time to make the site available over HTTPS.  In order to do that, you must go to the repository in GitHub and select the Settings tab.
 
-![Event Site Settings Image]()
+![Event Site Settings Image]({{site.base_url}}/assets/images/event_site_setup_settings.png)
 
 On the settings page, scroll down to the GitHub Pages section and change Source from None to Branch: master and leave the folder as / (root) then click Save.
 
-![Event Site GitHub Pages Source Image]()
+![Event Site GitHub Pages Source Image]({{site.base_url}}/assets/images/event_site_setup_source.png)
 
 At this point, your site is available as a page under the owasp.org site but the links will not work.  To get the links to work, you need to set up the Custom domain below where we just set up the GitHub Pages Source.  In addition, you will need to have already had configured a domain to point this repository at (DNS setup is outside this scope, please ask your I.T. admin to set this up).
 
