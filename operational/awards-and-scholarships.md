@@ -25,9 +25,9 @@ Any OWASP Leader, OWASP Foundation, or OWASP Board (hereon: organizers) can esta
 
 Organizers should:
 
-1.	Review relevant [Awards and Scholarships Guidance](TBA)
-2.	Plan the award or scholarship application, and seek potential funding sources if required
-3.	Submit a request at https://contact.owasp.org
+1. Review relevant [Awards and Scholarships Guidance](TBA)
+2. Plan the award or scholarship application, and seek potential funding sources if required
+3. [Submit a request](https://contact.owasp.org)
 
 The OWASP Executive Director and any relevant committee shall evaluate the proposal and decide on approval within 30 days, taking into account published temporary restrictions or travel restrictions imposed by relevant authorities. If the request requires a Board vote or exemption, a decision will occur within 60 days to allow for a Committee and subsequent Board meeting.
 
@@ -51,7 +51,7 @@ Trainers are encouraged, but not required, to waive their training fee for schol
 
 Scholarships assisting under-served or under-represented communities may offer travel assistance to OWASP events, with a preference to serve local and regional events over costly international travel. Travel assistance can only be provided as part of a scholarship and should be on an as needs basis.
 
-Travel assistance must comply with the [travel policy](TBA) and the [expense policy](TBA).
+Travel assistance must comply with the [travel policy](TBA) and the [expense policy](/www-policy/operational/expense-reimbursement).
 
 ### Naming
 
@@ -99,7 +99,7 @@ Exemptions to this policy can be granted by the OWASP Executive Director and doc
 
 ### Conflicts of Interest
 
-To prevent perceived or actual conflicts of interest, if an award or scholarship is potentially open to: 
+Awards and scholarships are subject to the [Conflict of Interest Policy](/www-policy/operational/conflict-of-interest). To prevent perceived or actual conflicts of interest, if an award or scholarship is potentially open to: 
 
 - Organizers who created or assisted with the submission or selection criteria
 - Members of the selection panel 
