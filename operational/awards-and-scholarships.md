@@ -13,7 +13,7 @@ notice: 2021-02-28
 
 Draft for comment.
 
-# Awards and Scholarships Policy
+# {{ page.title }}
 
 ## Background
 
