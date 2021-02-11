@@ -22,15 +22,17 @@ This policy encourages our community to establish awards or prizes for OWASP com
 ## Overview of Awards, Scholarships, and Travel Assistance process
 
 Any OWASP Leader, OWASP Foundation, or OWASP Board (hereon: organizers) can establish an award, prize, or scholarship and any associated travel assistance. 
+
 Organizers should:
 
 1.	Review relevant [Awards and Scholarships Guidance](TBA)
-2.	Plan the award or scholarship, and seek potential funding sources if required
+2.	Plan the award or scholarship application, and seek potential funding sources if required
 3.	Submit a request at https://contact.owasp.org
 
 The OWASP Executive Director and any relevant committee shall evaluate the proposal and decide on approval within 30 days, taking into account published temporary restrictions or travel restrictions imposed by relevant authorities. If the request requires a Board vote or exemption, a decision will occur within 60 days to allow for a Committee and subsequent Board meeting.
 
 If approved, the organizers shall:
+
 - Publicize the award or scholarship, finalize donors, sponsorships or fundraise necessary funds, and open the award or scholarship to entrants no later than 30 days before the deadline
 - Score and select the winner using the selection rubric within seven days of the announced deadline
 - Publish the selection result on the owasp.org website and award the prize or scholarship within 30 days of the announced deadline
@@ -55,11 +57,12 @@ Travel assistance must comply with the [travel policy](TBA) and the [expense pol
 
 Organizers should name the award or scholarships to include OWASP within the name, consistent with the OWASP branding guidelines. Examples might include: "OWASP Lifetime Achievement Award," "OWASP Ottawa CTF Champion," "OWASP AppSec Manchester Scholarship," and so on. 
 
-Award names that are confusing with existing Foundation awards may not be approved.
+Award names that are confusing with existing OWASP trademarks, awards, or scholarships may not be approved.
 
 ### Funding
 
 Funding for awards, scholarships, and travel assistance should be fully funded, including by:
+
 - Individual or corporate donations, sponsorships, or fundraising
 - Chapters, projects, events, or committees using local donations, sponsorships, or fundraising
 - An approved grant under the [Grants policy](TBA)
@@ -73,7 +76,8 @@ All sponsorships, fundraising, and donations are subject to standard OWASP polic
 Award or Scholarship proposals are more likely to be approved if selection criteria include equity for disadvantaged, underrepresented, or underserved groups. Awards should be directed towards genuinely long term or meritorious service to OWASP and our mission, or as an encouragement to new projects, chapters, initiatives, or as a reward for OWASP competitions that fulfill our mission. 
 
 After approval, organizers must publish the selection criteria on the OWASP website for public transparency. Organizers should coordinate with the Foundation to ensure that all nominees or entrants are eligible per the selection criteria.
-Organizers must publish the awarded accolade results on the OWASP website, including the selection rubric and scores, and are encouraged to promote the accolade. As privacy permits, organizers should publish recipients' names (with their permission) to allow members, donors, and the public to determine that the prize was transparently and fairly selected. Organizers must make recipients' details available to the OWASP Foundation to process the award, scholarship, or travel assistance. 
+
+Organizers must publish results on the OWASP website, including the selection rubric and scores, and are encouraged to promote the accolade. As privacy permits, organizers should publish recipients' names (with their permission) to allow members, donors, and the public to determine that the prize was transparently and fairly selected. Organizers must make recipients' details available to the OWASP Foundation to process the award, scholarship, or travel assistance. 
 
 ## Transparency, Integrity, and Oversight
 
@@ -90,11 +94,13 @@ All prizes are subject to being audited by the OWASP Foundation, including valid
 Awards, scholarships, and travel assistance are not transferable, cannot be passed on, or resold to others. If organizers cannot reach a recipient within 30 days to claim their prize, or the recipient declines the prize, organizers shall choose the subsequent highest scoring winner.
 
 ### Exemptions to policy
+
 Exemptions to this policy can be granted by the OWASP Executive Director and documented in the application. Exemptions requiring funding exceeding $1000 require an affirmative Board vote. 
 
 ### Conflicts of Interest
 
 To prevent perceived or actual conflicts of interest, if an award or scholarship is potentially open to: 
+
 - Organizers who created or assisted with the submission or selection criteria
 - Members of the selection panel 
 - Involved chapter, project, or event leaders, or relevant committee members
