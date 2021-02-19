@@ -11,7 +11,7 @@ notice: 2021-02-28
 {% capture date-to-pass %}{{ page.notice }}{% endcapture %}
 {% include policy-feedback.html start-date=date-to-pass %}
 
-## {{page.title}
+## {{page.title}}
 
 Grants help fulfill our mission to improve the security of software globally. Any OWASP Member, Chapter, Project, Committee, or Event may create grants for mission-related activities or deliverables, including sabbaticals. This policy creates financially responsible funding mechanisms and a consistent and transparent process to approve, fund, and deliver grant outcomes.
 
