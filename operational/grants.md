@@ -1,6 +1,6 @@
 ---
 
-title: Grant Policy (Draft - WIP)
+title: Grant Policy (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
