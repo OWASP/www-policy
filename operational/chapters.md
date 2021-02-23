@@ -10,6 +10,7 @@ tags: Rules of Procedure
 
 Adopted by the Board on 23-Feb-2021
 
+
 Chapters are central to OWASP’s mission of achieving community around the world. This policy defines the rules related to starting, running, maintaining, and dissolving OWASP chapters. 
 
 ## Chapter Leadership
