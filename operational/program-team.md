@@ -74,7 +74,7 @@ Team members will receive economy-class airfare, lodging, airport transfers, and
 ## Application
 
 Program Team members are selected through a competitive application process. OWASP Staff will notify the community of the Program Team formulation, timeline for applications, and select the Program Team. Criterion for selection include:
-- Former experience organizing similiar conferences
+- Former experience organizing similar conferences
 - Historical OWASP Community involvement and reputation
 - OWASP Membership status and history
 - Completeness of the application
