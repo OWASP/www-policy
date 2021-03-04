@@ -16,6 +16,6 @@ v2021.3.4
 4. Commit Changes
 5. Navigate back to the /www-board/_data folder and edit attendance.yml
     - Insert a new section (copy & paste an old section)
-    - Under attendees, add/replace names only of those attending >= 90% of the official length of the meeting
+    - Under attendees, add/replace names only of those attending >= 90% of the official length of the meeting.  These names **MUST** match previous names and may **NOT** contain titles.
     - Under guests, add/replace names of the guests
 6. Commit Changes
