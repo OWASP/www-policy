@@ -11,7 +11,7 @@ v2021.3.4
 
 1. Go to the most recent board minutes found under /www-board/minutes/
 3. Navigate to Call to Order - Attendance
-    - Under Board Members add the name and title (in parentheses) of the board member in Markdown list format (either with * or with - in front, e.g. `* Jimmy Jim Jim (Vice Chair)`) only of the members attending >= 90% of the offical length of the meeting
+    - Under Board Members add the name and title (in parentheses) of the board member in Markdown list format (either with `*` or with `-` in front, e.g. `* Jimmy Jim Jim (Vice Chair)`) only of the members attending >= 90% of the offical length of the meeting
     - Under Guests add the name of the guest in Markdown list format (see above)
 4. Commit Changes
 5. Navigate back to the /www-board/_data folder and edit attendance.yml
