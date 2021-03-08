@@ -13,9 +13,9 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
 * Contact Us or on owasp.org> chapter page click and submit request ticket NFRSD ticket# 
   * Review for a minimum of 2 leaders & all required information is included.
   * Check to make sure there is not an existing chapter.
-  * Check to make sure not a chapter within 50 miles/80 km  
-  * Check to make sure that the leaders’ residence is within 50 miles/80 km of the chapter.
-  * Create owasp.org email addresses and send notifications.
+  * Check to make sure there is not a current chapter within 50 miles/80 km  
+  * Check to make sure that the leaders’ residence is within 50 miles/80 km of the chapter city.
+  * If all the information requested on ticket is not submit, will delay or could cancel processing.
    
 **Leaders owasp.org email address creation**
    * Google Admin - Admin Console   
@@ -31,8 +31,8 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
     * Email User Sign-in Info   
 ![Email Login]({{site.base_url}}/assets/images/Email_login_info.png)
     * Send   
-**This is the only email address that is to be used for the leader in leader.md file in chapter repository.**
- Leader will receive a Google WorkSpace email like below.
+**The OWASP.org email address that is to be used for the leader in leader.md file in chapter repository.**
+ Leader will receive a Google WorkSpace email like below. (link is only good for 48 hours)
 ![Chapter Processes Admin]({{site.base_url}}/assets/images/GoogleWorkspace_email.png)
   
 **Slackbot command "/chapter-create"**
@@ -65,12 +65,10 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
 * Resolve and Close the JIRA ticket. 
 **SLA for first response is 72 hours and 144 working hours to complete; pauses when ticket is set to "Waiting for Customer Response"**
 **Issues:**
- * Delay in Chapter policy, Chapter Handbook, Leadership policy 
- * leadership@owasp.org Google group is not current leaders
- * Google Admin email validation scrub to suspend owasp.org email addresses for individuals that are not members or leaders.
- * JIRA ticket should reconfigured to create individual workflows for clarity. Membership, Chapters, Projects, Corporate Members & Sponsors, Events, Marketing and Other
+ * All of the owasp.org emails need to be reviewed and validated that users are current members or leaders.
+ * JIRA tickets need a complete overhaul.  Update requirements and use of correct fields and workflows. Stop mass grouping Membership, Chapters, Projects, Corporate Members & Sponsors, Events, Marketing and Other
 
-## Add/Change Chapter Leadership Process
+## Add/Change Chapter Leadership Process - same ticket as New Chapter Request
  Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) and [Leaders Policy](https://owasp.org/www-policy/operational/leader)
     **Remove leader**
     * The Leader(s) stepping down sends an email to the Foundation.  
@@ -96,19 +94,19 @@ OWASP.org email addresses deactivation did not follow a consistant policy when m
      * Chapter Name
      * Expense and description if applicable
      * Payment method 
-   * Assign a leader to Request a Participant for Leader approval
+   * Assign a leader to Request a Participant for Leader the second approval
 **SLAs:** 
-    * To respond to OSD JIRA ticket is 72 hours
+    * To respond to OSD JIRA ticket is 72 working hours.
     * Submit expense for reimbursement within 60 days[Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement)  
-    * AP runs twice a month not sure of deadline (Virtual)
-**Issue:** SLA reponse from second leader depends on the timeframe listed in Chapter policy for a leaders to respond to emails sent to owasp.org email address and the submission and approval of chapter policy.
+    * AP runs twice a month not sure of the two monthly cut off dates to make the AP run.(Virtual)
+**Issue:** SLA reponse from second leader is (7 to 9 days) as listed in Chapter policy for a leaders to respond to the request from the Foundation. 
     
 **Google Group for Chapter or Chapter leaders creation**
 **Relevant Policy:** [Mailing List](https://owasp.org/www-policy/operational/mailing-list), [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct) and [Privacy Policy](https://owasp.org/www-policy/operational/privacy)
   * Submit ["Contact Us"](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/720) Request ticket  
     * Topic: Choose - Request and OWASP email address from the drop down menu.
     * Name: First and Last name
-    * Company: Chapter Name
+    * Company: Put the Chapter Name
     * Description: Requesting google group for chapter or chapter leaders
     * Submit recieve NFRSD# for records and referene when inquiring.
     * Resolve as done and close JIRA ticket
@@ -117,35 +115,38 @@ OWASP.org email addresses deactivation did not follow a consistant policy when m
   * Submit ["Contact Us"](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72)
     * Topic: Choose - Request Meetup or other Shared Services from drop down menu
     * Name: First and Last name
-    * Company: Chapter Name
+    * Company: Put the Chapter Name
     * Description: Type shared service requesting
-  Virtual Meeting - Slack command /provision-zoom [chapter-url]. Example: Cairo it would be /provision-zoom www-chapter-cairo
-Response: "You have been assigned a shared Zoom account. As this is a shared account, you need to coordinate with other groups using the Zoom Scheduler.   Also, you are not allowed to change account settings or the account password.
+How the staff creates the Virtual Meeting - Slack command /provision-zoom [chapter-url]. Example: Cairo it would be /provision-zoom www-chapter-cairo
+Response to the Requestor: "You have been assigned a shared Zoom account. As this is a shared account, you need to coordinate with other groups using the Zoom Scheduler.   Also, you are not allowed to change account settings or the account password.
 You will receive two emails shortly. One will contain the name of the account. The other will contain a link to the password. Be sure to check Spam as these emails often wind up there.
-  Chapter scheduling service for meeting/activity - LastPass sign in for Meetup using LastPass signin using the City and Country
-  Send Leader(s) New Meetup templated email in CRM with URL. 
+How the staff creates the Chapter scheduling service for meeting/activity - LastPass sign in for Meetup using LastPass signin using the City and Country
+Response to the Requestor: Send Leader(s) New Meetup templated email in CRM with URL. 
    
-**SLA for first response is 72 hours and 144 working hours to complete; pauses when ticket is set to "Waiting for Customer Response"**
+**SLA for first response is 72 working hours; pauses when ticket is set to "Waiting for Customer Response"**
 **Issue:** 
 1. Meetup Groups are set up by city location, not region or country. 
-2. Leaders do not join or use Meetup. 
+2. Some Leaders do not join or use Meetup. 
 3. Allowed to use other social media do not post activity on chapter page.
-4. Leaders are not added to leaders@owasp.org google group as DRAFT chapter policy states.
-5. Automation not available to truly identify 4 meeting activity but just identifies activity as simply as opening and closing a file in the chapter repository.  
+5. Automation not available to truly identify 3 meeting activity but just identifies activity as simply as opening and closing a file in the chapter repository.  
 
 **Deactivation of Chapter**
 **Relevant Policy:** [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
 * Review Chapter meetings and activites on chapter page to meet the criteria outlined in the chapter policy.
 * Send the inactive chapter(s) name(s)to the Chapter Committee.
 * Chapter Committee to reachout to leaders to help reactivate or confirm deactivate within 30 days.
-  *  Deactivation
+   *  Deactivation
    *  Remove leaders from leader.md file
    *  Suspend OWASP email address. (If individual has a paid membership leave email address active.)
    *  Remove as co-organizer of Meetup Group
 **Issue:**
-
+* Relying on the chapter committee to reachout and respond back to Community Manager within the 30 days.
+* Secondary contact information (email address) not available for all leaders and members. 
 
 **Chapter Reactivation**
 **Relevant Policy:** [Chapter Policy](https://owasp.org/www-policy/operational/chapters)
+* Follow the Start a New Chapter/New Leader BUT 50% of the leadership must be new
+**[Start a New Chapter/New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73) request subitted.**
+
 
 
