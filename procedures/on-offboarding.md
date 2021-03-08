@@ -58,6 +58,7 @@ v2020.6.1
     - Remove from Staff Team in Copper
 6. Remove from [Slack](https://owaspstaff.slack.com/admin)
 7. Remove from [JIRA](https://admin.atlassian.com/s/b8f98d6f-1c2b-4c04-b8a7-186d736d50c4/users)
+    - If the person is a default assignee on tickets, move those tickets to someone else
 8. Remove from other services, if added:
     - [Eventbrite](https://www.eventbrite.com/)
     - [Submittable](https://www.submittable.com/)
