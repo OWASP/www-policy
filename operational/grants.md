@@ -8,26 +8,23 @@ notice: 2021-02-28
 
 ---
 
-{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
-{% include policy-feedback.html start-date=date-to-pass %}
+{% include review-complete.html %}
 
 ## {{page.title}}
 
 Grants help fulfill our mission to improve the security of software globally. Any OWASP Member, Chapter, Project, Committee, or Event may create grants for mission-related activities or deliverables, including sabbaticals. This policy creates financially responsible funding mechanisms and a consistent and transparent process to approve, fund, and deliver grant outcomes.
 
-## Overview of the grant process
-
-Ideas for grants can come from both within OWASP and from the larger community. 
+## Overview of the Grant Process
 
 Grant applicants should:
 
 1.	Plan and document a deliverable or package of milestones and deliverables that are specific, realistic, and time-bound
-2.	Seek funding or sponsorship to fund the grant
-3.	[Submit a grant request](TBA)
+2.	Identify the source(s), or proposed source(s) of funding to support the grant.
+3.	[Submit a grant request (TBA)](#)
 
 The OWASP Projects and Technology Director and any relevant committee will evaluate the grant proposal and decide on approval within 30 days, considering the budget and any published temporary restrictions. If the request requires an exemption or Board vote, a decision will occur within 60 days to allow for a Committee and subsequent Board meeting.
 
-If approved, grant applicants shall:
+If approved, grant applicants must complete the following tasks prior to commencment of any work or activities covered by the grant:
 
 - Publish the grant on their OWASP.org web page, including the grant acknowledgment
 - Finalize donors, sponsorships, or fundraise necessary funds no later than seven days after grant approval. 
@@ -41,29 +38,29 @@ Spending on mission is required, with verifiable and timely outcomes. Grants mus
 
 ### Budgeting 
 
-Grants should detail all likely expenses in the application process. Budgets should comply with all Foundation policy concerning expenses, capital purchases, operational expenses, signing authority, and travel. Any upfront costs must be detailed in the application and budget and why they must be paid upfront. 
+Grants should detail all likely expenses in the application process. Budgets should comply with all Foundation policies concerning expenses, capital purchases, operational expenses, signing authority, and travel. Any upfront costs must be detailed in the application and budget and why they must be paid upfront. 
 
-Expenses greater than the approved budget will not be paid. Expenses above the approved budget are at the OWASP Project and Technology Director’s discretion. Expenses greater than the Executive Director’s signing authority requires an OWASP Board affirmative vote. 
+Expenses greater than the approved budget will not be paid. Expenses above the approved budget are at the OWASP Project and Technology Director’s discretion. Expenses greater than the Executive Director’s signing authority require an OWASP Board affirmative vote. 
 
-### Sabbatical stipends
+### Sabbatical Stipends
 
 Grants can be used to fund a sabbatical stipend to benefit one or more project or initiative members to achieve a specific goal over some time. These sabbatical grants should be time-limited to between 1 and 12 months in duration and provide a list of deliverables/outcomes. 
 
 Sabbatical stipends do not form an employment contract with the OWASP Foundation.
 
-### Grant duration
+### Grant Duration
 
 Grants must not exceed 12 months duration. 
 
 Grants or sabbaticals of greater duration than 30 days should consist of multiple milestones, with clearly defined deliverables that permit milestone payments. 
 
-### Research and other high-risk grants
+### Research and Other High-risk Grants
 
 OWASP encourages and funds high-quality research, but this comes with risks. Grants funding research, where the outcome or deliverable is not yet known, or any risky activity, such as promising a significant deliverable for a small sum, should document how the grant participants will manage the risk, such as milestone payments or similar.
 
 Under no circumstances will the OWASP Foundation be liable to deliver on the grant if the original applicants cannot achieve the agreed deliverable in a timely fashion. 
 
-### Restricted spending
+### Restricted Spending
 
 There are few restrictions on grant spending. However, approval of grants containing any of the following items likely result in negotiations or a rejected application:
 
@@ -77,7 +74,7 @@ There are few restrictions on grant spending. However, approval of grants contai
 
 If a restriction is approved, it must follow the relevant OWASP policy to ensure adequate governance and safeguards. 
 
-### Termination for cause
+### Termination for Cause
 
 After 60 days, the OWASP Foundation can terminate a grant due to a lack of communication, limited or no activity, or missing or inadequate delivery of agreed milestones. 
 
@@ -98,7 +95,7 @@ Grants should be fully funded, including by:
 
 All sponsorships, fundraising, and donations are subject to standard OWASP policies, procedures, and associated administration fees.
 
-### Grant acknowledgment for compliance audits
+### Grant Acknowledgment for Compliance Audits
 
 OWASP has entities in the United States and the European Union, and we must comply with non-profit regulations. All grants must be discoverable in the case of non-profit compliance audits. An acknowledgment of funding sources must be on the grant recipients OWASP.org page and in any documents, “About…” dialogs, or help pages of OWASP projects funded by a grant. 
 
@@ -108,9 +105,9 @@ If OWASP supported the work through the OWASP Grants Fund, the acknowledgment mu
 
 If one or more donations or sponsorships supported the work, the acknowledgment must be of the form:
 
-```“This work was supported by funding from OWASP Grant <grantID> from <sponsor> <, sponsor><, and the OWASP Foundation.”```
+```“This work was supported by funding from OWASP Grant <grantID> from <sponsor>, <sponsor>, and the OWASP Foundation.”```
 
-### Unspent funds
+### Unspent Funds
 
 Unspent funds fail to meet OWASP’s, sponsors’ and donors’ expectations, and tax compliance requirements. 
 
@@ -122,7 +119,7 @@ Within 60 days of completion or termination of a grant, the following applies:
 
 ### Non-transferability
 
-Grants are not transferable, cannot be passed on, or resold to others. Grants can seek additional volunteers to help complete the grant and share the grant with the volunteers.
+Grants are not transferable, cannot be passed on, or resold to others. Grant recipients can seek additional volunteers to help complete the grant and share the grant with the volunteers.
 
 ## Transparency, Integrity, and Oversight
 
@@ -130,11 +127,11 @@ Grants are not transferable, cannot be passed on, or resold to others. Grants ca
 
 The OWASP Executive Director shall report to the OWASP Board quarterly on all grants awarded and delivered, along with improvements to this policy. 
 
-### Audit authority
+### Audit Authority
 
 Grants are subject to being audited by the OWASP Foundation, including validating grant selection criteria was followed, completed satisfactorily and on time, ensuring budgets were spent in accordance with policy, and obtaining any sponsoring organization’s views. 
 
-### Exemptions to policy
+### Exemptions to Policy
 
 Exemptions to this policy can be granted by the OWASP Executive Director and documented in the application. Exemptions requiring changes to our bylaws, policies, or non-compliant funding exceeding the Executive Director’s [signing authority](/www-policy/operational/signatory2.md), require an affirmative Board vote. 
 
