@@ -45,9 +45,9 @@ Each Board Member will be assigned one of the following roles: Board Chair, Vice
 
 **Board Chair** - The Chairman of the Board shall serve as the principal executive officer of the Foundation.
 
-- Fiduciary responsibilities: He/She shall, in general, supervise and control all of the business and affairs of the Foundation. He/She will monitor financial planning and financial reports He/She or he may sign, with the Secretary or any other proper officer of the Foundation thereunto authorized by the Board of Directors, any deeds, mortgages, bonds, contracts, or other instruments which the Board of Directors has authorized to be executed, except in cases where the signing and execution thereof shall be expressly delegated by the Board of Directors or by these Bylaws to some other officer or agent of the Foundation, or shall be required by law to be otherwise signed or executed;
-- Leadership and Direction: provides leadership to the Board of Directors with regards to policy setting and strategic planning. He/She helps guide and mediate board actions with respect to organizational priorities and governance concerns, and in general shall perform all duties incident to the office of Chairman of the Board subject to the control of the Board of Directors.
-- Organizational Responsibilities: He/She plays a leading role in fundraising activities, formally evaluate the performance of the Foundation Director and informally evaluate the effectiveness of the board members. An annual, overall evaluation of the performance of the organization in achieving its mission will be accomplished. He or she shall, when present, preside at all meetings of the Board of Directors, unless otherwise delegated, and such other duties as may be prescribed by the Board of Directors from time to time.
+- Fiduciary responsibilities: They shall, in general, supervise and control all of the business and affairs of the Foundation. They will monitor financial planning and financial reports they may sign, with the Secretary or any other proper officer of the Foundation thereunto authorized by the Board of Directors, any deeds, mortgages, bonds, contracts, or other instruments which the Board of Directors has authorized to be executed, except in cases where the signing and execution thereof shall be expressly delegated by the Board of Directors or by these Bylaws to some other officer or agent of the Foundation, or shall be required by law to be otherwise signed or executed;
+- Leadership and Direction: provides leadership to the Board of Directors with regards to policy setting and strategic planning. They help guide and mediate board actions with respect to organizational priorities and governance concerns, and in general shall perform all duties incident to the office of Chairman of the Board subject to the control of the Board of Directors.
+- Organizational Responsibilities: They play a leading role in fundraising activities, formally evaluate the performance of the Foundation Director and informally evaluate the effectiveness of the board members. An annual, overall evaluation of the performance of the organization in achieving its mission will be accomplished. They shall, when present, preside at all meetings of the Board of Directors, unless otherwise delegated, and such other duties as may be prescribed by the Board of Directors from time to time.
 
 **Vice Chair** - performs Chair responsibilities when the Chair cannot be available, works closely with Chair and other Board Members, participates closely with Chair to develop and implement officer transition plans, performs other responsibilities as assigned by the Board.
 
@@ -61,7 +61,7 @@ Each Board Member will be assigned one of the following roles: Board Chair, Vice
 
 Each Board member will serve for a term of 2 years. The term will begin effective January 1 following the election period. An individual is limited to four (4) elected two-year (2) terms. Each director must be elected as prescribed in the election policy and procedure. An individual is limited to no more than two (2) two-year (2) terms in a ten (10) year period.
 
-The role of the Board Members shall be elected by the Board of Directors at the first meeting following the election of the Board of Directors. If the election of officers shall not be held at such meeting, such election shall be held as soon thereafter as conveniently may be. Each officer shall hold that role until the next election has been completed.
+The Officer roles of the Board Members shall be elected by the Board of Directors at the first meeting following the election of the Board of Directors. If the election of officers shall not be held at such meeting, such election shall be held as soon thereafter as conveniently may be. Each officer shall hold that role until the next election has been completed.
 
 ### SECTION 2.03 Resignation
 
@@ -129,7 +129,7 @@ A special meeting may be called by the Chairman or at the request of any two (2)
 
 ### SECTION 3.06 Quorum
 
-A majority of the number of Directors fixed by ### SECTION 2 of this Article shall constitute a quorum for the transaction of business at any meeting of the Board of Directors. If less than such majority is present at a meeting, a majority of the Directors present may adjourn the meeting from time to time without further notice. All decisions will be made by majority vote of those present at a meeting at which a quorum is present. If a board of Directors vote results in a split decision, the Chairman of the Board, if present at the meeting, can decide the issue.
+A majority of the number of Directors fixed by ### SECTION 2 of this Article shall constitute a quorum for the transaction of business at any meeting of the Board of Directors. If less than such majority is present at a meeting, a majority of the Directors present may adjourn the meeting from time to time without further notice. Except as otherwise provided in these Bylaws, all decisions will be made by majority vote of those present at a meeting at which a quorum is present. If a board of Directors vote results in a split decision, the Chairman of the Board, if present at the meeting, can decide the issue.
 
 ### SECTION 3.07 Participation in Meeting by Conference Telephone
 
@@ -137,7 +137,7 @@ Members of the Board may participate in a meeting through use of conference tele
 
 ### SECTION 3.08 Manner of Acting
 
-The act of the majority of the directors present at a meeting at which a quorum is present shall be the act of the Board of Directors.
+Except as otherwise provided in these Bylaws, the act of the majority of the directors present at a meeting at which a quorum is present shall be the act of the Board of Directors.
 
 ### SECTION 3.09 Action Without a Meeting
 
@@ -159,7 +159,7 @@ Directors shall serve without compensation with the exception that expenses incu
 
 ### SECTION 3.13 Presumption of Assent
 
-A Director of the Foundation who is present at a meeting of the Board of Directors at which action on any corporate matter is taken shall be presumed to have assented to the action taken unless his or her dissent shall be entered in the minutes of the meeting or unless s/he shall file his or her written dissent to such action with the person acting as the Secretary of the meeting before the adjournment thereof, or shall forward such dissent to the Secretary of the Foundation immediately after the adjournment of the meeting. Such right to dissent shall not apply to any director who voted in favor of such action.
+A Director of the Foundation who is present at a meeting of the Board of Directors at which action on any corporate matter is taken shall be presumed to have assented to the action taken unless their dissent shall be entered in the minutes of the meeting or unless s/he shall file their written dissent to such action with the person acting as the Secretary of the meeting before the adjournment thereof, or shall forward such dissent to the Secretary of the Foundation immediately after the adjournment of the meeting. Such right to dissent shall not apply to any director who voted in favor of such action.
 
 ### SECTION 3.14 Good standing exemption due to Foundation membership system failure
 
@@ -224,13 +224,13 @@ Each member shall be entitled to vote on designated matters. The affirmative vot
 
 ### SECTION 4.07 Participation
 
-Participation in OWASP activities (conferences, meetings, mailings lists, projects, etc.) does not require membership, but is subject to adherence to the OWASP Code of Ethics, and OWASP leaders may revoke the privilege of participation to those who choose not to abide by that code. Notification of such a revocation must be made to the individual in writing, with the OWASP Board of Directors CC’d for inclusion in the Foundation records. If an individual believes that this revocation is unjustified, then they have the option to appeal the decision by notifying the OWASP Board of Directors in writing within 14 days of the original notification.
+Participation in OWASP activities (conferences, meetings, mailings lists, projects, etc.) does not require membership, but is subject to adherence to the OWASP Code of Ethics, and OWASP leaders may revoke the privilege of participation to those who choose not to abide by that code. Notification of such a revocation must be made to the individual in writing, with the OWASP Board of Directors copied in order for the updating of the Foundation's records. If an individual believes that this revocation is unjustified, then they have the option to appeal the decision by notifying the OWASP Board of Directors in writing within 14 days of the original notification.
 
 ## ARTICLE V - ADVISORY BOARDS, COMMITTEES AND LOCAL CHAPTERS
 
 ### SECTION 5.01 Committees
 
-Establishment. The Board of Directors may, by resolution adopted by a majority of the Directors in office, establish one or more Board sub-committees (e.g, fundraising, finance, audit, or executive), Advisory Boards, or Committees. These will be held to the core purpose and core values as outlined in Sections 1.02 and 1.03. Committees are formed and governed by the Committees Policy, and are limited the Charter's purpose and scope. As a Committee Charter might devolve powers currently held by the Board or the Foundation to the Committee, any such devolution to a Committee will require a 2/3rd majority vote.
+Establishment. The Board of Directors may, by resolution adopted by a majority of the Directors in office, establish one or more Board sub-committees (e.g, fundraising, finance, audit, or executive), Advisory Boards, or Committees. These will be subject to compliance with the core purpose and core values as outlined in Sections 1.02 and 1.03. Committees are formed and governed by the Committees Policy, and are limited the Charter's purpose and scope. As a Committee Charter might devolve powers currently held by the Board or the Foundation to the Committee, any such devolution to a Committee will require a 2/3rd majority vote.
 
 ### SECTION 5.02 Local Chapters
 
@@ -244,7 +244,7 @@ The chapter leader and local chapter board has to manage the local chapter accor
 
 The Foundation shall indemnify the Officers of the Foundation including International Board Members and Employees, or agents as follows:
 
-1. Every Officer, Board Member, and employee of the Foundation shall be indemnified by the Foundation against all expenses and liabilities, including counsel fees, reasonably incurred by or imposed upon him or her in connection with any proceeding to which he or she may be made a party, or in which he or she may become involved, by reason of being or having been a director, officer, employee or agent of the Foundation or is or was serving at the request of the Foundation as a director, officer, employee or agent of the Foundation, partnership, joint venture, trust or enterprise, or any settlement thereof, whether or not he is a director, officer, employee or agent at the time such expenses are incurred, except in such cases wherein the director, officer, employee or agent is adjudged guilty of willful misfeasance or malfeasance in the performance of his or her duties; provided that in the event of a settlement the indemnification herein shall apply only when the Board of Directors approves such settlement and reimbursement as being in the best interests of the Foundation.
+1. Every Officer, Board Member, and employee of the Foundation shall be indemnified by the Foundation against all expenses and liabilities, including counsel fees, reasonably incurred by or imposed upon him or her in connection with any proceeding to which they may be made a party, or in which they may become involved, by reason of being or having been a director, officer, employee or agent of the Foundation or is or was serving at the request of the Foundation as a director, officer, employee or agent of the Foundation, partnership, joint venture, trust or enterprise, or any settlement thereof, whether or not he is a director, officer, employee or agent at the time such expenses are incurred, except in such cases wherein the director, officer, employee or agent is adjudged guilty of willful misfeasance or malfeasance in the performance of their duties; provided that in the event of a settlement the indemnification herein shall apply only when the Board of Directors approves such settlement and reimbursement as being in the best interests of the Foundation.
 2. The Foundation shall provide to any person who is or was an officer, board member, or employee, or agent of the Foundation or is or was serving at the request of the Foundation as a director, officer, employee or agent of the Foundation, partnership, joint venture, trust or enterprise, the indemnity against expenses of suit, litigation or other proceedings which is specifically permissible under applicable law.
 3. The Board of Directors may, in its discretion, direct the purchase of liability insurance by way of implementing the provisions of this Article VI.
 
@@ -296,7 +296,7 @@ All funds of the Foundation not otherwise employed shall be deposited from time 
 
 ### SECTION 9.01 Books
 
-Correct books of account of the activities and transactions of the Foundation shall be kept at the office of the Foundation and are available on demand in hard or electronic copy.
+Correct books of account of the activities and transactions of the Foundation shall be kept at the office of the Foundation and are available to Members on demand in hard or electronic copy.
 
 ### SECTION 9.02 Audit
 
