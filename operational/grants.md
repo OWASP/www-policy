@@ -1,6 +1,6 @@
 ---
 
-title: Grant Policy (Draft WIP)
+title: Grant Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
@@ -8,7 +8,7 @@ notice: 2021-02-28
 
 ---
 
-{% include review-complete.html %}
+Adopted by the Board on 23-March-2021
 
 ## {{page.title}}
 
