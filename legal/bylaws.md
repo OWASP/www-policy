@@ -141,7 +141,7 @@ The act of the majority of the directors present at a meeting at which a quorum 
 
 ### SECTION 3.09 Action Without a Meeting
 
-Any action that may be taken by the Board of Directors at a meeting may be taken without a meeting if consent in writing, setting forth the action so to be taken, shall be agreed to before such action by a majority of the directors. Such consent can be provided by email.
+Any action that may be taken by the Board of Directors at a meeting may be taken without a meeting if consent in writing, setting forth the action so to be taken, shall be agreed to before such action by a majority of the directors. Such consent can be provided by email, an electronic vote, or other mechanism as agreed upon by the Board.
 
 ### SECTION 3.10 Vacancies
 
