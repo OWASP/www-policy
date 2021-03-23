@@ -1,13 +1,14 @@
 ---
 
-title: Conflict of Interest Policy
+title: Conflict of Interest Policy (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2021-03-24
 
 ---
-
-{% include draft-notice.html %}
+{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
+{% include policy-feedback.html start-date=date-to-pass %}
  
 ## ARTICLE I
 ### PURPOSES
