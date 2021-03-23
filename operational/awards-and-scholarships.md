@@ -1,6 +1,6 @@
 ---
 
-title: Awards and Scholarships Policy (Draft WIP)
+title: Awards and Scholarships Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
