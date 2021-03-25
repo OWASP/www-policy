@@ -135,10 +135,11 @@ Response to the Requestor: Send Leader(s) New Meetup templated email in CRM with
 * Review Chapter meetings and activites on chapter page to meet the criteria outlined in the chapter policy.
 * Send the inactive chapter(s) name(s)to the Chapter Committee.
 * Chapter Committee to reachout to leaders to help reactivate or confirm deactivate within 30 days.
-   *  Deactivation
+   *  Remove leaders as co-organzier on Meetup Group if applicable
+   *  Remove Admin access to Chapter repository
    *  Remove leaders from leader.md file
-   *  Suspend OWASP email address. (If individual has a paid membership leave email address active.)
-   *  Remove as co-organizer of Meetup Group
+   *  Suspend OWASP email address. (If individual Does not have a paid membership.)
+* Chapter deemed deactivated then deactivate Meetup and email sales rep the name of the group. 
 **Issue:**
 * Relying on the chapter committee to reachout and respond back to Community Manager within the 30 days.
 * Secondary contact information (email address) not available for all leaders and members. 
