@@ -4,11 +4,11 @@ title: Temporary Covid Restrictions
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-02-26
+notice: 2021-04-01
 
 ---
 
-Last re-written / reviewed February 26, 2021 by ajv
+Last re-written / reviewed April 1, 2021 by ajv
 
 ## Background
 
