@@ -17,7 +17,7 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
   * Check to make sure that the leaders’ residence is within 50 miles/80 km of the chapter city.
   * If all the information requested on ticket is not submit, will delay or could cancel processing.
    
-**Leaders owasp.org email address creation**
+**Leaders owasp.org email address MANUAL creation**
    * Google Admin - Admin Console   
 ![Chapter Processes Admin]({{site.base_url}}/assets/images/GoogleAdmin_User.png)
    * Click User   
@@ -46,13 +46,13 @@ To create a new chapter repository in GitHub and CRM record of chapter and leade
 * SUBMIT to create the GitHub chapter repository and Copper CRM record.
 ![Slackbot template]({{site.base_url}}/assets/images/chapter_slackbot_temp.png)
 
-**CRM (Copper)**
+**CRM (Copper) MANAUL Entry**
 * Chapter file (OWASP-City) 
   * Add JIRA/NFRSD ticket URL or number in field.
-  * Check city, country, and resgion fields were populated
+  * Check city, country, and region fields were populated
   * Chapter status is set to Active
   * All leaders are related on rightside under "People"
-* People - Leader’s record 
+* People - Leader’s record - MANUAL
    * Enter secondary personal email address
    * Job Title
    * Company
