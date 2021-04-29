@@ -51,7 +51,7 @@ Chapters must be discoverable by new and existing members and participants.
    * Student-focused activities, at secondary and/or college level
 * Chapter activity information (date, time, and location) must be posted on the owasp.org chapter page before the event start date. 
 
-*Chapters using the OWASP meeting Pro account must place the front matter Code in their chapter repository to properly mirror the information to complete the intended use of the platform. 
+*Chapters using the OWASP meeting Pro account must place the front matter code in their chapter repository to properly mirror the information(date, time, and location/URL) to complete the intended use of the platform. 
 ### Code >> {% include chapter_events.html group=page.meetup-group %} 
 *For a more detailed example, see [https://owasp.org/www-projectchapter-example/] 
 
