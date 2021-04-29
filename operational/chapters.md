@@ -52,8 +52,8 @@ Chapters must be discoverable by new and existing members and participants.
 * Chapter activity information (date, time, and location) must be posted on the owasp.org chapter page before the event start date. 
 
 *Chapters using the OWASP meeting Pro account must place the front matter code in their chapter repository to properly mirror the information(date, time, and location/URL) to complete the intended use of the platform. 
-* Code: ``{% include chapter_events.html group=page.meetup-group %}``
-* For a more detailed example, see [https://owasp.org/www-projectchapter-example/] 
+* ![Code:]({{site.base_url}}/blob/main/assets/images/content/Frontmattercode.png)
+* * For a more detailed example, see [https://owasp.org/www-projectchapter-example/] 
 
 ### Communication
 OWASP is a social community and we need to communicate with our community regularly. 
