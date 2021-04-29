@@ -53,7 +53,7 @@ Chapters must be discoverable by new and existing members and participants.
 
 *Chapters using the OWASP meeting Pro account must place the front matter code in their chapter repository to properly mirror the information(date, time, and location/URL) to complete the intended use of the platform. 
 
-![Code:]({{site.base_url}}assets/images/content/Frontmattercode.png)
+![Code:]({{site.base_url}}/assets/images/content/Frontmattercode.png)
  * For a more detailed example, see [https://owasp.org/www-projectchapter-example/] 
 
 ### Communication
