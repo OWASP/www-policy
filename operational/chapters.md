@@ -51,7 +51,8 @@ Chapters must be discoverable by new and existing members and participants.
    * Student-focused activities, at secondary and/or college level
 * Chapter activity information (date, time, and location) must be posted on the owasp.org chapter page before the event start date. 
 
-*Chapters using the OWASP meeting Pro account must place the front matter code in their chapter repository to properly mirror the information(date, time, and location/URL) to complete the intended use of the platform. For more detailed example, see [https://owasp.org/www-projectchapter-example/] 
+*To propertly use the OWASP meeting Pro account as intended leaders need to place the the Javascript code in the ndex.md file to pull the meeting information from the Meetup Pro API.  This will mirror the information(date, time, and location/URL) required. For more detailed example, see [https://owasp.org/www-projectchapter-example/] 
+
 
 ### Communication
 OWASP is a social community and we need to communicate with our community regularly. 
