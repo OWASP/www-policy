@@ -4,9 +4,9 @@ title: Conflict of Interest Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-03-24
 
 ---
+
 Adopted by the Board on 25-May-2021
 
 ## Summary of the conflict of interest policy
