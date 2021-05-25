@@ -1,14 +1,13 @@
 ---
 
-title: Conflict of Interest Policy (Draft WIP)
+title: Conflict of Interest Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
 notice: 2021-03-24
 
 ---
-{% capture date-to-pass %}{{ page.notice }}{% endcapture %}
-{% include policy-feedback.html start-date=date-to-pass %}
+Adopted by the Board on 25-May-2021
 
 ## Summary of the conflict of interest policy
 
