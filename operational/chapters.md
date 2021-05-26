@@ -184,4 +184,4 @@ d) Access to OWASP materials are free and open-source, and can be obtained throu
 
 The Executive Director and/or Community Manager will inform the OWASP Global Board and Chapter Committee of any changes to sanctioned chapters, leadership, or access.
 
-The Community Manager Manager will review the list of sanctioned chapters and leaders periodically to determine if the Foundation can restore the chapter, leadership, and membership.
+The Community Manager will review the list of sanctioned chapters and leaders periodically to determine if the Foundation can restore the chapter, leadership, and membership.
