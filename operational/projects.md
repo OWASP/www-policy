@@ -129,6 +129,7 @@ Project members and leaders can use the following policies and reporting mechani
 
 * [Conflict resolution policy](https://owasp.org/www-policy/operational/conflict-resolution) for most disputes between participants.
 * [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct) policy for ethical or conduct breaches.
+* [Conflict of Interest](https://owasp.org/www-policy/operational/conflict-of-interest) policy for dealing with real or apparent financial or ethical dualities of interest.
 * The [OWASP Project Committee](https://owasp.org/www-committee-project/) is the first point of escalation.
     * The [Executive Director](https://owasp.org/corporate/) as the second point of escalation, and finally. 
     * the [Global Board](https://owasp.org/www-board/). 
