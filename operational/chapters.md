@@ -26,7 +26,7 @@ Chapter leaders serve as the main point of contact for their chapters, and are r
 * If a chapter’s leadership does not have consensus, fair and open elections should be administered with the support of OWASP staff and the [Chapter Committee](https://owasp.org/www-committee-chapter/).
 * Any changes in chapter leadership should be done by submitting a ticket with all information to the [New Chapter/Leader Request](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73) by one of the existing leaders. If the local chapter leadership is inactive, this request can be made by local chapter OWASP members.
 * If a leader needs to step down, they should submit a ticket to the [New Chapter/Leader Request](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73).
-* If a leader is no longer reasonably responsive and contributing to the chapter, the remaining chapter leaders my petition the leader's removal in accordance with the dispute resolution process.
+* If a leader is no longer reasonably responsive and contributing to the chapter, the remaining chapter leaders may petition the leader's removal in accordance with the dispute resolution process.
 
 ## Running a Chapter
 
