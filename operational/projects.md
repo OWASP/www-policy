@@ -74,7 +74,7 @@ There are currently three types of projects you can start: tool, code, and docum
 * After the new project is approved, the project leader must:
    * Create new project pages within 30 days of GitHub access on the owasp.org website (see [Website Migration Information and Tutorial](https://owasp.org/migration/) for assistance).
    * Log into their owasp.org email account within Google's defined time period, or they will need to log a support ticket via [Contact Us](https://contact.owasp.org/) to have a password recovery email sent to their registration email address.
-* Projects under the OWASP umbrella are the combined efforts of the project leaders, contributors, and the OWASP Foundation. All source material must remain within the foundation.  However, as these are open source projects, people are not prevented from forking projects and beginning new, non-OWASP projects. Removal of project source material is at the sole discretion of the foundation.
+* Projects under the OWASP umbrella are the combined efforts of the project leaders, contributors, and the OWASP Foundation. All source material must remain within the foundation.  However, as these are open source projects, people are not prevented from forking projects and beginning new, non-OWASP projects. Removal of all project source material is at the sole discretion of the foundation.
 
 
 ### Renaming a Project
