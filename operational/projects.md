@@ -4,7 +4,7 @@ title:  Project Policy (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-05-30
+notice: 2021-06-04
 
 ---
 
