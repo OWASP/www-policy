@@ -8,7 +8,7 @@ notice: 2021-05-30
 
 ---
 
-{% include wip-notice.html %}
+{% include draft-notice.html %}
 
 ## Overview
 
