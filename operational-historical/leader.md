@@ -8,7 +8,7 @@ notice: 2020-09-16
 
 ---
 
-{% include review-complete.html %}
+{% include deprecated.html %}
 
 ## Section 1: Core Principles
 Leaders of Chapters, Projects, Committees, and other teams are the outward face of the organization. While it is a great privilege to serve as a leader in the OWASP Community, it also comes with obligations and responsibilies. Leaders serve at the pleasure of the larger AppSec Community.
