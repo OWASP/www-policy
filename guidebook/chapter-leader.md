@@ -1,11 +1,11 @@
 ---
 
 title:  Chapter Leader Guidebook - Draft WIP
-layout: full-width
+layout: col-sidebar
 
 ---
 
-{% include draft-notice.html %}
+{% include wip-notice.html %}
 
 # Organizing Chapter Meetings
 
