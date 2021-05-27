@@ -4,44 +4,62 @@ title: Temporary Covid Restrictions
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-04-30
+notice: 2021-05-27
 
 ---
 
-Last revised April 30, 2021 by Andrew van der Stock
+Last revised May 27, 2021 by Andrew van der Stock
 
 ## Background
 
-OWASP is responsible for providing its community and staff with a safe environment, promoting Chapter, project, and committee mission-related activity, whilst being financially responsible. The following restrictions are in place until they are all lifted. Depending on your country or region, please don't assume that something can't happen. Please talk to us about your region's COVID situation and apply for an exemption if you need one.
+OWASP is responsible for providing its community and staff with a safe environment, promoting chapter, project, and committee mission-related activity, whilst being financially responsible. The following restrictions are in place until they are all lifted. Depending on your country or region, please don't assume that something can't happen. Please talk to us about your region's COVID situation and apply for an exemption if you need one.
 
-With the recent availability of various vaccines for COVID, we are starting to see a tremendous drop in hospitalizations and deaths, but a worrying trend in certain countries and with certain populations who are vaccine hesitant delaying substantial return to normality. We look forward to welcoming back in-person physical events, including LASCON later in 2021. However, with some locales and states relaxing necessary health guidance too quickly, hospitalizations and deaths have increased again. In early April 2021, the physical event section was re-written to follow US CDC event guidelines, including event hygeine and COVID pre-screening. This guidance applies globally with only a few exceptions until more countries have COVID levels similar to Australia or New Zealand.
+With the recent availability of various vaccines for COVID, we are starting to see a tremendous drop in hospitalizations and deaths in some countries, but a worrying trend in other countries. We look forward to welcoming back in-person physical events, including LASCON later in 2021. This month, the physical event section was re-written yet again after consultation with the community to follow local and WHO event guidelines.
+
 
 ### tl;dr
 
 Safety is paramount, with activity and financial health as secondary concerns. The following regularly reviewed restrictions apply until further notice.
 
 - **Virtual events remain the preferred method of meeting** OWASP provides free access to virtual meeting rooms, training, and webinar facilities for up to 1000 attendees at no cost to chapters, events, and training programs. You can obtain these via submitting a non-funding request ticket at [https://contact.owasp.org](https://contact.owasp.org)
-- **Activity Requirements** You need to meet at least 3 times between April 1, 2021 and March 31, 2022 to considered active
-- **Exemptions** Chapters or events being planned in COVID free or high herd immunity countries or regions may apply for long term and broad exemptions to these temporary COVID restrictions
-- **Physical gatherings must follow US CDC guidelines** We chose the US CDC guidelines to apply globally. Reviewing and requiring 200+ different guidelines is unrealistic, bordering on impossible. Using a single policy is the easiest way to ensure your physical gathering will not create undue risk for yourself, your attendees, and OWASP as a whole. See below if you want to meet physically
-- **Chapter-related expenses are \$250, over \$250 requires pre-approval, and will only be approved for Chapter, project, committee, or event-related expenses**. The [draft Grants policy](https://owasp.org/www-policy/operational/grants) might be a better choice for you
+- **Physical gatherings are permitted with restrictions** Please see below
+- **Chapter-related expenses over \$250 requires pre-approval, and will only be approved for Chapter, project, committee, or event-related expenses**. The [Grants policy](https://owasp.org/www-policy/operational/grants) or [applying for a regional event](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/82) are likely to be better choices for larger expenses
 - **No monthly, software, periodic, or subscription event space, or other recurring payments are permitted** as OWASP's income is down over 80% compared to 2019
 - **Travel expenses require pre-approval.** Travel is extraordinarily unlikely to be approved due to OWASP's financial position. See below for more details if you want to travel.
 
-## Pre-approvals in COVID free and low COVID restriction regions
+## Running a physical event
 
-Where your region or country has become either COVID free, has a high vaccination rate, limited COVID cases, or has achieved herd immunity, pre-approvals can be given for either indefinite periods or quarterly pre-approval to avoid having to apply for each and every meeting when the spread of COVID has been successfully curtailed. You must demonstrate that local health authorities have lifted all gathering limits to get indefinite pre-approval.
+After rapid and widely misunderstood changes in the US Government's CDC mask guidance for vaccinated individuals, and with this advice not applying to unvaccinated individuals or indeed most of the world, it became clear that adhering to CDC guidelines was confusing and not applicable to most of our chapters. As a result, I consulted with OWASP leaders on the best way forward. Thank you for those who us come up with a new approach:
 
-## Chapter Minimum Activity Requirements
+As of June 1, 2021, if you want to hold an in person meeting, and you feel safe in doing so (such as you're fully vaccinated or you live in a country with low or no COVID), you can hold physical meetings, provided that you:
 
-After April 1, 2021, Chapters must meet three times a year to be considered active. Any combination of virtual or physical meetings, local activities, local events, social events, or regional events organized by the chapter leadership will be considered activity as long as it appears either on the Chapter's home page (if not using Meetup) or on their Meetup Pro account.
+- Always check local regulations before scheduling or holding an event. Only go ahead with the event if it is permitted and adhere to local regulations requirements for event sizes, social distancing, and PPE requirements. If there are none, please follow [WHO COVID small event guidelines](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-small-public-gatherings)
+- Prefer small outdoor gatherings with social distancing of 1 to 2 metres
+- In the RSVP, make it clear that masks should be worn, particularly in places where vaccination status cannot be determined (see below) and entrance is only after screening procedures
+- Stay home if you feel unwell. Ask attendees to do the same
+- Continue to livestream (hybrid) meetings online, so that people do not wish to attend, or cannot attend in person, can still participate
 
-### Expense Approval criteria
+### RSVP waiver question
 
-- Expenses under \$250 do not require pre-approval and may be submitted by a single leader for any valid chapter, project, committee, or event expense
-- Expenses above \$250 USD require pre-approval and dual leader approval (or leader + relevant committee if only one leader). Do not incur expenses over \$250 without pre-approval, as it will not be paid
+Please add the following text as an RSVP question in Meetup: "If attending in person, I acknowledge that I do so at my own risk. OWASP recommends all participants be fully vaccinated prior to attending in person events to reduce the risk of severe illness or death." We are working with Meetup to provide something like this as a mandatory button that is compliant with medical privacy rules. 
+
+### Entrance Screening
+
+Where local regulations permit or mandate, you may ask to see vaccination status and/or temperature screen individuals at the entrance, but keep no records. In places, where wearing of masks has been lifted for vaccinated invididuals, you may permit that at your meetings if you can guarantee that all attending are vaccinated. If you can't screen for vaccinated status, please require masking for all attendees to protect unvaccinated individuals from serious illness or death.
+
+If your region, state, or country prohibits the use of vaccine passports or showing of vaccination records, OWASP strongly recommends against holding in-person meetings. Under no circumstances, do not get into confrontations. If you feel unsafe, please call law enforcement immediately. If you still choose to go ahead, social distancing and masking is mandatory for all in these regions or states regardless of vaccination status to protect all attendees.
+
+In all cases, do not record or store any medical data. OWASP cannot securely or compliantly hold medical records or status.
+
+### For countries without COVID
+
+For countries, such as Australia and New Zealand with no or very limited COVID cases, you can hold meetings and events per local regulations. Please keep on checking local regulations, such as the late May 2021 lockdown in Melbourne as a response to a small number of cases, which obviously means no meetings.
+
+## Expense Approval criteria
+
+- Expenses under \$250 do not require pre-approval and may be submitted by a single leader for any valid chapter, project, committee, or event expense with a valid receipt
+- Expenses above \$250 USD require pre-approval, dual leader approval (or leader + relevant committee if only one leader), and a valid receipt. Unapproved expenses above $250 will not be paid
 - Expenses must have a short explanation of why the expenses are relevant to your Chapter, project, or event. Good: "*Food & beverage for February 2021 OWASP Sunnydale chapter meeting*." Bad: "*Catering*"
-- Expenses must have a receipt or invoice
 - During COVID, PPE such as disposable masks, no-touch thermometers, sanitization, and cleaning supplies are fair and reasonable expenses when holding physical events
 - Physical gathering event spaces must be per meeting or event only and be related to a chapter, event, committee, or project
 - Shared working spaces will not be reimbursed without pre-approval
@@ -53,22 +71,6 @@ After April 1, 2021, Chapters must meet three times a year to be considered acti
 
 If you do not have pre-approval for a physical gathering, no expenses will be paid, including for PPE.
 
-## Running a physical event
-
-We all want to welcome back physical gatherings, such as chapter meetings, local activities or events, and regional conferences. However, OWASP cannot obtain COVID insurance at any price. As such, it cannot offer you coverage if you or someone at your meeting becomes unwell, hospitalized, or dies. Therefore, we must take  precautions to prevent a COVID super-spreader event that may lead to many people falling ill or dying. 
-
-- **Follow [US CDC COVID event guidelines](https://www.cdc.gov/coronavirus/2019-ncov/your-health/large-gatherings.html) for physical gatherings** Some states, regions, and countries have relaxed COVID safe health mandates far too early for non-health / non-science reasons and are seeing a resurgence in COVID cases and deaths and associated hard lockdowns as a direct result. We can safely re-open in 2021 by demonstrating we have a COVID plan, following best practices, and allowing for contact tracing if the worst happens. As a result, OWASP physical gatherings must regularly review and follow the latest [US CDC guidelines](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/considerations-for-events-gatherings.html). These change regularly and rapidly, and so you must review these and apply the latest advice before your event. Do not make assumptions about what they say, as event densities may change day to day depending on what's happening with surges or improvements in the population.
-- **Masks, [temperature and symptom checks](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html), social distancing, and PPE provision (masks, sanitizer, wipes, and so on), are mandated at OWASP events** Chapter leaders and event organizers should use the OWASP [standard screening checklist](https://docs.google.com/document/d/17Tt4_hbamtOSgn4oi3a_87RkWlvvlhqrbLpOtKRkPOw/edit?usp=sharing) or similar at the physical entry to screen arriving attendees before allowing them to enter the event. [Fully vaccinated individuals at socially distant outdoor activities](https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/fully-vaccinated-people.html) can choose to not wear a mask, but with the likelihood that many are still unvaccinated and no universal "vaccine passport" as of the time of writing, please reduce the risk by asking all attendees at even outdoor events to wear a mask, vaccinated or not. Please help us return to normal by getting a vaccine if one is available to you.
-- **Get protected and stay safe** If possible, meeting and event organizers - particularly those screening the attendees - should have no known underlying conditions or be at a higher risk for COVID. OWASP encourages screeners and meeting organizers to get vaccinated as soon as they can, but in the meantime take all necessary precautions. If you feel unsafe, do not organize the event.
-- **Contract Tracing** You must have a record of attendees to allow contact tracing in case of being notified by an individual that they became unwell during or after the event. RSVPs are required to attend all OWASP physical events for the foreseeable future. It would be best if you did not allow anonymous or unknown individuals to attend. Meetup Pro RSVPs are an acceptable method of tracking attendance. If you do not use Meetup Pro, you are required to demonstrate that you can contact all attendees of your events. You are permitted to privately record the individual's contact details for official contact tracers. You should destroy these details within 30 days. Do not share this contact information with anyone other than official contact tracers. 
-- **If someone becomes unwell** If someone becomes unwell at an event, seek medical assistance as necessary. At or immediately after the event, inform all RSVP'd attendees that they may have been in contact with an unwell person. Advise everyone to isolate and get tested as soon as possible. It would be best to inform the Foundation of this as we may need to assist local authorities with contact tracing. Please do not include any medical information or symptoms other than that they became unwell, and notification is required. 
-- **No medical records** DO NOT KEEP medical records - OWASP has no method of safely storing sensitive personal health information. You should not seek medical records or information from attendees other than the COVID symptom checklist. Do not record the answers, but instead decide if they can stay or need to go home. If a country has a vaccine passport, you are permitted to verify the vaccine passport per local laws governing their use, but not keep records of the result.
-- **COVID vaccination apps/records permitted** If your country or region has an official COVID vaccination "passport" app or vaccination record, individuals can choose to show that they've been fully vaccinated, which then takes the place of the temperature check/symptoms checklist
-- **Regularly clean the event location** Although [recent scientific results](https://www.cdc.gov/coronavirus/2019-ncov/more/science-and-research/surface-transmission.html) suggests that surfaces are less likely to transmit COVID-19, please still enquire with the event location to ensure they have clear COVID cleanliness protocols or adhere to CDC event guidelines. If the event location does not provide these protocols, particularly around bathrooms, consider choosing a different location. Please follow the CDC guidelines for regular cleaning and disinfecting high-touch surfaces, such as podiums and registration desks. This restriction may be removed if it is also lifted in the main CDC event guidance.
-- **Refunds for paid events for failure to screen or are unwell** Suppose an attendee has paid to attend a physical event and fails either a temperature check or the screening questions or refuses to comply with the screening or adhere to these restrictions. In that case, they must not enter or attend the event. Please do not let the attendee enter the event and ask the attendee to go home. Please encourage them to isolate and get tested as soon as possible if they have COVID symptoms. If they leave voluntarily, please work with the Foundation to refund their event fee in full. Please respect the individual's privacy as much as you can in these interactions and emails - do not post to public lists or similar
-- **No refund for refusing to screen, refusing to follow these guidelines, or improperly or not wearing a mask** If an attendee chooses not to follow guidelines, refuses to screen, or refuses to wear a mask over the mouth and nose, they must be refused entry. Please make this policy clear in the event details and the RSVP for the event. Event organizers must ask attendees who do not follow guidelines or mask mandates to leave, and can do so at any time during the event, for example, if they remove their masks after entry. If attendees refuse to leave, please work with your local authorities to have them removed. In most countries, refusing to leave private property or a private event is considered trespass rather than a mask or health issue, so please report it as such to the local authorities. Stay calm and do not get physically involved with the individual to remove them. Let the authorities handle the situation. If the person will not or cannot be removed, the meeting must end and clarify to all attendees why the event is ending. Work with the Foundation to reschedule or refund the event for the other attendees. Individuals who refuse to comply with these guidelines are not eligible for a refund. They may have their OWASP membership suspended if law enforcement becomes involved in their removal and especially if the meeting has to be abandoned. 
-- **No COVID event insurance** Physical gatherings are held at your own risk, and all participants must also agree to that. Please make sure that you put this in the event RSVP to gather acceptance from participants and make an announcement at the start of each event so folks can leave if they don't feel comfortable.  
-
 ## Travel is unnecessary and discouraged
 
 Do not make plans to travel. Pre-approval will require that you demonstrate the following:
@@ -79,18 +81,14 @@ Do not make plans to travel. Pre-approval will require that you demonstrate the 
 - Many countries require vaccination or a COVID-negative PCR test to travel, as well as a quarantine period. OWASP cannot waive these requirements. 
 - You must obtain sufficient travel insurance to cover typical travel insurance cover, including medical evacuation or death. Travel insurance will only be reimbursed if covered by sponsorship.
 
-## COVID Temporary Restrictions and Finance Reform Expenses Policy
-
-OWASP is undergoing fundamental finance reform. In 2020, we operated the expense system exactly as we propose the new finance reform will operate. Expenses have a cap of \$250 USD per request and must be related to your Chapter, event, committee, or project. [Submit a chapter reimbursement request](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/9) and adhere to the approval guidelines below, and you'll get reimbursed. Expenses over \$250 must be pre-approved by the Foundation and require two leaders to approve.
-
 ## Monthly Review of Restrictions
 
-These restrictions will be reviewed by the Executive Director monthly in concert with the OWASP Board. We welcome comments from the community and the OWASP Board on the detail of these restrictions and any improvements. Please log a [GitHub issue](https://github.com/OWASP/www-policy/issues) to suggest a change for the next month.
+These restrictions will be reviewed by the Executive Director monthly in concert with community and the OWASP Board. We welcome comments from the community and the OWASP Board on the detail of these restrictions and any improvements. Please log a [GitHub issue](https://github.com/OWASP/www-policy/issues) to suggest a change for the next month.
 
 We will communicate these restrictions and any changes via OWASP's social media, website, leaders list, and the OWASP Community Slack in the #leaders channel and pin.
 
 If this temporary restriction has not been updated in the last 90 days, it is no longer in effect, and standard policies apply.
 
-If you have any questions, please contact Andrew van der Stock, vanderaj@owasp.com to discuss. Office Hours are available in several time zones:
+If you have any questions, please contact Andrew van der Stock [andrew.vanderstock@owasp.com](mailto:andrew.vanderstock@owasp.com) to discuss.
 
-- [Book a meeting with the Executive Director](https://calend.ly/owasped)
+- [Office Hours are available in several time zones](https://calend.ly/owasped)
