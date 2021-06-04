@@ -51,7 +51,23 @@ Chapters must be discoverable by new and existing members and participants.
    * Student-focused activities, at secondary and/or college level
 * Chapter activity information (date, time, and location) must be posted on the owasp.org chapter page before the event start date. 
 
-*To properly use the OWASP meeting Pro account as intended leaders need to place the Javascript code in the index.md file to pull the meeting information from the Meetup Pro API. This will mirror the information(date, time, and location/URL) required. For a more detailed example, see [https://owasp.org/www-projectchapter-example/]
+For chapters using OWASP Meetup Pro, mirroring meetings automatically is simple and easy. Add the following code to make your life a lot easier. In the header, please make sure the `meetup-group` parameter exists and is accurate:
+
+```javascript
+meetup-group: your-meetup-group
+```
+
+If the meetup-group header is exactly identical to your OWASP Meetup Pro Group name (e.g. `meetup-group: OWASP-Colorado-Springs-Meetup`), the code will automatically mirror your upcoming meeting information as mandated by the policy above. 
+
+Add this line to where you would like your upcoming meetings to automatically appear in the body:
+
+```
+   { % include chapter_events.html group=page.meetup-group %}
+```
+
+(Remove the space between `{` and `%` to make this work on your page)
+
+NB: Per the policy above, if you don't use this, or it's set up incorrectly, you will need to do this step manually. Once your events are done, please add past events to a past events tab. For a more detailed example, see [https://owasp.org/www-projectchapter-example/]
 
 ### Communication
 OWASP is a social community and we need to communicate with our community regularly. 
