@@ -53,7 +53,7 @@ The following meeting types are not covered by this policy:
 - Committee meetings: a free and regularly scheduled meeting of voting members of a Committee, and supported by our community
 - Board meetings: a public general or public or private special meeting held by the Board of Directors. 
 
-These meeting types do not require budgets or event pre-approval as long as they do not charge fees and follow the Expenses policy. 
+These meeting types do not require budgets or event pre-approval as long as they do not charge fees, seek sponsorships, and expenses within Expense policy limits.
 
 ## Community
 
