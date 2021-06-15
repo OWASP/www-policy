@@ -53,7 +53,7 @@ The following meeting types are not covered by this policy:
 - Committee meetings: a free and regularly scheduled meeting of voting members of a Committee, and supported by our community
 - Board meetings: a public general or public or private special meeting held by the Board of Directors. 
 
-These meeting types do not require budgets or event pre-approval as long as they do not charge fees, seek sponsorships, or incur expenses over Expense policy limits. Bartering sponsorships (say, where event space or food and beverage is covered by a sponsor) are encouraged to ensure that meetings and smaller events do not require pre-approval.
+Bartering sponsorships (say, where event space or food and beverage is covered by a sponsor) are encouraged to ensure that meetings and smaller events do not require pre-approval.
 
 ## Community
 
