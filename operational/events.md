@@ -42,6 +42,14 @@ There are four major event types:
 - Global AppSec, generally run by and for the OWASP Foundation
 - OWASPx, a new type of event where organizers license OWASP’s branding and name in return for a fee.
 
+### OWASPx Events
+
+OWASP Members, non-profit associations, and charities may apply for an OWASPx event partnership. For-profit companies, unincorporated associations, or individuals may not apply for an OWASPx event to protect OWASP’s non-profit status and brand.
+
+OWASPx events need to sign a partnership and licensing agreement and pay a licensing fee to use OWASP’s trademarks and branding. Such an agreement covers a single event or a series of events in a single year. In return, OWASP will promote the OWASPx event as per a standard local or AppSec Days event, and grant access to the OWASP Speaker’s Bureau. Access to sponsorship or attendance lists from OWASP events is explicitly not granted.  
+
+The partner association or charity should submit a plan and budget to help assess if the event can be approved. No funds from OWASP will be used to promote or run the event, as all marketing, expenses, profits, liabilities, and risks belong to the partner organization. 
+
 ### Normal meetings are out of scope
 
 There is considerable overlap between larger meetings or activities and a local event. A normal chapter, project, or committee meeting does not require an event submission and does not require prior approval. Generally speaking, if a meeting or local event is free to attend, does not require sponsorship, and has expenses of less than $250, pre-approval or an OCMS event application is not required.
@@ -168,7 +176,7 @@ You may make changes from submission until approval, and this policy encourages 
 
 Any exemptions required from this policy or the speaker’s agreement must be listed in the event application. 
 
-## Timelines
+### Timelines
 
 Events take time to plan, organize, and promote. All event types require event pre-approval before the event to ensure that local or regional events do not clash with each other or Foundation events, as well as to ensure that the events have time to be organized properly, and shared services provided by the Foundation such as social media promotion, contract signing, insurance, virtual services, and so on can be provided. 
 
@@ -185,21 +193,17 @@ Events contingent on exemptions being passed by the Board require an additional 
 
 If selected, the Event Team must acknowledge receipt of and their agreement with these policies and any granted exemptions.
 
-## OWASPx Events
+## Pre-approval budgeting
 
-OWASP Members, non-profit associations, and charities may apply for an OWASPx event partnership. For-profit companies, unincorporated associations, or individuals may not apply for an OWASPx event to protect OWASP’s non-profit status and brand.
-
-OWASPx events need to sign a partnership and licensing agreement and pay a licensing fee to use OWASP’s trademarks and branding. Such an agreement covers a single event or a series of events in a single year. In return, OWASP will promote the OWASPx event as per a standard local or AppSec Days event, and grant access to the OWASP Speaker’s Bureau. Access to sponsorship or attendance lists from OWASP events is explicitly not granted.  
-
-The partner association or charity should submit a plan and budget to help assess if the event can be approved. No funds from OWASP will be used to promote or run the event, as all marketing, expenses, profits, liabilities, and risks belong to the partner organization. 
-Budgeting
-Event teams must construct a profitable budget that covers the minimum requirements of each budget type. Budget templates are available in the Events in a Box. 
+For successful event pre-approval, Event teams must construct a profitable budget that covers the minimum requirements of each budget type. Budget templates are available in the Events in a Box. 
 
 Larger AppSec Days should plan well ahead, including the need to submit their event proposal and budget to the Foundation’s annual global budget the prior year to ensure that there are funds set aside for the event. 
 
 A budget must contain a list of potential contracts, along with any financial obligations and when expenses or revenue are due or expected. 
 
-All event types require a budget to be submitted, and only profitable events will be approved. OWASPx events hold events using their finances and at their own risk, so funds are not required for event approval but are recommended to assist first-time organizers in running a successful event. 
+All event types require a budget to be submitted, and only profitable events will be approved. Once approved, Event teams will be held to meeting this initial budget, so completeness and accuracy will help Event Teams run a profitable event.
+
+OWASPx events hold events using their finances and at their own risk, so OWASP funds are not required for event approval but are recommended to assist first-time organizers in running a successful event. 
 
 ## Site Selection and Venue
 
@@ -405,7 +409,7 @@ We encourage events to hand out OWASP, event, or membership stickers, pins, or c
 
 ## Enhancing our mission through profit sharing
 
-Profits must re-invested in our mission, under the direction of the Event team. Unlike in previous policies, this policy actively encourages the event team to direct profits towards their preferred mission. The only unacceptable use of profits is to not use them, which is prohibited by non-profit compliance rules, and frowned upon by donors and sponsors. 
+Profits must re-invested in our mission, under the direction of the Event team. Unlike in previous policies, this policy actively encourages the event team to direct net profits towards their preferred mission. The only unacceptable use of profits is to not use them, which is prohibited by non-profit compliance rules, and frowned upon by donors and sponsors. 
 
 ### Investing in the future
 
@@ -422,6 +426,8 @@ Local and AppSec Day event team leaders will be polled to direct or split 80% of
 - **Invest in our mission**. This option provides funds to cover expenses for the next time, as well as help all chapters, projects, and committees to do more mission, and it helps bootstrap many more events. This is the preferred option, simply because it requires the least administrative overhead and allows all of OWASP to grow and do more.
 - **Invest in next year’s event**. You can allocate up to 30% of your profits to next year’s event to allow your event to grow organically. This is a good choice for events where it is likely that you will see a 20-40% growth in attendees next year.
 - **Invest in grants, scholarships, or awards**. The Event will be listed as a benefactor of the grant, scholarship, or award. This could be used towards next year’s CTF prizes, travel and accommodation for a number of attendees, or fund a grant. 
+
+Grants designed to fund one or more chapters, projects, or events must be used within twelve months as per the Grant policy, with defined milestones and outcomes. Any unspent funds will be reverted to the mission after twelve months.
 
 Where an event has a long term profit (defined as over 12 months), they will be asked to choose from this list again until the profit is just sufficient to pay deposits and installments for the next event. 
 
