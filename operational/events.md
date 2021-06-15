@@ -115,28 +115,36 @@ The OWASP Foundation has a small Event team, who will be working with Event lead
 
 If an event wishes to have OWASP Foundation assistance, such as running the registration desk or running a training track, this is possible but has costs associated with it. Please work with the Foundation during the submission process to ensure that your requests can be met.
 
+Some of the Foundation's duties may include (and not limited to):
+
 - Promoting or co-marketing the event once approved
 - Signatory of Contracts and Agreements
 - Securing necessary insurance given parameters provided by the Event Team
 - Solicitation and securing event sponsors
 - Processing of payments
 - Accounting of profit and loss statement for the event
-- Leader, Organizer, and Volunteer Benefits
+- Assisting with the running of a Board meeting at an AppSec Days event
+- Running agreed project or training tracks
 
-### Recommended Benefits 
+### Leader, Organizer, and Volunteer Benefits
 
 The policy recommends that in return for organizing and putting on an event, the following benefits should be applied:
 
-- Leaders, organizers, volunteers, speakers and trainers should have free access to the event 
-- All leaders, organizers, and volunteers should be given an event t-shirt or swag to help identify them if they are present at the event
-- Volunteers who have completed sufficient tasks or are required to attend the event (such as proctors) should have free access to the event
+- Leaders, organizers, volunteers, speakers and trainers should have free access to the event
+- All leaders, organizers, and volunteers should be given an event t-shirt or swag to help identify them for their efforts, and especially if they are present at the event to help attendees identify Event team members who may be able to assist them
+- Reasonable accomodation for parking or local transport, food and beverages, especially if their duties require them to be present on a continuous basis
+- At the discretion of Event leaders, access to event dinners and social events is highly recommended but not required
 
-Event leaders have in the past provided “free” OWASP membership to organizers or volunteers. Whilst admirable, OWASP funds paying for OWASP membership is prohibited by OWASP bylaws to prevent an appearance or actuality of conflict. That said, Event leaders can apply for an exemption with the event application. If an exemption granted by the Board, a list of no more than 20 names should be provided for the exemption no later than 60 days after the end of the event. Membership fees will be from the profits from the event. Per the bylaws, all such memberships do not confer voting rights and will last a single year unless an exemption is granted by the Board.
+Event leaders have in the past provided “free” OWASP membership to organizers or volunteers. Whilst admirable, OWASP funds paying for OWASP membership is prohibited by OWASP bylaws to prevent an appearance or actuality of conflict. That said, Event leaders can apply for an exemption with the event application. If an exemption granted by the Board, a list of no more than 20 names should be provided for the exemption no later than 60 days after the end of the event. Per the bylaws, all such memberships do not confer voting rights and will last a single year unless an exemption is granted by the Board.
+
+If an exemption is granted, any Membership fees will be deducted from the gross profits of the event at the membership fee due in the event's country.
 
 ### Foundation and Board Benefits
 
-If the OWASP Foundation or Board attend the event, such as to assist with registration or holding a Board meeting, organizers shall give Foundation staff and the Board free access to the event. 
-Event lifecycle
+If the OWASP Foundation or Board attend the event, such as to assist with registration or holding a Board meeting, organizers shall give Foundation staff and the Board free access to the event. Access to event activities, such as the event dinner or social events is recommended but not required.
+
+## Event lifecycle
+
 An event team should be formed that plans out the event they wish to run, establish who is willing to volunteer from the community, who are the likely attendees and how many, determine a preferred location, catering if desired, A/V providers, and any hotel blocks required, have some preliminary discussions on costs with these vendors to be included in the budget.
 Apply for an event
 
