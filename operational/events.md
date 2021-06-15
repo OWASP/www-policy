@@ -75,13 +75,17 @@ If local laws or regulations have a different stance on public photography or da
 
 ## Event Team Structure
 
-Events can be run in many different ways, but to enable the proper functioning of expenses, budgets, and sponsorships, we categorize event organizers into two groups: leaders - who must be OWASP members, and organizers and volunteers, who don’t need to be OWASP members. Leaders have more responsibilities, and we recognize that all successful events rely on the generous donation of time and resources of their leaders, organizers and volunteers.
+Events can be run in many different ways, but to enable the proper functioning of expenses, budgets, and sponsorships, we categorize event organizers into two groups: 
+- Event Leaders, who must be OWASP members
+- Organizers and volunteers, who don’t need to be OWASP members.
+
+We recognize that all successful events rely on the generous donation of time and resources from many leaders, organizers and volunteers.
 
 ### Leadership 
 
-Event leaders are OWASP leaders, with all that entails - a free owasp.org email, ability to claim expenses, and submit budgets. Events must have at least two (2) and up to five (5) leaders. Leaders must be OWASP members to allow the use of the expenses policy and setting and using the event budget. Leadership is conferred after a successful event application process, and once granted, the event’s owasp.org page should have the list of active leaders in leaders.md.
+Event leaders are OWASP leaders, with all that entails - a free owasp.org email, ability to claim expenses, and submit budgets. Events must have at least two (2) and up to five (5) leaders. Leaders must be OWASP members to allow the use of the expenses policy and setting and using the event budget. Leadership is conferred after a successful event application process, and once granted, the event’s owasp.org page should have the list of active leaders in the event's website in the leaders.md file.
 
-Leaders are responsible and accountable for planning the event, drawing up and meeting the budget, and ensuring that the event is profitable. Leaders are likely to contribute in excess of 40-80 hours to organizing an event, and usually far more, and perform hundreds of tasks, which is why they are considered OWASP Leaders, just like Chapter and Project Leaders.
+Leaders are responsible and accountable for planning the event, drawing up and meeting the budget, and ensuring that the event is profitable. Leaders are likely to contribute well in excess of 40 hours organizing an event (usually far, far more), and perform hundreds of tasks, which is why they are considered OWASP Leaders, just like Chapter and Project Leaders.
 
 Some of those responsibilities include:
 
@@ -105,7 +109,7 @@ Events can have any number of organizers, but to promote accountability for deli
 
 Volunteers are responsible for working on and delivering small parcels of event activities, such as proctoring rooms, taking a shift at the registration desk, and so on. Volunteers are generally local to the event itself, and will likely work on only a limited number of tasks or activities. 
 
-Events can have any number of volunteers, but to promote accountability for deliverables, this policy recommends less than 50. 
+Events can have any number of volunteers, but to reduce volunteer management and logistics, this policy recommends less than 50. 
 
 Event Teams are responsible for adequate staffing for their event, including organizers and volunteers from the local event community.
 
