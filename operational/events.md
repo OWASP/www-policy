@@ -44,7 +44,7 @@ There are four major event types:
 
 ### Normal meetings are out of scope
 
-There is considerable overlap between larger meetings or activities and a local event. A normal chapter, project, or committee meeting does not require an event submission and does not require prior approval. Generally speaking, if a meeting or local event is free to attend and has expenses of less than $250, pre-approval or an OCMS event application is not required.
+There is considerable overlap between larger meetings or activities and a local event. A normal chapter, project, or committee meeting does not require an event submission and does not require prior approval. Generally speaking, if a meeting or local event is free to attend, does not require sponsorship, and has expenses of less than $250, pre-approval or an OCMS event application is not required.
 
 The following meeting types are not covered by this policy:
 
@@ -53,7 +53,7 @@ The following meeting types are not covered by this policy:
 - Committee meetings: a free and regularly scheduled meeting of voting members of a Committee, and supported by our community
 - Board meetings: a public general or public or private special meeting held by the Board of Directors. 
 
-These meeting types do not require budgets or event pre-approval as long as they do not charge fees, seek sponsorships, and expenses within Expense policy limits.
+These meeting types do not require budgets or event pre-approval as long as they do not charge fees, seek sponsorships, or incur expenses over Expense policy limits. Bartering sponsorships (say, where event space or food and beverage is covered by a sponsor) are encouraged to ensure that meetings and smaller events do not require pre-approval.
 
 ## Community
 
