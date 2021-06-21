@@ -33,8 +33,8 @@ Expenses will no longer be tied to chapter or project balances. When this policy
 Expense reimbursement requests, along with receipts or invoices for each expense, shall be submitted through the OWASP Foundation ticketing system for processing and payment.
 
 - Leaders must submit reimbursement requests within 60 days of the expense.
-- [Fair and reasonable)[#fair-and-reasonable-expenses] expenses under USD \$250 do not require pre-approval and may be submitted by a single leader for any valid chapter, project, committee, or event expense with a valid receipt.
-- [Fair and reasonable)[#fair-and-reasonable-expenses] expenses above USD \$250 require pre-approval, dual leader approval (or leader + relevant committee if only one leader), and a valid receipt or invoice. The Foundation will not pay unapproved expenses above USD \$250
+- [Fair and reasonable][#fair-and-reasonable-expenses] expenses under USD \$250 do not require pre-approval and may be submitted by a single leader for any valid chapter, project, committee, or event expense with a valid receipt.
+- [Fair and reasonable][#fair-and-reasonable-expenses] expenses above USD \$250 require pre-approval, dual leader approval (or leader + relevant committee if only one leader), and a valid receipt or invoice. The Foundation will not pay unapproved expenses above USD \$250
 - When an expense is expected to be more than $2,500, an invoice is required from the vendor for direct remittance.
 - Expenses must have a short explanation of why the expenses are relevant to a Chapter, Project, Committee, or Event. Expenses must include the Chapter, Project, Committee, Event, or Board name to ensure that your expenses are correctly categorized. Good: "Food & beverage for February 2021 OWASP Sunnydale chapter meeting." Bad: "Catering."
 - Requests must include itemized receipts, payment instructions, and supporting documentation.
