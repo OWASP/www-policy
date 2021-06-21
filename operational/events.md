@@ -1,6 +1,6 @@
 ---
 
-title: Events Policy
+title: Events Policy (Draft WIP)
 layout: full-width
 layout: col-document
 document: Rules of Procedure
