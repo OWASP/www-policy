@@ -8,6 +8,8 @@ notice: 2020-06-21
 
 ---
 
+{% include draft-notice.html %}
+
 ## Overview
 
 In fulfilling the mission and business interests of the OWASP Foundation, leaders of Projects, Chapters, Events, Committees, or Foundation staff or the Global Board might incur expenses that may be reimbursable. This policy defines expenses as "petty" cash levels and not significant disbursements or program funding mechanisms.
