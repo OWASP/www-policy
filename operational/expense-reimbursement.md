@@ -110,15 +110,15 @@ Generally, the Foundation's policy is that all expenses should be "fair and reas
 
 Those items which are considered fair and reasonable include:
 
-Chapter related expense within the defined geographic area of the Chapter
-Project-specific expenses
-Event Services, Catering, and Space for Chapter Meetings and Local Events
-Graphic Design
-Technical Contractor (i.e., Developer or Technical Editor)
-Software Licenses
-Celebratory Gatherings
-Printing
-Domain Names
+- Chapter related expense within the defined geographic area of the Chapter
+- Project-specific expenses
+- Event Services, Catering, and Space for Chapter Meetings and Local Events
+- Graphic Design
+- Technical Contractor (i.e., Developer or Technical Editor)
+- Software Licenses
+- Celebratory Gatherings
+- Printing
+- Domain Names
 
 For the items listed above, and expenses under USD \$250, there are no pre-set limits beyond the "fair and reasonable" test. Expenses not listed and exceeding USD \$250 require approval from at least two leaders (or a leader + relevant committee if there is only one leader), and [pre-approval](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/14){: target='_blank'} by the Executive Director or their designate. **When in doubt, individuals requesting expense reimbursement should apply for pre-approval.**
 
@@ -134,14 +134,14 @@ The OWASP Foundation provides several shared services free of charge or at vastl
 
 Expenses for the following categories of service will not be reimbursed:
 
-Email
-Shared drive/data storage
-Online training/classroom
-Source code management
-Event scheduling / RSVP
-Ticket purchasing
-Video conferencing and webinars
-Cloud infrastructure and other services
+- Email
+- Shared drive/data storage
+- Online training/classroom
+- Source code management
+- Event scheduling / RSVP
+- Ticket purchasing
+- Video conferencing and webinars
+- Cloud infrastructure and other services
 
 If a project, committee, or Chapter requires a different service than those offered for free by the Foundation, please apply for a grant or pre-approval before committing OWASP to pay for the new shared service. Once we understand your requirements, we can often obtain a non-profit discount or an alternative at a lower cost. We encourage leaders to investigate our shared services before seeking out a new option.
 
