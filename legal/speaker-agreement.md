@@ -5,7 +5,7 @@ layout: col-sidebar
 
 ---
 
-Form [available online for signatory](https://owasp.wufoo.com/forms/owasp-keynote-speaker-and-trainer-agreement/)
+Form [available online for signatory](https://owasp.wufoo.com/forms/p1uef3wk1lhcmt4/)
 
 <strong>PRESENTER AGREEMENT & RELEASE</strong>
 
