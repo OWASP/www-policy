@@ -4,7 +4,7 @@ title: Temporary Covid Restrictions
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-05-27
+notice: 2021-07-02
 
 ---
 
