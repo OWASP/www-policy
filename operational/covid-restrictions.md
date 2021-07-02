@@ -8,7 +8,7 @@ notice: 2021-05-27
 
 ---
 
-Last revised May 27, 2021 by Andrew van der Stock
+Last revised July 2, 2021 by Andrew van der Stock
 
 ## Background
 
@@ -53,7 +53,7 @@ In all cases, do not record or store any medical data. OWASP cannot securely or 
 
 ### For countries without COVID
 
-For countries, such as Australia and New Zealand with no or very limited COVID cases, you can hold meetings and events per local regulations. Please keep on checking local regulations, such as the late May 2021 lockdown in Melbourne as a response to a small number of cases, which obviously means no meetings.
+For countries, such as Australia and New Zealand with no or very limited COVID cases, you can hold meetings and events per local regulations. Please keep on checking local regulations, such as the mid year lockdowns in Melbourne, Sydney, and Brisbane, as a response to a small number of cases, which obviously means no meetings.
 
 ## Expense Approval criteria
 
