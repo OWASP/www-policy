@@ -69,7 +69,7 @@ The Foundation will revoke fraudulent membership submissions without notice and 
 
 Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and has been in the top 5 position continuously for six months prior to applying for complimentary membership.
 
-Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complementary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership. Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership.
+Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complimentary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership. Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership.
 
 Active leaders can accept the complimentary membership using the standard "Join" or "Renew" OWASP membership form. Complimentary membership must be manually renewed each 12 months.
 
