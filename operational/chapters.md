@@ -94,7 +94,7 @@ OWASP Foundation will provide chapters with the following shared services at no 
 Services identical or similar to those provided by the foundation cannot be expensed without [prior approval](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/14/create/75). Where possible, all chapters are encouraged to use a service that respects user privacy.
 
 ## Starting a New Chapter
-There are currently two types of chapters you can start: city chapters and student chapters. Prospective chapter leaders should familiarize themselves with this policy and the Chapter Handbook (TBD) prior to submitting the form. 
+There are currently two types of chapters you can start: city chapters and student chapters. Prospective chapter leaders should familiarize themselves with this policy and the Chapter Handbook (https://owasp.org/www-committee-chapter/#div-resources_for_chapters) prior to submitting the form. 
 
 * New chapters must be approved by the foundation, by submitting a request through [Contact Us](https://contact.owasp.org/).
 * After the new chapter is approved, the chapter leader must:
