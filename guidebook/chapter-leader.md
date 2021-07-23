@@ -138,8 +138,8 @@ Arrive early! Ensure that everything for the meeting space is set up before the 
 * Equipment - projector, sound system, and any special items that may have been requested by the speaker(s)
 
 ### Video Recording
-If you have the equipment, you may want to consider recording a video of your meeting and posting for members who were not able to attend the meeting. This is also a nice resource for chapter leaders or event organizers to use in the future to screen a speaker or learn about his/her style.
-The OWASP Speaker Agreement includes authorization for the speaker’s presentation to be recorded and posted. If you plan to record the meeting, you should make sure the speaker is aware and has agreed to the reproduction of his/her presentation.
+If you have the equipment, you may want to consider recording a video of your meeting and posting for members who were not able to attend the meeting. This is also a nice resource for chapter leaders or event organizers to use in the future to screen a speaker or learn about their style.
+The OWASP Speaker Agreement includes authorization for the speaker’s presentation to be recorded and posted. If you plan to record the meeting, you should make sure the speaker is aware and has agreed to the reproduction of their presentation.
 
 ### Time Management
 Spread tasks across many individuals in order to ensure that your meeting runs smoothly and all of the tasks before, during, and after the meeting are handled in a timely fashion. There are usually people that attend the meetings who are willing to want to help the chapter be successful, but are not able to commit to a chapter leadership role - that doesn’t mean they aren’t willing to help out on a meeting-by-meeting basis.

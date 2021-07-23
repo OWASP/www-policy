@@ -65,12 +65,12 @@ Board members, employees, community members, or other third parties are encourag
 
 **3.3 Determining Whether a Conflict of Interest Exists**
 
-After disclosure of the financial interest and all material facts, and after any discussion with the interested person, he/she shall leave the governing board or committee meeting while the determination of a conflict of interest is discussed and voted upon. The remaining board or committee members shall decide if a conflict of interest exists.
+After disclosure of the financial interest and all material facts, and after any discussion with the interested person, they shall leave the governing board or committee meeting while the determination of a conflict of interest is discussed and voted upon. The remaining board or committee members shall decide if a conflict of interest exists.
 
 **3.4 Procedures for Addressing the Conflict of Interest**
 
-1. An interested person may make a presentation at the governing board or committee meeting, but after the presentation, he/she shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.
-2. The chairperson of the governing board or committee shall, if appropriate, appoint a disinterested person or committee to investigate alternatives to the proposed transaction or arrangement.
+1. An interested person may make a presentation at the governing board or committee meeting, but after the presentation, they shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.
+2. The Chair of the governing board or committee shall, if appropriate, appoint a disinterested person or committee to investigate alternatives to the proposed transaction or arrangement.
 3. After exercising due diligence, the governing board or committee shall determine whether the Foundation can obtain with reasonable efforts a more advantageous transaction or arrangement from a person or entity that would not give rise to a conflict of interest.
 4. If a more advantageous transaction or arrangement is not reasonably possible under circumstances not producing a conflict of interest, the governing board or committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in the Foundation’s best interest, for its own benefit, and whether it is fair and reasonable. In conformity with the above determination it shall make its decision as to whether to enter into the transaction or arrangement.
 

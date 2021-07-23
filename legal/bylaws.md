@@ -43,15 +43,15 @@ The OWASP Foundation will be the thriving global community that drives visibilit
 
 Each Board Member will be assigned one of the following roles: Board Chair, Vice Chair, Secretary, Treasurer, or Board Member at large. These roles will carry the following responsibilities:
 
-**Board Chair** - The Chairman of the Board shall serve as the principal executive officer of the Foundation.
+**Board Chair** - The Chair of the Board shall serve as the principal executive officer of the Foundation.
 
 - Fiduciary responsibilities: They shall, in general, supervise and control all of the business and affairs of the Foundation. They will monitor financial planning and financial reports they may sign, with the Secretary or any other proper officer of the Foundation thereunto authorized by the Board of Directors, any deeds, mortgages, bonds, contracts, or other instruments which the Board of Directors has authorized to be executed, except in cases where the signing and execution thereof shall be expressly delegated by the Board of Directors or by these Bylaws to some other officer or agent of the Foundation, or shall be required by law to be otherwise signed or executed;
-- Leadership and Direction: provides leadership to the Board of Directors with regards to policy setting and strategic planning. They help guide and mediate board actions with respect to organizational priorities and governance concerns, and in general shall perform all duties incident to the office of Chairman of the Board subject to the control of the Board of Directors.
+- Leadership and Direction: provides leadership to the Board of Directors with regards to policy setting and strategic planning. They help guide and mediate board actions with respect to organizational priorities and governance concerns, and in general shall perform all duties incident to the office of Chair of the Board subject to the control of the Board of Directors.
 - Organizational Responsibilities: They play a leading role in fundraising activities, formally evaluate the performance of the Foundation Director and informally evaluate the effectiveness of the board members. An annual, overall evaluation of the performance of the organization in achieving its mission will be accomplished. They shall, when present, preside at all meetings of the Board of Directors, unless otherwise delegated, and such other duties as may be prescribed by the Board of Directors from time to time.
 
 **Vice Chair** - performs Chair responsibilities when the Chair cannot be available, works closely with Chair and other Board Members, participates closely with Chair to develop and implement officer transition plans, performs other responsibilities as assigned by the Board.
 
-**Secretary** - maintains records of the board and ensures effective management of organization’s records, manages minutes of board meetings, ensures minutes are distributed shortly after each meeting, is sufficiently familiar with legal documents (articles, by­laws, IRS letters, etc.) to note applicability during meetings; is the custodian of the corporate records and of the seal of the Foundation and see that the seal of the Foundation is affixed to all documents, the execution of which on behalf of the Foundation under its seal is duly authorized; keeps a register of the post office address of each Director which shall be furnished to the Secretary by such Director; and, in general perform all duties incident to the office of the Secretary and such other duties as from time to time may be assigned to them by the Chairman of the Board or by the Board.
+**Secretary** - maintains records of the board and ensures effective management of organization’s records, manages minutes of board meetings, ensures minutes are distributed shortly after each meeting, is sufficiently familiar with legal documents (articles, by­laws, IRS letters, etc.) to note applicability during meetings; is the custodian of the corporate records and of the seal of the Foundation and see that the seal of the Foundation is affixed to all documents, the execution of which on behalf of the Foundation under its seal is duly authorized; keeps a register of the post office address of each Director which shall be furnished to the Secretary by such Director; and, in general perform all duties incident to the office of the Secretary and such other duties as from time to time may be assigned to them by the Chair of the Board or by the Board.
 
 **Treasurer** - manages finances of the organization, administers fiscal matters of the organization, provides annual budget to the board for member’s approval, ensures development and board review of financial policies and procedures.
 
@@ -91,7 +91,7 @@ The Secretary shall:
 2. See that all notices are duly given in accordance with the provisions of these Bylaws or as required by law;
 3. Be custodian of the corporate records and of the seal of the Foundation and see that the seal of the Foundation is affixed to all documents, the execution of which on behalf of the Foundation under its seal is duly authorized;
 4. Keep a register of the post office address of each Director which shall be furnished to the Secretary by such Director; and
-5. In general perform all duties incident to the office of the Secretary and such other duties as from time to time may be assigned to them by the Chairman of the Board or by the Board.
+5. In general perform all duties incident to the office of the Secretary and such other duties as from time to time may be assigned to them by the Chair of the Board or by the Board.
 
 ## ARTICLE III - BOARD OF DIRECTORS
 
@@ -121,15 +121,15 @@ Failure by a board member to meet the 75% attendance requirement after any tabul
 
 ### SECTION 3.04 Special Meetings
 
-Special meetings of the Board of Directors may be called by or at the request of the Chairman or any two (2) directors. The person or persons authorized to call special meetings of the Board of Directors may fix the place for holding any special meeting of the Board of Directors called by them.
+Special meetings of the Board of Directors may be called by or at the request of the Chair or any two (2) directors. The person or persons authorized to call special meetings of the Board of Directors may fix the place for holding any special meeting of the Board of Directors called by them.
 
 ### SECTION 3.05 Notice of Special Meetings
 
-A special meeting may be called by the Chairman or at the request of any two (2) Board members by notice emailed, telephone, or telegraphed to each Board member not less one week before such meetings. Any directors may waive notice of any meeting. The attendance of a director at a meeting shall constitute a waiver of notice of such meeting, except where a director attends a meeting for the express purpose of objecting to the transaction of any business because the meeting is not lawfully called or convened.
+A special meeting may be called by the Chair or at the request of any two (2) Board members by notice emailed, telephone, or telegraphed to each Board member not less one week before such meetings. Any directors may waive notice of any meeting. The attendance of a director at a meeting shall constitute a waiver of notice of such meeting, except where a director attends a meeting for the express purpose of objecting to the transaction of any business because the meeting is not lawfully called or convened.
 
 ### SECTION 3.06 Quorum
 
-A majority of the number of Directors fixed by ### SECTION 2 of this Article shall constitute a quorum for the transaction of business at any meeting of the Board of Directors. If less than such majority is present at a meeting, a majority of the Directors present may adjourn the meeting from time to time without further notice. Except as otherwise provided in these Bylaws, all decisions will be made by majority vote of those present at a meeting at which a quorum is present. If a board of Directors vote results in a split decision, the Chairman of the Board, if present at the meeting, can decide the issue.
+A majority of the number of Directors fixed by ### SECTION 2 of this Article shall constitute a quorum for the transaction of business at any meeting of the Board of Directors. If less than such majority is present at a meeting, a majority of the Directors present may adjourn the meeting from time to time without further notice. Except as otherwise provided in these Bylaws, all decisions will be made by majority vote of those present at a meeting at which a quorum is present. If a board of Directors vote results in a split decision, the Chair of the Board, if present at the meeting, can decide the issue.
 
 ### SECTION 3.07 Participation in Meeting by Conference Telephone
 
@@ -145,7 +145,7 @@ Any action that may be taken by the Board of Directors at a meeting may be taken
 
 ### SECTION 3.10 Vacancies
 
-Any vacancy occurring in the Board of Directors may be filled by the affirmative vote of a majority of the remaining directors though less than a quorum of the Board of Directors unless otherwise provided by law. If there is an equal number of affirmative and negative votes then the ultimate determination shall be made by the then­ sitting Chairman of the Board. A director elected to fill a vacancy shall be elected for the unexpired term of his predecessor in office. Any directorship to be filled by reason of an increase in the number of directors may be filled by election by the Board of Directors for a term of office continuing only until the next election of directors by the Directors.
+Any vacancy occurring in the Board of Directors may be filled by the affirmative vote of a majority of the remaining directors though less than a quorum of the Board of Directors unless otherwise provided by law. If there is an equal number of affirmative and negative votes then the ultimate determination shall be made by the then­ sitting Chair of the Board. A director elected to fill a vacancy shall be elected for the unexpired term of his predecessor in office. Any directorship to be filled by reason of an increase in the number of directors may be filled by election by the Board of Directors for a term of office continuing only until the next election of directors by the Directors.
 
 Appointed Directors filling a vacancy shall not have this partial term counted against term limits. Members can only be appointed to fill a vacancy once every ten years to prevent bypassing term limits.
 
@@ -155,11 +155,11 @@ No paid employee can serve on the Board of Directors or in the role of Officer w
 
 ### SECTION 3.12 Reimbursement
 
-Directors shall serve without compensation with the exception that expenses incurred in the furtherance of he Foundation's business are allowed to be reimbursed with documentation and prior approval according to the Reimbursement Policy.
+Directors shall serve without compensation with the exception that expenses incurred in the furtherance of the Foundation's business are allowed to be reimbursed with documentation and prior approval according to the Reimbursement Policy.
 
 ### SECTION 3.13 Presumption of Assent
 
-A Director of the Foundation who is present at a meeting of the Board of Directors at which action on any corporate matter is taken shall be presumed to have assented to the action taken unless their dissent shall be entered in the minutes of the meeting or unless s/he shall file their written dissent to such action with the person acting as the Secretary of the meeting before the adjournment thereof, or shall forward such dissent to the Secretary of the Foundation immediately after the adjournment of the meeting. Such right to dissent shall not apply to any director who voted in favor of such action.
+A Director of the Foundation who is present at a meeting of the Board of Directors at which action on any corporate matter is taken shall be presumed to have assented to the action taken unless their dissent shall be entered in the minutes of the meeting or unless they shall file their written dissent to such action with the person acting as the Secretary of the meeting before the adjournment thereof, or shall forward such dissent to the Secretary of the Foundation immediately after the adjournment of the meeting. Such right to dissent shall not apply to any director who voted in favor of such action.
 
 ### SECTION 3.14 Good standing exemption due to Foundation membership system failure
 
@@ -244,7 +244,7 @@ The chapter leader and local chapter board has to manage the local chapter accor
 
 The Foundation shall indemnify the Officers of the Foundation including International Board Members and Employees, or agents as follows:
 
-1. Every Officer, Board Member, and employee of the Foundation shall be indemnified by the Foundation against all expenses and liabilities, including counsel fees, reasonably incurred by or imposed upon them in connection with any proceeding to which they may be made a party, or in which they may become involved, by reason of being or having been a director, officer, employee or agent of the Foundation or is or was serving at the request of the Foundation as a director, officer, employee or agent of the Foundation, partnership, joint venture, trust or enterprise, or any settlement thereof, whether or not he is a director, officer, employee or agent at the time such expenses are incurred, except in such cases wherein the director, officer, employee or agent is adjudged guilty of willful misfeasance or malfeasance in the performance of their duties; provided that in the event of a settlement the indemnification herein shall apply only when the Board of Directors approves such settlement and reimbursement as being in the best interests of the Foundation.
+1. Every Officer, Board Member, and employee of the Foundation shall be indemnified by the Foundation against all expenses and liabilities, including counsel fees, reasonably incurred by or imposed upon them in connection with any proceeding to which they may be made a party, or in which they may become involved, by reason of being or having been a director, officer, employee or agent of the Foundation or is or was serving at the request of the Foundation as a director, officer, employee or agent of the Foundation, partnership, joint venture, trust or enterprise, or any settlement thereof, whether or not they are a director, officer, employee or agent at the time such expenses are incurred, except in such cases wherein the director, officer, employee or agent is adjudged guilty of willful misfeasance or malfeasance in the performance of their duties; provided that in the event of a settlement the indemnification herein shall apply only when the Board of Directors approves such settlement and reimbursement as being in the best interests of the Foundation.
 2. The Foundation shall provide to any person who is or was an officer, board member, or employee, or agent of the Foundation or is or was serving at the request of the Foundation as a director, officer, employee or agent of the Foundation, partnership, joint venture, trust or enterprise, the indemnity against expenses of suit, litigation or other proceedings which is specifically permissible under applicable law.
 3. The Board of Directors may, in its discretion, direct the purchase of liability insurance by way of implementing the provisions of this Article VI.
 

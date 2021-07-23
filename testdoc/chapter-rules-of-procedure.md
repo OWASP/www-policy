@@ -18,7 +18,7 @@ tags: Rules of Procedure
 The following information should be provided in an application (should be Chapter Request Form) to start or restart an OWASP Chapter:
 * List of the people that are founding the chapter. Each founding member(s) must submit:
    * Statement regarding their professional background or resume, and
-   * Statement of why he or she wants to be an OWASP Leader.
+   * Statement of why they want to be an OWASP Leader.
 * Only geographical cities will be covered by new chapters. Chapter names should represent the immediate city or region that is being served. Chapter leader(s) must work or live in the immediate geographical area and no more than 50 miles from the city indicated on their application.
 * Acknowledgement that founding member(s) read, understands, and agrees to the terms of the Leader and Chapter Rules of Procedure.
 * While it is not mandatory, a good understanding of English will help with communication within the OWASP global community.
@@ -70,7 +70,7 @@ Chapter leaders serve as the main point of contact for the local chapter and are
 * Your chapter page, must clearly identify who is the current leadership for the chapter or on the board of the chapter, including their phone numbers and/or email addresses. Additionally, post information on how people can get involved with the chapter planning, leadership, or decisions. What are your plans for the upcoming year? Are you looking for help with something particular? When are your elections held?
 
 ## Transferring Leadership
-In the course of time, a leader may want to move on and leave his/her role. While this chapter provides guidelines to the technical process to follow, we found in the past that the actual challenge is finding the new leader, especially in chapters that lack a board. We strongly suggest that a chapter leader who wants to stop would try to find a successor among the active members of the chapter. Such a process has the best chance of ensuring the continuous success of the chapter.
+In the course of time, a leader may want to move on and leave their role. While this chapter provides guidelines to the technical process to follow, we found in the past that the actual challenge is finding the new leader, especially in chapters that lack a board. We strongly suggest that a chapter leader who wants to stop would try to find a successor among the active members of the chapter. Such a process has the best chance of ensuring the continuous success of the chapter.
 
 Please let us know of your wish to leave the job and let us help you in finding a successor.
 
@@ -257,8 +257,8 @@ Arrive early! Ensure that everything for the meeting space is set up before the 
 * Equipment - projector, sound system, and any special items that may have been requested by the speaker(s)
 
 ### Video Recording
-If you have the equipment, you may want to consider recording a video of your meeting and posting for members who were not able to attend the meeting. This is also a nice resource for chapter leaders or event organizers to use in the future to screen a speaker or learn about his/her style.
-The OWASP Speaker Agreement includes authorization for the speaker’s presentation to be recorded and posted. If you plan to record the meeting, you should make sure the speaker is aware and has agreed to the reproduction of his/her presentation.
+If you have the equipment, you may want to consider recording a video of your meeting and posting for members who were not able to attend the meeting. This is also a nice resource for chapter leaders or event organizers to use in the future to screen a speaker or learn about their style.
+The OWASP Speaker Agreement includes authorization for the speaker’s presentation to be recorded and posted. If you plan to record the meeting, you should make sure the speaker is aware and has agreed to the reproduction of their presentation.
 
 ### Time Management
 Spread tasks across many individuals in order to ensure that your meeting runs smoothly and all of the tasks before, during, and after the meeting are handled in a timely fashion. There are usually people that attend the meetings who are willing to want to help the chapter be successful, but are not able to commit to a chapter leadership role - that doesn’t mean they aren’t willing to help out on a meeting-by-meeting basis.

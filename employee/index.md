@@ -337,7 +337,7 @@ All managers and supervisors are responsible for doing all they can to prevent a
 The OWASP Foundation and Insperity are committed to providing a safe workplace for employees, customers, vendors, volunteers, independent contractors and others with whom we do business. The company has zero tolerance for violent acts or threats of violence.
 You are expected to conduct yourself in a non-threatening, non-abusive manner at all times. Any direct, conditional or veiled threat of harm to any employee, guest or company property will be considered unacceptable behavior. Acts of violence, intimidation or bullying of others will not be tolerated.  
 
-All employees share the responsibility in identifying and alleviating threatening or violent behaviors. Anyone who is subjected to or threatened with violence, or who is aware of another individual who has been subjected to or threatened with violence, is to immediately report this information to his/her supervisor, a management member or Insperity. You must assume that any threat is serious. The company will carefully investigate reports and maintain employee confidentiality to the fullest extent possible.
+All employees share the responsibility in identifying and alleviating threatening or violent behaviors. Anyone who is subjected to or threatened with violence, or who is aware of another individual who has been subjected to or threatened with violence, is to immediately report this information to their supervisor, a management member or Insperity. You must assume that any threat is serious. The company will carefully investigate reports and maintain employee confidentiality to the fullest extent possible.
 
 The OWASP Foundation will take disciplinary action, up to and including termination, and/or legal action as appropriate, against any employee who commits or threatens to commit a violent act against any person while on company premises or while engaged in company business off the premises.
 
@@ -411,7 +411,7 @@ A recognized holiday that falls on a Saturday will be observed on the preceding 
 Exempt employees do not accrue Personal-time-off benefits but are given an indeterminate amount of personal time off at the sole discretion of the company as operational conditions permit. During such personal time taken off, employees will receive no additional fixed pay. Rather, they will continue to receive their regular salary during their scheduled Personal-time-off. For purposes of this policy, personal time off does not include absences covered by the company’s Sick Policy.
 
 An employee taking personal time off is responsible for:
-* Notifying his/her direct supervisor two weeks prior to when he/she will be absent.
+* Notifying their direct supervisor two weeks prior to when they will be absent.
 * Documenting planned time off on the shared Staff Calendar
 * Meeting the expectations and requirements of the employee's position including timely and satisfactorily completing all work assignments. 
 * Arranging for time off on a schedule that is considerate of expected business needs.
@@ -419,7 +419,7 @@ An employee taking personal time off is responsible for:
 <a name="sick-policy"></a>
 ### Sick Policy
 
-Flexible time off each year is provided by the company for employees to be away from work because of illness, injury, or to care for a family member or for responding or attending to a qualifying exigency. If more than five continuous days are taken as time off due to illness, the employee will cease to receive his/her regular salary and the company will consider a request for a leave of absence. Additionally, absences for three or more consecutive workdays due to personal illness may require a statement from your healthcare provider before you will be permitted to return to work.
+Flexible time off each year is provided by the company for employees to be away from work because of illness, injury, or to care for a family member or for responding or attending to a qualifying exigency. If more than five continuous days are taken as time off due to illness, the employee will cease to receive their regular salary and the company will consider a request for a leave of absence. Additionally, absences for three or more consecutive workdays due to personal illness may require a statement from your healthcare provider before you will be permitted to return to work.
 
 <a name="education-assistance"></a>
 ## EDUCATION ASSISTANCE

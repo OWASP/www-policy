@@ -31,7 +31,7 @@ Any spending which exceeds the Quarterly Plan by more than 10%, must be approved
 ### Chief Financial Officer
 
 The Chief Financial Officer is authorized to oversee and manage the OWASP’s bank accounts and other financial services related accounts, such as payments processing (or similar financial institution), and to authorize the transfer of funds from one OWASP account to any other OWASP account, and to further delegate this authority, up to and including the limits set forth below per transaction, which includes integrated or related transactions.
-Any transfer of funds from one OWASP account to any other OWASP account exceeding the amounts set forth in the immediately preceding resolution must be approved in writing by or signed by the Treasurer of the Board or Chairperson of the Board.
+Any transfer of funds from one OWASP account to any other OWASP account exceeding the amounts set forth in the immediately preceding resolution must be approved in writing by or signed by the Treasurer of the Board or Chair of the Board.
 
 - Bank accounts $100,000
 - Investment accounts $200,000
