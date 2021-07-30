@@ -27,8 +27,8 @@ On a personal note, if you're not yet vaccinated, please get vaccinated if or as
 Safety is paramount, with activity and financial health as secondary concerns. The following regularly reviewed restrictions apply until further notice.
 
 - Virtual events remain the preferred method of meeting OWASP provides free access to virtual meeting rooms, training, and webinar facilities for up to 1000 attendees. Virtual meetings have no cost to chapters, events, and training programs. You can obtain these via submitting a non-funding request ticket at https://contact.owasp.org.
-- Small gatherings should be postponed or not held at this time. If you feel safe holding an event, please follow the guidelines below. Following the WHO small gathering requirements is mandatory.
-- Meetings, activities, and events in jurisdictions with vaccination status prohibitions are not permitted without pre-approval. The risk of someone contracting or spreading COVID at an OWASP meeting or event will be unmanageable in these jurisdictions. We cannot obtain COVID insurance. Therefore, we cannot hold them as the financial and health risks are unmanageable and too great for a non-profit organization.
+- Physical events should be postponed or not held at this time. If you are still holding a physical event, you must get pre-approval and follow the requirements set out below.
+- Meetings, activities, and events are not permitted without pre-approval in jurisdictions with prohibitions against mandatory masking, or prohibitions against businesses requiring vaccination status checks, prohibition against the use of vaccine passports, or proof of a recent negative COVID test. 
 - Chapter-related expenses over $250 require pre-approval and will only be approved for chapter, project, committee, or event-related expenses. The Grants policy or applying for a regional event is likely to be better choices for larger expenses.
 - No monthly, software, periodic, or subscription event space, or other recurring payments are permitted as OWASP's income is down over 80% compared to 2019
 - Travel expenses require pre-approval. Travel is extraordinarily unlikely to be approved due to OWASP's financial position. See below for more details if you want to travel.
@@ -59,16 +59,15 @@ Please add the following text as an RSVP question in Meetup: "If attending in pe
 
 As of August 1, 2021, delta variant infection of fully vaccinated individuals is not well understood, so we return to mandatory masking and social distancing requirements.
 
-- **MANDATORY** Temperature and symptom screening Please continue to screen for temperature and ask symptom questions. Require unwell people to go home. Stay home if you cannot pass this test. Please print the first page and familiarize yourself with the rest of the document? Use the checklist to ask attendees to attest that they haven't had those symptoms. Require unwell people to go home.
+- **MANDATORY** Please continue to screen for temperature and ask symptom questions. Require unwell people to go home. Stay home if you cannot pass this test. Please print the first page and familiarize yourself with the rest of the document. Use the checklist to ask attendees to attest that they haven't had those symptoms. Require unwell people to go home and seek medical care.
 
 [OWASP Temperature Screening Checklist](https://docs.google.com/document/d/1lhOZspwax8jEGHrnXwQgcflht7GRtPyUg64mrXuhKWg/edit?usp=sharing)
 
-- **MANDATORY**: Masking and social distancing. Starting August 1, 2021, physical events must follow all WHO small gathering requirements. Attendance at OWASP events includes mandatory masking, social distancing, well-ventilated rooms, markings, even in regions with high vaccination rates or low COVID transmission, hospitalizations, or deaths.
-
+- **MANDATORY**: Masking and social distancing. Resuming August 1, 2021, physical events must follow all [WHO COVID small event guidelines](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-small-public-gatherings). Attendance at OWASP events includes mandatory masking, social distancing, well-ventilated rooms, markings, even in regions with high vaccination rates or low COVID transmission, hospitalizations, or deaths.
+- **MANDATORY** Do not record or store any medical data. OWASP cannot securely or compliantly hold medical records or status.
 - **RECOMMENDED**: Vaccination status checks. Where local regulations permit or mandate, you may ask or be required to see vaccination status or a recent negative COVID test at the entrance. If you are mandated or require either fully vaccinated or a recent negative COVID test, put these requirements in the RSVP, so attendees can bring the appropriate information with them.
-  
-NB: If your region, state, or country prohibits mandatory masking, verifying vaccine passports, or viewing vaccination records or recent negative COVID tests to attend meetings or events, starting August 1, 2021, OWASP prohibits holding in-person meetings without pre-approval.
-MANDATORY Do not record or store any medical data. OWASP cannot securely or compliantly hold medical records or status.
+
+**NB: If your region, state, or country prohibits mandatory masking, verifying vaccine passports, or viewing vaccination records or recent negative COVID tests to attend meetings or events, starting August 1, 2021, OWASP prohibits holding in-person meetings without pre-approval.** No one can obtain COVID insurance. Therefore, OWASP cannot hold events in these jurisdictions as the health risks are too great for leaders and participants, and the liability, financial, and legal risks to OWASP are too risky for a non-profit organization.
 
 Under no circumstances do not get into confrontations. If you feel unsafe, please call law enforcement immediately, or ask the location's staff to call the police for trespass.
 
@@ -78,7 +77,7 @@ We will continue to review the situation and adjust accordingly.
 
 OWASP strongly recommends that all event organizers, volunteers, and participants are fully vaccinated against COVID-19 to protect against severe illness or death.
 
-As a global organization, we understand that obtaining vaccination may not be possible at this time. However, we encourage everyone to get vaccinated as soon as they are eligible.
+As a global organization, we understand that obtaining vaccination may not be possible at this time. However, we encourage everyone to get vaccinated as soon as they can or are eligible.
 
 ## Expense Approval criteria
 
