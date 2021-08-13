@@ -43,7 +43,7 @@ Expense reimbursement requests, along with receipts or invoices for each expense
 
 Approvals for reimbursements shall follow the [signatory limits](/www-policy/operational/signatory2) of the OWASP Foundation.
 
-*** Please note all reimbursement request information, except payment instructions, will be shared publicly in various accounting reports, and by submitting an expense reimbursement, you agree to that disclosure. ***
+***Please note all reimbursement request information, except payment instructions, will be shared publicly in various accounting reports, and by submitting an expense reimbursement, you agree to that disclosure.***
 
 All leaders, chapters, projects, and committees are encouraged to fundraise, seek sponsorships in kind (bartering), donations, or sponsorship to offset larger costs and to further our mission.
 
