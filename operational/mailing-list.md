@@ -34,17 +34,17 @@ Mailing Lists will be considered abandoned if there are no posts within the past
 
 ## Membership
 
-Participating in Mailing Lists is a privilege which can be revoked at any time and without notice. Generally anyone can join most every Mailing List in the owasp.org domain with two exceptions: (1) the global-board, and (2) leaders lists.
+Participating in Mailing Lists is a privilege which can be revoked at any time and without notice. Generally, anyone can join any mailing list in the owasp.org domain with two exceptions: (1) the global-board, and (2) leaders lists.
 
 The community can locate all OWASP Mailing Lists (groups) at [https://groups.google.com/a/owasp.org/](https://groups.google.com/a/owasp.com/). There visitors can view historical conversations on public lists, search lists and content, where applicable join a list, and control their email settings. Google makes a best effort to deliver email from Mailing Lists, but users may need to configure their inbox and spam filter/folder to ensure expected timely delivery of messages. The OWASP Foundation is not responsible for delivery or delays associated of content from Mailing Lists.
 
 Membership can be requested and either the Group Owner(s) or Group Manager(s) shall grant membership to a Mailing List within seven business days of the request provided the requestor meets the membership requirements, if any.
 
-Users of OWASP Mailing Lists shall use their real life identity and anonymous unverified identities are prohibited. Upon request, Members of Mailing Lists, shall provide within seven days of said request, proof of identity to Group Owner(s). Failure to provide adequate credititals for proof of identity will result in the Member being removed then banned from all OWASP Mailing Lists, and at the sole discretion of the Group Owner(s), all content posted by the Member being permanently removed.
+Users of OWASP Mailing Lists shall use their real-life identity and anonymous unverified identities are prohibited. Upon request, Members of Mailing Lists, shall provide within seven days of said request, proof of identity to Group Owner(s). Failure to provide adequate credentials for proof of identity will result in the Member being removed then banned from all OWASP Mailing Lists, and at the sole discretion of the Group Owner(s), all content posted by the Member being permanently removed.
 
 Egregious single or repeated violations of the Code of Conduct shall result in a member being suspended or banned from Mailing Lists. Suspension or banning members is at the sole decision of the Executive Director.
 
-With regard to the two Controlled owasp.org lists, following are their additional membership requirements:
+Regarding the two controlled owasp.org lists, following are their additional membership requirements:
 
 **Global-board**. Membership of this Mailing List is controlled to only include current Board members, recently elected incoming Board Members, the Executive Director, and Chief Financial Officer of the Foundation. While membership is controlled, all content posted to this mail list is public for anyone on the internet to read.
 
@@ -58,11 +58,11 @@ Generally you must be a member of a list to post to an OWASP Mailing List. All u
 
 ## Moderation
 
-The default setting for Mailing Lists is not moderated. At the sole discretion of Group Owner(s) and subject to oversight by the Executive Director, Mailing Lists can be set to moderated at any time and without notice. Behaviors and posting in violation of the Code Conduct that are reported to Group Owner(s) is an exampple of behaviors that shall result in moderation.
+The default setting for Mailing Lists is not moderated. At the sole discretion of Group Owner(s) and subject to oversight by the Executive Director, Mailing Lists can be set to moderated at any time and without notice. Behaviors and posting in violation of the Code Conduct that are reported to Group Owner(s) is an example of behaviors that shall result in moderation.
 
 When Mailing Lists are set to Moderated, Group Owner(s) will review pending posts weekdays during normal business hours meaning posts may be held as pending for as long as 72 hours during normal non-U.S. holiday work weeks.  Posts that do not conform to the Code of Conduct will not be approved during periods of Moderation. Where appropriate, Group Owner(s) who reject posts during moderation shall, at the request of the posting member, within seven days provide a written response related to the decision to deny.
 
-Members of Moderated Lists can request Group Owner(s) to remove Moderation every ten days; however each request does not guarantee a return to normal moderation settings.
+Members of Moderated Lists can request Group Owner(s) to remove Moderation every ten days; however, each request does not guarantee a return to normal moderation settings.
 
 ## Mailing List Default Settings
 
@@ -84,7 +84,7 @@ While circumstances may dictate modifications, all owasp.org domain Mailing List
 - Who can manage members: Group Managers
 - Who can modify roles: Group Managers
 
-The community is invited to report deviations from the Mailing Lists defaults to Mail List Adminstrators.
+The community is invited to report deviations from the Mailing Lists defaults to Mail List Administrators.
 
 ## Privacy
 
@@ -96,4 +96,4 @@ Regardless of the information presented throughout the OWASP website or conveyed
 
 ## Member and Leader Defined
 
-For the purposes of this policy, “member” unless occurring at the beginning of a sentence refers to individuals who join a list. “Member” refers to Members of the OWASP Foundation as defined in the Bylaws. Subject to the policies above, generally any one can become a member of a Mailing List; however being a member of list is not the same as being a Member of the OWASP Foundation.
+For the purposes of this policy, “member” unless occurring at the beginning of a sentence refers to individuals who join a list. “Member” refers to Members of the OWASP Foundation as defined in the Bylaws. Subject to the policies above, generally any one can become a member of a Mailing List; however, being a member of list is not the same as being a Member of the OWASP Foundation.

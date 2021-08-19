@@ -14,11 +14,11 @@ Adopted by the Board on 23-March-2021
 
 ## Background
 
-This policy encourages our community to establish awards or prizes for OWASP competitions and set up scholarships and travel assistance for OWASP events. Awards recognize high impact members, chapters, initiatives, or projects. One purpose of scholarships is to fulfill our mission to underserved and disadvantaged communities and individuals, improving equity and access for those who may need assistance. This policy creates financially responsible funding mechanisms, published eligibility and selection criteria, and a consistent and transparent process to award prizes or recipients. 
+This policy encourages our community to establish awards or prizes for OWASP competitions and set up scholarships and travel assistance for OWASP events. Awards recognize high impact members, chapters, initiatives, or projects. One purpose of scholarships is to fulfill our mission to underserved and disadvantaged communities and individuals, improving equity and access for those who may need assistance. This policy creates financially responsible funding mechanisms, published eligibility and selection criteria, and a consistent and transparent process to award prizes or recipients.
 
 ## Overview of Awards, Scholarships, and Travel Assistance Process
 
-Any OWASP Leader, OWASP Foundation, or OWASP Board ("Organizers") can establish an award, prize, or scholarship and any associated travel assistance. 
+Any OWASP Leader, OWASP Foundation, or OWASP Board ("Organizers") can establish an award, prize, or scholarship and any associated travel assistance.
 
 Organizers should:
 
@@ -36,7 +36,7 @@ If approved, the organizers shall:
 
 Recipients should:
 
-- Where appropriate, submit for reimbursement within the time alloted according to the [expense policy](/www-policy/operational/expense-reimbursement)
+- Where appropriate, submit for reimbursement within the time allotted according to the [expense policy](/www-policy/operational/expense-reimbursement)
 
 ### Awards
 
@@ -44,9 +44,9 @@ Organizers can create awards to recognize high impact contributions towards OWAS
 
 ### Scholarships
 
-Scholarships waive registration or attendance fees to paid OWASP events, activities, or training. Scholarships should not exceed 20% of all paid attendees in any class, event, or activity. Scholarships should be either zero cost to the event or fully funded before approval. 
+Scholarships waive registration or attendance fees to paid OWASP events, activities, or training. Scholarships should not exceed 20% of all paid attendees in any class, event, or activity. Scholarships should be either zero cost to the event or fully funded before approval.
 
-Trainers are encouraged, but not required, to waive their training fee for scholarships. If a trainer does not waive their fee, organizers must secure sponsorship or funding to cover the expense. Trainers may limit the number of scholarships. 
+Trainers are encouraged, but not required, to waive their training fee for scholarships. If a trainer does not waive their fee, organizers must secure sponsorship or funding to cover the expense. Trainers may limit the number of scholarships.
 
 ### Travel Assistance
 
@@ -56,7 +56,7 @@ Travel assistance must comply with the [travel policy (TBA)](#) and the [expense
 
 ### Naming
 
-Organizers should name the award or scholarships to include OWASP within the name, consistent with the OWASP branding guidelines. Examples might include: "OWASP Lifetime Achievement Award", "OWASP Ottawa CTF Champion", "OWASP AppSec Manchester Scholarship", and so on. 
+Organizers should name the award or scholarships to include OWASP within the name, consistent with the OWASP branding guidelines. Examples might include: "OWASP Lifetime Achievement Award", "OWASP Ottawa CTF Champion", "OWASP AppSec Manchester Scholarship", and so on.
 
 Award names that are confusing with existing OWASP trademarks, awards, or scholarships may not be approved.
 
@@ -74,21 +74,21 @@ All sponsorships, fundraising, and donations are subject to standard OWASP polic
 
 ### Transparent Selection Criteria, Processes, and Approvals
 
-Award or Scholarship proposals are more likely to be approved if selection criteria include equity for disadvantaged, underrepresented, or underserved groups. Awards should be directed towards genuinely long term or meritorious service to OWASP and our mission, or as an encouragement to new projects, chapters, initiatives, or as a reward for OWASP competitions that fulfill our mission. 
+Award or Scholarship proposals are more likely to be approved if selection criteria include equity for disadvantaged, underrepresented, or underserved groups. Awards should be directed towards genuinely long term or meritorious service to OWASP and our mission, or as an encouragement to new projects, chapters, initiatives, or as a reward for OWASP competitions that fulfill our mission.
 
 After approval, organizers must publish the selection criteria on the OWASP website for public transparency. Organizers should coordinate with the Foundation to ensure that all nominees or entrants are eligible per the selection criteria.
 
-Organizers must publish results on the OWASP website, including the selection rubric and scores, and are encouraged to promote the accolade. As privacy permits, organizers should publish recipients' names (with their permission) to allow members, donors, and the public to determine that the prize was transparently and fairly selected. Organizers must make recipients' details available to the OWASP Foundation to process the award, scholarship, or travel assistance. 
+Organizers must publish results on the OWASP website, including the selection rubric and scores, and are encouraged to promote the accolade. As privacy permits, organizers should publish recipients' names (with their permission) to allow members, donors, and the public to determine that the prize was transparently and fairly selected. Organizers must make recipients' details available to the OWASP Foundation to process the award, scholarship, or travel assistance.
 
 ## Transparency, Integrity, and Oversight
 
 ### Oversight
 
-The OWASP Executive Director shall report to the OWASP Board quarterly on all awards, scholarships, and travel assistance awarded and received, along with improvements to this policy. 
+The OWASP Executive Director shall report to the OWASP Board quarterly on all awards, scholarships, and travel assistance awarded and received, along with improvements to this policy.
 
 ### Audit Authority
 
-All prizes are subject to being audited by the OWASP Foundation, including validating that the selection criteria were followed, recipients received their award, scholarships, or travel assistance. 
+All prizes are subject to being audited by the OWASP Foundation, including validating that the selection criteria were followed, recipients received their award, scholarships, or travel assistance.
 
 ### Non-transferability
 
@@ -96,24 +96,24 @@ Awards, scholarships, and travel assistance are not transferable, cannot be pass
 
 ### Exemptions to Policy
 
-Exemptions to this policy can be granted by the OWASP Executive Director and documented in the application. Exemptions requiring funding exceeding $1000 require an affirmative Board vote. 
+Exemptions to this policy can be granted by the OWASP Executive Director and documented in the application. Exemptions requiring funding exceeding $1000 require an affirmative Board vote.
 
 ### Conflicts of Interest
 
-Awards and scholarships are subject to the [conflict of interest policy](/www-policy/operational/conflict-of-interest). To prevent perceived or actual conflicts of interest, if an award or scholarship is potentially open to: 
+Awards and scholarships are subject to the [conflict of interest policy](/www-policy/operational/conflict-of-interest). To prevent perceived or actual conflicts of interest, if an award or scholarship is potentially open to:
 
 - Organizers who created or assisted with the submission or selection criteria
-- Members of the selection panel 
+- Members of the selection panel
 - Involved chapter, project, or event leaders, or relevant committee members
 - Foundation staff or Board members
 
-an [ethical barrier](TBA) is required, such as recusal from decision making. Ethical barriers will be reviewed and approved by the Executive Director during the application process. 
+an [ethical barrier](https://owasp.org/www-policy/operational/conflict-of-interest) is required, such as recusal from decision making. Ethical barriers will be reviewed and approved by the Executive Director during the application process.
 
-Organizers must report applicable ethical barriers used in deciding the award or scholarship. 
+Organizers must report applicable ethical barriers used in deciding the award or scholarship.
 
 ### Appeal or Dispute Resolution
 
-The relevant committee is the first point of contact for any disputes, followed by the Compliance Committee or OWASP Whistleblower process, the OWASP Executive Director, and the OWASP Board. 
+The relevant committee is the first point of contact for any disputes, followed by the Compliance Committee or OWASP Whistleblower process, the OWASP Executive Director, and the OWASP Board.
 
 ### Sanctions
 

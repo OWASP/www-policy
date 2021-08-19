@@ -61,7 +61,7 @@ In connection with any actual or possible conflict of interest, an interested pe
 
 **3.2 Third Party Disclosure**
 
-Board members, employees, community members, or other third parties are encouraged to notify the board any any undisclosed financial interest or other conflict of interest by a board member or employee including material facts supporting the conflict.
+Board members, employees, community members, or other third parties are encouraged to notify the board any undisclosed financial interest or other conflict of interest by a board member or employee including material facts supporting the conflict.
 
 **3.3 Determining Whether a Conflict of Interest Exists**
 
@@ -72,7 +72,7 @@ After disclosure of the financial interest and all material facts, and after any
 1. An interested person may make a presentation at the governing board or committee meeting, but after the presentation, they shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.
 2. The Chair of the governing board or committee shall, if appropriate, appoint a disinterested person or committee to investigate alternatives to the proposed transaction or arrangement.
 3. After exercising due diligence, the governing board or committee shall determine whether the Foundation can obtain with reasonable efforts a more advantageous transaction or arrangement from a person or entity that would not give rise to a conflict of interest.
-4. If a more advantageous transaction or arrangement is not reasonably possible under circumstances not producing a conflict of interest, the governing board or committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in the Foundation’s best interest, for its own benefit, and whether it is fair and reasonable. In conformity with the above determination it shall make its decision as to whether to enter into the transaction or arrangement.
+4. If a more advantageous transaction or arrangement is not reasonably possible under circumstances not producing a conflict of interest, the governing board or committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in the Foundation’s best interest, for its own benefit, and whether it is fair and reasonable. In conformity with the above determination, it shall make its decision as to whether to enter into the transaction or arrangement.
 
 **3.5 Violations of the Conflicts of Interest Policy**
 
@@ -109,7 +109,7 @@ Each director, principal officer, member of a committee with governing board del
 1. Has received a copy of the conflicts of interest policy,
 2. Has read and understands the policy,
 3. Has agreed to comply with the policy, and
-4. Understands that the Foundation is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
+4. Understands that the Foundation is charitable and to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
 
 ## ARTICLE VII
 
@@ -134,13 +134,13 @@ When conducting the periodic reviews as provided for in Article VII, the Foundat
 
 ```
 I do hereby certify that the above stated Conflict of Interest Policy and Agreement for the OWASP Foundation were approved and adopted by the board of directors on insert date and constitute a complete copy of the Conflict of Interest Policy of the Foundation.
- 
+
 Secretary_______________
 Date: ________________
 
 ```
 
-## Annual Conflict of Interest Questionnaire:
+## Annual Conflict of Interest Questionnaire
 
 (This will be a digitally signable form once the policy has been approved)
 
