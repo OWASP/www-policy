@@ -20,7 +20,7 @@ Grant applicants should:
 
 1.	Plan and document a deliverable or package of milestones and deliverables that are specific, realistic, and time-bound
 2.	Identify the source(s), or proposed source(s) of funding to support the grant.
-3.	[Submit a grant request (TBA)](#)
+3.	[Submit a grant request](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/14)
 
 The OWASP Projects and Technology Director and any relevant committee will evaluate the grant proposal and decide on approval within 30 days, considering the budget and any published temporary restrictions. If the request requires an exemption or Board vote, a decision will occur within 60 days to allow for a Committee and subsequent Board meeting.
 
