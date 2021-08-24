@@ -30,9 +30,9 @@ The OWASP Executive Director and any relevant committee shall evaluate the propo
 
 If approved, the organizers shall:
 
-- Publicize the award or scholarship, finalize donors, sponsorships or fundraise necessary funds, and open the award or scholarship to entrants no later than 30 days before the deadline
+- Publicize the award or scholarship, finalize donors, sponsorships or fundraisers necessary funds, and open the award or scholarship to entrants no later than 30 days before the deadline
 - Score and select the winner using the selection rubric within seven days of the announced deadline
-- Publish the selection result on the owasp.org website and award the prize or scholarship within 30 days of the announced deadline
+- Publish the selection result on the [OWASP](https://owasp.org) website and award the prize or scholarship within 30 days of the announced deadline
 
 Recipients should:
 

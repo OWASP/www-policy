@@ -12,9 +12,9 @@ Last revised July 30, 2021, by Andrew van der Stock.
 
 ## Background
 
-OWASP is responsible for providing its community and staff with a safe environment, promoting chapter, project, and committee mission-related activity, while being financially responsible. The following restrictions are in place until they are all lifted. 
+OWASP is responsible for providing its community and staff with a safe environment, promoting chapter, project, and committee mission-related activity, while being financially responsible. The following restrictions are in place until they are all lifted.
 
-During July 2021, the overall COVID situation has changed dramatically in many countries, with widespread community transmission, severe illness and death amongst the unvaccinated from the delta variant. Vaccine availability and rates in many parts of the world still far behind where it needs to be. 
+During July 2021, the overall COVID situation has changed dramatically in many countries, with widespread community transmission, severe illness and death amongst the unvaccinated from the delta variant. Vaccine availability and rates in many parts of the world still far behind where it needs to be.
 
 This month, we tighten our requirements for physical meetings, with a strong recommendation that you cancel existing and make no plans to hold physical events for the time being. We go back to requiring masks, social distancing, and so on for all events. We also prohibit holding events in jurisdictions that prohibit mandatory masking, checking or requiring proof of vaccination, or a recent negative COVID test. This is due to unbounded risk to OWASP, and high risk to attendees who might contract COVID, fall severely ill or die.
 
@@ -26,9 +26,9 @@ On a personal note, if you're not yet vaccinated, please get vaccinated if or as
 
 Safety is paramount, with activity and financial health as secondary concerns. The following regularly reviewed restrictions apply until further notice.
 
-- Virtual events remain the preferred method of meeting OWASP provides free access to virtual meeting rooms, training, and webinar facilities for up to 1000 attendees. Virtual meetings have no cost to chapters, events, and training programs. You can obtain these via submitting a non-funding request ticket at https://contact.owasp.org.
+- Virtual events remain the preferred method of meeting OWASP provides free access to virtual meeting rooms, training, and webinar facilities for up to 1000 attendees. Virtual meetings have no cost to chapters, events, and training programs. You can obtain these via submitting a non-funding request ticket at <https://contact.owasp.org>.
 - Physical events should be postponed or not held at this time. If you are still holding a physical event, you must get pre-approval and follow the requirements set out below.
-- Meetings, activities, and events are not permitted without pre-approval in jurisdictions with prohibitions against mandatory masking, or prohibitions against businesses requiring vaccination status checks, prohibition against the use of vaccine passports, or proof of a recent negative COVID test. 
+- Meetings, activities, and events are not permitted without pre-approval in jurisdictions with prohibitions against mandatory masking, or prohibitions against businesses requiring vaccination status checks, prohibition against the use of vaccine passports, or proof of a recent negative COVID test.
 - Chapter-related expenses over $250 require pre-approval and will only be approved for chapter, project, committee, or event-related expenses. The Grants policy or applying for a regional event is likely to be better choices for larger expenses.
 - No monthly, software, periodic, or subscription event space, or other recurring payments are permitted as OWASP's income is down over 80% compared to 2019
 - Travel expenses require pre-approval. Travel is extraordinarily unlikely to be approved due to OWASP's financial position. See below for more details if you want to travel.
@@ -48,12 +48,12 @@ As of August 1, 2021, if you want to hold an in-person meeting, OWASP requires a
 Additionally:
 
 - Continue to live stream (hybrid) meetings online so that people who do not wish to attend, or cannot attend in person, can still participate.
-- If you feel unsafe, feel uncomfortable screening attendees, worry about confrontations, or being around folks who may be COVID positive, do not hold in-person events. 
+- If you feel unsafe, feel uncomfortable screening attendees, worry about confrontations, or being around folks who may be COVID positive, do not hold in-person events.
 - Stay home if you feel unwell. Include in the RSVP that attendees stay home if they are unwell.
 
 ### Physical Event RSVP waiver question
 
-Please add the following text as an RSVP question in Meetup: "If attending in person, I acknowledge that I do so at my own risk. OWASP recommends all participants be fully vaccinated before attending in-person events to reduce the risk of severe illness or death." 
+Please add the following text as an RSVP question in Meetup: "If attending in person, I acknowledge that I do so at my own risk. OWASP recommends all participants be fully vaccinated before attending in-person events to reduce the risk of severe illness or death."
 
 ### Physical Event Entrance Screening
 

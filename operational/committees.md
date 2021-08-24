@@ -20,7 +20,7 @@ Committees are working committees, and not advisory boards, although they may pr
 
 ## Definitions and Exclusions
 
-The Committees Policy establishes “standing committees” per the Robert’s Rules of Order, Newly Revised, 12th Ed (50:7), and contemplates empowering the Committee to act within its defined charter scope once established. Committees are free to adopt RONR 12th edition or later if they so choose to run meetings or resolve disputes, but they are not required to do so.
+The Committees Policy establishes “standing committees” per the Robert’s Rules of Order, Newly Revised, 12th Ed (50:7) (RONR), and contemplates empowering the Committee to act within its defined charter scope once established. Committees are free to adopt RONR 12th edition or later if they so choose to run meetings or resolve disputes, but they are not required to do so.
 
 To allow the Compliance Committee to become a formal Committee under this policy various exclusions to this policy are documented. This is due to the knowledge, skills, and the fact that it has historically been extraordinarily difficult to recruit qualified members to the Compliance Committee.
 
@@ -222,7 +222,7 @@ The Compliance Committee is welcome to submit an empty budget if they plan on no
 
 ### Donations, Sponsorship, and Fundraising
 
-Committees are strongly encouraged to solicit donations, sponsorships and fundraise for the Foundation. Committees have access to the Donations and Sponsorships policies and must comply with these policies. Where a donation is likely to be restricted, the Committee must work with the Foundation to see if unrestricted donations with donation and expense transparency for the donor will suffice to minimize administrative overheads.
+Committees are strongly encouraged to solicit donations, sponsorships, and fundraise for the Foundation. Committees have access to the Donations and Sponsorships policies and must comply with these policies. Where a donation is likely to be restricted, the Committee must work with the Foundation to see if unrestricted donations with donation and expense transparency for the donor will suffice to minimize administrative overheads.
 
 All donations, sponsorships, and fundraising are a public record at OWASP. All donations, sponsorships, and fundraising must be through the Foundation for financial record keeping, financial and audit controls, and to comply with non-profit and tax regulations.
 
