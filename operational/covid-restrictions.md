@@ -8,7 +8,7 @@ notice: 2021-07-30
 
 ---
 
-Last revised July 30, 2021, by Andrew van der Stock.
+Last revised August 24, 2021, by Andrew van der Stock.
 
 ## Background
 
@@ -16,7 +16,7 @@ OWASP is responsible for providing its community and staff with a safe environme
 
 During July 2021, the overall COVID situation has changed dramatically in many countries, with widespread community transmission, severe illness and death amongst the unvaccinated from the delta variant. Vaccine availability and rates in many parts of the world still far behind where it needs to be. 
 
-This month, we tighten our requirements for physical meetings, with a strong recommendation that you cancel existing and make no plans to hold physical events for the time being. We go back to requiring masks, social distancing, and so on for all events. We also prohibit holding events in jurisdictions that prohibit mandatory masking, checking or requiring proof of vaccination, or a recent negative COVID test. This is due to unbounded risk to OWASP, and high risk to attendees who might contract COVID, fall severely ill or die.
+This month, the temporary expenses policy is removed in favor of the just approved [Expenses policy](https://owasp.org/www-policy/operational/expense-reimbursement). With the delta variant surging throughout the world, and particularly the unvaccinated, we continue our strong recommendation that you cancel existing physical events, and make no plans to hold in person meetings, activities, or events for the time being. If you do hold a physical meeting or event, we mandate the use of screening and masks, social distancing, and so on for all events. We continue to prohibit holding meetings or events in jurisdictions that prohibit mandatory masking, checking or requiring proof of vaccination, or a recent negative COVID test. This is due to unbounded risk to OWASP, and high risk to attendees who might contract COVID, fall severely ill or die.
 
 Depending on your country or region, please don't assume that something can't happen. Please talk to us about your region's COVID situation and apply for an exemption if you need one.
 
@@ -29,8 +29,7 @@ Safety is paramount, with activity and financial health as secondary concerns. T
 - Virtual events remain the preferred method of meeting OWASP provides free access to virtual meeting rooms, training, and webinar facilities for up to 1000 attendees. Virtual meetings have no cost to chapters, events, and training programs. You can obtain these via submitting a non-funding request ticket at https://contact.owasp.org.
 - Physical events should be postponed or not held at this time. If you are still holding a physical event, you must get pre-approval and follow the requirements set out below.
 - Meetings, activities, and events are not permitted without pre-approval in jurisdictions with prohibitions against mandatory masking, or prohibitions against businesses requiring vaccination status checks, prohibition against the use of vaccine passports, or proof of a recent negative COVID test. 
-- Chapter-related expenses over $250 require pre-approval and will only be approved for chapter, project, committee, or event-related expenses. The Grants policy or applying for a regional event is likely to be better choices for larger expenses.
-- No monthly, software, periodic, or subscription event space, or other recurring payments are permitted as OWASP's income is down over 80% compared to 2019
+- Expenses are now governed by the approved [Expenses policy](https://owasp.org/www-policy/operational/expense-reimbursement), with the following exception to periodic payments: no monthly, software, periodic, or subscription event space, or other recurring payments will be pre-approved and are not permitted.
 - Travel expenses require pre-approval. Travel is extraordinarily unlikely to be approved due to OWASP's financial position. See below for more details if you want to travel.
 
 ## Physical Events
@@ -67,7 +66,9 @@ As of August 1, 2021, delta variant infection of fully vaccinated individuals is
 - **MANDATORY** Do not record or store any medical data. OWASP cannot securely or compliantly hold medical records or status.
 - **RECOMMENDED**: Vaccination status checks. Where local regulations permit or mandate, you may ask or be required to see vaccination status or a recent negative COVID test at the entrance. If you are mandated or require either fully vaccinated or a recent negative COVID test, put these requirements in the RSVP, so attendees can bring the appropriate information with them.
 
-**NB: If your region, state, or country prohibits mandatory masking, verifying vaccine passports, or viewing vaccination records or recent negative COVID tests to attend meetings or events, starting August 1, 2021, OWASP prohibits holding in-person meetings without pre-approval.** No one can obtain COVID insurance. Therefore, OWASP cannot hold events in these jurisdictions as the health risks are too great for leaders and participants, and the liability, financial, and legal risks to OWASP are too risky for a non-profit organization.
+**NB: If your region, state, or country prohibits mandatory masking, verifying vaccine passports, or viewing vaccination records or recent negative COVID tests to attend meetings or events, starting August 1, 2021, OWASP prohibits holding in-person meetings without pre-approval.** 
+
+No one can obtain COVID insurance. Therefore, OWASP cannot hold events in these jurisdictions as the health risks are too great for leaders and participants, and the liability, financial, and legal risks to OWASP are too risky for a non-profit organization.
 
 Under no circumstances do not get into confrontations. If you feel unsafe, please call law enforcement immediately, or ask the location's staff to call the police for trespass.
 
@@ -79,26 +80,11 @@ OWASP strongly recommends that all event organizers, volunteers, and participant
 
 As a global organization, we understand that obtaining vaccination may not be possible at this time. However, we encourage everyone to get vaccinated as soon as they can or are eligible.
 
-## Expense Approval criteria
+## Travel is strongly discouraged
 
-Once the new expenses policy is approved, many of these bullet points go away as they become the standard way of processing expenses.
+Do not make plans to travel, as travel in 2021 and most of 2022 is unlikely to be approved. 
 
-- Expenses under $250 do not require pre-approval. A single leader may submit them for any valid chapter, project, committee, or event expense with a valid receipt.
-- Expenses above USD 250 require pre-approval, dual leader approval (or leader + relevant committee if only one leader), and a valid receipt. OWASP will not pay unapproved expenses above USD 250
-- Expenses must have a short explanation of why the expenses are relevant to your chapter, project, or event. Good: "Food & beverage for February 2021 OWASP Sunnydale chapter meeting." Bad: "Catering"
-- During COVID, PPE such as disposable masks, no-touch thermometers, sanitization, and cleaning supplies are fair and reasonable expenses when holding physical events.
-- Physical gathering event spaces must be per meeting or event only and be related to a chapter, event, committee, or project.
-- Shared working spaces will not be reimbursed without pre-approval
-- Physical gathering expenses must have occurred to be paid.
-- Donations, sponsorships, or funding to external organizations require pre-approval and are unlikely to be approved.
-- Periodic subscriptions, software subscriptions, physical space subscriptions, or recurring monthly or annual fees of any type are not permitted without pre-approval
-- Expenses relating to shared services that the Foundation already provides to leaders, chapters, events, and projects for free cannot be reimbursed, such as Meetup Pro, Github Pro, GSuite Apps, Zoom, and similar
-- Expenses relating to vaccination, testing, or quarantine will not be reimbursed and are at your own expense.
-- If you do not have pre-approval for a physical gathering, no expenses will be paid, including PPE.
-
-## Travel is unnecessary and discouraged
-
-Do not make plans to travel, as travel in 2021 and most of 2022 is unlikely to be approved. Pre-approval will require that you demonstrate the following:
+Travel pre-approval is required, and will require that you demonstrate the following:
 
 - You have obtained sponsorship for all travel and incidental costs (if any)
 - You have demonstrated that your travel plans and destination have no travel restrictions. For example, driving to an event in a COVID-free country, domestic travel with no travel restrictions or differences in COVID status, or that there's a travel bubble between your departure location and destination.
