@@ -26,7 +26,7 @@ The annual budget process defines the expense categories, and funds are approved
 
 ## Establishment
 
-Expenses will no longer be tied to chapter or project balances. When this policy is approved, all previous chapter and project balances - positive and negative - will be zeroed out and the net amount returned to general revenue. Expenses will then be funded solely from the Expense pool unless otherwise noted.
+Expenses will no longer be tied to chapter or project balances. When this policy is approved, all previous chapter and project balances - positive and negative - will be zeroed out, and the net amount returned to general revenue. Expenses will then be funded solely from the Expense pool unless otherwise noted.
 
 ## Reimbursement Process
 
@@ -59,15 +59,15 @@ In some cases, pre-approval that contravenes bylaws, policy, or spending limits 
 
 ## Funding
 
-Expenses are available to all Chapters, Projects, Committees, Foundation staff, and Global Board, paid from the expense pool.
+Expenses are available to all Chapters, Projects, Committees, Foundation staff, and the Global Board paid from the expense pool.
 
-The Expense pool is funded by the Board via the annual budget at their sole discretion, to be topped up by donations, event profit shares, and via directed sponsorships. The OWASP Corporate Membership program may in the future include the ability to help fund the expenses pool by directing a portion of the membership fee to selected or all chapters, projects and committees. This portion will be added to the expense pool.
+The Board funds the Expense pool via the annual budget at their sole discretion, topped up by donations, event profit shares, and directed sponsorships. The OWASP Corporate Membership program may in the future include the ability to help fund the expenses pool by directing a portion of the membership fee to selected or all chapters, projects, and committees.
 
 The Expense pool has a monthly spend limit. If the monthly limit is exceeded, the Executive Director, Treasurer, or Global Board may choose to bring forward future months or top up the expense pool at their discretion per [signatory limits](https://owasp.org/www-policy/operational/signatory2).
 
-Awards and Scholarships, will be funded per the [Awards and Scholarships Policy](https://owasp.org/www-policy/operational/awards-and-scholarships) via specific sponsorships, donations, or grants, and not from the Expense pool. Unfunded Awards or Scholarships with no balance cannot reimburse expenses. Awards and Scholarships are not transferrable and if not used for the nominated purpose, funds are returned to the Expenses pool to further our mission in other ways.
+Awards and Scholarships will be funded per the [Awards and Scholarships Policy](https://owasp.org/www-policy/operational/awards-and-scholarships) via specific sponsorships, donations, or grants and not from the Expense pool. Unfunded Awards or Scholarships with no balance cannot reimburse expenses. Awards and Scholarships are not transferrable, and if not used for the nominated purpose, funds are returned to the Expenses pool to further our mission in other ways.
 
-Events can use the reimbursement processes as defined below, but will be funded via their own budget and profit and loss, governed by the [Events Policy](https://owasp.org/www-policy/operational/events). Expenses from events will be drawn from the event's seed funds and income, and not the general expense pool. Seeding for events may be funded by the Executive Director or Board at their discretion and within [signatory limits](https://owasp.org/www-policy/operational/signatory2) per the Events Policy.
+Events can use the reimbursement processes defined below but will be funded via their budget, profit, and loss, governed by the [Events Policy](https://owasp.org/www-policy/operational/events). The event expenses will be drawn from the seed funds and income, not the general expense pool. Seeding for events may be funded by the Executive Director or Board at their discretion and within [signatory limits](https://owasp.org/www-policy/operational/signatory2) per the Events Policy.
 
 Grants will be funded through donations, sponsorship, or via Board seeding. Expenses from grants will be drawn from the grant until fully drawn down, per the [Grants Policy](https://owasp.org/www-policy/operational/grants). Unfunded grants or grants with no balance cannot reimburse expenses.
 
