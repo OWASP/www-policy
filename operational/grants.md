@@ -19,12 +19,12 @@ Grants help fulfill our mission to improve the security of software globally. An
 Grant applicants should:
 
 1. Plan and document a deliverable or package of milestones and deliverables that are specific, realistic, and time-bound
-2. Identify the source(s), or proposed source(s) of funding to support the grant.
-3. [Submit a grant request (TBA)](#)
+2. Identify the source(s) or proposed source(s) of funding to support the grant.
+3. [Submit a grant request (TBA)](/#))
 
 The OWASP Projects and Technology Director and any relevant committee will evaluate the grant proposal and decide on approval within 30 days, considering the budget and any published temporary restrictions. If the request requires an exemption or Board vote, a decision will occur within 60 days to allow for a Committee and subsequent Board meeting.
 
-If approved, grant applicants must complete the following tasks prior to commencement of any work or activities covered by the grant:
+If approved, grant applicants must complete the following tasks before the commencement of any work or activities covered by the grant:
 
 - Publish the grant on their OWASP.org web page, including the grant acknowledgment
 - Finalize donors, sponsorships, or fundraise necessary funds no later than seven days after grant approval.
@@ -38,9 +38,10 @@ Spending on mission is required, with verifiable and timely outcomes. Grants mus
 
 ### Budgeting
 
-Grants should detail all likely expenses in the application process. Budgets should comply with all Foundation policies concerning expenses, capital purchases, operational expenses, signing authority, and travel. Any upfront costs must be detailed in the application and budget and why they must be paid upfront.
+Grants should detail all likely expenses in the application process. Budgets should comply with all Foundation policies concerning expenses, capital purchases, operational expenses, signing authority, and travel. All upfront costs must be detailed in the application and budget and why they must be paid upfront.
 
-Expenses greater than the approved budget will not be paid. Expenses above the approved budget are at the OWASP Project and Technology Director’s discretion. Expenses greater than the Executive Director’s signing authority require an OWASP Board affirmative vote.
+The Foundation will not pay expenses exceeding the approved budget.
+Expenses above the approved budget are at the OWASP Project and Technology Director’s discretion. Expenses greater than the Executive Director’s signing authority require an OWASP Board affirmative vote.
 
 ### Sabbatical Stipends
 
@@ -62,7 +63,7 @@ Under no circumstances will the OWASP Foundation be liable to deliver on the gra
 
 ### Restricted Spending
 
-There are few restrictions on grant spending. However, approval of grants containing any of the following items likely result in negotiations or a rejected application:
+There are few restrictions on grant spending. However, approval of grants containing any of the following items likely results in negotiations or a rejected application:
 
 - Temporary expense restrictions in effect at the time of the grant application
 - Capital and operational expenses must be necessary to complete the grant
