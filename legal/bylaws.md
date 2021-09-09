@@ -234,7 +234,7 @@ Establishment. The Board of Directors may, by resolution adopted by a majority o
 
 A local OWASP chapter may establish smaller, local chapters within the geographical boundary of a chapter, such as country or a city. The bylaws of a chapter must not contain anything that is at variance with the expressed purposes of the OWASP Foundation or with the OWASP Foundation Bylaws, and must be approved as specified by the OWASP Foundation Board of Directors before becoming effective. A chapter may not change its bylaws, its name, or its boundaries without approval as specified by the OWASP Foundation. Chapter Bylaws may be produced in the native language of a nation, but must be translated into English for submission to the OWASP Foundation.
 
-The chapter leader and local chapter board has to manage the local chapter according to the guidance and rules defined in the Chapter Leader Handbook. The OWASP Foundation may, by affirmative vote of a majority of the Board of Directors, suspend or annul a chapter if, in the judgment of the Board of Directors, such action is in the best interests of the OWASP Foundation.
+Local chapter leadership has to manage the local chapter according to the policies defined in the latest approved Chapter Policy. The OWASP Foundation may, by affirmative vote of a majority of the Board of Directors, suspend or annul a chapter if, in the judgment of the Board of Directors, such action is in the best interests of the OWASP Foundation.
 
 ## ARTICLE VI - INDEMNITY
 
