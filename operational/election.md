@@ -22,7 +22,7 @@ The OWASP Foundation is a community-led organization where some leadership roles
 
 ## Process
 
-No later than two months prior to an election, a timeline will be publicly available that is  minimally shared on the OWASP website. The timeline will include notices, important dates, and milestones.  For the OWASP Board of Directors those annual milestones are:
+No later than two months prior to an election, a timeline will be publicly available that is  minimally shared on the OWASP website. On the nearest business day, the timeline will include notices, important dates, and milestones. For the OWASP Board of Directors those annual milestones are:
 
 - Call for Candidates, August 15
 - Candidate Registration Deadline, August 31
@@ -42,7 +42,8 @@ The OWASP Foundation sources its leadership from the community in a democratic p
 
 Membership Day, September 30th of each year, is the primary deadline for Board of Director election qualifications. It is the day of that year’s election for which Membership is required to be an eligible elector, and it is the day the previous year for which candidates must have maintained continuous Membership in good standing to be a qualified candidate.
 
-> As an example for the 2020 Board Elections:
+As an example for the 2020 Board Elections:
+
 > - Members continuously in good standing since September 30, 2019 are qualified to run for Board of Directors seat
 > - Members in good standing on September 30, 2020 are eligible to vote
 
