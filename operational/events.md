@@ -79,7 +79,7 @@ To ensure a safe, constant learning and networking experience, OWASP Events shal
 
 Organizers are required to follow the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure that personal information is collected and stored in compliance with local laws and regulations like GDPR.
 
-If local laws or regulations have a different stance on public photography or data privacy collection than documented in the Event Code of Conduct, local laws and regulations have precedence. 
+Participation in OWASP Events are subject to locally applicable data protection regulations (for instance, see GDPR). Where conflicting local regulations exist, the most restrictive should be observed.
 
 ## Event Team Structure
 
