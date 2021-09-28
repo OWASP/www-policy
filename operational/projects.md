@@ -1,6 +1,6 @@
 ---
 
-title:  Project Policy (Draft WIP)
+title:  Project Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
@@ -8,7 +8,7 @@ notice: 2021-06-04
 
 ---
 
-{% include draft-notice.html %}
+Adopted by the Board on 28-Sept-2021
 
 ## Overview
 
