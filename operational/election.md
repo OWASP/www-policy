@@ -22,7 +22,9 @@ The OWASP Foundation is a community-led organization where some leadership roles
 
 ## Process
 
-No later than two months prior to an election, a timeline will be publicly available that is  minimally shared on the OWASP website. On the nearest business day, the timeline will include notices, important dates, and milestones. For the OWASP Board of Directors those annual milestones are:
+No later than two months prior to an election, a timeline will be publicly available that is  minimally shared on the OWASP website. On the nearest business day, the timeline will include notices, important dates, and milestones to be gazetted on the OWASP website prior to the election process starting. 
+
+For the OWASP Board of Directors those annual milestones are:
 
 - Call for Candidates, August 15
 - Candidate Registration Deadline, August 31
