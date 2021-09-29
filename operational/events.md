@@ -1,15 +1,14 @@
 ---
 
-title: Events Policy (Draft WIP)
+title: Events Policy
 layout: full-width
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-06-15
 
 ---
 
-{% include draft-notice.html %}
+Approved by the Board September 28, 2021
 
 # Events Policy
 
