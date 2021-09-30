@@ -8,7 +8,7 @@ tags: Rules of Procedure
 
 ---
 
-Approved by the Board September 28, 2021
+Adopted by the Board on 28-Sept-2020
 
 # Events Policy
 
