@@ -17,13 +17,13 @@ That is not to say that you will not find valuable and accurate information in O
 
 We are working on ways to select and highlight reliable versions of articles. Our active community of editors uses tools to monitor new and changing content. However, OWASP is not uniformly peer reviewed; while readers may correct errors or engage in casual peer review, they have no legal duty to do so and thus all information read here is without any implied warranty of fitness for any purpose or use whatsoever. Even articles that have been vetted by informal peer review or featured article processes may later have been edited inappropriately, just before you view them.
 
-None of the authors, contributors, sponsors, administrators, sysops, or anyone else connected with OWASP in any way whatsoever can be responsible for the appearance of any inaccurate or libelous information or for your use of the information contained in or linked from these web pages.
-
 ## No contract; limited license
 
 Please make sure that you understand that the information provided here is being provided freely, and that no kind of agreement or contract is created between you and the owners or users of this site, the owners of the servers upon which it is housed, the individual OWASP contributors, any project administrators, sysops or anyone else who is in "any way connected" with this project or sister projects subject to your claims against them directly. You are being granted a limited license to copy anything from this site; it does not create or imply any contractual or extracontractual liability on the part of OWASP or any of its agents, members, organizers or other users.
 
-There is "no agreement or understanding between you and OWASP" regarding your use or modification of this information beyond the Creative Commons Attribution-ShareAlike 2.5; neither is anyone at OWASP responsible should someone change, edit, modify or remove any information that you may post on OWASP or any of its associated projects.
+You, the reader, are being granted a limited license to copy anything from this site; it does not create or imply any contractual or extracontractual liability on the part of OWASP or any of its agents, members, organizers, or other users.
+
+There is "no agreement or understanding between you and OWASP" regarding your use or modification of this information beyond the Creative Commons Attribution-ShareAlike 4.0.
 
 ## Trademarks
 

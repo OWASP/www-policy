@@ -1,12 +1,12 @@
 ---
 
-title. Chapters Policy
+title: Chapters Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2021-02-23
 
 ---
-
 
 Adopted by the Board on 23-Feb-2021
 
@@ -113,7 +113,7 @@ There are currently two types of chapters you can start: city chapters and stude
 
 City chapters are the primary form of the OWASP chapter, with hundreds of chapters worldwide.
 
-- Approved city chapters are named "OWASP <<city name>>". City chapter names must not be a regional or country name unless the city name is the country name (e.g., Monaco).
+- Approved city chapters are named "OWASP «city name»". City chapter names must not be a regional or country name unless the city name is the country name (e.g., Monaco).
 - Chapters shall be defined for a single city only; a new chapter may be denied approval if there is another chapter within 80 km (50 miles).
 - Chapter leaders must reside within 80 km (50 miles) of the chapter location.
 - Exceptions to distance rules may be approved on a case-by-case basis, for example where travel times between two geographically close chapters is excessive (defined as more than one hour).
@@ -122,7 +122,7 @@ City chapters are the primary form of the OWASP chapter, with hundreds of chapte
 
 Students and faculty of institutions of higher education can create student chapters.
 
-- Student chapters are named “OWASP <<institution name>>” or where the institution has different campus locations, “OWASP <<institution name>> <<campus>>”
+- Student chapters are named “OWASP «institution name»” or where the institution has different campus locations, “OWASP «institution name» «campus»”
 - Student chapters are associated with one educational institution in a single geographic area. For example, each educational institution in a city is more than welcome to have their own student chapter, which is not the case for regular city chapters.
 - At least one leader must be a student, and at least one leader must be faculty from the institution.
 - Student chapters in a city with an active OWASP city chapter should make meaningful efforts to collaborate with the city chapter, and vice versa, where appropriate.
@@ -220,7 +220,7 @@ Until sanctions are lifted and where not complying with or breaching sanctions w
 a) New chapters cannot be formed.
 b) Existing chapters may be disbanded or made independent of the Foundation depending on the nature of the sanctions.
 c) Leaders and members who are sanctioned individuals will be removed from any leadership positions, and any membership fees refunded, including Lifetime membership.
-d) Access to OWASP materials are free and open-source, and can be obtained through many means, including OWASP's shared cloud platforms. For the purposes of curtailing access or prohibiting the "export" of such freely available information, OWASP relies solely upon the technical controls in place by our shared cloud platforms, which share the same sanction controls as the OWASP Foundation. The Foundation has no control over these technical controls, and the Foundation will not subvert these technical controls to allow access in sanctioned countries.
+d) Access to OWASP materials are free and open-source, and can be obtained through many means, including OWASP shared cloud platforms. For the purposes of curtailing access or prohibiting the "export" of such freely available information, OWASP relies solely upon the technical controls in place by our shared cloud platforms, which share the same sanction controls as the OWASP Foundation. The Foundation has no control over these technical controls, and the Foundation will not subvert these technical controls to allow access in sanctioned countries.
 
 The Executive Director and/or Community Manager will inform the OWASP Global Board and Chapter Committee of any changes to sanctioned chapters, leadership, or access.
 

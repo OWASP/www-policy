@@ -46,6 +46,8 @@ Spending on mission is required, with verifiable and timely outcomes. Grants mus
 
 Grants should detail all likely expenses in the application process. Budgets should comply with all Foundation policies concerning expenses, capital purchases, operational expenses, signing authority, and travel. Any upfront costs must be detailed in the application and budget and why they must be paid upfront.
 
+The Foundation will not pay expenses exceeding the approved budget.
+
 Expenses greater than the approved budget will not be paid. Expenses above the approved budget are at the OWASP Project and Technology Director’s discretion. Expenses greater than the Executive Director’s signing authority require an OWASP Board affirmative vote.
 
 ### Sabbatical Stipends
@@ -68,7 +70,7 @@ Under no circumstances will the OWASP Foundation be liable to deliver on the gra
 
 ### Restricted Spending
 
-There are few restrictions on grant spending. However, approval of grants containing any of the following items likely result in negotiations or a rejected application:
+There are few restrictions on grant spending. However, approval of grants containing any of the following items likely results in negotiations or a rejected application:
 
 - Temporary expense restrictions in effect at the time of the grant application
 - Capital and operational expenses must be necessary to complete the grant

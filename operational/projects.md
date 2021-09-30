@@ -1,6 +1,6 @@
 ---
 
-title: Project Policy (Draft WIP)
+title:  Project Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
@@ -8,7 +8,7 @@ notice: 2021-06-04
 
 ---
 
-{% include draft-notice.html %}
+Adopted by the Board on 28-Sept-2021
 
 ## Overview
 
@@ -82,11 +82,12 @@ There are currently three types of projects you can start: tool, code, and docum
 - After the new project is approved, the project leader must:
    - Create new project pages within 30 days of GitHub access on the owasp.org website (see [Website Migration Information and Tutorial](https://owasp.org/migration/) for assistance).
    - Log into their owasp.org email account within Google's defined time period, or they will need to log a support ticket via [Contact Us](https://contact.owasp.org/) to have a password recovery email sent to their registration email address.
-- Projects under the OWASP umbrella are the combined efforts of the project leaders, contributors, and the OWASP Foundation. All source material must remain within the foundation.  However, as these are open source projects, people are not prevented from forking projects and beginning new, non-OWASP projects. Removal of all project source material is at the sole discretion of the foundation.
+- Projects under the OWASP umbrella are the combined efforts of the project leaders, contributors, and the OWASP Foundation. All source material must remain within the foundation. However, as these are open source projects, people are not prevented from forking projects and beginning new, non-OWASP projects. Removal of all project source material is at the sole discretion of the foundation.
 - Projects must select an OSI-approved open source license and should provide a GitHub LICENSE file.
 
 ### Contributor Agreement
-Projects must use OWASP's recommended contributor agreement, [DCO](https://github.com/apps/dco) to ensure that all contributions are the original work of the contributor and/or they have permission to contribute that code or change. Projects with an existing contributor agreement are exempt from this policy as long as the contributor agreement doesn't conflict with OWASP's license requirements, copyright assignment requirements, and covers the risks of plagiarised code.
+
+Projects must use OWASP's recommended contributor agreement, [DCO](https://github.com/apps/dco) to ensure that all contributions are the original work of the contributor and/or they have permission to contribute that code or change. Projects with an existing contributor agreement are exempt from this policy as long as the contributor agreement doesn't conflict with OWASP's license requirements, copyright assignment requirements, and covers the risks of plagiarized code.
 
 ### Renaming a Project
 

@@ -39,6 +39,7 @@ The primary purpose of the OWASP Community Review (CR) is to systematically impr
 - Rejected: Means the PRT does not agree to make the change or cannot come to a consensus to make changes necessary to address the comment. A rational should be provided to explain why the comment is being rejected.
 - Comments along with the comment resolution document will be posted to the website.
 
+
 6. Once the comments have been reviewed and changes made to the policy based on comments that have been accepted or revised, the Policy Review Team votes to recommend to the OWASP Board the approval of the final document.
 7. Policy Review Team sends the policy and comment resolution document along with their recommendation for approval to the OWASP Board.
 8. The OWASP Board votes to approve the new or revised policy. If the board disapproves the policy, it is sent back along with the rational for the disapproval to the Policy Review Team of the policy for review and revision to policy. Then sent back to the board for approval.
@@ -55,8 +56,10 @@ The primary purpose of the OWASP Community Review (CR) is to systematically impr
 - One Chapter Leader from an active Chapter, as invited in descending website traffic order.
 - One Staff Member as assigned by the Executive Director.
 - Up to two not re-elected Board Members from the previous election.
-- As many Board Member nominees who were not elected from the previous election, as invited in descending voting order, to reach a total of seven members.
+- As many Board Member nominees who were not elected from the previous election, as invited in descending voting order
+
+to reach a total of seven members.
 
 4. Where members are invited, invitations are valid for seven days, will be made via email on or before December 1st, and will be revoked once expired.
-4. Should any Policy Review Team members be unable to complete their term, a like selected member will be invited.
-5. Project and Chapter Leader members cannot serve consecutive year terms.
+5. Should any Policy Review Team members be unable to complete their term, a like selected member will be invited.
+6. Project and Chapter Leader members cannot serve consecutive year terms.

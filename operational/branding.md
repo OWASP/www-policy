@@ -86,7 +86,7 @@ About the OWASP Foundation: The Open Web Application Security Project (OWASP) is
 - Similar to Joanna:
   - [Enriqueta](http://www.fontsquirrel.com/fonts/enriqueta)
   - [Deja Vu](http://www.fontsquirrel.com/fonts/DejaVu-Serif)
-  - [Brawler](http://www.fontsquirrel.com/fonts/brawler Brawler)
+  - [Brawler](http://www.fontsquirrel.com/fonts/brawler)
 
 The Following items are outdated and are in process of redesign
 
