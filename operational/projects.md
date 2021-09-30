@@ -1,6 +1,6 @@
 ---
 
-title: Project Policy (Draft WIP)
+title:  Project Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
@@ -8,7 +8,7 @@ notice: 2021-06-04
 
 ---
 
-{% include draft-notice.html %}
+Adopted by the Board on 28-Sept-2021
 
 ## Overview
 
@@ -37,6 +37,7 @@ Projects must be discoverable by new and existing members and participants.
 - Project activities must appear on the owasp.org website.
 - It is required for new projects to use OWASP’s official project source platform. Existing projects and new projects requiring an exception may request one.
 - Each project is responsible for creating and maintaining their owasp.org project home page (see also [Starting a New Project](#starting-a-new-project) and [Activity Requirements](#activity-requirements)).
+- Projects must identify as an OWASP project in their branding.
 - A list of the current leaders and email addresses must be listed on the Project’s web page on owasp.org. It is highly encouraged that leaders use their @owasp.org email address on these pages.
 
 ### Activity Requirements
@@ -71,21 +72,30 @@ OWASP Foundation will provide projects with the following shared services at no 
 - Assistance and resources are available through the [Project Committee](https://owasp.org/www-committee-project/) and other [OWASP Committees](https://owasp.org/committees/).
 - Event insurance covering project meetings.
 
-Services identical or similar to those provided by the foundation cannot be expensed without [prior approval](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/70). Where possible, all projects are encouraged to use a service that respects user privacy.
+Services identical or similar to those provided by the foundation cannot be expensed without [prior approval](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/14/create/74). Where possible, all projects are encouraged to use a service that respects user privacy.
 
 ## Starting a New Project
 
-There are currently three types of projects you can start: tool, code, and documentation. Prospective project leaders should familiarize themselves with this policy and the Project Handbook (TBD) prior to submitting the form.
+There are currently three types of projects you can start: tool, code, and documentation. Prospective project leaders should familiarize themselves with this policy and the Project Handbook (TBD) prior to submitting the [New Project Request Form](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/70). 
 
 - New projects must be approved by the foundation, by submitting a request through [Contact Us](https://contact.owasp.org/).
 - After the new project is approved, the project leader must:
   - Create new project pages within 30 days of GitHub access on the owasp.org website (see [Website Migration Information and Tutorial](https://owasp.org/migration/) for assistance.
   - Log into their owasp.org email account within Google's defined time period, or they will need to log a support ticket via [Contact Us](https://contact.owasp.org/) to have a password recovery email sent to their registration email address.
 - Projects under the OWASP umbrella are the combined efforts of the project leaders, contributors, and the OWASP Foundation. All source material must remain within the foundation. However, as these are open-source projects, people are not prevented from forking projects and beginning new, non-OWASP projects. Removal of all project source material is at the sole discretion of the foundation.
+- Projects must select an OSI-approved open source license and should provide a GitHub LICENSE file.
+
+### Contributor Agreement
+
+Projects must use OWASP's recommended contributor agreement, [DCO](https://github.com/apps/dco) to ensure that all contributions are the original work of the contributor and/or they have permission to contribute that code or change. Projects with an existing contributor agreement are exempt from this policy as long as the contributor agreement doesn't conflict with OWASP's license requirements, copyright assignment requirements, and covers the risks of plagiarized code.
 
 ### Renaming a Project
 
 - Any project name changes must be approved by the foundation. A request for approval must be submitted through [Contact Us](https://contact.owasp.org/).
+
+### Subdomains
+* Projects may request subdomains of the format <subdomain>.owasp.org. OWASP does not cover the cost of existing domains that are not a sub-domain of owasp.org unless those domains redirect to an official subdomain.owasp.org. Expenses will not be paid for any other domain held by a project.
+* OWASP branding (including OWASP logo, links to the official owasp.org website, project home page, and repo) should be prominent on sub-domains or alternative domains maintained by the project. This branding should adhere to the [OWASP Branding Guidelines](https://owasp.org/www-policy/operational/branding.html).
 
 ## Inactive Projects
 

@@ -5,8 +5,6 @@ layout: full-width
 
 ---
 
-# OWASP FOUNDATION Bylaws
-
 Last amended and effective date: January 27, 2021.
 
 - [ARTICLE I OFFICES](#article-i---offices)
@@ -107,7 +105,7 @@ Directors are responsible for maintaining their membership in good standing for 
 
 A Director or Candidate for the Board shall have maintained continuous membership in good standing over the previous 12 months, notwithstanding any grace periods established in these bylaws.
 
-At the time of their election, to qualify to stand, candidates must hold an Individual membership, Lifetime membership, or hold a valid Honorary Membership. This membership must have been in place for a 12 month period prior to the date of the election.
+At the time of their election, to qualify to stand, candidates must hold an Individual membership, Lifetime membership, or hold a valid Distinguished Lifetime Membership. This membership must have been in place for a 12 month period prior to the date of the election.
 
 Foundation funds should not be used to pay for membership. Foundation paid memberships of any class, from any funding source including conferences, chapters, projects, donations, etc, shall not constitute paid membership nor possess voting rights.
 
@@ -178,7 +176,7 @@ Should there be any doubt about the validity of the claim, a majority vote of th
 
 ### SECTION 3.15 Good standing grace period
 
-Directors and Candidates for the Board who have lapses in good standing have a grace period of 7 days to renew their membership. Directors or Candidates who fail to obtain paid individual or lifetime membership, honorary membership, or renew their previous membership within the permitted grace period will not have maintained good standing for the purposes of election eligibility. Directors may continue to vote on the Board during the grace period.
+Directors and Candidates for the Board who have lapses in good standing have a grace period of 7 days to renew their membership. Directors or Candidates who fail to obtain paid individual or lifetime membership, Distinguished Lifetime membership, or renew their previous membership within the permitted grace period will not have maintained good standing for the purposes of election eligibility. Directors may continue to vote on the Board during the grace period.
 
 ### Section 3.16 ADOPTION OF ROBERTS RULES OF ORDER
 
@@ -188,7 +186,7 @@ The rules contained in the current edition of Robert's Rules of Order Newly Revi
 
 ### SECTION 4.01 Membership Classes
 
-There shall be the following classes of OWASP members: Corporate, Individual, Complementary, Honorary, and Student.
+There shall be the following classes of OWASP members: Corporate, Individual, Complementary, Lifetime, Distinguished Lifetime, and Student.
 
 ### SECTION 4.02 Qualifications
 
@@ -196,7 +194,7 @@ Individual, Corporate, and Student Membership may be granted to any individual o
 
 Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and has been in the top 5 position continuously for six months prior to applying for complimentary membership. Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complementary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership. Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership.
 
-Honorary Membership is equivalent to Lifetime Individual Membership. Honorary Membership shall be determined and approved solely by a majority vote of the Board of Directors for long-standing and extraordinary services to the OWASP Community.
+Distinguished Lifetime Membership is an award that shall be determined and approved solely by a majority vote of the Board of Directors for long-standing and extraordinary services to the OWASP Community, and can be granted to any participant or member who meets criteria as adopted by the Board from time to time. Distinguished Lifetime Membership is equivalent to Lifetime Individual Membership, and will take the place of any existing membership on record. This award does not entitle the receipient to a partial or full refund of any existing membership.
 
 All membership classes are eligible to vote in elections.
 
@@ -236,7 +234,7 @@ Establishment. The Board of Directors may, by resolution adopted by a majority o
 
 A local OWASP chapter may establish smaller, local chapters within the geographical boundary of a chapter, such as country or a city. The bylaws of a chapter must not contain anything that is at variance with the expressed purposes of the OWASP Foundation or with the OWASP Foundation Bylaws, and must be approved as specified by the OWASP Foundation Board of Directors before becoming effective. A chapter may not change its bylaws, its name, or its boundaries without approval as specified by the OWASP Foundation. Chapter Bylaws may be produced in the native language of a nation, but must be translated into English for submission to the OWASP Foundation.
 
-The chapter leader and local chapter board has to manage the local chapter according to the guidance and rules defined in the Chapter Leader Handbook. The OWASP Foundation may, by affirmative vote of a majority of the Board of Directors, suspend or annul a chapter if, in the judgment of the Board of Directors, such action is in the best interests of the OWASP Foundation.
+Local chapter leadership has to manage the local chapter according to the policies defined in the latest approved Chapter Policy. The OWASP Foundation may, by affirmative vote of a majority of the Board of Directors, suspend or annul a chapter if, in the judgment of the Board of Directors, such action is in the best interests of the OWASP Foundation.
 
 ## ARTICLE VI - INDEMNITY
 
