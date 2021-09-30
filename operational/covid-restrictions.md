@@ -8,15 +8,15 @@ notice: 2021-07-30
 
 ---
 
-Last revised August 24, 2021, by Andrew van der Stock.
+Last revised September 30, 2021, by Andrew van der Stock.
 
 ## Background
 
-OWASP is responsible for providing its community and staff with a safe environment, promoting chapter, project, and committee mission-related activity, while being financially responsible. The following restrictions are in place until they are all lifted.
+The OWASP Foundation is responsible for providing its community and staff with a safe environment, promoting chapter, project, and committee mission-related activity, while being financially responsible. The following restrictions are in place until they are all lifted.
 
-During August 2021, the overall COVID situation continues to worsen in many countries, with widespread community transmission, severe illness and death amongst the unvaccinated from the delta variant. Vaccine availability and rates in many parts of the world still far behind where it needs to be. Therefore, we continue our strong recommendation that you cancel existing physical events, and make no plans to hold in person meetings, activities, or events for the time being. If you do hold a physical meeting or event, we mandate the use of screening and masks, social distancing, and so on for all events. We continue to prohibit holding meetings or events in jurisdictions that prohibit mandatory masking, checking or requiring proof of vaccination, or a recent negative COVID test. This is due to unbounded risk to OWASP, and high risk to attendees who might contract COVID, fall severely ill or die.
+During September 2021, the latest COVID surge is starting to peak, with widespread community transmission, severe illness and death amongst the unvaccinated from the delta variant. Vaccine availability and rates in many parts of the world still far behind where it needs to be. Therefore, we continue our strong recommendation that you cancel existing physical events, and make no plans to hold in person meetings, activities, or events for the time being.
 
-This month, the temporary expenses policy is removed in favor of the just approved [Expenses policy](https://owasp.org/www-policy/operational/expense-reimbursement), but we continue to prohibit the pre-approval or processing of periodic payments of any type (software, space, etc).
+If you do hold a physical meeting or event, we mandate the use of screening and masks, social distancing, and so on for all events. We continue to prohibit holding meetings or events in jurisdictions that prohibit mandatory masking, prohibit checking or requiring proof of vaccination or providing a recent negative COVID test. This is due to unbounded risk to OWASP, and high risk to attendees who might contract COVID, fall severely ill or die.
 
 Depending on your country or region, please don't assume that something can't happen. Please talk to us about your region's COVID situation and apply for an exemption if you need one.
 
@@ -28,16 +28,18 @@ Safety is paramount, with activity and financial health as secondary concerns. T
 
 - Virtual events remain the preferred method of meeting OWASP provides free access to virtual meeting rooms, training, and webinar facilities for up to 1000 attendees. Virtual meetings have no cost to chapters, events, and training programs. You can obtain these via submitting a non-funding request ticket at <https://contact.owasp.org>.
 - Physical events should be postponed or not held at this time. If you are still holding a physical event, you must get pre-approval and follow the requirements set out below.
-- Meetings, activities, and events are not permitted without pre-approval in jurisdictions with prohibitions against mandatory masking, or prohibitions against businesses requiring vaccination status checks, prohibition against the use of vaccine passports, or proof of a recent negative COVID test. 
+- Due to unmanageable risk, meetings, activities, or events are not permitted without pre-approval in jurisdictions with prohibitions against mandatory masking, or prohibitions against businesses requiring vaccination status checks, prohibition against the use of vaccine passports, or proof of a recent negative COVID test.
 - Expenses are now governed by the approved [Expenses policy](https://owasp.org/www-policy/operational/expense-reimbursement), with the following exception to periodic payments: no monthly, software, periodic, or subscription event space, or other recurring payments will be pre-approved and are not permitted.
-- No monthly, software, periodic, or subscription event space, or other recurring payments are permitted as OWASP's income is down over 80% compared to 2019
-- Travel expenses require pre-approval. Travel is extraordinarily unlikely to be approved due to OWASP's financial position. See below for more details if you want to travel.
+- No monthly, software, periodic, or subscription event space, or other recurring payments are permitted, as OWASP's income and expenses are very limited due to COVID
+- All travel expenses require pre-approval. Travel is extraordinarily unlikely to be approved due to OWASP's financial position. See below for more details if you want to travel.
 
 ## Physical Events
 
-Sadly, it seems that the delta variant is ravaging unvaccinated populations. This new surge means a return to virtual events for the time being. However, as no one rule fits all, there are always exceptions.
+**NB: If your region, state, or country prohibits mandatory masking, verifying vaccine passports, or viewing vaccination records or recent negative COVID tests to attend private meetings or events, starting August 1, 2021, OWASP prohibits holding in-person meetings without pre-approval.**
 
-As of August 1, 2021, if you want to hold an in-person meeting, OWASP requires all approved physical events to follow [WHO COVID small event guidelines](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-small-public-gatherings), which means:
+No one can obtain COVID insurance. Therefore, OWASP cannot hold events in these jurisdictions as the health risks are too great for leaders and participants, and the liability, financial, and legal risks to OWASP are too risky for a non-profit organization.
+
+If you are permitted by local regulations, and your local regulations don't prohibit our mandatory meeting safety requirements, and you feel safe to hold an in-person meeting, OWASP requires all approved physical events to follow [WHO COVID small event guidelines](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-small-public-gatherings), which means:
 
 - Always check local guidelines before planning your event.
 - Brief guests about precautions before the event starts; during the event, remind guests of these precautions and ensure they are followed.
@@ -53,11 +55,9 @@ Additionally:
 
 ### Physical Event RSVP waiver question
 
-Please add the following text as an RSVP question in Meetup: "If attending in person, I acknowledge that I do so at my own risk. OWASP recommends all participants be fully vaccinated before attending in-person events to reduce the risk of severe illness or death."
+Please add the following text as an RSVP question in Meetup: "If attending in person, I acknowledge that I do so at my own risk. OWASP recommends all participants be fully vaccinated before attending in-person events to reduce the risk of severe illness or death. The OWASP Foundation requires all attendees to pass a temperature screening and COVID symptom check, to wear masks at all times, and follow social distancing at the event."
 
 ### Physical Event Entrance Screening
-
-As of August 1, 2021, delta variant infection of fully vaccinated individuals is not well understood, so we return to mandatory masking and social distancing requirements.
 
 - **MANDATORY** Please continue to screen for temperature and ask symptom questions. Require unwell people to go home. Stay home if you cannot pass this test. Please print the first page and familiarize yourself with the rest of the document. Use the checklist to ask attendees to attest that they haven't had those symptoms. Require unwell people to go home and seek medical care.
 
@@ -67,13 +67,7 @@ As of August 1, 2021, delta variant infection of fully vaccinated individuals is
 - **MANDATORY** Do not record or store any medical data. OWASP cannot securely or compliantly hold medical records or status.
 - **RECOMMENDED**: Vaccination status checks. Where local regulations permit or mandate, you may ask or be required to see vaccination status or a recent negative COVID test at the entrance. If you are mandated or require either fully vaccinated or a recent negative COVID test, put these requirements in the RSVP, so attendees can bring the appropriate information with them.
 
-**NB: If your region, state, or country prohibits mandatory masking, verifying vaccine passports, or viewing vaccination records or recent negative COVID tests to attend meetings or events, starting August 1, 2021, OWASP prohibits holding in-person meetings without pre-approval.** 
-
-No one can obtain COVID insurance. Therefore, OWASP cannot hold events in these jurisdictions as the health risks are too great for leaders and participants, and the liability, financial, and legal risks to OWASP are too risky for a non-profit organization.
-
 Under no circumstances do not get into confrontations. If you feel unsafe, please call law enforcement immediately, or ask the location's staff to call the police for trespass.
-
-We will continue to review the situation and adjust accordingly.
 
 ### What is OWASP's position on vaccination?
 
@@ -83,7 +77,7 @@ As a global organization, we understand that obtaining vaccination may not be po
 
 ## Travel is strongly discouraged
 
-Do not make plans to travel, as travel in 2021 and most of 2022 is unlikely to be approved. 
+Do not make plans to travel, as travel in 2021 and most of 2022 is unlikely to be approved.
 
 Travel pre-approval is required, and will require that you demonstrate the following:
 
