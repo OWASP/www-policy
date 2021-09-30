@@ -40,12 +40,12 @@ While the Foundation will make diligent efforts to inform members of their membe
 
 Individuals can only become members of the OWASP Foundation by completing the [Membership Form](/membership) on our website and paying dues, and complying with the following conditions:
 
-* Membership dues are to be paid by the Member and cannot be subsidized or funded by OWASP Projects, Chapters, or Events.
-* Applicants must provide their country of residence, postal code, email address, name, and billing information. These details are subject to GDPR privacy protections, and the Foundation will not share private information without consent.
-* Members are not attached to any particular Chapter or Project but are at-large members by submitting the Membership Form.
-* Applicants consent to receive communications from the OWASP Foundation concerning membership status.
-* Only qualifying individuals will be eligible for Complimentary, Regional, and Student Memberships.
-* Once paid, Membership Dues are not prorated, nor can they be canceled once purchased.
+- Membership dues are to be paid by the Member and cannot be subsidized or funded by OWASP Projects, Chapters, or Events.
+- Applicants must provide their country of residence, postal code, email address, name, and billing information. These details are subject to GDPR privacy protections, and the Foundation will not share private information without consent.
+- Members are not attached to any particular Chapter or Project but are at-large members by submitting the Membership Form.
+- Applicants consent to receive communications from the OWASP Foundation concerning membership status.
+- Only qualifying individuals will be eligible for Complimentary, Regional, and Student Memberships.
+- Once paid, Membership Dues are not prorated, nor can they be canceled once purchased.
 
 The OWASP Foundation is the exclusive grantor of OWASP Memberships. No person or entity can act as a membership agent or grant Honorary or Complimentary memberships except for the OWASP Board of Directors.
 
@@ -67,7 +67,7 @@ The Foundation will revoke fraudulent membership submissions without notice and 
 
 ## Complimentary Membership
 
-Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and has been in the top 5 position continuously for six months prior to applying for complimentary membership.
+Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics and has been in the top 5 position continuously for six months prior to applying for complimentary membership.
 
 Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complimentary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership. Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership.
 

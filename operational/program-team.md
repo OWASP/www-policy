@@ -20,14 +20,16 @@ The Conference Program Team exists to create an impactful program that speaks to
 
 Conference Program Teams are constituted for each Global AppSec event and consists of members of OWASP members and staff. The selection of team members is based on subject-matter expertise and balanced representation of the OWASP community. For planning purposes, team members shall reside on the continent of the Global AppSec for which they serve. Teams are constituted no later than six months prior to the Global AppSec event.
 
-Team members contribute via email and video conference, and are expected to attend up to two called face-to-face meetings throughout the program development process, as well as the Global AppSec Event. Terms are for one Global AppSec. Meetings are usually held on a fortnight cadence, with meetings potentially increasing in frequency as the Event nears. Team members can expect to spend approximately 2-10 hours per week on this commitment.
+Team members contribute via email and video conference and are expected to attend up to two called face-to-face meetings throughout the program development process, as well as the Global AppSec Event. Terms are for one Global AppSec. Meetings are usually held on a fortnight cadence, with meetings potentially increasing in frequency as the Event nears. Team members can expect to spend approximately 2-10 hours per week on this commitment.
 
 Finally, Team members will be asked to sign an agreement at the beginning of their term and are expected to abide by the agreement and OWASP Code of Conduct. Team members are not eligible to speak at the Global AppSec which they plan.
 
 ## Responsibilities
+
 The Program Team will meet on a regular cadence, which may become more frequent as circumstances require. Team membership is a substantial commitment beginning prior to the Global AppSec and up to one-month post-event.
 
 Team Members:
+
 - Identify program themes
 - Develop detailed timeline for submission and review process
 - Promote the open call for submissions (training and papers) amongst subject matter experts and encourage submissions
@@ -64,7 +66,7 @@ Local Chapters (where applicable):
 
 - Supports logistic tasks on site before and during Event
 - Contributes knowledge about local cultural practices and local knowledge.
-- Provides timely ideas, suggestions for local services, catering and complementary events.
+- Provides timely ideas, suggestions for local services, catering, and complementary events.
 - Helps logistically at arrival of other team members, speakers, and guests.
 
 ## Compensation
@@ -74,6 +76,7 @@ Team members will receive economy-class airfare, lodging, airport transfers, and
 ## Application
 
 Program Team members are selected through a competitive application process. OWASP Staff will notify the community of the Program Team formulation, timeline for applications, and select the Program Team. Criterion for selection include:
+
 - Former experience organizing similar conferences
 - Historical OWASP Community involvement and reputation
 - OWASP Membership status and history

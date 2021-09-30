@@ -11,7 +11,7 @@ Adopted by the Board on 20-Oct-2020
 
 ## Overview
 
-The OWASP Foundation is a community-led organization where some leadership roles are filled with individuals elected by Membership. While the following policy is specifically written for Board of Directors Elections, it should be used as a model for other OWASP elections. Generally elections should be conducted in a fair and transparent manner which include:
+The OWASP Foundation is a community-led organization where some leadership roles are filled with individuals elected by Membership. While the following policy is specifically written for Board of Directors Elections, it should be used as a model for other OWASP elections. Generally, elections should be conducted in a fair and transparent manner which include:
 
 - Sufficient notice period for nominations and voting
 - Concise candidate and electorate qualifications
@@ -36,7 +36,7 @@ For the OWASP Board of Directors those annual milestones are:
 
 Elections shall include a method for the electorate to get to know the candidates and their position on topical matters. For the Board of Directors election, this method will minimally include a (1) two week call for questions from the community where a final list sorted by popularity for up to six questions will be provided to candidates, and (2) each candidate will post an online video linked on the Foundation’s website to a candidate community page.
 
-Email sent to Members shall be the official and primary communication method to engage candidates and Members for OWASP elections.  Members shall receive no less than three (3) email notices for the following: (1) call for candidates, (2) call for questions, (3) notice that in order to vote you must be a Member, and (4) notice to vote. Timelines for elections may include courtesy notices through other channels including social media and mailing lists; however, they are not required and should not be expected for official communications from the OWASP Foundation to Members and the community at large.
+Email sent to Members shall be the official and primary communication method to engage candidates and Members for OWASP elections. Members shall receive no less than three (3) email notices for the following: (1) call for candidates, (2) call for questions, (3) notice that in order to vote you must be a Member, and (4) notice to vote. Timelines for elections may include courtesy notices through other channels including social media and mailing lists; however, they are not required and should not be expected for official communications from the OWASP Foundation to Members and the community at large.
 
 ## Qualifications
 
@@ -46,8 +46,8 @@ Membership Day, September 30th of each year, is the primary deadline for Board o
 
 As an example for the 2020 Board Elections:
 
-> - Members continuously in good standing since September 30, 2019 are qualified to run for Board of Directors seat
-> - Members in good standing on September 30, 2020 are eligible to vote
+- Members continuously in good standing since September 30, 2019 are qualified to run for Board of Directors seat
+- Members in good standing on September 30, 2020 are eligible to vote
 
 In the case of the Board of Directors, Members are elected for a two-year term which starts January 1 of the calendar year following the election. It is the responsibility of each Director on the Board to continuously maintain Membership in good standing while serving the Foundation.
 
@@ -61,9 +61,9 @@ In situations where an election will be selecting more than one candidate, such 
 
 ## Results
 
-All OWASP elections shall fully report the results of balloting in no more than three (3) days following the close of voting. Each candidate with each individual vote total, and in the case where the electorate can cast more than one vote the cumulative total of all ballots cast, will be listed in a publicly available manner that is minimally shared on the OWASP website
+All OWASP elections shall fully report the results of balloting in no more than three (3) days following the close of voting. Each candidate with each individual vote total, and in the case where the electorate can cast more than one vote the cumulative total of all ballots cast, will be listed in a publicly available manner that is minimally shared on the OWASP website.
 
-The Executive Director or their designee shall certify an election results. Member voting history is private, so no one other than the Member shall know their vote.
+The Executive Director or their designee shall certify an election result. Member voting history is private, so no one other than the Member shall know their vote.
 
 ## Sole Election Policy
 

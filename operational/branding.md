@@ -23,7 +23,7 @@ Please note, this page is supplemental to the [OWASP Foundation OWASP Word Mark 
 
 On this page, you will find the most current marketing materials and brand guidelines used by the OWASP Foundation.
 
-###  Guidelines
+### Guidelines
 
 The OWASP brand is the property of the OWASP Foundation. The right to use the name or logo is granted as long as the following guidelines are followed. The right to use the OWASP brand may be revoked at any time. The following rules make reference to the OWASP Materials, meaning any tools, documentation, or other content from OWASP.
 
@@ -50,36 +50,46 @@ OWASP does not endorse any product, services, or tools. The following disclaimer
 
 About the OWASP Foundation: The Open Web Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible so that individuals and organizations worldwide can make informed decisions about true software security risks. Everyone is free to participate in OWASP, and all of our materials are available under a free and open software license. You'll find everything about OWASP linked from our wiki and current information on our OWASP Blog. OWASP does not endorse or recommend any product or service. This allows our community to remain vendor neutral with the collective wisdom of the best minds in software security worldwide.
 
-##  Screen Resolution Marks
+## Screen Resolution Marks
+
 (Right mouse click to Save Image As...)
 
-#### Combination Mark (Logo + Wordmark w/R)
+### Combination Mark (Logo + Wordmark w/R)
+
 ![Combination Mark (Logo + Wordmark w/R)](/www-policy/branding-assets/OWASP-Combination-mark-r.png)
 
-#### Logo Mark (Logo w/TM)
+### Logo Mark (Logo w/TM)
+
 ![Logo Mark (Logo w/TM)](/www-policy/branding-assets/OWASP-logo-tm.jpg)
 
-#### Website SVG Logo
+### Website SVG Logo
+
 ![SVG Website Logo](/assets/images/logo.svg)
-##  Assets and Collatoral
 
+## Assets and Collateral
 
-Templates
+### Templates
+
 - Slide Templates
-   - [Google Slides](https://docs.google.com/presentation/d/1tbvT9WDb0q6RN9OgsAHBjN0QHNPZay8WSule74MzzZ4/edit?usp=sharing)
-   - [Microsoft PowerPoint](/www-policy/branding-assets/OWASP_Generic_Template_r1.potx)
-   - [LibreOffice](/www-policy/branding-assets/OWASP_GENERIC_TEMPLATE.odp)
 
-Typefaces
+  - [Google Slides](https://docs.google.com/presentation/d/1tbvT9WDb0q6RN9OgsAHBjN0QHNPZay8WSule74MzzZ4/edit?usp=sharing)
+  - [Microsoft PowerPoint](/www-policy/branding-assets/OWASP_Generic_Template_r1.potx)
+  - [LibreOffice](/www-policy/branding-assets/OWASP_GENERIC_TEMPLATE.odp)
+
+### Typefaces
+
 - Similar to House Gothic
+
   - [Y Titillium Typeface](http://www.fontsquirrel.com/fonts/Titillium)
   - [Armata Typeface](http://www.fontsquirrel.com/fonts/armata)
+
 - Similar to Joanna:
   - [Enriqueta](http://www.fontsquirrel.com/fonts/enriqueta)
   - [Deja Vu](http://www.fontsquirrel.com/fonts/DejaVu-Serif)
-  - [Brawler](http://www.fontsquirrel.com/fonts/brawler Brawler)
+  - [Brawler](http://www.fontsquirrel.com/fonts/brawler)
 
 The Following items are outdated and are in process of redesign
+
 - OWASP Supporter Logos
 - Letterhead
 - Business Cards

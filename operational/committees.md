@@ -10,21 +10,19 @@ notice: 2020-10-20
 
 Adopted by the Board on October 20, 2020
 
-# Committees Policy
-
 ## Introduction
 
 The OWASP Committees Policy devolves responsibility for in-scope outcomes to Committees and empowers OWASP members and the community to help shape OWASP.
 
-This policy builds on previous versions of this policy, and concisely describes Committee charters and scope; composition of the Committee; formation process, powers and responsibility to deliver outcomes; access to budgets, grants, funding, travel, and expenses; activity requirements, conflict resolution, and dissolution process.
+This policy builds on previous versions of this policy, and concisely describes Committee charters and scope; composition of the Committee; formation process, powers, and responsibility to deliver outcomes; access to budgets, grants, funding, travel, and expenses; activity requirements, conflict resolution, and dissolution process.
 
 Committees are working committees, and not advisory boards, although they may provide advice to the Foundation and the Board. Committees are responsible for driving the agenda and outcomes for their scope, including creating and maintaining a Committee handbook, relevant induction and education for Committee participants, and ensuring the Committee remains active and focused on delivering mission related outcomes.
 
 ## Definitions and Exclusions
 
-The Committees Policy establishes “standing committees” per the Robert’s Rules of Order, Newly Revised, 12th Ed (50:7), and contemplates empowering the Committee to act within its defined charter scope once established. Committees are free to adopt RONR 12th edition or later if they so choose to run meetings or resolve disputes, but they are not required to do so.
+The Committees Policy establishes “standing committees” per the Robert’s Rules of Order, Newly Revised, 12th Ed (50:7) (RONR), and contemplates empowering the Committee to act within its defined charter scope once established. Committees are free to adopt RONR 12th edition or later if they so choose to run meetings or resolve disputes, but they are not required to do so.
 
-To allow the Compliance Committee to become a formal Committee under this policy various exclusions to this policy are documented. This is due to the particular knowledge, skills, and the fact that it has historically been extraordinarily difficult to recruit qualified members to the Compliance Committee.
+To allow the Compliance Committee to become a formal Committee under this policy various exclusions to this policy are documented. This is due to the knowledge, skills, and the fact that it has historically been extraordinarily difficult to recruit qualified members to the Compliance Committee.
 
 ## Lifecycle
 
@@ -61,7 +59,7 @@ Charters must not:
 - Alter or bypass any financial, legal, tax, or regulatory controls, checks, or balances.
 - Alter or bypass Foundation operational requirements, such as automation or replace shared infrastructure, or require unreasonable resources, staff, or time, by Foundation staff as deemed by the Executive Director.
 
-Any post-formation amendments to the Charter have the same requirements as outlined in this section, and must be passed by 2/3rd majority by the Committee officers before being sent to the next Board meeting for review and approval.
+Any post-formation amendments to the Charter have the same requirements as outlined in this section and must be passed by 2/3rd majority by the Committee officers before being sent to the next Board meeting for review and approval.
 
 The Executive Director will review proposed charters, obtain legal or financial review as required, and suggest improvements. The Board will review and approve the initial charter and any changes to a charter by majority vote, unless the charter grants some of the Board’s responsibilities or duties, in which case, a 2/3rd majority vote is required.
 
@@ -77,13 +75,13 @@ Committee Officers must be at least three (3) and no more than five (5) OWASP me
 
 Committee Officers must maintain continuous OWASP membership during their time on the Committee board, and adhere to the Code of Conduct, and to adhere to relevant sections of the annual Board of Director’s agreement. If they are not members, they can continue contributing to the committee, but not as a voting committee member or officer.
 
-Committee officers cannot be officers of another Committee, the Global Board, or Foundation staff. All of these classes of individuals can participate in any Committee, but not vote in any matter outside of the Committee they lead.
+Committee officers cannot be officers of another Committee, the Global Board, or Foundation staff. All these classes of individuals can participate in any Committee, but not vote in any matter outside of the Committee they lead.
 
 ### Staff Liaison
 
-The OWASP Foundation may nominate a staff member to attend the new committee meetings and work with the Committee Chair on committee activities, as available. The Staff Liaison is not a full time staff member for the committee, but will assist the committee on a best efforts basis.
+The OWASP Foundation may nominate a staff member to attend the new committee meetings and work with the Committee Chair on committee activities, as available. The Staff Liaison is not a full-time staff member for the committee but will assist the committee on a best efforts basis.
 
-Compliance Committee Exclusion: To maintain arms length independence from the Foundation, the Compliance Committee can choose a staff member, or choose to not have one.
+Compliance Committee Exclusion: To maintain arm’s length independence from the Foundation, the Compliance Committee can choose a staff member, or choose to not have one.
 
 ## Establishment of the Committee
 
@@ -95,11 +93,11 @@ The Executive Director will review the OWASP membership of the leadership team a
 
 ### Transition of prior Committees
 
-Various committees have existed in the past. To ensure all Committees have access to funding, budgets, travel, and all of the powers defined in this version of the policy, existing Committees will need to align their leadership structure to be within 3-5 OWASP members, and submit an approved amended Charter per the requirements above with at least 30 days notice.
+Various committees have existed in the past. To ensure all Committees have access to funding, budgets, travel, and all the powers defined in this version of the policy, existing Committees will need to align their leadership structure to be within 3-5 OWASP members and submit an approved amended Charter per the requirements above with at least 30 days’ notice.
 
 ### Empowerment
 
-Committees can provide operational governance, plan, start, and run initiatives with outcomes within their Scope defined in the Charter as long as the activity or outcome is aligned with the OWASP mission, current Board strategy, all applicable policies, and Foundation operational requirements. All activity and outcomes must comply with the OWASP Code of Conduct.
+Committees can provide operational governance, plan, start, and run initiatives with outcomes within their Scope defined in the Charter if the activity or outcome is aligned with the OWASP mission, current Board strategy, all applicable policies, and Foundation operational requirements. All activity and outcomes must comply with the OWASP Code of Conduct.
 
 Committees cannot sign contracts or create partnership agreements. Committees cannot commit to spending outside their budget.
 
@@ -109,7 +107,7 @@ Committees can advise the Foundation and the Board on desired changes to operati
 
 Once established, the Committee is a working standing committee, and not an advisory board. The Committee should establish either during formation or by no later than their second meeting, a calendar of desired outcomes defined in their charter scope that they wish to pursue, including any out of cycle budget requests.
 
-Committees should report on progress in achieving their initiatives and outcomes to the Board quarterly. Committees who fail to provide two progress reports in a row are considered inactive, and are in danger of being dissolved under the provisions below.
+Committees should report on progress in achieving their initiatives and outcomes to the Board quarterly. Committees who fail to provide two progress reports in a row are considered inactive and are in danger of being dissolved under the provisions below.
 
 ### Voting
 
@@ -125,15 +123,15 @@ As Committees have a subset of the powers and responsibilities of the Global Boa
 
 Elections for Committee leadership shall be held simultaneously as Board elections in that year, using the same mechanisms and timelines. Committees may choose to vote in a subset of officers each year, or the entire committee once every two years.
 
-If no nominations for replacement officers are received, in and in the case where Committee officers wish to as an officer, the OWASP Board can approve an extension of any existing officers’ term on a case by case basis, to allow the Committee to continue running.
+If no nominations for replacement officers are received, in and in the case where Committee officers wish to as an officer, the OWASP Board can approve an extension of any existing officers’ term on a case-by-case basis, to allow the Committee to continue running.
 
 The Compliance Committee has no term limits and is not required to hold elections as candidates must have certain skills and as it is particularly difficult to recruit Compliance Committee members.
 
 ## Dissolving a Committee
 
-The goal of this section is not to close committees, but to ensure that all committees are active. Inactive committees are a burden on governance, and will be dissolved as a last resort.
+The goal of this section is not to close committees, but to ensure that all committees are active. Inactive committees are a burden on governance and will be dissolved as a last resort.
 
-Inactive officers are defined as not attending 2 or more of the last 4 public meetings, or being unresponsive to Foundation or Committee communications for more than 7 days.
+Inactive officers are defined as not attending 2 or more of the last 4 public meetings or being unresponsive to Foundation or Committee communications for more than 7 days.
 
 Inactive committees are defined as one or more of the following:
 
@@ -162,7 +160,7 @@ Once returned to normal strength, committee roles for the officers must be re-se
 
 If a committee becomes inactive, defined as above, the Foundation will declare all leadership positions vacant and call for new Committee officers, and work to re-establish the Committee with at least three officers.
 
-If recruitment fails to achieve the necessary number of officers, or the Committee again fails to hold a public meeting within 30 days of recruitment, then the Committee will be dissolved and an announcement made to members. After being dissolved, the governance and operational scope of the Committee will be returned to the OWASP Board (strategy, policy, and oversight) or Foundation (operational activities). Depending on the Board’s strategy and operational priorities of the Foundation, this may mean no further in-scope activity, even if there are planned events.
+If recruitment fails to achieve the necessary number of officers, or the Committee again fails to hold a public meeting within 30 days of recruitment, then the Committee will be dissolved, and an announcement made to members. After being dissolved, the governance and operational scope of the Committee will be returned to the OWASP Board (strategy, policy, and oversight) or Foundation (operational activities). Depending on the Board’s strategy and operational priorities of the Foundation, this may mean no further in-scope activity, even if there are planned events.
 
 The Community may re-establish a dissolved Committee by following the same formation as defined in this policy.
 
@@ -171,14 +169,14 @@ The Community may re-establish a dissolved Committee by following the same forma
 The Board, in its sole discretion, or after an upheld complaint to the Compliance Committee, can vacate some or all of a Committee’s leadership or dissolve a committee entirely. This covers:
 
 - Breaches of Code of Conduct or relevant sections of the Board of Directors Code of Conduct, or continuing conduct that is inconsistent with the OWASP mission.
-- Abuse of governance, such as violating the Board’s premacy for strategy, policy, and oversight, rejection of Foundation mandates for operational matters, or abuse of accountable projects, chapters, events, other Committees, the Foundation, or the Board.
-- Abuse of financial controls, including budget overruns, excessive or fraudulent expenses,  abuse of the grant process, including bypassing Foundation financial controls, tax evasion, self-dealing, conflicts of interest, and any other financial controls in place.
+- Abuse of governance, such as violating the Board’s primacy for strategy, policy, and oversight, rejection of Foundation mandates for operational matters, or abuse of accountable projects, chapters, events, other Committees, the Foundation, or the Board.
+- Abuse of financial controls, including budget overruns, excessive or fraudulent expenses, abuse of the grant process, including bypassing Foundation financial controls, tax evasion, self-dealing, conflicts of interest, and any other financial controls in place.
 - Regulatory violations, such as violating GDPR or other privacy laws, or exposure of member data, mismanaging of data held about minors, and so on.
 - Transparency - opaque votes or outcomes that cause perceived or actual conflict of interest or self-dealing.
 - Accountability - agreed mission related outcomes are consistently not being met
 - Other aspects that the Board considers relevant in coming to a decision.
 
-Committee officers who are vacated or on the Committee at its dissolution shall not be permitted to run another committee for a period of five years, and may be referred for further sanctions including up to revocation of membership under the relevant Code of Conduct.
+Committee officers who are vacated or on the Committee at its dissolution shall not be permitted to run another committee for a period of five years and may be referred for further sanctions including up to revocation of membership under the relevant Code of Conduct.
 
 ## Accountability and Transparency
 
@@ -186,13 +184,13 @@ Committee officers who are vacated or on the Committee at its dissolution shall 
 
 Committee meeting agendas must be posted to the leaders list, and relevant other communication channels, such as social media or Slack channels to encourage public participation.
 
-The Compliance Committee does not hold public meetings, and is exempt from this requirement.
+The Compliance Committee does not hold public meetings and is exempt from this requirement.
 
 ### Publishing minutes or recordings
 
 The Committee must keep minutes of actions on the OWASP website. This can be in the form of a recording of the Committee meeting, or it can be a documented minutes prepared by the Secretary of the Committee.
 
-The Compliance Committee does not hold public meetings, and is exempt from this requirement.
+The Compliance Committee does not hold public meetings and is exempt from this requirement.
 
 ### Awards, Grants, and Scholarships
 
@@ -208,7 +206,7 @@ For the purposes of accountability and transparency, Committees should expect al
 
 As Committees are empowered with a subset of the Board’s powers per their Charter scope, Committee officers have a fiduciary duty to act in the best interests of the OWASP Foundation and the OWASP Board.
 
-Committee officers should review the OWASP Board of Directors Code of Conduct, and can request access to Board training materials and services to learn about their responsibilities, how to treat each other, and discharging relevant duties.
+Committee officers should review the OWASP Board of Directors Code of Conduct and can request access to Board training materials and services to learn about their responsibilities, how to treat each other, and discharging relevant duties.
 
 ## Finances
 
@@ -218,21 +216,21 @@ Committees must provide an annual budget with the Foundation during budget plann
 
 If the Committee wishes to fund an unbudgeted grant, committees should create a grant request in the OSD (Funding) ticket system with sufficient details including outcomes, any attached sponsors, and budget required. These tickets will be routed to the OWASP Treasurer and Executive Director to determine if the grant can occur with co-approval, or if a Board vote is necessary.
 
-Committees who fail to provide an annual budget will be considered inactive and unable to spend under the expenses, travel, awards, grants and scholarships. A budget containing zero expenses and income is permitted.
+Committees who fail to provide an annual budget will be considered inactive and unable to spend under the expenses, travel, awards, grants, and scholarships. A budget containing zero expenses and income is permitted.
 
 The Compliance Committee is welcome to submit an empty budget if they plan on not attending Board meetings in person, otherwise they should submit a budget detailing that travel.
 
 ### Donations, Sponsorship, and Fundraising
 
-Committees are strongly encouraged to solicit donations, sponsorships and fundraise for the Foundation. Committees have access to the Donations and Sponsorships policies, and must comply with these policies. Where a donation is likely to be restricted, the Committee must work with the Foundation to see if unrestricted donations with donation and expense transparency for the donor will suffice to minimize administrative overheads.
+Committees are strongly encouraged to solicit donations, sponsorships, and fundraise for the Foundation. Committees have access to the Donations and Sponsorships policies and must comply with these policies. Where a donation is likely to be restricted, the Committee must work with the Foundation to see if unrestricted donations with donation and expense transparency for the donor will suffice to minimize administrative overheads.
 
-All donations, sponsorships, and fundraising is a public record at OWASP. All donations, sponsorships, and fundraising must be through the Foundation for financial record keeping, financial and audit controls, and to comply with non-profit and tax regulations.
+All donations, sponsorships, and fundraising are a public record at OWASP. All donations, sponsorships, and fundraising must be through the Foundation for financial record keeping, financial and audit controls, and to comply with non-profit and tax regulations.
 
 ### Expenses
 
 Committees may access the standard expense policy for committee related purposes. Expenses require the Chair and one other officer to co-approve the expense, along with a receipt and a description of the Committee purpose for the expense.
 
-For the purposes of accountability and transparency, Committees should expect their expenses to be a public record, and can be inspected by the public.
+For the purposes of accountability and transparency, Committees should expect their expenses to be a public record and can be inspected by the public.
 
 ### Travel
 
@@ -242,19 +240,19 @@ The Chair must submit the travel request, and one other officer must co-approve.
 
 Where travel is required as part of a planned Committee outcome, such as running an event at a conference or to allow a scholarship or award recipient to travel, this should be budgeted as a specific grant in the annual budget, rather than under the travel policy so that the Board can approve the budget as a whole, provide pre-approval for the expenditure, and for the expense to be correctly directed to program outcomes.
 
-For the purposes of accountability and transparency, Committees should expect their travel to be a public record, and can be inspected by the public.
+For the purposes of accountability and transparency, Committees should expect their travel to be a public record and can be inspected by the public.
 
 ### Misconduct
 
 Committee members must abide by the OWASP Code of Conduct. A committee member can be reported to the Compliance Committee by OWASP members, other committee officers, Foundation staff, and the OWASP Board.
 
-In the unlikely event that the Compliance Committee has misconduct, this will be referred to the the OWASP Chair for further action.
+In the unlikely event that the Compliance Committee has misconduct, this will be referred to the OWASP Chair for further action.
 
 The OWASP Board may sanction, declare leadership vacant, or dissolve a Committee to resolve a misconduct claim.
 Conflict Resolution
 
 Internal disputes within the scope (for example, within projects and the Projects Committee), the Committee is the first level of dispute resolution using the OWASP Conflict Resolution policy. If the issue remains, the dispute should be escalated to the Executive Director, Compliance Committee, or the Board as required.
 
-In the unlikely event that the Compliance Committee has conflict, this will be referred to the the OWASP Chair for further action.
+In the unlikely event that the Compliance Committee has conflict, this will be referred to the OWASP Chair for further action.
 
 After mediation, the decision of the Compliance Committee, Executive Director, or Board is final and binding.
