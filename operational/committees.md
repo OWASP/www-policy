@@ -222,7 +222,7 @@ The Compliance Committee is welcome to submit an empty budget if they plan on no
 
 ### Donations, Sponsorship, and Fundraising
 
-Committees are strongly encouraged to solicit donations, sponsorships, and fundraise for the Foundation. Committees have access to the Donations and Sponsorships policies and must comply with these policies. Where a donation is likely to be restricted, the Committee must work with the Foundation to see if unrestricted donations with donation and expense transparency for the donor will suffice to minimize administrative overheads.
+Committees are strongly encouraged to solicit donations, sponsorships and fundraise for the Foundation. Committees have access to the Donations and Sponsorships policies and must comply with these policies. Where a donation is likely to be restricted, the Committee must work with the Foundation to see if unrestricted donations with donation and expense transparency for the donor will suffice to minimize administrative overheads.
 
 All donations, sponsorships, and fundraising are a public record at OWASP. All donations, sponsorships, and fundraising must be through the Foundation for financial record keeping, financial and audit controls, and to comply with non-profit and tax regulations.
 

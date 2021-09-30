@@ -7,6 +7,7 @@ tags: Rules of Procedure
 notice: 2021-02-23
 
 ---
+
 Adopted by the Board on 23-Feb-2021
 
 ## Overview
@@ -49,7 +50,7 @@ Chapters must be discoverable by new and existing members and participants.
 - Chapter activities are for the benefit of the community, and could include, but are not limited to:
   - Chapter meetings (traditional meetups)
   - Training days
-  - Capture the Flag/Hackathon events
+  - Capture the Flag/Hack-a-Thon events
   - Local/Regional AppSec Days events
   - Student-focused activities, at secondary and/or college level
 - Chapter activity information (date, time, and location) must be posted on the owasp.org chapter page before the event start date.
