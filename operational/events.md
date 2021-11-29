@@ -23,21 +23,21 @@ Events at OWASP have a rich history and are fundamental to OWASP’s success. Wi
 - Apply for an event through OCMS, preferably at least 180 days prior to the event
 - Foundation will process event approval, and if any, exemption approval to the Board
 - If approved, OWASP Foundation signs event space and catering contracts
-- Event team to recruit more organizers and volunteers, the more the better
+- Event team to recruit more organizers and volunteers, the more, the better
 - Event team can start public marketing, promotion, CFPs/CFTs
 - Event team to find sponsors. Foundation to sign sponsorship contracts
 - Event team to divide up and work on event, local, logistic, and volunteer tasks for several months
 - Event team to run the event with the help of organizers and volunteers
 - Event team to submit and finalize all invoices and payments within 60 days 
 - Net profits are split and allocated within 90 days 
-- Take a break, you’ve earned it
+- Take a break; you’ve earned it
 
 ## Types of events
 
 There are four major event types:
 
 - Local events or activities, generally free or with a small admission fee and limited sponsorship, such as CTFs or labs, or a social event
-- AppSec Days, replacing the previous “regional event” type, generally a larger charged event with sponsorships, including project summits, standards setting, training, event, unconference, or another activity type
+- AppSec Days, replacing the previous “regional event” type, generally a larger charged event with sponsorships, including project summits, standards-setting, training, event, unconference, or another activity type
 - Global AppSec, generally run by and for the OWASP Foundation
 - OWASPx, a new type of event where organizers license OWASP’s branding and name in return for a fee.
 
@@ -45,7 +45,7 @@ There are four major event types:
 
 OWASP Members, non-profit associations, and charities may apply for an OWASPx event partnership. For-profit companies, unincorporated associations, or individuals may not apply for an OWASPx event to protect OWASP’s non-profit status and brand.
 
-OWASPx events need to sign a partnership and licensing agreement and pay a licensing fee to use OWASP’s trademarks and branding. Such an agreement covers a single event or a series of events in a single year. In return, OWASP will promote the OWASPx event as per a standard local or AppSec Days event, and grant access to the OWASP Speaker’s Bureau. Access to sponsorship or attendance lists from OWASP events is explicitly not granted.  
+OWASPx events need to sign a partnership and licensing agreement and pay a licensing fee to use OWASP’s trademarks and branding. Such an agreement covers a single event or a series of events in a single year. In return, OWASP will promote the OWASPx event as per a standard local or AppSec Days event and grant access to the OWASP Speaker’s Bureau. Access to sponsorship or attendance lists from OWASP events is explicitly not granted.  
 
 The partner association or charity should submit a plan and budget to help assess if the event can be approved. No funds from OWASP will be used to promote or run the event, as all marketing, expenses, profits, liabilities, and risks belong to the partner organization. 
 
@@ -64,7 +64,7 @@ Bartering sponsorships (say, where event space or food and beverage is covered b
 
 ## Community
 
-Some primary drivers for OWASP events are that they should be fun, appsec related, and safe to attend. Therefore, we require organizers of all event types, including OWASPx, to adhere to OWASP’s Code of Conduct and Event Code of Conduct. 
+Some primary drivers for OWASP events are that they should be fun, AppSec related, and safe to attend. Therefore, we require organizers of all event types, including OWASPx, to adhere to OWASP’s Code of Conduct and Event Code of Conduct. 
 
 ### OWASP Code of Conduct
 
@@ -72,7 +72,7 @@ All OWASP events must be conducted in a manner consistent with the [OWASP Missio
 
 ### Event Code of Conduct
 
-To ensure a safe, constant learning and networking experience, OWASP Events shall conform to the [Conference & Event Attendee Policy](/www-policy/operational/conferences-events) and in particular its Anti-Harassment provisions. 
+To ensure a safe, constant learning and networking experience, OWASP Events shall conform to the [Conference & Event Attendee Policy](/www-policy/operational/conferences-events) and, in particular, its Anti-Harassment provisions. 
 
 ### Attendee Privacy
 
@@ -84,19 +84,19 @@ Participation in OWASP Events are subject to locally applicable data protection 
 
 Events can be run in many different ways, but to enable the proper functioning of expenses, budgets, and sponsorships, we categorize event organizers into two groups: 
 - Event Leaders, who must be OWASP members
-- Organizers and volunteers, who don’t need to be OWASP members.
+- Organizers and volunteers who don’t need to be OWASP members.
 
-We recognize that all successful events rely on the generous donation of time and resources from many leaders, organizers and volunteers.
+We recognize that all successful events rely on the generous donation of time and resources from many leaders, organizers, and volunteers.
 
 ### Leadership 
 
-Event leaders are OWASP leaders, with all that entails - a free owasp.org email, ability to claim expenses, and submit budgets. Events must have at least two (2) and up to five (5) leaders. Leaders must be OWASP members to allow the use of the expenses policy and setting and using the event budget. Leadership is conferred after a successful event application process, and once granted, the event’s owasp.org page should have the list of active leaders in the event's website in the leaders.md file.
+Event leaders are OWASP leaders, with all that entails - a free owasp.org email, ability to claim expenses and submit budgets. Events must have at least two (2) and up to five (5) leaders. Leaders must be OWASP members to allow the use of the expenses policy and setting and using the event budget. Leadership is conferred after a successful event application process, and once granted, the event’s owasp.org page should have the list of active leaders in the event's website on the leaders.md file.
 
-Leaders are responsible and accountable for planning the event, drawing up and meeting the budget, and ensuring that the event is profitable. Leaders are likely to contribute well in excess of 40 hours organizing an event (usually far, far more), and perform hundreds of tasks, which is why they are considered OWASP Leaders, just like Chapter and Project Leaders.
+Leaders are responsible and accountable for planning the event, drawing up and meeting the budget, and ensuring that the event is profitable. Leaders are likely to contribute well in excess of 40 hours organizing an event (usually far, far more) and perform hundreds of tasks, which is why they are considered OWASP Leaders, just like Chapter and Project Leaders.
 
 Some of those responsibilities include:
 
-- Ensure events are conducted in a manner consistent with the OWASP Mission, Principles and [Code of Conduct](/www-policy/operational/code-of-conduct)
+- Ensure events are conducted in a manner consistent with the OWASP Mission, Principles, and [Code of Conduct](/www-policy/operational/code-of-conduct)
 - Comply with the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure that personal information is collected and stored in compliance with local laws and regulations like GDPR.
 - All event management logistics, budget management, website content, promotional items, site selection, catering, and venue
 - Manage facility space allocation and programming layout
@@ -104,7 +104,7 @@ Some of those responsibilities include:
 - Graphical design of event including signage and print materials
 - All other event-related activities not explicitly delegated and then accepted by OWASP Staff.
 
-Local, AppSec Days and OWASPx Event leaders are solely responsible for managing their respective Event. 
+Local, AppSec Days, and OWASPx Event leaders are solely responsible for managing their respective Event. 
 
 ### Organizers
 
@@ -114,7 +114,7 @@ Events can have any number of organizers, but to promote accountability for deli
 
 ### Volunteers
 
-Volunteers are responsible for working on and delivering small parcels of event activities, such as proctoring rooms, taking a shift at the registration desk, and so on. Volunteers are generally local to the event itself, and will likely work on only a limited number of tasks or activities. 
+Volunteers are responsible for working on and delivering small parcels of event activities, such as proctoring rooms, taking a shift at the registration desk, and so on. Volunteers are generally local to the event itself and will likely work on only a limited number of tasks or activities. 
 
 Events can have any number of volunteers, but to reduce volunteer management and logistics, this policy recommends less than 50. 
 
@@ -141,18 +141,18 @@ Some of the Foundation's duties may include (and not limited to):
 
 The policy recommends that in return for organizing and putting on an event, the following benefits should be applied:
 
-- Leaders, organizers, volunteers, speakers and trainers should have free access to the event
-- All leaders, organizers, and volunteers should be given an event t-shirt or swag to help identify them for their efforts, and especially if they are present at the event to help attendees identify Event team members who may be able to assist them
-- Reasonable accomodation for parking or local transport, food and beverages, especially if their duties require them to be present on a continuous basis
-- At the discretion of Event leaders, access to event dinners and social events is highly recommended but not required
+- Leaders, organizers, volunteers, speakers, and trainers should have free access to the event
+- All leaders, organizers, and volunteers should be given an event t-shirt or swag to help identify them for their efforts, and especially if they are present at the event to help attendees identify Event team members who may be able to assist them.
+- Reasonable accommodation for parking or local transport, food, and beverages, especially if their duties require them to be present on a continuous basis
+- At the discretion of Event leaders, access to event dinners and social events is highly recommended but not required.
 
-Event leaders have in the past provided “free” OWASP membership to organizers or volunteers. Whilst admirable, OWASP funds paying for OWASP membership is prohibited by OWASP bylaws to prevent an appearance or actuality of conflict. That said, Event leaders can apply for an exemption with the event application. If an exemption granted by the Board, a list of no more than 20 names should be provided for the exemption no later than 60 days after the end of the event. Per the bylaws, all such memberships do not confer voting rights and will last a single year unless an exemption is granted by the Board.
+Event leaders have in the past provided “free” OWASP membership to organizers or volunteers. Whilst admirable, OWASP funds paying for OWASP membership is prohibited by OWASP bylaws to prevent an appearance or actuality of conflict. That said, Event leaders can apply for an exemption with the event application. If an exemption is granted by the Board, a list of no more than 20 names should be provided for the exemption no later than 60 days after the end of the event. Per the bylaws, all such memberships do not confer voting rights and will last a single year unless an exemption is granted by the Board.
 
 If an exemption is granted, any Membership fees will be deducted from the gross profits of the event at the membership fee due in the event's country.
 
 ### Foundation and Board Benefits
 
-If the OWASP Foundation or Board attend the event, such as to assist with registration or holding a Board meeting, organizers shall give Foundation staff and the Board free access to the event. Access to event activities, such as the event dinner or social events is recommended but not required.
+If the OWASP Foundation or Board attend the event, such as to assist with registration or holding a Board meeting, organizers shall give Foundation staff and the Board free access to the event. Access to event activities, such as the event dinner or social events, is recommended but not required.
 
 ## Event lifecycle
 
@@ -351,7 +351,7 @@ Events should negotiate with and encourage paid trainers to donate a portion of 
 
 The event team may establish a discount code to provide complimentary registration for paid events, but this should be financially responsible and not exceed 20% of the total tickets available. If the desire is to run a mostly free event with more than 20% of tickets being complimentary, contact the OWASP Foundation to find sponsors for the event so it can be free for all attendees.
 
-If speakers or trainers need an assistant to run their session, a limited number of complimentary discount codes may be given to the trainer to give to nominated assistants to assist them throughout their talk or training session. Assistants who are simply sitting in on the class as a complementary attendee should instead be processed through the Awards and Scholarships policy so as to not disadvantage others, improve transparency, and to ensure that the complementary attendee if selected under an open and fair selection process, has full access to the entire event, and not just the session or training class.
+If speakers or trainers need an assistant to run their session, a limited number of complimentary discount codes may be given to the trainer to give to nominated assistants to assist them throughout their talk or training session. Assistants who are simply sitting in on the class as a complementary attendee should instead be processed through the Awards and Scholarships policy so as to not disadvantage others, improve transparency, and to ensure that the complementary attendee, if selected under an open and fair selection process, has full access to the entire event, and not just the session or training class.
 
 Complimentary registration should not be offered for training where a trainer fee is being paid without prior agreement from the trainer. Scholarships (see above) should be budgeted instead. 
 
@@ -363,11 +363,11 @@ Event Teams are responsible for marketing and promoting their event, using chapt
 
 ### OWASP Events shall include OWASP Branding
 
-Events should use OWASP's name, logo, and branding prominently on their Events website, social media and other marketing within OWASP's branding guidelines. 
+Events should use OWASP's name, logo, and branding prominently on their Events website, social media, and other marketing within OWASP's branding guidelines. 
 
 All approved Events, including OWASPx events that have paid the OWASPx licensing fee, have a license to use all OWASP registered trademarks for that approved event only.
 
-### Event approval required before marketing can commence
+### Event approval is required before marketing can commence
 
 Promoting events prior to approval has caused OWASP in the past to lose precious mission funds, goodwill, such as voiding contracts, paying cancellation and penalty fees, refunding tickets, and several speakers and trainers who have said they will not work with us again. 
 
@@ -379,16 +379,16 @@ Any unapproved event being promoted could lead to the event not being approved a
 
 Event teams are responsible for ensuring event website content is hosted within the owasp.org website or a sub-domain, regularly updated and well maintained, including the current schedule and program, speaker or trainer bios, who is involved in the Event team, valid registration, and ensuring of logos and so on are appropriately promoted in a vendor-neutral fashion. 
 
-Event teams are responsible for listing their event in the upcoming events area of the main OWASP website, to promote and ensure the discoverability of the event.
+Event teams are responsible for listing their event in the upcoming events area of the main OWASP website to promote and ensure the discoverability of the event.
 
-External, unaffiliated websites that do not prominently display the OWASP logo, event sponsors, or link back to OWASP’s official website are not permitted, and may be grounds for cancellation of the event or not running the event in future years. 
+External, unaffiliated websites that do not prominently display the OWASP logo, event sponsors, or link back to OWASP’s official website are not permitted and may be grounds for cancellation of the event or not running the event in future years. 
 
 ### Recording Events
 
-Recording events is strongly encouraged. Event recordings should be made available to members soon after an event, and to the public within six months of the event. Events are responsible for running their own Event channel, named “OWASP \<Event Name”\>, so that the public can find the recordings, and hopefully learn more about your event and attend in the future. A low cost recording solution is documented in the Events in a Box. Event teams are custodians - and not owners - of the video accounts, and need to be shared with all current and future leaders. Event teams must pass the accounts to the next Event team. Failure to pass on or share accounts may lead to leadership being revoked or future events being denied. 
+Recording events is strongly encouraged. Event recordings should be made available to members soon after an event and to the public within six months of the event. Events are responsible for running their own Event channel, named “OWASP \<Event Name”\> so that the public can find the recordings and hopefully learn more about your event and attend in the future. A low-cost recording solution is documented in the Events in a Box. Event teams are custodians - and not owners - of the video accounts and need to be shared with all current and future leaders. Event teams must pass the accounts to the next Event team. Failure to pass on or share accounts may lead to leadership being revoked or future events being denied. 
 ### Social media 
 
-Event teams are encouraged to have their own social media accounts, named “OWASP \<Event Name\>” so that the events can easily be found. Event teams are custodians - and not owners - of the event’s website and social media accounts. 
+Event teams are encouraged to have their own social media accounts named “OWASP \<Event Name\>” so that the events can easily be found. Event teams are custodians - and not owners - of the event’s website and social media accounts. 
 
 Event teams must pass the accounts to the next Event team. Failure to pass on or share accounts may lead to leadership being revoked or future events being denied. 
 
@@ -400,39 +400,39 @@ OWASP has access to various social media management tools. Events are encouraged
 
 ### Swag and Member stickers, coins, or pins
 
-Swag, if offered, should be financially responsible, environmentally friendly, in line with our mission, and not difficult or bulky to transport, or prohibited to travel (such as lock picks, liquids, or knives). Swag for virtual events is strongly discouraged as shipping and handling costs can easily wipe out the profitability of any event, no matter the size. 
+Swag, if offered, should be financially responsible, environmentally friendly, in line with our mission, and not difficult or bulky to transport or prohibited to travel (such as lock picks, liquids, or knives). Swag for virtual events is strongly discouraged as shipping and handling costs can easily wipe out the profitability of any event, no matter the size. 
 
 Please work with the Foundation to obtain a supply of membership pins, both individual and lifetime. These should only be handed out to OWASP Members of the appropriate membership type.
 
-We encourage events to hand out OWASP, event, or membership stickers, pins, or coins as a marketing cost, but please ensure that costs for these are financially responsible. For example, giving away a $25 t-shirt for a $50 event does not make sense. Designs are maintained in the [Events In a Box](TBA) so you can have these items made locally to reduce costs.
+We encourage events to hand out OWASP, event, or membership stickers, pins, or coins as a marketing cost, but please ensure that costs for these are financially responsible. For example, giving away a $25 t-shirt for a $50 event does not make sense. Designs are maintained in the [Events In a Box](TBA), so you can have these items made locally to reduce costs.
 
 ## Enhancing our mission through profit sharing
 
-Profits must re-invested in our mission, under the direction of the Event team. Unlike in previous policies, this policy actively encourages the event team to direct net profits towards their preferred mission. The only unacceptable use of profits is to not use them, which is prohibited by non-profit compliance rules, and frowned upon by donors and sponsors. 
+Profits must be reinvested in our mission under the direction of the Event team. Unlike in previous policies, this policy actively encourages the event team to direct net profits towards their preferred mission. The only unacceptable use of profits is to not use them, which is prohibited by non-profit compliance rules and frowned upon by donors and sponsors. 
 
 ### Investing in the future
 
-We wish to see the running of more events, and for those events to grow and run time and time again. For many years, the OWASP Foundation has seeded events from general revenue and recovered deposits from event profits, but this hasn’t resulted in more events. Seeding will not change in this policy, but what will change is the idea of re-investing profits to run future events. This will allow more events to be seeded every year, which grows our mission globally.
+We wish to see the running of more events and for those events to grow and run time and time again. For many years, the OWASP Foundation has seeded events from general revenue and recovered deposits from event profits, but this hasn’t resulted in more events. Seeding will not change in this policy, but what will change is the idea of re-investing profits to run future events. This will allow more events to be seeded every year, which will grow our mission globally.
 
-In the first few years of an Event under the policy, or until fully funded, OWASP will set aside 50% of the Event Team’s net profit split to fund next year’s deposits and installments, leaving the residual to the Event team to split as they see fit. These future event funds are not in general revenue, but categorized solely to that event. Once the event deposit is fully funded year to year, the full profit spilt becomes available to the Event team. It may need topping up from time to time to cover increases in costs or as the event grows. 
+In the first few years of an Event under the policy, or until fully funded, OWASP will set aside 50% of the Event Team’s net profit split to fund next year’s deposits and installments, leaving the residual to the Event team to split as they see fit. These future event funds are not in general revenue but categorized solely to that event. Once the event deposit is fully funded year to year, the full profit split becomes available to the Event team. It may need topping up from time to time to cover increases in costs or as the event grows. 
 
-If an event team hasn’t held an event for a period of two years, the OWASP Foundation will call for new leadership of the Event team to see if new leadership wishes to run that event within six months of the call for new leadership. If no leadership can be found, the funds held on behalf of the event will revert to general revenue to seed and fund more events, and help with our entire mission.
+If an event team hasn’t held an event for a period of two years, the OWASP Foundation will call for new leadership of the Event team to see if new leadership wishes to run that event within six months of the call for new leadership. If no leadership can be found, the funds held on behalf of the event will revert to general revenue to seed and fund more events and help with our entire mission.
 
 ### Local and AppSec Days
 
 Local and AppSec Day event team leaders will be polled to direct or split 80% of the net profits of their event:
 
-- **Invest in our mission**. This option provides funds to cover expenses for the next time, as well as help all chapters, projects, and committees to do more mission, and it helps bootstrap many more events. This is the preferred option, simply because it requires the least administrative overhead and allows all of OWASP to grow and do more.
+- **Invest in our mission**. This option provides funds to cover expenses for the next time, as well as help all chapters, projects, and committees to do more mission, and it helps bootstrap many more events. This is the preferred option simply because it requires the least administrative overhead and allows all of OWASP to grow and do more.
 - **Invest in next year’s event**. You can allocate up to 30% of your profits to next year’s event to allow your event to grow organically. This is a good choice for events where it is likely that you will see a 20-40% growth in attendees next year.
-- **Invest in grants, scholarships, or awards**. The Event will be listed as a benefactor of the grant, scholarship, or award. This could be used towards next year’s CTF prizes, travel and accommodation for a number of attendees, or fund a grant. 
+- **Invest in grants, scholarships, or awards**. The Event will be listed as a benefactor of the grant, scholarship, or award. This could be used towards next year’s CTF prizes, travel, and accommodation for a number of attendees, or fund a grant. 
 
 Grants designed to fund one or more chapters, projects, or events must be used within twelve months as per the Grant policy, with defined milestones and outcomes. Any unspent funds will be reverted to the mission after twelve months.
 
-Where an event has a long term profit (defined as over 12 months), they will be asked to choose from this list again until the profit is just sufficient to pay deposits and installments for the next event. 
+Where an event has a long-term profit (defined as over 12 months), they will be asked to choose from this list again until the profit is just sufficient to pay deposits and installments for the next event. 
 
 If event leaders do not specify a profit destination or have residual unspent funds after 90 days, any residual event profits will be pooled back into our mission, as per the first bullet point. 
 
-The OWASP Foundation uses its 20% split of net profits to fund OWASP’s mission by donating its split to general revenue to cover accountancy overheads, bank fees, Event staff time and other costs. 
+The OWASP Foundation uses its 20% split of net profits to fund OWASP’s mission by donating its split to general revenue to cover accountancy overheads, bank fees, Event staff time, and other costs. 
 
 ## Global Events 
 
@@ -440,16 +440,16 @@ Global events are run by the OWASP Foundation, and profits from OWASP Global Eve
 
 Global event team organizers and volunteers will be polled to direct or split up to 10% of the net profits of a global event:
 
-Invest in our mission. This option provides funds to cover expenses for the next time, as well as help all chapters, projects, and committees to do more mission, and it helps bootstrap many more events. This is the preferred option, simply because it requires the least administrative overhead and allows all of OWASP to grow and do more.
-Invest in grants, scholarships, or awards. The Event will be listed as a benefactor of the grant, scholarship, or award. This could be used towards next year’s CTF prizes, travel and accommodation for a number of attendees, or fund a grant. 
+Invest in our mission. This option provides funds to cover expenses for the next time, as well as help all chapters, projects, and committees to do more mission, and it helps bootstrap many more events. This is the preferred option simply because it requires the least administrative overhead and allows all of OWASP to grow and do more.
+Invest in grants, scholarships, or awards. The Event will be listed as a benefactor of the grant, scholarship, or award. This could be used towards next year’s CTF prizes, travel, and accommodation for a number of attendees, or fund a grant. 
 
 Global events are funded by the OWASP Foundation through budget requests approved by the Board, so event growth funds are not applicable to Global events. If unspecified or unspent, any residual event profits will be pooled back into our mission, as per the first bullet point. 
 
 ### OWASPx Events investing into OWASP’s mission
 
-OWASPx Events run their events at their own risk with their own funds, and thus do not profit share with the OWASP Foundation outside of the initial OWASPx partnership and licensing agreement.
+OWASPx Events run their events at their own risk with their own funds and thus do not profit share with the OWASP Foundation outside of the initial OWASPx partnership and licensing agreement.
 
-OWASP encourages OWASPx Events to donate to OWASP through the Donation page (https://owasp.org/donate), or fund OWASP grants, awards, travel assistance, or scholarships through those policies to help fund our mission and grow awareness of application security globally. 
+OWASP encourages OWASPx Events to donate to OWASP through the Donation page (https://owasp.org/donate) or fund OWASP grants, awards, travel assistance, or scholarships through those policies to help fund our mission and grow awareness of application security globally. 
 
 ## Governance
 
@@ -461,11 +461,11 @@ Under the OWASP Signatory policy, all contracts must be signed and managed by th
 
 Exemptions permit Events to apply for Board approval for an exception to the Events policy or the Speaker’s Agreement to allow a local flavor or adhere to local customs. OWASP events should be unique, run by the community, and provide value for money. 
 
-By design, OWASP is not large enough to afford many common for-profit event incentives or benefits. Most attendees, speakers, and trainers understand OWASP’s mission, so please consider if you truly need an exemption, or if it’s simply a “nice to have”.
+By design, OWASP is not large enough to afford many common for-profit event incentives or benefits. Most attendees, speakers, and trainers understand OWASP’s mission, so please consider if you truly need an exemption or if it’s simply a “nice to have".
 
-Event teams should ensure that exemptions are aligned with our core values and volunteerism, limited in nature, consider OWASP’s financial position and any temporary restrictions, adhere to tax non-profit compliance requirements, and provide transparency and integrity in spending funds. 
+Event teams should ensure that exemptions are aligned with our core values and volunteerism, limited in nature, consider OWASP’s financial position and any temporary restrictions, adhere to tax non-profit compliance requirements and provide transparency and integrity in spending funds. 
 
-Apply for one or more exemptions by logging a non-funding ticket at https://contact.owasp.org. Exemptions should be filed during the event application process, and with sufficient time to ensure that all votes are concluded before the timelines for each event type expires. 
+Apply for one or more exemptions by logging a non-funding ticket at https://contact.owasp.org. Exemptions should be filed during the event application process and with sufficient time to ensure that all votes are concluded before the timelines for each event type expires. 
 
 Granted exemptions apply only to a single event. Exemptions for other or previous events do not imply exemptions will be granted for this event. 
 
