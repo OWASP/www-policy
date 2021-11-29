@@ -16,8 +16,6 @@ Adopted by the Board on 28-Sept-2021
 
 Events at OWASP have a rich history and are fundamental to OWASP’s success. With this policy, Events are now first-tier activities at OWASP and can be run by two or more OWASP Members.
 
-*tl;dr*
-
 - Event team establishes an event leadership team with 2-5 OWASP members
 - Create a profitable budget with realistic income, expenses, and quotes or contracts
 - Apply for an event through OCMS, preferably at least 180 days prior to the event
