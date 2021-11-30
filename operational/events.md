@@ -321,7 +321,7 @@ For paid events, event teams are encouraged to provide and promote OWASP Member 
 
 ### Discount codes
 
-For paid events, event teams can provide a discount code to encourage early bird registrationor partner discounts. 
+For paid events, event teams can provide a discount code to encourage early bird registration or partner discounts. 
 
 Discount code requests shall be provided no later than 15 days before the opening of event ticketing. Each event has a revenue forecast built on a particular number of tickets sold at various discounts. Discount code budgeting should ensure that discounted ticket prices still cover the costs associated with the event. 
 
