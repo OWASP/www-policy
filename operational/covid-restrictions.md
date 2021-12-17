@@ -4,34 +4,42 @@ title: Temporary COVID-19 Restrictions
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-10-29
+notice: 2021-12-17
 
 ---
 
-Last revised October 29, 2021, by Andrew van der Stock.
+Last revised December 17, 2021, by Andrew van der Stock.
 
 ## Background
 
 The OWASP Foundation is responsible for providing its community and staff with a safe environment, promoting chapter, project, and committee mission-related activity, while being financially responsible. The following restrictions are in place until they are all lifted.
 
-During October 2021, COVID is still peaking or has just peaked, with many hospitalizations and deaths in most countries, mostly amongst the unvaccinated. Vaccine availability and rates in many parts of the world still far behind where it needs to be. Therefore, we continue our strong recommendation that you cancel existing physical events, and make no plans to hold in person meetings, activities, or events for the time being. For those areas taking COVID seriously, it is time to start considering hybrid meetings, but we will not encourage physical meetings unless the organizers feel safe to hold them.
+**Changes in temporary policy in December 2021.** As a direct result of the current global surge in COVID cases and deaths, OWASP will not be approving any physical meetings or events until at least the end of January 2022. Due to the uncertainties of where the pandemic is going, The OWASP Board of Directors, at the Foundation's urging, cancelled OWASP AppSec Dublin in June 2022. We will be replacing AppSec Dublin with a virtual event in the European timezone. More details will be coming soon.
 
-On a personal note, if you're not yet vaccinated, please get vaccinated if or as soon as you can. I want everyone to stop becoming unnecessarily deathly ill or dying, and for the world to get going again. The world can only go back to normal once the overwhelming majority of us are fully vaccinated. We're in this together. ^ajv.
+As of December 17 2021, Omicron has spread to at least 77 countries worldwide, with infections doubling every two days. With preliminary data indicating Omicron spreads around 70 times faster than delta, hospitals are again overflowing with the unvaccinated, and worryingly, even some vaccinated who have high risk pre-existing conditions. Luckily, for the vaccinated, the [outcomes of breakthrough infection](https://www.healthsystemtracker.org/brief/characteristics-of-vaccinated-patients-hospitalized-with-covid-19-breakthrough-infections/) is far less severe, with a 11x reduction in hospitalizations and 12x reduction in the chances of dying from COVID compared to the unvaccinated.
+
+Scientists and medical researchers are learning more every day about Omicron, but still there are tremendous gaps in our knowledge about Omicron, and Delta is still active and still deadly for the unvaccinated. We do not know for sure the severity of Omicron symptoms, nor the the true efficacy rate of COVID-19 vaccinations against Omicron, so please assume that Omicron is deadly for the unvaccinated, and a more significant risk for the fully vaccinated, including those who have received all available boosters.
+
+In light of the current surge and grim milestones everywhere (such as 800,000 dead in the USA alone), OWASP strongly recommends chapter, activity, and event organizers to cancel all in person events for the forseeable future, and certainly to the end of January 2022. If you choose to run meetings, events, or activities after February 2022, you must adhere to WHO small meeting guidelines (see below), which includes mandatory Meetup RSVP checks, mandatory mask wearing, social distancing, and reduced numbers. If you have a chance to meet outside (such as in the southern hemisphere, where it is now summer), please do so.
+
+On a personal note, if you're not yet vaccinated or had your boosters, please get vaccinated or boosted as soon as you can (assuming it's available in your area). I want everyone to have a fantastic and healthy holiday season, and for the entire world to get going again. We can only go back to normal once the overwhelming majority of us are fully vaccinated and boosted. We're in this together. ^ajv.
 
 ## tl;dr
 
 Safety is paramount, with activity and financial health as secondary concerns. The following regularly reviewed restrictions apply until further notice:
 
 - In most cases, physical events should be postponed or not held at this time
-- If you decide to hold a physical meeting, activity, or event, you must get pre-approval, your meeting or event must follow the requirements set out below, and where possible, it should be a hybrid (physical/online) meeting
+- If you decide to hold a physical meeting, activity, or event, you must get pre-approval, your meeting or event must follow the requirements set out below, and where possible, it should be a hybrid (physical/online) meeting. If you had a pre-approved meeting during December - January 2022, we will be contacting you to see if you can postpone.
 - Fully virtual events remain the preferred method of meeting OWASP provides free access to virtual meeting rooms, training, and webinar facilities for up to 1000 attendees. Virtual meetings have no cost to chapters, events, and training programs. You can obtain these via submitting a non-funding request ticket at <https://contact.owasp.org>
 - OWASP [continues to prohibit](#no-meetings-permitted-where-COVID-controls-are-prohibited) meetings, activities, or events in jurisdictions that prohibit mandatory masking, prohibit checking or requiring proof of vaccination, or providing a recent negative COVID test.
-- Expenses are now governed by the approved [Expenses policy](https://owasp.org/www-policy/operational/expense-reimbursement), with the following exception to periodic payments: no monthly, software, periodic, or subscription event space, or other recurring payments will be pre-approved and are not permitted.
-- All travel expenses require pre-approval. Travel is extraordinarily unlikely to be approved due to OWASP's financial position. See below for more details if you want to travel.
+- Expenses are now governed by the approved [Expenses policy](https://owasp.org/www-policy/operational/expense-reimbursement), with the following exception to periodic payments. Pre-approval for periodic paymenst will not be approved for any monthly subscription, software, event or meeting space, or any other recurring payments. We don't have recurring income to support recurring payments.
+- All travel expenses require pre-approval. Travel is extraordinarily unlikely to be approved due to the pandemic or OWASP's financial position. See below for more details if you want to travel.
 
 Depending on your country or region, please don't assume that something can't happen. Please talk to us about your region's COVID situation and apply for an exemption if you need one.
 
 ## Physical Events
+
+December 2021: Any in person meetings, activities, or events planned for December 2021 or January 2022 should be cancelled. Please work with us to reschedule your meeting, activity, or event.
 
 If you are permitted by local regulations, and your local regulations don't prohibit our mandatory meeting safety requirements, and you feel safe to hold an in-person meeting, OWASP requires all approved physical events to follow [WHO COVID small event guidelines](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/question-and-answers-hub/q-a-detail/coronavirus-disease-covid-19-small-public-gatherings), which means:
 
