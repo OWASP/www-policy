@@ -1,9 +1,10 @@
 ---
 
-title: Privacy Policy
+title: Privacy Policy (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2021-12-08
 
 ---
 
@@ -270,4 +271,4 @@ Depending on your jurisdiction, you also may have the right to lodge a complaint
 
 Thank you for reading our Privacy Policy. We hope you enjoy using the OWASP Sites and appreciate your participation in creating, maintaining, and constantly working to improve the largest repository of free security-related knowledge in the world.
 
-Updated 2019-12-13
+Updated 2020-12-07
