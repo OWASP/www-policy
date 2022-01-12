@@ -7,6 +7,8 @@ tags: Rules of Procedure
 
 ---
 
+**Deprecated. This whistleblower policy applied only to staff, and as such, we now have a completely revised and approved staff handbook with an updated whistleblower policy.**
+
 ## OWASP Whistleblower & Anti-Retaliation Policy
 
 The OWASP Foundation requires board members, employees, and volunteers to observe high standards of business and personal ethics in the conduct of their duties and responsibilities. As employees and representatives of the OWASP Foundation, we must practice honesty and integrity in fulfilling our responsibilities and comply with all applicable laws and regulations. The purpose of this policy is to encourage any concerned parties to come forward with credible information on illegal practices or violations of adopted policies of the organization. The policy specifies that the organization will protect the individual from retaliation and identifies the appropriate procedure(s) for reporting these issues.
