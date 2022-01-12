@@ -4,7 +4,7 @@ title: Chapters Policy - Draft Regional Proposal (WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-01-13
+notice: 2021-01-21
 
 ---
 
