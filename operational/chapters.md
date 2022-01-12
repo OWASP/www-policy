@@ -4,7 +4,7 @@ title: Chapters Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-02-23
+notice: 2021-01-13
 
 ---
 
