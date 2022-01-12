@@ -157,9 +157,7 @@ If the OWASP Foundation or Board attend the event, such as to assist with regist
 An event team should be formed that plans out the event they wish to run, establish who is willing to volunteer from the community, who are the likely attendees and how many, determine a preferred location, catering if desired, A/V providers, and any hotel blocks required, have some preliminary discussions on costs with these vendors to be included in the budget.
 Apply for an event
 
-All events, even small or virtual ones, require pre-approval through OWASP’s OCMS. 
-
-https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/82 
+All events, even small or virtual ones, require pre-approval through [OWASP’s OCMS](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/19/create/82).
 
 Event approval is contingent upon:
 
