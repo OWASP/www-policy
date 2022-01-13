@@ -4,7 +4,7 @@ title: Whistleblower & Anti-Retaliation Policy (DRAFT)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-01-21
+notice: 2021-01-22
 
 ---
 
