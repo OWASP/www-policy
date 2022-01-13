@@ -363,7 +363,7 @@ Chapter members and leaders can use the following policies and reporting mechani
   - The [OWASP Foundation Executive Director](https://owasp.org/corporate/) as the second point of escalation, and finally.
   - the [Global Board](https://owasp.org/www-board/).
 
-Please refer to the [whistleblower and anti-retaliation policy] to report severe policy, financial, or fiduciary misconduct violations. Please refer to the [whistleblower and anti-retaliation policy](https://owasp.org/www-policy/operational/whistleblower).
+Please refer to the [whistleblower and anti-retaliation policy](https://owasp.org/www-policy/operational/whistleblower) to report severe policy, financial, or fiduciary misconduct violations.
 
 ### Sanctioned Countries and Leaders
 
