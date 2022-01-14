@@ -4,271 +4,168 @@ title: Privacy Policy (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-12-08
+notice: 2021-01-23
 
 ---
 
 {% include draft-notice.html %}
 
-## Summary
+[ Reviewers - Please review the draft &#169; notice below detailing the provenance of this privacy policy. Please point out any issues with our fork, including any issues relating to programs OWASP does not have (such as certification) or software OWASP does not use. ]
 
-**Disclaimer: This summary is not a part of the Privacy Policy and is not a legal document. It is simply a handy reference for understanding the full Privacy Policy. Think of it as the user-friendly interface to our Privacy Policy.**
+OWASP’s core purpose is to advance the state of application security, through fostering an ecosystem that supports the collaborative and public development of free and open-source software projects (each, a "Project"). This privacy policy ("Privacy Policy") describes our policies and procedures about the collection, use, disclosure and sharing, or other processing of your personal information when you use our websites (e.g., owasp.org), our events platforms (e.g., Meetup, Eventbrite, Whova, StreamYards, etc), or participate in or use our Github Project sites (collectively, the "Sites"), as well as when you interact with or participate in our events, programs, training, and our other services and offerings, including services accessible through OWASP (collectively, the "Services"). This Privacy Policy applies to activities by OWASP and its affiliates, subsidiaries, and related entities (collectively "OWASP," "we" or "us"), including activities that we perform for other entities through management services agreements. The Privacy Policy does not apply to information collected about OWASP employees or other OWASP personnel.
 
-To participate in the secure software movement, you may:
+For purposes of the GDPR, OWASP is the controller of your personal information. Where the processing of personal information is undertaken by our affiliates, subsidiaries, and related entities, they are a joint controller with OWASP for your personal information.
 
-- Read or use any OWASP Site without registering an account.
-- Edit content on OWASP Sites with a GitHub account.
-- Register to be a content approver by providing a GitHub account.
+Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [General Disclaimer](https://owasp.org/www-policy/operational/general-disclaimer) or, if you engage with OWASP, then those defined in various OWASP platforms (as applicable, the "Terms"). In this Privacy Policy, "personal information" includes references to "personal data" as defined under applicable laws. Your use of our Sites and Services, and any dispute over privacy, is subject to this Policy and the relevant Terms, including the applicable limitations on damages and the resolution of disputes. The Terms are incorporated by reference into this Policy.
 
-Because we want to understand how OWASP Sites are used so we can make them better for you, we collect some information when you:
+## Personal Information That OWASP Collects
 
-- Make public contributions.
-- Use the OWASP Sites.
-- Send us emails or participate in a survey or give feedback.
-- Choose to Donate to or become a Member of OWASP.
-- Attend Conferences or participate in local chapter meetings.
+We collect personal information directly from individuals, from third parties, and automatically through the Sites and Services. Members must provide essential personal information to permit us to provide Member services. Participants do not have to provide us with your personal information. However, if you choose not to disclose certain information, we will not be able to provide you with access to certain services or features, including account registration, event registration, and training programs, or participation in certain aspects of our open-source projects.
 
-Describing how your information may be used or shared in this Privacy Policy.
+- **Registration Information** We collect personal information when you register for an account, a conference or other events or programs:
+- **OWASP ID, Account and Profile Information** Members may sign up for, request, or order our Services and may register to receive materials from our Sites. Members are given an "OWASP ID" (also called an "OWASP Login"), which is a single sign-on account that is used for common access to many of our Services, including OWASP membership benefits. Personal information collected on the Sites includes community Google groups content, profiles, photographs, names, forwarding information for "owasp.org" email forwarding, unique identifiers (e.g., social media handles or usernames), information about your current and past employment affiliations, contact and billing information (e.g., email address, preferred personal pronoun, postal address, telephone, fax), and transaction information. To access certain personalized services on the Sites, you may be asked to also create and store a username and password for an account from OWASP, and/or to link your OWASP ID account with other providers’ social accounts (such as Facebook, Google, LinkedIn, or GitHub). Also, to tailor OWASP’s subsequent communications to users and continuously improve the Sites’ operations and services, OWASP may also ask users to provide additional optional information regarding their interests, demographics, experience, and detailed contact preferences.
+- **OWASP** To register for and participate in the OWASP platform and related Services, such as member benefits, users must have an active OWASP ID and account (see above for information collected related to account registration).
+- **Events Registration** When you register for one of our events (e.g., conferences and summits) to participate as an attendee, a speaker, or a sponsor, we collect personal information that includes name, company, contact information, and other information. We may also collect other optional personal information such as likes, interests, preferred personal pronoun, dietary restrictions, size preferences for conference attire gifts, and other background information. In addition, if you provide it, we may collect (1) personal information about disabilities, medical conditions, and allergies to provide appropriate accommodations for attendees, and (2) personal information about your citizenship, date of birth, and passport details if you request assistance from us with obtaining a visa letter to travel to one of our events.
+For in-person events requiring attendees to be vaccinated against COVID-19, to provide a safer environment for attendees and staff, we may collect information to verify your identity and COVID-19 vaccination status. We may collect this information via direct verification of identity and vaccination status documents by OWASP staff or third-party contractors, and/or using third-party vaccination status apps and service providers.
+- **Training Registration** When you participate in one of our training programs, we collect registration-related personal information that includes name, company, certifications, contact information, and other information depending on the circumstances.
+- **Registration for Project Resources and OWASP Resources** You can register to receive access to various resources provided by OWASP and its Projects regarding the open-source ecosystem, open-source project development, collaboration, and best practices. This includes providing us with personal information such as your email address and name to receive newsletters, mailing list postings, and social media postings, to view webinars, and to access other resources made available by OWASP and its Projects.
 
-- Using reasonable measures to keep your information secure.
-- Never selling your information or sharing it with third parties for marketing purposes.
-- Only sharing your information in limited circumstances, such as to improve the OWASP Sites, to comply with the law, or to protect you and others.
-- Retaining your data for the shortest possible time that is consistent with maintaining, understanding, and improving the OWASP Sites, and our obligations under law.
+## Your Contributions to Open-Source Projects
 
-Be aware:
+**Attribution, Provenance, and Integrity** When you contribute source code, documentation, or other content to one of our Projects (whether on your own behalf or through contributions made as part of your employment services to your employer), we collect and store the information and content that you contribute. This includes the contents of those contributions, as well as information required to confirm the provenance of intellectual property contained in those contributions, and personal information that you make publicly available in the record of the contribution pursuant to sign-offs under the Developer Certificate of Origin (https://developercertificate.org/). Some Projects require additional agreements or information pursuant to their intellectual property policies; in such cases, we collect and store information related to your acceptance of those agreements. We may also collect information relating to your participation in technical, governance, or other Project-related meetings.
 
-- Any content you add or any change that you make to a OWASP Site will be publicly and permanently available in addition to being associated with your GitHub username.
-- Our community of volunteer editors and contributors is a self-policing body. Certain administrators of the OWASP Sites, who are chosen by the community, use tools that grant them limited access to nonpublic information about recent contributions so they may protect the OWASP Sites and enforce policies.
+**Other Project-related Content** The content you provide in relation to Projects also includes materials that you make publicly available in connection with Project development, collaboration, and communication, such as on mailing lists, blogs, Project wiki pages and issue trackers, and related services.
 
-As part of our commitment to education and research around the world, we occasionally release public information and aggregated or non-personal information to the general public through data dumps and data sets.
+**Applicants for OWASP Foundation Employment and Contractors** We collect and store personal information relating to individuals who apply to participate in one or more of our Project-related grant contractors, or for employment with OWASP. The personal information collected and stored for OWASP Project-related contracting, or for employment with OWASP, may include your name, address, or other contact information. In addition, if you choose to provide it, we may collect personal information regarding your membership in a diverse or underrepresented group.
 
-For the protection of the OWASP Foundation and other users, if you do not agree with this Privacy Policy, you may not use the OWASP Sites.
+**Your Content** We collect and store the information and content that you post to the Sites, including your questions, answers, comments, forum postings, and responses to surveys. Please see the section on Publicly Available Information for how the information you post will be viewed on our Sites.
 
-**********
+**Communications** When you communicate with us (via email, phone, through the Sites or otherwise), we may maintain a record of your communication.
 
-## Privacy Policy
+**Payment Information** To purchase Services (including membership dues, registering for events or training), users may be asked to be directed to a third-party site, such as Stripe, to pay for their purchases. If applicable, the third-party site may collect payment information directly to facilitate a transaction. OWASP generally only records the result of the transaction and any references to the transaction record provided by the third-party site.
 
-The OWASP Foundation is the nonprofit organization that operates owasp.org and its companion Project, Conference, and event websites.
+**Automatically Collected Information** In addition, OWASP may automatically collect the following information about users’ use of the Sites or Services through cookies, web beacons, and other technologies: your domain name; your browser type and operating system; web pages you view; when you open certain emails we send; links you click; your IP address; your country of location; the length of time you visit our Sites and or use our Services; and the referring URL, or the webpage that led you to our Sites. We may combine this information with other information that we have collected about you, including, where applicable, your username, name, and other personal information. Our use of cookies uses both CloudFlare's and Google's analytics, which honor "Do not track" headers if set.
 
-This Policy explains how we collect, use, and share your personal information.
+**De-identified Information** We may de-identify and aggregate certain personal information we collect such that the information no longer identifies or can be linked to a particular user or an individual data subject ("De-identified Information"), subject to the terms of any applicable user agreements. We may use this information to improve our Services, analyze trends, publish market research, and for other marketing, research, or statistical purposes, and may disclose such information to third parties for these specific purposes.
 
-- We collect very little personal information about you.
-- We do not rent or sell your information to third parties.
-- By using OWASP Sites, you consent to this Policy.
+## Purposes and Legal Bases for Our Using of Your Personal Information
 
-The OWASP secure software movement is founded on a simple, but powerful principle: we can do more together than any of us can do alone. We cannot work collectively without gathering, sharing, and analyzing information about our users as we seek new ways to make the OWASP Sites more usable, safer, and more beneficial.
+### Purposes and Legitimate Interests
 
-We believe that information-gathering and use should go hand-in-hand with transparency. This Privacy Policy explains how the OWASP Foundation, the non-profit organization that hosts the OWASP Sites, collects, uses, and shares information we receive from you through your use of the OWASP Sites. It is essential to understand that, by using any of the OWASP Sites, you consent to the collection, transfer, processing, storage, disclosure, and use of your information as described in this Privacy Policy. That means that reading this Policy carefully is important.
+OWASP uses the personal information we collect for our legitimate business interests, which include the following purposes:
 
-We do not sell or rent your Personal Information, nor do we give it to others to sell you anything. We use it to figure out how to make the OWASP Sites more engaging and accessible, to see which ideas work, and to make learning and contributing more fun. Put simply: we use this information to make the OWASP Sites better for you.
+- *Providing our Sites and Services* To provide the Services and our Sites (including OWASP and its service offerings, and Project Sites), to communicate with you about your use of our Sites and Services, to respond to your inquiries, provide troubleshooting of the Sites and for other purposes to support users and the community.
+- *Operating our Open-Source Projects* To enable communication between and among open source developers in the community; to facilitate and document Project governance and technical decision-making; to maintain, and make publicly available on a perpetual basis, records regarding intellectual property provenance and license compliance for Project contributions; and for related activities to further OWASP’s core purpose of fostering an ecosystem that supports the collaborative and public development of free and open source software projects. See the "Attribution, Provenance and Integrity" section above for more information.
+- *Maintain our Training Programs* To maintain records about who has attended or registered to attend training programs, and received completion or participation certificates.
+- *Event Administration* To plan, organize, and facilitate access to events and related services and activities, and to conduct informative and safe events for participants, including attendees, speakers, and sponsors. If you provide us information about disabilities, medical conditions, and allergies, we will use this information to provide appropriate accommodations for attendees and to ensure their health and safety; we will not use this information for other purposes, unless required by law or as necessary to defend our legal rights. If you request assistance from us for obtaining a visa letter to travel to one of our events and provide us with information required for such assistance (such as your citizenship, date of birth, and passport details), we will use this information in order to assist with providing you a visa letter; we will not use this information for other purposes, unless required by law or as necessary to defend our legal rights. For in-person events requiring attendees to be vaccinated against COVID-19, we use information regarding your COVID-19 vaccination status to provide a safer environment for attendees and staff, to confirm vaccination status before permitting access to the event venue space.
+- *Contractor and Employment Applications* To select participants for our Project-related grant contractor  programs or for employment, including the evaluation and selection of contractors or employees from among applicants. If you choose to provide information regarding your membership in a diverse or underrepresented group, we will use this information in connection with diversity programs we may operate; we will not use this information for other purposes, unless required by law or as necessary to defend our legal rights.
+- *Personalization*. To tailor the content and information that we may send or display to you on our Sites and in our Services, to offer location customization and personalized help and instructions and to otherwise personalize your experiences.
+- *Marketing and Promotions* For marketing and promotional purposes, such as to send you news and newsletters, special offers, and promotions, or to otherwise contact you about Projects, Services, events, trainings, or other information we think may interest you related to OWASP, and, subject to applicable law, our affiliates, subsidiaries, and managed services entities.
+- *Advertising* For targeting advertising to you on our Sites and third-party sites and measuring the effectiveness and reach of ads and services (through third-party ad networks and services).
+- *Analytics* To gather metrics to better understand how users access and use our Sites and Services and participate in our Projects; to evaluate and improve the Sites, including personalization, to develop new services; and to understand metrics regarding the community health of our Projects. If a user voluntary provides and explicitly consents to our processing of personal information regarding their demographics and socioeconomics, we process such personal information for the specific purposes for which you have consented, which may include for the purpose of compiling, analyzing and disclosing aggregate statistics regarding diversity of participation in open source projects and communities (including in OWASP projects and OWASP Mentorship opportunities), to help track progress towards meeting OWASP’s commitment to diversity initiatives and subject to your consent.
+- *Compliance* To comply with legal obligations and requests. For example, to comply with laws that compel us to disclose information to public authorities, courts, law enforcement or regulators, maintain records for a certain period, or maintain records demonstrating enforcement and sublicensing of our trademarks and those of our Projects.
+- *Business and Legal Operations* As part of our general business and legal operations (e.g., accounting, record keeping, and for other business administration purposes), and as necessary to establish, exercise and defend (actual and potential) legal claims.
+- *Prevent Misuse* Where we believe necessary to investigate, prevent or act regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person or violations of the relevant Terms or this Privacy Policy.
 
-After all, it's people like you, the champions of free knowledge, who make it possible for the OWASP Sites to not only exist, but also grow and thrive.
+## Purposes and Legal Bases
 
-### Definitions
+| Purposes of Processing (see above) | Legal Bases of Processing (EU Users) |
+| -- | -- |
+| Providing our Sites and Services, including through OWASP | Our Legitimate Business Interests. Where necessary to enter into or perform a contract with you (upon your request, or as necessary to make the Services available). *Compliance with Law* Where permitted, with Your Consent (where we process any sensitive personal information you voluntarily provide e.g., for diversity-related purposes) |
+| Operating our Open-Source Projects | Our Legitimate Business Interests. Where Necessary to Enter into or Perform a Contract with You (upon your request, or as necessary to enable your participation in the Projects or to make the Services available). Compliance with Law. As necessary to establish, exercise and defend legal claims |
+| OWASP Contractor and Employment Applications | Our Legitimate Business Interests. Where Necessary to Enter into or Perform a Contract with You (upon your request, or as necessary relating to Your application for a OWASP internship or employment position). Compliance with Law. Where permitted, with Your Consent (where we process any sensitive personal information you voluntarily provide – e.g., for diversity-related purposes) |
+| Event Administration | Our Legitimate Business Interests. Where Necessary to Enter into or Perform a Contract with You (upon your request, or as necessary to make the Services available). Compliance with Law. With Your Consent (regarding your sensitive personal information – e.g., disability and medical conditions, COVID-19 vaccination status, and information related to a visa letter request). Where Necessary in Order to Protect the Vital Interests of You or of Another Natural Person, and for Reasons of Public Interest in the Area of Public Health (regarding COVID-19 vaccination status) |
+| Offer Training Programs | Our Legitimate Business Interests. Where Necessary to Enter into or Perform a Contract with You (upon your request, or as necessary to make the Services available). |
+| Personalization | Our Legitimate Business Interests. |
+| Marketing and Promotions | Our Legitimate Business Interests. With Your Consent |
+| Advertising | Our Legitimate Business Interests. With Your Consent |
+| Analytics | Our Legitimate Business Interests. Where permitted, with Your Consent (where we process any sensitive personal information you voluntarily provide – e.g., for diversity-related purposes) |
+| Compliance | Our Legitimate Business Interests. Compliance with Law. As Necessary to Establish, Exercise and Defend Legal Claims |
+| Business and Legal Operations | Our Legitimate Business Interests. Compliance with Law. As Necessary to Establish, Exercise and Defend Legal Claims |
+| Prevent Misuse | Our Legitimate Business Interests. Compliance with Law. As Necessary to Establish, Exercise and Defend Legal Claims |
 
-We recognize that only a minority of you are familiar with technical terms like “tracking pixels” and “cookies” used in the Privacy Policy. Whether you are brand new to privacy terminology or you are an expert who just wants a refresher, you might find our Glossary of Key Terms helpful.
+### Sharing of Personal Information
 
-Because everyone (not just lawyers) should be able to easily understand how and why their information is collected and used, we use common language instead of more formal terms throughout this Policy. To help ensure your understanding of some particular key terms, here is a table of translations:
+We disclose personal information as set forth below, and where individuals have otherwise consented:
 
-### When we say = we mean
+- *Publicly Available Information, including Your Contributions to Open-Source Projects* Usernames, other user ids, email addresses, and other attribution information related to the information and contributions that a member posts in conjunction with or subject to an Open-Source license are publicly available in the relevant Project source code repositories. Your contributions to Open-Source Projects, and certain of your other Content such as comments and messages posted to public forums, are available to other participants and users of our Projects and of our Services and may be viewed publicly. In some cases, you may be able to provide Project or contribution-related information directly to third-party sites and services; these third parties are independent data controllers, and their use of your personal information is subject to their own policies.
+- *OWASP* Within OWASP, in addition to the other specific disclosures set forth in this Privacy Policy, we disclose certain of your information to enable you to receive, participate in and make use of OWASP Services, including engagement with open-source projects and communities through Mail Chimp, which is used to communicate with our members and participants.
+- *Service Providers* We may share your information with third-party service providers who use this information to perform services for us, such as payment processors, hosting providers, auditors, advisors, contractors, and consultants.
+- *Organizational Events* We may disclose or transfer information, including personal information, as part of any merger, sale, and transfer of our assets, or restructuring of all or part of our business operations, bankruptcy, or similar event, including in negotiations, due diligence, and integrations related to such transactions.
+- *Event Participants* If you register for an event, we may ask for your consent to share your personal information with third-party sponsors and other participants; for example, to facilitate your ability to swipe your badge or visit and interact with a virtual booth to easily sign up for or participate in activities, events, and gifts offered by third parties participating in the event, or to give you the option to be listed on the attendee list that is available to other attendees, sponsors, and participants. We will not share your event information with third parties without your consent, and, you have the choice whether to permit your badge to be swiped by any third party participating in the event, or to visit and interact with a third party’s virtual booth. For in-person events requiring attendees to be vaccinated against COVID-19, we may use third-party service providers to validate your identity and COVID-19 vaccination status.
+- *Training and Program Sponsors* If you participate in one of our training programs that a third party has sponsored or engaged us to provide to you and others (e.g., your employers), we may receive attendee list information from them and may share information about your completion of the program, including confirmation of your participation as applicable; these third parties are independent data controllers and their use of your personal information is subject to their own policies. You may also elect to provide third parties (e.g., your employers or your prospective employers) with information that will enable them to look up your participation status; if you do so, we may share your participation status with such third parties.
+- *Legally Required* We may disclose your information if we are required to do so by law (including to law enforcement in the U.S. and other jurisdictions).
+- *Protection of Rights* We may disclose information, where we believe it necessary to respond to claims, asserted against us or, comply with legal process (e.g., subpoenas or warrants), enforce or administer our agreements and terms, for fraud prevention, risk assessment, investigation, and protect the rights, property or safety of OWASP, its Members, participants in its events or Projects, or others.
+- *Anonymized and Aggregated Information* We may share aggregate or de-identified information with third parties for research, marketing, analytics, and other purposes, provided such information does not identify a particular individual.
 
-- "the OWASP Foundation" / "the Foundation" / “OWASP” / "we" / "us" / "our" = The OWASP Foundation, Inc., the non-profit organization that operates the OWASP Sites.
-- "OWASP Sites" / "our services" = OWASP websites and services (regardless of language), including our main projects, groups, emails, and notifications; excluding, however, sites and services listed in the "What This Privacy Policy Doesn't Cover" section below.
-- "you" / "your" / "me" = You, regardless of whether you are an individual, group, or organization, and regardless of whether you are using the OWASP Sites or our services on behalf of yourself or someone else.
-- "this Policy" / "this Privacy Policy" = This document, entitled the "OWASP Foundation Privacy Policy".
-- "contributions" = Content you add or changes you make to any OWASP Sites.
-- "personal information" = Information you provide us or information we collect from you that could be used to personally identify you. To be clear, while we do not necessarily collect all of the following types of information, we consider at least the following to be “personal information” if it is otherwise nonpublic and can be used to identify you:
-. 1. (a) your real name, address, phone number, email address, password, identification number on government-issued ID, IP address, user-agent information, credit card number;
-. 1. when associated with one of the items in subsection (a), any sensitive data such as date of birth, gender, sexual orientation, racial or ethnic origins, marital or familial status, medical conditions or disabilities, political affiliation, and religion; and
-. 1. any of the items in subsections (a) or (b) when associated with your user account.
-- "third party" / "third parties. = Individuals, entities, websites, services, products, and applications that are not controlled, managed, or operated by the OWASP Foundation. This includes other OWASP users and independent organizations or groups who help promote the Foundation such as OWASP chapters, Conferences and local event, volunteers, employees, directors, officers, grant recipients, and contractors of those organizations or groups.
+### Cookies, Tracking, and Interest-Based Ads
 
-### What This Privacy Policy Does & Doesn't Cover
+We and our third-party providers use cookies, clear GIFs/pixel tags, JavaScript, local storage, log files, and other mechanisms to automatically collect and record information about your usage and browsing activities on our Site and across third party sites or online services. We may combine this information with other information we collect about users. Below, we provide a summary these activities. 
 
-Except as explained below, this Privacy Policy applies to our collection and handling of information about you that we receive as a result of your use of any of the OWASP Sites. This Policy also applies to information that we receive from our partners or other third parties. To understand more about what this Privacy Policy covers, please see below.
+- *Cookies* These are small files with a unique identifier that are transferred to your browser through our websites. They allow us to remember users who are logged in, to understand how users navigate through and use the Sites, and to display personalized content and targeted ads (including on third party sites and applications).
+- *Pixels, web beacons, clear GIFs* These are tiny graphics with a unique identifier, similar in function to cookies, which we track browsing activities. We use these as part of our Training Affiliate Program. We also use these in our emails to let us know when they have been opened or forwarded, so we can gauge the effectiveness of our communications.
+- *Analytics Tools* We may use internal and third-party analytics tools, including Google Analytics. The third-party analytics companies we work with may combine the information collected with other information they have independently collected from other websites and/or other online products and services. Their collection and use of information is subject to their own privacy policies.
+- *Targeted Ads* We may work with third party advertisers to display more relevant ads on our website and on third party sites; these third parties may display ads to you based on your visit to our Sites and other third-party sites. For more information about this and how you can opt out of such ads, please see our Cookie Policy.
 
-### Examples of What This Privacy Policy Covers
+Please note that OWASP has no control over how CloudFlare or Google Analytics respond to browser "do not track" signals or other similar mechanisms.
 
-This Privacy Policy, however, does not cover some situations where we may gather or process information. To understand more about what this Privacy Policy does not cover, please see below.
+## Data Security
 
-### Types of Information We Receive from You & How We Get It
+We have implemented commercially reasonable precautions designed to protect the information we collect from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. Please be aware that despite our best efforts, no data security measures can guarantee 100% security.
 
-#### Your Public Contributions
+You should take steps to protect against unauthorized access to your passwords, phone, and computer by, among other things, signing off after using a shared computer, choosing robust passwords that nobody else knows or can easily guess, not using a password for more than one site or service, and keeping your logins and passwords private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity. We ask you to promptly notify us if you become aware that any information provided by or submitted to our Sites or through our Services is lost, stolen, or used without permission at privacy@owasp.org.
 
-When you contribute to any OWASP Site you are creating a permanent, public record of every piece of content added, removed, or altered by you. The page history will show when your contribution or deletion was made, as well as your GitHub username. We may use your public contributions, either aggregated with the public contributions of others or individually, to create new features or data-related products for you or to learn more about how the OWASP Sites are used.
+## Marketing Choices
 
-#### Publicly Visible Information
+You may opt out of or withdraw your consent to receive direct marketing emails from us by using the unsubscribe or opt out mechanisms included in our marketing emails or by emailing privacy@owasp.org. You may also unsubscribe from mailing lists via the applicable mailing list’s subscription website or, in some cases, by using the unsubscribe mechanisms included in such emails.
 
-Account Information & Registration
+## Retention of Your Personal Information
 
-- You do not need to create an account to use any OWASP Site.
-- If you want to edit content, you must have a GitHub account.
-- If you want to be a content approver, you must provide an active GitHub account.
+We generally keep personal information only for as long as required to fulfill the purposes for which it was collected. However, in some circumstances, we may retain personal information for other periods of time, for instance where we are required to do so in accordance with legal, tax and accounting requirements, or if required to do so by a legal process, legal authority, or other governmental entity that has authority to make the request, for so long as required. In specific circumstances, we may also retain your personal information for longer periods of time corresponding to a statute of limitation, so that we have an accurate record of your dealings with us in the event of any complaints or challenges.
 
-You are not required to create an account to read or contribute to a OWASP Site, except under rare circumstances.
+## International Transfers
 
-#### GPS & Other Location Technologies
+If you are located within the European Economic Area, the United Kingdom or Switzerland, you should note that your personal information will be transferred to countries outside these jurisdictions, including the United States where OWASP is located. The U.S. is deemed by the European Union to provide inadequate data protection. However, we have put in place European Commission approved Standard Contractual Clauses to provide for adequate safeguards to protect personal information transferred outside these jurisdictions, including between OWASP entities. In addition, if personal information is transferred to third party service providers located outside these jurisdictions, we will take steps to ensure that your personal information receives the same level of protection as if it remained within these jurisdictions, including by entering into data transfer agreements, using the European Commission approved Standard Contractual Clauses or other safeguards as approved by the European Commission. You have a right to obtain details of the mechanism under which your personal information is transferred outside of the EU by emailing privacy@owasp.org.
 
-If you consent, we can use GPS (and other technologies commonly used to determine location) to show you more relevant content. We keep information obtained by these technologies confidential, except as provided in this Policy.
+## Children’s Privacy
 
-#### Metadata
+Except as specifically indicated within a Site, we do not knowingly collect or solicit personal information from anyone under the age of eighteen (18), or knowingly allow such persons to register. If we become aware that we have collected personal information from a child under the relevant age without parental consent, we take steps to delete that information. Where we specifically indicate that we collect personal information from minors under eighteen, we will obtain the parent or guardian’s consent and provide adequate notice.
 
-Sometimes, we automatically receive location data from your device. For example, if you want to upload a photo, we may receive metadata, such as the place and time you took the photo, automatically from your device. Please be aware that, unlike location information collected using GPS signals described above, the default setting on your mobile device typically includes the metadata in your photo or video upload to the OWASP Sites. If you do not want metadata sent to us and made public at the time of your upload, please change your settings on your device.
+## Links to Third Party Sites and Services
 
-#### IP Addresses
+The Sites may contain links to third party sites or online services. Please refer to the privacy policies of the relevant third-party websites or services to find out more about how they process and manage personal information.
 
-Finally, when you visit any OWASP Site, we automatically receive the IP address of the device (or your proxy server) you are using to access the Internet, which could be used to infer your geographical location.
+## Your Rights
 
-#### Information Related to Your Use of the OWASP Sites
+**Access and Amendment** If you have registered with us and created an OWASP ID profile or an OWASP Account wish to access or update certain personal information contained therein, you may do so online by visiting the OWASP Member portal by visiting https://members.owasp.org/. You may also contact our privacy coordinator, as set forth below, to access or amend your personal information.
 
-We use certain technologies to collect information about how you use OWASP Sites. Like other websites, we receive some information about you automatically when you visit the OWASP Sites.
+## Additional Rights for EEA individuals
 
-We also use a variety of commonly used technologies, like cookies, to collect information regarding how you use the OWASP Sites, make our services safer and easier to use, and to help create a better and more customizable experience for you.
+Individuals in the European Economic Area (and other jurisdictions where applicable) have additional rights under applicable law:
 
-We want to make the OWASP Sites better for you by learning more about how you use them. Examples of this might include how often you visit the OWASP Sites, what you like, what you find helpful, how you get to the OWASP Sites, and whether you would use a helpful feature more if we explained it differently. We also want this Policy and our practices to reflect our community's values. For this reason, we keep information related to your use of the OWASP Sites confidential, except as provided in this Policy.
+- to obtain a copy of your personal information together with information about how and on what legal basis that personal information is processed.
+- to rectify inaccurate personal information (including to have incomplete personal information completed).
+- to erase your personal information (in limited circumstances, such as where it is no longer necessary in relation to the purposes for which it was collected or processed).
+- to restrict processing of your personal information under certain circumstances.
+- to export certain personal information in machine-readable format to a third party (or to you) when we justify our processing based on your consent or the performance of a contract with you and the processing is carried out by automated means.
+- to withdraw your consent to our processing of your personal information (where that processing is based on your consent, without affecting the lawfulness of processing based on consent before its withdrawal).
+- to obtain, or see a copy of the appropriate safeguards under which your personal information is transferred to a third country or international organization; and
+- to object to our use and processing of your personal information that is conducted based on our legitimate interest. You also have the right to object at any time to any processing of your personal information for direct marketing purposes, including profiling for marketing purposes.
 
-#### Information We Receive Automatically
+**Lodging a Complaint** You also have the right to lodge a complaint with your local supervisory authority for data protection, or privacy regulator.
 
-Because of how browsers work, we receive some information automatically when you visit the OWASP Sites. This information includes the type of device you are using (possibly including unique device identification numbers, for some beta versions of our mobile applications), the type and version of your browser, your browser's language preference, the type and version of your device's operating system, in some cases the name of your internet service provider or mobile carrier, the website that referred you to the OWASP Sites, which pages you request and visit, and the date and time of each request you make to the OWASP Sites.
+**Submitting a Request** To exercise the above rights or contact us with questions or complaints regarding our treatment of your personal information, contact us at privacy@owasp.org. Please note that we may request proof of identity, and we reserve the right to charge a fee where permitted by law, especially if your request is manifestly unfounded or excessive. We will respond to your request within the applicable timeframes set out by law.
 
-Put simply, we use this information to enhance your experience with OWASP Sites. For example, we use this information to administer the sites, provide greater security, and fight vandalism; optimize mobile applications, customize content and set language preferences, test features to see what works, and improve performance; understand how users interact with the OWASP Sites, track and study use of various features, gain understanding about the demographics of the different OWASP Sites, and analyze trends.
+### California Privacy Rights
 
-#### Information We Collect
-
-We use a variety of commonly used technologies, like cookies, to understand how you use the OWASP Sites, make our services safer and easier to use, and to help create a better and more customizable experience for you.
-
-We actively collect some types of information with a variety of commonly used technologies. These generally include tracking pixels, JavaScript, and a variety of "locally stored data" technologies, such as cookies and local storage. We realize that some of these technologies do not have the best reputation in town and can be used for less-than-noble purposes. So, we want to be as clear as we can about why we use these methods and the type of information we collect with them.
-
-Depending on which technology we use, locally stored data can be anything from text, pictures, and whole articles (as we explain further below) to Personal Information (like your IP address) and information about your use of the OWASP Sites (like your username or the time of your visit).
-
-We use this information to make your experience with the OWASP Sites safer and better, to gain a greater understanding of user preferences and their interaction with the OWASP Sites, and to generally improve our services. We will never use third-party cookies unless we get your permission to do so. If you ever come across a third-party data collection tool that has not been authorized by you (such as one that may have been mistakenly placed by another user or administrator), please report it to us at info@owasp.org
-
-#### More on Locally Stored Data
-
-We believe this data collection helps improve your user experience, but you may remove or disable some or all locally stored data through your browser settings, depending on your browser. While locally stored data may not be necessary to use our sites, some features will not function properly if you disable locally stored data.
-
-While the examples above concerning information about you collected using data collection tools are kept confidential in accordance with this Policy, please note that some information about the actions taken by your username is made publicly available through public logs alongside actions taken by other users. For example, a public log may include the date your account was created on a OWASP Site along with the dates that other accounts were created on a OWASP Site.
-
-### How We Use Information We Receive from You
-
-We and our service providers use your information for the legitimate purpose of pursuing our charitable mission, including:
-
-- Operating the OWASP Sites, sharing your contributions and administering our Services.
-- Providing customized Services.
-- Sending emails with news updates, surveys, and communications about items we believe may be of interest to you.
-- Sending optional surveys and requesting feedback.
-- Improving the OWASP Sites and making your user experience safer and better.
-
-#### GPS & Other Location Technologies
-
-As stated above, we can use commonly used location technologies to show you more relevant content. For example, our mobile apps can identify articles from the OWASP Sites about points of interest near your location. As a reminder, you can deactivate our access to these location technologies at any time, and still use the OWASP Sites.
-
-#### Metadata
-
-As stated above, we may automatically receive location data from your device. Please be aware that the default setting on your mobile device typically results in the metadata associated with your photo being included in the upload. As a reminder, if you do not want metadata sent to us and made public at the time of your upload, please change your settings on your device.
-
-#### IP Addresses
-
-When you visit any OWASP Site, we automatically receive the IP address of the device (or your proxy server) you are using to access the Internet, which could be used to infer your geographical location. We keep IP addresses confidential, except as provided in this Policy. If you are visiting OWASP Sites with your mobile device, we may use your IP address to provide anonymized or aggregated information to service providers regarding the volume of usage in certain areas.
-
-We use this location information to make your experience with the OWASP Sites safer and better, to gain a greater understanding of user preferences and their interaction with the OWASP Sites, and to generally improve our services. For example, we use this information to provide greater security, optimize mobile applications, and learn how to expand and better support OWASP communities. We also use Personal Information in the manner described in the sections of this Policy titled "For Legal Reasons" and "To Protect You, Ourselves & Others."
-
-### When May We Share Your Information?
-
-With Your Permission
-
-- We may share your information when you give us specific permission to do so, for legal reasons, and in the other circumstances described below.
-- We share your information for a particular purpose if you agree.
-
-#### For Legal Reasons
-
-We will disclose your information in response to an official legal process only if we believe it to be legally valid. We will notify you of such requests when possible.
-
-We will access, use, preserve, and/or disclose your Personal Information if we reasonably believe it necessary to satisfy a valid and legally enforceable warrant, subpoena, court order, law or regulation, or other judicial or administrative order. However, if we believe that a particular request for disclosure of a user's information is legally invalid or an abuse of the legal system and the affected user does not intend to oppose the disclosure themselves, we will try our best to fight it. We are committed to notifying you via email at least ten (10) calendar days, when possible, before we disclose your Personal Information in response to a legal demand. However, we may only provide notice if we are not legally restrained from contacting you, there is no credible threat to life or limb that is created or increased by disclosing the request, and you have provided us with an email address.
-
-Nothing in this Privacy Policy is intended to limit any legal objections or defenses you may have to a third party's request (whether it be civil, criminal, or governmental) to disclose your information. We recommend seeking the advice of legal counsel immediately if such a request is made involving you.
-
-#### If the Organization is Transferred (Really Unlikely!)
-
-In the unlikely event that the ownership of the Foundation changes, we will provide you 30 days’ notice before any personal information is transferred to the new owners or becomes subject to a different privacy policy.
-
-In the extremely unlikely event that ownership of all or substantially all of the Foundation changes, or we go through a reorganization (such as a merger, consolidation, or acquisition), we will continue to keep your Personal Information confidential, except as provided in this Policy, and provide notice to you via the OWASP Sites and a notification at least thirty (30) calendar days before any Personal Information is transferred or becomes subject to a different privacy policy.
-
-#### To Protect You, Ourselves & Others
-
-We, or users with certain administrative rights, may disclose information that is reasonably necessary to:
-
-- enforce or investigate potential violations of the OWASP Foundation or community-based policies;
-- protect our organization, infrastructure, employees, contractors, or the public; or
-- prevent imminent or serious bodily harm or death to a person.
-
-We, or particular users with certain administrative rights as described below, may need to share your Personal Information if it is reasonably believed to be necessary to enforce or investigate potential violations of our Terms of Use, this Privacy Policy, or any OWASP Foundation or user community-based policies. We may also need to access and share information to investigate and defend ourselves against legal threats or actions.
-
-OWASP Sites are collaborative, with users writing most of the policies and selecting from amongst themselves people to hold certain administrative rights. These rights may include access to limited amounts of otherwise nonpublic information about recent contributions and activity by other users. They use this access to help protect against vandalism and abuse, fight harassment of other users, and generally try to minimize disruptive behavior on the OWASP Sites. These various user-selected administrative groups have their own privacy and confidentiality guidelines, but all such groups are supposed to agree to follow our Access to Nonpublic Information Policy. These user-selected administrative groups are accountable to other users through checks and balances: users are selected through a community-driven process and overseen by their peers through a logged history of their actions. However, the legal names of these users are not known to the OWASP Foundation.
-
-We hope that this never comes up, but we may disclose your Personal Information if we believe that it's reasonably necessary to prevent imminent and serious bodily harm or death to a person, or to protect our organization, employees, contractors, users, or the public. We may also disclose your Personal Information if we reasonably believe it necessary to detect, prevent, or otherwise assess and address potential spam, malware, fraud, abuse, unlawful activity, and security or technical concerns.
-
-#### To Our Service Providers
-
-As hard as we may try, we can't do it all. So sometimes we use third-party service providers or contractors who help run or improve the OWASP Sites for you and other users. We give access to your Personal Information to these providers or contractors as needed to perform their services for us or to use their tools and services. We put requirements, such as confidentiality agreements, in place to help ensure that these service providers treat your information consistently with, and no less protective of your privacy than, the principles of this Policy. Our primary service providers, who may change without prior notice include, GitHub, Salesforce, Atlassian, Expensify, Reg Online, Eventbrite, PayPal, and Stripe.
-
-Many OWASP Sites are served through GitHub Pages offered by GitHub, Inc. The OWASP Foundation is a customer of GitHub and as such, they are a Service Provider to us. There are other policies that may pertain to you and your use of GitHub. Please visit their privacy policy for more details.
-
-If you are visiting OWASP Sites with your mobile device, we use your IP address to provide anonymized or aggregated information to service providers regarding the volume of usage in certain areas.
-
-#### To Understand & Experiment
-
-We give volunteer developers and researchers access to systems that contain your information to allow them to protect, develop, and contribute to the OWASP Sites. We also share non-Personal Information or aggregated information with third parties interested in studying the OWASP Sites. When we share information with third parties for these purposes, we put reasonable technical and contractual protections in place to protect your information consistent with this Policy.
-The software that powers much of the functionality of OWASP Sites depends on the contributions of volunteer software developers, who spend time writing and testing code to help it improve and evolve with our users' needs. To facilitate their work, we give some developers limited access to systems that contain your Personal Information, but only as reasonably necessary for them to develop and contribute to the OWASP Sites.
-
-Similarly, we share non-Personal Information or aggregated information with researchers, scholars, academics, and other interested third parties who wish to study the OWASP Sites. Sharing this information helps them understand usage, viewing, and demographics statistics and patterns. They then can share their findings with us and our users so that we can all better understand and improve the OWASP Sites.
-
-When we give access to personal information to third-party developers or researchers, we put requirements, such as reasonable technical and contractual protections, in place to help ensure that these service providers treat your information consistently with the principles of this Policy and in accordance with our instructions. If these developers or researchers later publish their work or findings, we ask that they not disclose your personal information. Please note that, despite the obligations we impose on developers and researchers, we cannot guarantee that they will abide by our agreement, nor do we guarantee that we will regularly screen or audit their projects.
-
-#### Because You Made It Public
-
-Any information you post publicly on the OWASP Sites is just that – public. For example, if you put your mailing address on any page, that is public, and not protected by this Policy. Please think carefully about your desired level of anonymity before you disclose Personal Information on your user page or elsewhere.
-
-### How Do We Protect Your Data?
-
-We strive to protect your information from unauthorized access, use, or disclosure. We use a variety of physical and technical measures, policies, and procedures (such as access control procedures, network firewalls, and physical security) designed to protect our systems and your Personal Information. Unfortunately, there's no such thing as completely secure data transmission or storage, so we can't guarantee that our security will not be breached (by technical measures or through violation of our policies and procedures).
-
-We will never ask for your password by email (but may send you a temporary password via email if you have requested a password reset). If you ever receive an email that requests your password, please let us know by sending it to info@owasp.org, so we can investigate the source of the email.
-
-#### How Long Do We Keep Your Data?
-
-Except as otherwise stated in this policy, we only keep your Personal Information if necessary to maintain, understand and improve the OWASP Sites or to comply with U.S. law.
-
-Once we receive Personal Information from you, we keep it for the shortest possible time that is consistent with the maintenance, understanding, and improvement of the OWASP Sites, and our obligations under applicable U.S. law. Non-personal information may be retained indefinitely.
-
-Please remember that certain information, such as your IP address (if you edit while not logged in) and any public contributions to the OWASP Sites, is archived and displayed indefinitely by design; the transparency of the projects’ contribution and revision histories is critical to their efficacy and trustworthiness. To learn more about our data retention practices, see our data retention guidelines.
-
-## Important info
-
-For the protection of the OWASP Foundation and other users, if you do not agree with this Privacy Policy, you may not use the OWASP Sites.
-
-### Where is the Foundation & What Does That Mean for Me?
-
-The OWASP Foundation is a non-profit organization with its legal headquarters in Maryland, USA, with content and data hosted on sites around the world. If you decide to use OWASP Sites, whether from inside or outside of the U.S., you understand that your Personal Information will be collected, transferred, stored, processed, disclosed, and otherwise used in the U.S. as described in this Privacy Policy. You also understand that your information may be transferred by us from the U.S. to other countries, which may have different or less stringent data protection laws than your country, in connection with providing services to you.
-
-### Changes to This Privacy Policy
-
-Substantial changes to this Policy will not be made until after a public comment period of at least 30 days.
-
-Because things naturally change over time and we want to ensure our Privacy Policy accurately reflects our practices and the law, it may be necessary to modify this Privacy Policy from time to time. We reserve the right to do so in the following manner:
-
-In the event of substantial changes, we will provide the proposed changes to our users in at least three (3) languages (selected at our discretion) for open comment period lasting at least thirty (30) calendar days. Prior to the start of any comment period, we will provide notice of such changes and the opportunity to comment via the OWASP Sites, and via a notification on OWASP mailing lists.
-
-For minor changes, such as grammatical fixes, administrative or legal changes, or corrections of inaccurate statements, we will post the changes and, when possible, provide at least three (3) calendar days' prior notice via a notification on OWASP mailing lists.
-
-We ask that you please review the most up-to-date version of our Privacy Policy. Your continued use of the OWASP Sites after this Privacy Policy becomes effective constitutes acceptance of this Privacy Policy on your part. Your continued use of the OWASP Sites after any subsequent version of this Privacy Policy becomes effective, following notice as outlined above, constitutes acceptance of that version of the Privacy Policy on your part.
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the types of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to privacy@owasp.org. We may ask you to verify your California residency.
 
 ### Contact Us
 
-If you have questions or suggestions about this Privacy Policy, or the information collected under this Privacy Policy, please email us at info@owasp.org or contact us directly.
+If you have questions or suggestions about this Privacy Policy, or the information collected under this Privacy Policy, please email us at support@owasp.com or contact us directly. If you have any questions about our practices or this Privacy Policy, please contact us at privacy@owasp.org, or write to us at: OWASP, Attn: Legal Department, 401 Edgewater Pl, Suite #600, Wakefield MA, 01880. You can also reach our EU entity, OWASP Europe vzw, whose registered address is Leinstraat 104A, 9660 Opbrakel, Belgium, situated in the court district of Oudenaarde/Brakel, but any correspondance with that entity will take some considerable time.
 
 Depending on your jurisdiction, you also may have the right to lodge a complaint with a supervisory authority competent for your country or region.
 
-Thank you for reading our Privacy Policy. We hope you enjoy using the OWASP Sites and appreciate your participation in creating, maintaining, and constantly working to improve the largest repository of free security-related knowledge in the world.
+### Copyright notice
 
-Updated 2020-12-07
+Portions (C) 2022 Linux Foundation. This privacy policy is forked from the [Linux Foundation's Privacy Policy](https://www.linuxfoundation.org/privacy-policy/) with their written permission, and updated by the OWASP Executive Director. As a condition of re-use, the Linux Foundation requested OWASP obtain qualified legal review of the forked policy, to which we agreed. As of the time of writing this draft has not been reviewed by qualified legal counsel; review will occur after the OWASP Community Review Process. Any errors or omissions are solely the responsibility of the OWASP Foundation.
