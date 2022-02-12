@@ -177,8 +177,6 @@ Chapter leaders serve as the main point of contact for their chapters and ensure
 - If a leader needs to step down, they should submit a ticket to the [New Chapter/Leader Request](https://owasporg.atlassian.net/servicedesk/customer/portal/8/group/20/create/105).
 - If a leader is no longer reasonably responsive and contributing to the Chapter, the remaining chapter leaders may petition the leader's removal following the dispute resolution process.
 
-Leader benefits will only apply to the first five chapter leaders.
-
 ### Student chapter Leadership
 
 Student chapters must adhere to City leadership as above, but in addition:
