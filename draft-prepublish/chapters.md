@@ -247,7 +247,7 @@ A Branch cannot exist independently without a managing Regional chapter. A Regio
 
 If an AppSec Day event results in a net profit, the Regional Chapter may elect to provide a OWASP meeting platform group or other shared service (under the regular OWASP account) for an active Branch at the Regional Chapter's own expense, if approved by the leaders of the Regional Chapter. Shared services will be provided by the OWASP Foundation, on condition that the profits from the Regional Conference can cover the costs of the service. The OWASP Foundation shall not bear the costs of Branches.
 
-Branches are managed solely by the Regional Chapter and do not directly require OWASP Foundation involvement. Regional chapter Leaders are responsible for their Branch's meeting requirements, continued activities, and mentoring their Branch Organizers as needed. The Chapter Committee will additionally monitor this yearly.
+Branches are managed solely by the Regional Chapter and do not directly require OWASP Foundation involvement. Regional chapter Leaders are responsible for their Branch's meeting requirements, continued activities, and mentoring their Branch Organizers as needed. The Chapter Committee will additionally monitor this yearly and discuss deficiencies with the Regional Chapter if necessary.
 
 If a Branch meets the standard requirements for a City chapter, they can opt to "graduate" to a full Chapter, as long as they continue to meet the requirements. However, while this should be encouraged, it is not mandatory, and they may continue as a Branch. If the Branch does become a Chapter, the Regional Chapter must continue to meet its requirements.
 
