@@ -16,6 +16,21 @@ This is a DRAFT Chapter policy incorporating improvements to the existing policy
 
 Chapters are central to OWASP's mission of building a community of appsec professionals and developers around the world. This policy defines various chapter types, starting, running, maintaining, and dissolving OWASP chapters. Prospective chapter leaders should familiarize themselves with this policy and the [Chapter Committee leader resources](https://owasp.org/www-committee-chapter/#div-resources_for_chapters) prior to submitting the form.
 
+
+## Definitions
+
+
+### City Chapter
+
+### Regional Chapter
+
+### Regional Branch
+
+### Student Chapter
+
+### Chapter Leader
+
+
 ## Running a Chapter
 
 ### Discoverability
