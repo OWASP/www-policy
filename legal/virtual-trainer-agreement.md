@@ -1,6 +1,6 @@
 ---
 
-title: Vitual Trainer Agreement
+title: Virtual Trainer Agreement
 layout: col-sidebar
 
 ---
