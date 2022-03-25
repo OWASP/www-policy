@@ -63,7 +63,7 @@ The Foundation will revoke fraudulent membership submissions without notice and 
 
 **Complimentary Membership** Individual Membership offered, dues-free, to active leaders in good standing who have contributed materially to the Foundation over an extended period (see below).
 
-**Honorary Lifetime Membership** Honorary Lifetime Membership, has the same benefits as Lifetime Membership described above, but is awarded by the Global Board of Directors for extraordinary contributions to OWASP over an extended period of time.
+**Distinguished Lifetime Membership** Distinguished Lifetime Membership is awarded by the Global Board of Directors once or twice a year for extraordinary contributions to OWASP over an extended period of time. Nominations for Distinguished Lifetime Membership can be sent to the [submitted here](https://owasp.wufoo.com/forms/distinguished-lifetime-membership-nomination/).
 
 ## Complimentary Membership
 
@@ -72,12 +72,6 @@ Complimentary Membership may be offered on an opt-in and automated basis to the 
 Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complimentary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership. Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership.
 
 Active leaders can accept the complimentary membership using the standard "Join" or "Renew" OWASP membership form. Complimentary membership must be manually renewed each 12 months.
-
-## Honorary Lifetime Membership
-
-Honorary Membership is equivalent to Lifetime Individual Membership. Honorary Membership shall be determined and approved solely by a majority vote of the Board of Directors for long-standing and extraordinary services to the OWASP Community.
-
-Nominations for honorary memberships can be [submitted here](https://owasp.wufoo.com/forms/honorary-membership-application/).
 
 ## Becoming a Corporate Member
 
