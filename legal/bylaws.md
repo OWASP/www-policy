@@ -188,6 +188,8 @@ The rules contained in the current edition of Robert's Rules of Order Newly Revi
 
 There shall be the following classes of OWASP members: Corporate, Individual, Complementary, Lifetime, Distinguished Lifetime, and Student.
 
+All membership classes are given the right to vote on matters as detailed in Section 4.06. No additional rights are granted to members.
+
 ### SECTION 4.02 Qualifications
 
 Individual, Corporate, and Student Membership may be granted to any individual or organization that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and pays the dues as set by the Board of Directors. The Foundation may, at its discretion, offer monthly, annual, two-year, and Lifetime memberships. Regional pricing is available to all paid membership classes.
@@ -218,7 +220,7 @@ Dues for members shall be established by the Board of Directors.
 
 ### SECTION 4.06 Voting
 
-Each member shall be entitled to vote on designated matters. The affirmative vote of a majority of the members or by proxy shall be the act of the members as a whole unless a greater number of members is required by law or stated otherwise in these Bylaws.
+All member classes shall be entitled to vote to elect the Global Board, Committee Officers, and to vote on a recommendation by the Board of Directors to remove a Director. The affirmative vote of a majority of the members or by proxy shall be the act of the members as a whole unless a greater number of members is required by law or stated otherwise in these Bylaws.
 
 ### SECTION 4.07 Participation
 
