@@ -220,7 +220,7 @@ Dues for members shall be established by the Board of Directors.
 
 ### SECTION 4.06 Voting
 
-All member classes shall be entitled to vote to elect the Global Board, Committee Officers, and to vote on a recommendation by the Board of Directors to remove a Director. The affirmative vote of a majority of the members or by proxy shall be the act of the members as a whole unless a greater number of members is required by law or stated otherwise in these Bylaws.
+All member classes shall be entitled to vote to elect the Global Board, Committee Officers, and to vote on an approved recommendation to remove a Director by the Board of Directors under section 2.04. The affirmative vote of a majority of the members shall be the act of the members as a whole unless a greater number of members is required by law or stated otherwise in these Bylaws.
 
 ### SECTION 4.07 Participation
 
