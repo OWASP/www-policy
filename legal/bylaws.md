@@ -204,7 +204,7 @@ If an individual is a sanctioned individual or resides in a sanctioned country u
 
 The Board of Directors, by an affirmative vote of two-thirds of all members of the Board at a properly constituted meeting, may terminate, suspend, or expel a member for cause, such as violating our core values, breaching the Code of Conduct, Leader Agreement, Board of Directors Commitment Agreement, Event Conference & Event Attendee Policy, breaching member privacy, convicted of a major crime, damaging the good name and character of any OWASP members, harming or bringing OWASP into disrepute, or breaching approved OWASP policies.
 
-Members who are terminated or expelled are ineligible for future membership. The terminated member may appeal this decision to a future Board after twelve months to be permitted to rejoin OWASP under Section 4.03a.
+Members who are terminated or expelled are ineligible for future membership. The terminated member may appeal after twelve months to a future Board, who will vote on if the terminated member can rejoin OWASP under Section 4.03a.
 
 ### SECTION 4.03a Resumption of Terminated Membership and Activities
 
