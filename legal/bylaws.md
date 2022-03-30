@@ -222,7 +222,11 @@ Each member shall be entitled to vote on designated matters. The affirmative vot
 
 ### SECTION 4.07 Participation
 
-Participation in OWASP activities (conferences, meetings, mailings lists, projects, etc.) does not require membership, but is subject to adherence to the OWASP Code of Ethics, and OWASP leaders may revoke the privilege of participation to those who choose not to abide by that code. Notification of such a revocation must be made to the individual in writing, with the OWASP Board of Directors copied in order for the updating of the Foundation's records. If an individual believes that this revocation is unjustified, then they have the option to appeal the decision by notifying the OWASP Board of Directors in writing within 14 days of the original notification.
+Participation in OWASP activities (events, meetings, activities, mailings lists, projects, etc.) does not require OWASP membership but is subject to adherence to the OWASP Core Values, Code of Conduct, and all approved policies.
+
+Participation may be revoked by an OWASP Leader, the OWASP Foundation, or the relevant Committee for breaching our values, Code of Conduct, or an approved policy. Notification of such revocation must be made to the individual in writing, with the OWASP Board of Directors copied in order for updating the Foundation’s records.
+
+Participants, if they feel revocation of their participation is unjustified, may appeal this decision using the Appeals provisions in this bylaws document.
 
 ## ARTICLE V - ADVISORY BOARDS, COMMITTEES AND LOCAL CHAPTERS
 
