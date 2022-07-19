@@ -141,7 +141,7 @@ Grants are subject to being audited by the OWASP Foundation, including validatin
 
 ### Exemptions to Policy
 
-Exemptions to this policy can be granted by the OWASP Executive Director and documented in the application. Exemptions requiring changes to our bylaws, policies, or non-compliant funding exceeding the Executive Director’s [signing authority](/www-policy/operational/signatory2.md), require an affirmative Board vote.
+Exemptions to this policy can be granted by the OWASP Executive Director and documented in the application. Exemptions requiring changes to our bylaws, policies, or non-compliant funding exceeding the Executive Director’s [signing authority](/www-policy/operational/signatory.md), require an affirmative Board vote.
 
 ### Conflicts of Interest
 
