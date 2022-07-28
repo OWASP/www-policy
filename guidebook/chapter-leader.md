@@ -312,11 +312,11 @@ There are three different sponsorship options:
    - The dollar amount for this is set by each local chapter.
 2. Local Chapter Supporter - Organizations that are not yet interested in becoming full Organizational Supporters but who have a desire to direct their support in a more regional manner may prefer to become a Chapter Supporter.
    - Benefits include being recognized as a local supporter by posting the company logo on the OWASP Chapter website, and having (1) supporting member vote in elections and on issues that shape the direction of the community.
-   - Suggested dollar amounts are $500 (Silver), $1000 (Gold), and $2000 (Platinum) per year, split 15/85 with the Foundation - 85% of the funds going directly to the chapter expenses bucket.
+   - Suggested dollar amounts are $500 (Silver), $1000 (Gold), and $2000 (Platinum) per year, with 85% of the funds supporting chapter expenses, and 15% covering OWASP Foundation administrative overheads.
 3. Organizational Supporter (Global)- Organizations that wish to support OWASP with a 100% tax deductible donation to enable OWASP Foundation to continue the mission.
    - Benefits include an opportunity to post a rotating banner ad on the OWASP home page for 30 days at no additional cost, being recognized as a supporter by posting the company logo on the OWASP Website, being listed as a sponsor in the OWASP newsletter that goes to over 10,000 individuals around the world on OWASP mailing lists.
    - Organizational Supporters have (1) supporting member vote in elections and on issues that shape the direction of the community.
-   - $5000 per year, split 85/15 with the Foundation - and the remainder going to the chapter expenses bucket.
+   - $5000 per year, with 85% of the funds supporting chapter expenses, and 15% covering OWASP Foundation administrative overheads.
 
 More details on the different levels of sponsorship can be found at: [OWASP Corporate Membership](https://owasp.org/supporters/) page.
 
