@@ -1,19 +1,47 @@
 ---
 
-title: Signatory
+title: Signatory (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
 
 ---
 
-Adopted by the Board of Directors 24-Mar-2020, altered signing authority February 23, 2021
+{% include draft-notice.html %}
 
 ## Financial and Spending Authority
 
+### Members
+
+Financial Members have access to the Expense policy. All expenses are subject to the Expense policy, and may not necessarily be approved by the OWASP Foundation. If in doubt, please submit a ticket for expense pre-approval.
+
+- $0 - $250 requires a single leader to co-approve expenses
+- $250 and above require a two leaders to co-approve expenses
+
+Members may not enter into or sign contracts or agreements. All funds must be processed through the OWASP Foundation or one of its entities.
+
+### Leaders
+
+Leaders have access to the Expense policy. All expenses are subject to the Expense policy, and may not necessarily be approved by the OWASP Foundation. If in doubt, please submit a ticket for expense pre-approval.
+
+- $0 - $250 Leaders are pre-approved to incur expenses without a second approver
+- $250 and above require a second leader to co-approve expenses
+
+Leaders may not enter into or sign contracts or agreements. All funds must be processed through the OWASP Foundation or one of its entities.
+
+### Staff
+
+In the course of ordinary business, staff are required to approve various expenses or costs associated with their position, such as organizing a meeting, providing cloud hosting, or providing equipment.
+
+- $0 - $1,000 Staff members can sign and approve without second approver
+- $1,000 to $10,000 Staff Member and Executive Director or Treasurer
+- $10,000 or more must be signed by Executive Director and Treasurer
+
+Staff may not sign contracts or agreements worth more than $1,000 USD. All funds must be processed through the OWASP Foundation or one of its entities.
+
 ### Executive Director
 
-The Executive Director, subject to the quarterly total spending as set forth in the Quarterly Breakdown of the Annual Budget (Quarterly Plan) approved by the Board of Directors (Board) and exercising all necessary due diligence and care, is individually authorized by this delegation to obligate the funds of the OWASP Foundation (OWASP), to execute agreements reflecting those obligations, and to further delegate this authority as deemed appropriate, up to and including the limits set forth below per transaction, such limit shall include integrated or related transactions.
+The Executive Director, subject to the Annual Budget approved by the Board of Directors (Board) and exercising all necessary due diligence and care, is individually authorized by this delegation to obligate the funds of the OWASP Foundation (OWASP), to execute agreements reflecting those obligations, and to further delegate this authority as deemed appropriate, up to and including the limits set forth below per transaction, such limit shall include integrated or related transactions.
 
 Budgeted or Discretionary per transaction (or related transactions), grant making, awards and scholarships, expense approvals, legally binding contractual arrangements, and purchasing assets:
 
@@ -26,7 +54,7 @@ Signing authority:
 - Transferring funds between and managing OWASP bank accounts and other financial accounts $ 250,000
 - Budgeted General Operational Spending (including but not limited to, payroll, expenses, and accounts payable), $ 500,000
 
-Any spending which exceeds the Quarterly Plan by more than 10%, must be approved by the Board of Directors.
+Any spending which exceeds the approved Annual Budget by more than 10%, must be approved by the Board of Directors.
 
 ### Chief Financial Officer
 
