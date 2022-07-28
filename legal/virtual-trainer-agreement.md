@@ -19,7 +19,7 @@ To successfully deliver my session, I may request contact information about my a
 
 <strong>REMUNERATION AND PAYMENT</strong>
 
-As a TRAINER of an Virtual AppSec Days event, I am eligible for 50% of my session's revenue up to a $3,500 remuneration, and then 20% of any additional session revenue. I must provide appropriate taxing authority documentation as needed for final payment such as a W-9 in the United States. I will not be reimbursed for any expenses incurred to deliver sessions for the Company’s Conference. 
+As a TRAINER of an Virtual AppSec Days event, I am eligible for 50% of my session's revenue up to a $5,000 remuneration, and then 15% of any additional session revenue. I must provide appropriate taxing authority documentation as needed for final payment such as a W-9 in the United States. I will not be reimbursed for any expenses incurred to deliver sessions for the Company’s Conference. 
 
 Any remuneration or expense reimbursement request must be submitted to the Company Service Desk (OSD) with appropriate documentation no sooner than ten (10), and no later than ninety (90) days following the event in which I present. Remuneration and reimbursements are subject to the policies and procedures of the Company.
 

@@ -18,7 +18,7 @@ In order to avoid any problems or misunderstandings, we have developed these gui
 ### Guidelines
 
 1. Any company or individual can donate funds to a project in exchange for the placement of one sponsorship logo on the OWASP project page and product they have sponsored.
-2. Donations or project sponsorship funds will be allocated with 10% going to the Foundation and 90% going to the Projects.
+2. Donations or project sponsorship funds will be allocated with 15% going to the Foundation and 85% going to project expenses.
 3. There is no limit or minimum amount that a company or individual can give in funds to an OWASP Project. However, the minimum amount required to have a company logo on the OWASP Project wiki page and product is $1000 USD.
 4. Sponsors that donate less than $1000 USD will have their company name, and website url, added to the project wiki page and product. No logo will be placed for donations below this amount.
 5. A sponsor can choose to donate to the overall OWASP Projects budget. If the sponsor chooses to donate to the overall Projects budget, then one logo of their choosing will be placed on the OWASP Projects wiki page under the 'Sponsors' tab. The minimum amount required to have your company logo on the OWASP Projects page is $1000 USD.
