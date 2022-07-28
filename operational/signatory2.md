@@ -26,7 +26,7 @@ Signing authority:
 - Transferring funds between and managing OWASP bank accounts and other financial accounts $ 250,000
 - Budgeted General Operational Spending (including but not limited to, payroll, expenses, and accounts payable), $ 500,000
 
-Any spending which exceeds the Quarterly Plan by more than 10%, must be approved by the Board of Directors.
+Any spending which exceeds the Quarterly Plan by more than 15%, must be approved by the Board of Directors.
 
 ### Chief Financial Officer
 
