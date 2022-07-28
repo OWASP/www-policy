@@ -11,7 +11,7 @@ Adopted by the Board on 20-Oct-2020
 
 ## Overview
 
-The OWASP Foundation is a member-led organization. Members serve as Board Members, Leaders, and volunteers for our community. Voting Members have a vote in the election of OWASP Global Board of Directors and Committee Officers. Membership is a privilege guided by the [Code of Conduct](/www-policy/operational/code-of-conduct), which has dues set by the OWASP Board of Directors, and are detailed below. Discounts are available for students, multi-year memberships, and for people living in developing economies. Complimentary membership is available for active leaders, and Honorary Lifetime Membership may be granted by the Board of Directors for extraordinary service to OWASP and its mission over a long period of time.
+The OWASP Foundation is a member-led organization. Members serve as Board Members, Leaders, and volunteers for our community. Voting Members have a vote in the election of OWASP Global Board of Directors and Committee Officers. Membership is a privilege guided by the [Code of Conduct](/www-policy/operational/code-of-conduct), which has dues set by the OWASP Board of Directors, and are detailed below. Discounts are available for students, multi-year memberships, and for people living in developing economies. Complimentary membership is available for active leaders, and Distinguished Lifetime Membership may be granted by the Board of Directors for extraordinary service to OWASP and its mission over a long period of time.
 
 ## Membership
 
@@ -34,7 +34,7 @@ Individuals can only become members of the OWASP Foundation by completing the [M
 - Only qualifying individuals will be eligible for Complimentary, Developing Economy, and Student Memberships.
 - Once paid, Membership Dues are not prorated, nor can they be canceled once purchased.
 
-The OWASP Foundation is the exclusive grantor of OWASP Memberships. No person or entity can act as a membership agent or grant Honorary or Complimentary memberships except for the OWASP Board of Directors.
+The OWASP Foundation is the exclusive grantor of OWASP Memberships. No person or entity can act as a membership agent, or grant Distinguished Lifetime Membership except for the OWASP Board of Directors.
 
 The Foundation will revoke fraudulent membership submissions without notice and no refund. Memberships and member benefits are not transferrable.
 
@@ -101,6 +101,10 @@ Dues for Membership are set by the Board from time to time. The current dues are
 | Complimentary | $0 | $0 | 1 Year |
 | Lifetime | $200 | $500 | Lifetime |
 | Distinguished Lifetime | $0 | $0 | Lifetime |
+
+## Transition of Complimentary Membership
+
+Existing ("legacy") Complimentary Members will be transitioned to the new Complimentary Membership class as their Membership expires. Renewing and new Complimentary Members will be given the benefits as defined above in Complimentary Membership Benefits, which may mean the loss of some of the benefits of the old Complimentary Membership.
 
 ## Transition of Corporate Membership
 
