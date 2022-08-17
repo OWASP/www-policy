@@ -1,17 +1,55 @@
 ---
 
-title: Elections Policy
+title: Elections Policy (DRAFT WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2020-08-05
+notice: 2022-08-26
 
 ---
-Adopted by the Board on 20-Oct-2020
+
+{% include draft-notice.html %}
 
 ## Overview
 
-The OWASP Foundation is a community-led organization where some leadership roles are filled with individuals elected by Membership. While the following policy is specifically written for Board of Directors Elections, it should be used as a model for other OWASP elections. Generally, elections should be conducted in a fair and transparent manner which include:
+The OWASP Foundation is a community-led organization where some leadership roles are filled with individuals elected by Membership. Free and fair elections are central to OWASP's core values of openness, innovation, integrity, and global collaboration.
+
+## Voter Qualifications
+
+Voters must be Voting Members of the OWASP Foundation. Voting lists are determined no later than the start of each election. Voting members are qualified to vote on any voting matter. Voting is optional.
+
+Accurate voting lists are the responsibility of the OWASP Foundation.
+
+## Leader Qualifications
+
+The OWASP Foundation sources its leadership from the community in a democratic process, elected by voting members. Leaders, Officers, and Directors must be Voting Members, with a strong commitment to the mission of the Foundation. Diversity candidates are strongly encouraged to participate in the leadership of the OWASP Foundation.
+
+Leader qualifications will be verified by the OWASP Foundation no later than certification of the election by the Executive Director.
+
+## Committee, Chapter, Project, or Event Leadership Elections
+
+Committee officer, chapter, project, or event leadership are preferably elected by "viva voce" elections - that is "show of hands", with the results being recorded. If there are serious concerns about running "viva voce" elections, the leadership team can elect to use e-ballot. 
+
+### Announcement of the Election
+
+A public meeting shall be convened by the existing leadership team, with at least seven days written notice on the OWASP website and Leaders mailing list, and optionally social media announcements, such as #owasp-community in the OWASP Slack, the chapter or project group, or the OWASP Twitter account. The announcement shall include the following:
+
+- Date and time of the meeting
+- Positions open for election
+
+### Nomination Process
+
+Leadership nominations shall be called from the floor at a publicly announced chapter meeting, project meeting, or event leadership meeting, per Robert's Rules of Order 46:6, stating the position that is open. Nominees shall state if they accept the nomination, and the reasons why they should be elected.
+
+### Voting Process
+
+If there is more than one nomination, the Voting process is "Viva Voce" elections - or a show of hands from the assembled members, as outlined in Roberts Rules of Order 46:37. An alternative method is to submit the nominations to the OWASP Foundation to run an e-Ballot. Winners are those with the most votes of those present or voted. In the case of a tie, a run off election of the two top candidates shall be held until a clear winner is determined.
+
+### Election Results
+
+Election Results shall be published on the OWASP Website and on the OWASP Slack. A ticket to change the leadership team shall be submitted by the current or outgoing leadership team. The OWASP Foundation will validate the OWASP Membership of the new or updated leadership team.
+
+## Board of Directors Election
 
 - Sufficient notice period for nominations and voting
 - Concise candidate and electorate qualifications
@@ -20,9 +58,11 @@ The OWASP Foundation is a community-led organization where some leadership roles
 - Private method of voting
 - Publication of full voting results
 
-## Process
+### Call for Candidates
 
-No later than two months prior to an election, a timeline will be publicly available that is  minimally shared on the OWASP website. On the nearest business day, the timeline will include notices, important dates, and milestones to be gazetted on the OWASP website prior to the election process starting. 
+No later than two months prior to an election, a timeline will be publicly available that is, at the minimum, shared on the OWASP website. On the nearest business day, the timeline will include notices, important dates, and milestones to be gazetted on the OWASP website prior to the election process starting.
+
+### Timelines
 
 For the OWASP Board of Directors those annual milestones are:
 
@@ -36,11 +76,15 @@ For the OWASP Board of Directors those annual milestones are:
 
 Elections shall include a method for the electorate to get to know the candidates and their position on topical matters. For the Board of Directors election, this method will minimally include a (1) two week call for questions from the community where a final list sorted by popularity for up to six questions will be provided to candidates, and (2) each candidate will post an online video linked on the Foundation’s website to a candidate community page.
 
+## Amending or Replacing Bylaws of the Foundation
+
+Bylaws 
+
+## Official Communications
+
 Email sent to Members shall be the official and primary communication method to engage candidates and Members for OWASP elections. Members shall receive no less than three (3) email notices for the following: (1) call for candidates, (2) call for questions, (3) notice that in order to vote you must be a Member, and (4) notice to vote. Timelines for elections may include courtesy notices through other channels including social media and mailing lists; however, they are not required and should not be expected for official communications from the OWASP Foundation to Members and the community at large.
 
-## Qualifications
 
-The OWASP Foundation sources its leadership from the community in a democratic process. There are no specific qualifications other than Membership and a strong commitment to the mission of the Foundation. Diversity candidates are strongly encouraged to participate in the leadership of the OWASP Foundation.
 
 Membership Day, September 30th of each year, is the primary deadline for Board of Director election qualifications. It is the day of that year’s election for which Membership is required to be an eligible elector, and it is the day the previous year for which candidates must have maintained continuous Membership in good standing to be a qualified candidate.
 
