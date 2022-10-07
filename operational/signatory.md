@@ -4,6 +4,7 @@ title: Signatory (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 10-07-2022
 
 ---
 
@@ -33,11 +34,9 @@ Leaders may not enter into or sign contracts or agreements. All funds must be pr
 
 In the course of ordinary business, staff are required to approve various expenses or costs associated with their position, such as organizing a meeting, providing cloud hosting, or providing equipment.
 
-- $0 - $1,000 Staff members can sign and approve without second approver
-- $1,000 to $10,000 Staff Member and Executive Director or Treasurer
-- $10,000 or more must be signed by Executive Director and Treasurer
+- $0 - \$1,000 Staff members may sign and approve without second approver
 
-Staff may not sign contracts or agreements worth more than $1,000 USD. All funds must be processed through the OWASP Foundation or one of its entities.
+All funds must be processed through the OWASP Foundation or one of its entities. 
 
 ### Executive Director
 
@@ -45,16 +44,16 @@ The Executive Director, subject to the Annual Budget approved by the Board of Di
 
 Budgeted or Discretionary per transaction (or related transactions), grant making, awards and scholarships, expense approvals, legally binding contractual arrangements, and purchasing assets:
 
-- $0 - $10,000 Executive Director can sign and approve without second approver
-- $10,000 to $250,000 Executive Director and Treasurer or Chair can sign and approve without Board approval
-- $250,000 or more requires an affirmative Board vote
+- \$0 to \$10,000 must be signed by Executive Director or Treasurer
+- \$10,000 to $100,000 must be signed by Executive Director and Treasurer
+- \$100,000 and above must be signed by Executive Director and Treasurer and affirmative vote by the Board of Directors
 
 Signing authority:
 
 - Transferring funds between and managing OWASP bank accounts and other financial accounts $ 250,000
 - Budgeted General Operational Spending (including but not limited to, payroll, expenses, and accounts payable), $ 500,000
 
-Any spending which exceeds the approved Annual Budget by more than 10%, must be approved by the Board of Directors.
+Any spending which exceeds the approved Annual Budget by more than 10%, must be approved by the Board of Directors. If the Treasurer is not available, the Chair or Vice Chair may sign on their behalf.
 
 ### Chief Financial Officer
 
