@@ -15,7 +15,7 @@ The OWASP Foundation is a member-led organization. Members serve as Board Member
 
 ## Membership
 
-Membership is explicitly defined as people or corporations that pay dues along with those granted by the Board of Directors. Nearly all OWASP activities are open to both members and nonmembers. Some example activities include participating in a Project or Chapter, attending chapter meetings, joining mailing lists or attending events. Merely participating in the activities of the OWASP Foundation does not make that person a Member; membership includes only those who pay dues to the OWASP Foundation.
+Membership is explicitly defined as individuals that pay dues along with those granted by the Board of Directors. Nearly all OWASP activities are open to both members and nonmembers. Some example activities include participating in a Project or Chapter, attending chapter meetings, joining mailing lists or attending events. Merely participating in the activities of the OWASP Foundation does not make that person a Member; membership includes only those who pay dues to the OWASP Foundation.
 
 Individual Members can check their Membership Status, renewal dates, and for auto-renewing Memberships update their billing information by visiting the [Manage your Membership Form](/manage-membership). Members must provide the email address used when applying for membership, and if a member matches that address, an email will be sent to verify or update membership.
 
@@ -106,6 +106,6 @@ Dues for Membership are set by the Board from time to time. The current dues are
 
 Existing ("legacy") Complimentary Members will be transitioned to the new Complimentary Membership class as their Membership expires. Renewing and new Complimentary Members will be given the benefits as defined above in Complimentary Membership Benefits, which may mean the loss of some of the benefits of the old Complimentary Membership.
 
-## Transition of Corporate Membership
+## Corporate Supporter Transition
 
-Under the previous bylaws, Corporate Membership existed. All existing Corporate Memberships will be honored, but upon renewal, will become Corporate Supporters of the OWASP Foundation.
+Corporate Members rights and privileges will be honored for the duration of their membership. Upon renewal, will become Corporate Supporters of the OWASP Foundation. Corporate Members can become Corporate Supporters by contacting the OWASP Foundation.
