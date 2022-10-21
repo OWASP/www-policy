@@ -1,227 +1,326 @@
 ---
 
-title: Chapters Policy
+title: Chapters Policy - Draft (WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-02-23
+notice: 2022-10-21
 
 ---
 
-Adopted by the Board on 23-Feb-2021
+{% include draft-notice.html %}
+
+This is a DRAFT Chapter policy incorporating improvements to the existing policy as well as incorporating a standardized regional model created by the Chapter Committee after more than a year of consultations with all OWASP regional chapters. Please provide comments on this policy via the [Community Review Process](https://owasp.org/www-policy/operational/community-review-process).
 
 ## Overview
 
-Chapters are central to OWASP’s mission of achieving community around the world. This policy defines the rules related to starting, running, maintaining, and dissolving OWASP chapters.
+Chapters are central to OWASP's mission of building a community of students, appsec professionals, and developers around the world. This policy defines various chapter types, how to start, run, maintain, and deactivate OWASP chapters.
 
-## Chapter Leadership
+## Definitions
 
-Chapter leaders serve as the main point of contact for their chapters and are responsible for ensuring the chapter complies with all OWASP policies while fulfilling its mission and obligations.
+For the purposes of this policy, the words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
 
-- Chapter leaders are not required to be members, but it is recommended to become one to promote membership.
-- Chapter leadership is open to all participants. Leadership is personal, and not associated with any organization, company, or employer.
-- Each chapter must have a minimum of 2 and a maximum of 5 foundation-recognized, official leaders. In the event of a resignation, leadership transition, or new leadership being appointed, a chapter is allowed a grace period of up to 3 months from the event to comply.
-- A chapter leader can be a leader of only one chapter.
-- Leaders will sign and return a leader's agreement within 30 days of receipt.
-- Each leader will annually confirm upon request within 30 days that they intend to continue volunteering as chapter leader.
-- Leaders are encouraged to transition or rotate every 2-3 years (minimum 2 years, maximum 3 years) to allow fresh leaders to step up and participate in the chapter operations. Leader selection is at the chapter’s discretion, provided all policies are followed.
-- If a chapter’s leadership does not have consensus, fair and open elections should be administered with the support of OWASP staff and the [Chapter Committee](https://owasp.org/www-committee-chapter/).
-- Any changes in chapter leadership should be done by submitting a ticket with all information to the [New Chapter/Leader Request](https://owasporg.atlassian.net/servicedesk/customer/portal/8/group/20/create/105) by one of the existing leaders. If the local chapter leadership is inactive, this request can be made by local chapter OWASP members.
-- If a leader needs to step down, they should submit a ticket to the [New Chapter/Leader Request](https://owasporg.atlassian.net/servicedesk/customer/portal/8/group/20/create/105).
-- If a leader is no longer reasonably responsive and contributing to the chapter, the remaining chapter leaders may petition the leader's removal in accordance with the dispute resolution process.
+"Activity" - local chapter activities, such as chapter meetings, activities such as CTFs or hack-a-thons, social gatherings, etc, that are promoted on the OWASP website, free to attend and participate. Compliant local chapter activities do not require pre-approval under the Events policy, and expenses are governed by the Expenses policy.
 
-## Running a Chapter
+"Event(s)" - pre-approved events as governed by the [Events policy](./events), usually distinguished by paid attendance, with a budget, and usually more than four hours in duration. Events are out of scope for this policy.
 
-### Discoverability
+"City chapter" - a standard chapter type
 
-Chapters must be discoverable by new and existing members and participants.
+"Student chapter" - a chapter led by academic faculty members and students
 
-- Chapter activities must appear on the owasp.org website.
-- It is strongly recommended to use OWASP’s official chapter and event scheduling platform. The foundation pays event platform fees for active chapters. If you use another platform, [OWASP may not reimburse these expenses](https://owasp.org/www-policy/operational/expense-reimbursement). If you do use the foundation’s scheduling service, your chapter’s group account must be defined under the OWASP Foundation account to provide continuity for chapter members in case chapter leadership becomes inactive.
-- If you do not use OWASP’s official event platform, you must ensure your events are synchronized (whether automatically or manually) to your chapter page on the owasp.org website.
-- Each chapter is responsible for creating and maintaining their owasp.org chapter home page (see also [Starting a New Chapter](#starting-a-new-chapter) and [Meetings and Activity Requirements](#meetings-and-activity-requirements)).
-- A list of the current leaders and email addresses must be listed on the Chapter’s web page on owasp.org. It is highly encouraged that leaders use their @owasp.org email address on these pages.
+"Regional chapter" - a chapter that encompasses a region, run by or with associated chapters
 
-### Meetings and Activity Requirements
+"leader" - volunteers who actively organize chapter activities.
 
-- Attendees do not need to be members. All members of the public are allowed to attend OWASP meetings. However, reasonable restricted chapter events and activities may be organized in addition to regular meetings.
-- Chapter meetings must be free.
-- Chapters should host a minimum of 3 chapter activities a year to maintain an active OWASP chapter. The activity can be in person, virtual, or an [approved OWASP event](https://owasp.org/www-policy/operational/events) run by the OWASP chapter (or in collaboration with another chapter or external organization with the approval of the foundation).
-- Chapter activities are for the benefit of the community, and could include, but are not limited to:
-  - Chapter meetings (traditional meetups)
-  - Training days
-  - Capture the Flag/Hack-a-Thon events
-  - Local/Regional AppSec Days events
-  - Student-focused activities, at secondary and/or college level
-- Chapter activity information (date, time, and location) must be posted on the owasp.org chapter page before the event start date.
+"Deactivation" - clearing leaders and tagging the chapter as inactive, but not deleting any Chapter content.
 
-For chapters using OWASP Meetup Pro, mirroring meetings automatically is simple and easy. Add the following code to make your life a lot easier. In the header, please make sure the `meetup-group` parameter exists and is accurate:
+"Dissolution", "deletion", and "dissolved" - the chapter leadership SHALL be removed and the chapter SHALL be deleted, usually where a new chapter has failed to start within the allotted time or sanctions forces the OWASP Foundation to close the chapter.
 
-```javascript
-meetup-group: your-meetup-group
-```
+"pre-approved" - means a Chapter support ticket MUST be raised with sufficient time and detail for the request to be approved.
 
-If the meetup-group header is identical to your OWASP Meetup Pro Group name (e.g. `meetup-group: OWASP-Colorado-Springs-Meetup`), the code will automatically mirror your upcoming meeting information as mandated by the policy above.
+## Chapter naming
 
-Add this line to where you would like your upcoming meetings to automatically appear in the body:
+OWASP has various chapter types, and each has a naming scheme to aid discovery and reduce confusion. All chapter names MUST be approved by the OWASP Foundation.
 
-```javascript
-. { % include chapter_events.html group=page.meetup-group %}
-```
+### City chapters
 
-(Remove the space between `{` and `%` to make this work on your page)
+City chapters SHOULD be named "OWASP «city name»". The city name SHOULD be recognizable to mapping software to allow automated geographic searches or discovery of chapters.
 
-NB: Per the policy above, if you don't use this, or it's set up incorrectly, you will need to do this step manually. Once your events are done, please add past events to a past events tab. For a more detailed example, see [https://owasp.org/www-projectchapter-example/]
+City chapter names MUST NOT be a regional or country name unless the city name is the country name (e.g. OWASP Luxembourg).
 
-### Communication
+### Student chapters
 
-OWASP is a social community, and we need to communicate with our community regularly.
+Student chapters SHOULD be named "OWASP «institution name»" or where the institution has different campus locations, "OWASP «institution name» «campus»"
 
-- Chapter leaders should use owasp.org email address for all OWASP related correspondence.
-- Chapter leaders should monitor their owasp.org email address regularly and respond within 9 business days.
-- Requests from OWASP staff, such as expense claims, should be responded to by one or more of the chapter leaders within 9 business days.
-- Leaders are encouraged, but not required, to monitor and participate in the [OWASP Leaders List](https://groups.google.com/u/1/a/owasp.org/g/leaders), other Google groups, and the Slack platform.
-- OWASP chapters can create and manage their own social media presence and other reasonable communication channels. Access to these accounts must be shared with all leaders of the chapter. Administration of the account should be handed over to a remaining chapter leader when stepping down.
+### Regional chapters
 
-We recommend chapter leaders set an [out of office notification](https://support.google.com/mail/answer/25922?co=GENIE.Platform%3DDesktop&hl=en) within their @owasp.org email if they are planning to take leave, so that chapter members, the Chapter Committee, and foundation staff are aware of any absences or delays in responding to communications.
+Regional chapters are to be named "OWASP «region name»" representing a larger geographic area with a cohesive community not limited to a specific city. A region might be a state/district/province, a whole country, or a commonly recognized geographic area.
 
-## Shared Services
+Residents living in the region MUST recognize regional chapter names as commonly associated with the region. The region MUST include the locations being claimed by the Regional Chapter application. Leaders of this region SHOULD agree that there is a regional community around this name.
 
-OWASP Foundation will provide chapters with the following shared services at no cost. Chapters are encouraged to make use of these. Access to these services can be obtained by submitting a ticket via [Contact Us](https://contact.owasp.org/). If, after 9 business days have passed, and reasonable efforts have been made to attempt to utilize shared services, no response is received, the chapter may, with due care, seek a reasonable alternative, filling out a [Chapter Funding Pre-Approval](https://owasporg.atlassian.net/servicedesk/customer/portal/8/group/20/create/107) ticket.
+Regional chapter names MUST NOT conflict or likely to create confusion with other OWASP entities, events, committees, chapters, and so on.
 
-- Chapter page on the owasp.org website.
-- A chapter scheduling service for meetings and local events with RSVP functionality and hidden video conference details.
-- Video conferencing and webinar facilities for virtual meetings and events, and hybrid in-person / virtual events.
-- Social messaging app to communicate in real time with the OWASP community.
-- Leaders have access to leaders@owasp.org - join using owasp.org email address.
-- Assistance and resources are available through the [Chapter Committee](https://owasp.org/www-committee-chapter/) and other [OWASP Committees](https://owasp.org/committees/).
-- Event insurance covering chapter meetings.
+Regional chapter names of large encompassing regions, such as "OWASP Europe" or "OWASP LATAM", are unlikely to be approved without sufficient justification and community support. All encompassed city, student, and regional chapters MUST agree to the creation of these large encompassing regions.
 
-Services identical or like those provided by the foundation cannot be expensed without [prior approval](https://owasporg.atlassian.net/servicedesk/customer/portal/8/group/20/create/107). Where possible, all chapters are encouraged to use a service that respects user privacy.
+### Naming precedence
 
-## Starting a New Chapter
+Chapter applications SHALL be processed in the order received.
 
-There are currently two types of chapters you can start: city chapters and student chapters. Prospective chapter leaders should familiarize themselves with this policy and the draft [Chapter Handbook](https://owasp.org/www-committee-chapter/#div-resources_for_chapters) prior to submitting the form.
+Existing chapters have precedence over newer chapters.
 
-- New chapters must be approved by the foundation, by submitting a request through [Contact Us](https://contact.owasp.org/).
-- After the new chapter is approved, the chapter leader must:
-  - Provide GitHub usernames in order to get admin access your chapter repository.
-  - Create new chapter pages within 30 days of GitHub access on the owasp.org website (see [Website Migration Information and Tutorial](https://owasp.org/migration/) for assistance).
-  - Log into their owasp.org email account within Google's defined time period, or they will need to log a support ticket via [Contact Us](https://contact.owasp.org/) to have a password recovery email sent to their registration email address.
+If a new chapter has a similar name to an existing chapter, a more specific name SHALL be used to enable geographic searches and reduce confusion. e.g. OWASP Brooklyn wants to be created, assuming the one hour travel policy is applicable, is different from the existing OWASP NYC.
 
-### Starting a City Chapter
+## Requirements
 
-City chapters are the primary form of the OWASP chapter, with hundreds of chapters worldwide.
+### Open Access and Discoverability
 
-- Approved city chapters are named "OWASP «city name»". City chapter names must not be a regional or country name unless the city name is the country name (e.g., Monaco).
-- Chapters shall be defined for a single city only; a new chapter may be denied approval if there is another chapter within 80 km (50 miles).
-- Chapter leaders must reside within 80 km (50 miles) of the chapter location.
-- Exceptions to distance rules may be approved on a case-by-case basis, for example where travel times between two geographically close chapters is excessive (defined as more than one hour).
+OWASP's mission requires free and open access to free chapter activities. Chapter leaders MUST NOT restrict access to the general public. Activity locations SHOULD be chosen to encourage participation. Activities MUST be published and discoverable from the OWASP website.
 
-### Starting a Student Chapter
+If an academic institution has membership, campus access, or leadership restrictions or additional requirements that contravenes open access, Student chapters MAY apply in writing to the Chapters Committee for an exemption by explaining the restrictions in full.
 
-Students and faculty of institutions of higher education can create student chapters.
+### Chapter Leaders
 
-- Student chapters are named “OWASP «institution name»” or where the institution has different campus locations, “OWASP «institution name» «campus»”
-- Student chapters are associated with one educational institution in a single geographic area. For example, each educational institution in a city is more than welcome to have their own student chapter, which is not the case for regular city chapters.
-- At least one leader must be a student, and at least one leader must be faculty from the institution.
-- Student chapters in a city with an active OWASP city chapter should make meaningful efforts to collaborate with the city chapter, and vice versa, where appropriate.
+Chapter leadership is on a voluntary basis. Leadership is personal and not associated with any organization, company, or employer.
+
+Each Chapter MUST have a minimum of two (2) and a maximum of five (5) Chapter Leaders. Regional chapters can apply for an exemption to create additional leaders if they have multiple locations.
+
+Chapter leaders MUST be a leader of only one chapter.
+
+Chapter leaders SHOULD be present in the country of their chapter. Regional chapters leaders MUST reside within the region.
+
+Chapters with less than two leaders SHALL be deactivated if they do not find sufficient leaders within 90 days.
+
+### Student Chapter Leaders
+
+Students and faculty of institutions of higher education MAY create OWASP Student chapters associated with their educational institution, and optionally campus location.
+
+Student chapters MUST have at least one ongoing faculty member, and at least one student leader. The Faculty member will be representing the institution, and be responsible for ensuring that OWASP policy is followed.
+
+Student Chapters are exempted from meeting minimum leader number requirements between academic years. Student Chapters have 90 days after the start of each new academic year to find at least one student leader.
+
+### Discoverable Activity Requirements
+
+All OWASP chapters MUST meet publicly at least three times a year, with free and open access to these activities or free events to the general public.
+
+Public activities MUST be discoverable by new and existing members and participants by publishing the details on the owasp.org website with sufficient notice to allow promotion and attendance.
+
+Student chapters MUST meet standard activity requirements, and schedule sufficient activities during academic year to ensure that semester and academic year breaks do not cause chapter deactivation.
+
+Regional chapters SHOULD be organizing AppSec Days events approved under the Events policy for their activity requirements. Activities organized by associated City chapters do not count towards Regional Chapter activity requirements.
+
+Private or paid activities, meetings, speaking engagements, or another organization's meetings, activities, or events SHALL NOT count towards OWASP Chapter activity requirements.
+
+### Leader Activity
+
+To be considered active, nominated Chapter leaders MUST assist with the organization of the necessary number of chapter activities.
+
+If a leader is no longer reasonably responsive and contributing to the Chapter, the remaining chapter leaders or participants MAY ask the OWASP Foundation to remove or replace the leader.
+
+### Student Chapter Requirements
+
+Student chapters MAY need to comply with institutional policies, such as student club rules that conflict with this or other OWASP policies. Wherever possible, OWASP student chapters SHOULD comply with OWASP policy with precedence over institutional policies.
+
+The Faculty member MUST review OWASP policies and note any exceptions REQUIRED by the Institution in the application for consideration, particularly where the new Student chapter might violate our Core values and Code of Conduct.
+
+A Student Chapter MAY restrict activity attendance to those affiliated with the academic institution (students, faculty, staff, etc) if REQUIRED by the institution's policy.
+
+### Regional Chapter Requirements
+
+Regional chapters MUST have at least three leaders who reside within the region, and they SHOULD reside in three different locations within the region.
+
+Proposed regional chapters SHALL be announced to the OWASP Leaders list. Chapter Leaders within the region SHALL have 30 days to object to the creation of the proposed chapter. Objections SHALL be heard at next available Chapter Committee meeting to decide if it is to be created.
+
+If there are overlapping regions, the new Regional Chapter SHALL be the smallest of the overlapping regions that incorporate all associated locations.
+
+Regional chapters do not need to have participating city chapters, but MUST meet all activity requirements. Regional chapters can hold activities in multiple locations.
+
+The existence of a regional chapter does not conflict with a City chapter co-located in the same region.
+
+### Chapter Distance
+
+Chapters that are too close together reduce community networking opportunities and increase administrative overheads for chapter leaders, the OWASP Foundation, and the Chapter Committee alike.
+
+The following exceptions are permitted:
+
+New chapters within 80 km or 50 miles of another chapter MAY be formed if more than one hour travel time away from the nearest similar chapter.
+
+Multiple student chapters within the same institution MAY exist in a single city or region but MUST be unique per campus location.
+
+Chapters requiring an exception SHALL be processed on a case-by-case basis by the OWASP Foundation.
+
+### Chapter Communications
+
+Chapter leadership contact information MUST be accurate and appear on the owasp.org web site. The contact information SHOULD allow participants, Members, the Chapter Committee, or the OWASP Foundation to contact leadership via email. If another contact method is used, it MUST NOT rely upon membership of any non-OWASP platform.
+
+Chapter Leaders MUST monitor or forward their owasp.org email address for OWASP or chapter related correspondence from participants, speakers, members, Chapter Committee, the OWASP Foundation and its systems, and the Global Board.
+
+Chapter leadership SHOULD respond in a reasonable time to Member, Chapter Committee, or Foundation communications, and MUST respond within 60 days for the Chapter to be considered active.
+
+Leaders SHOULD reply from their owasp.org email address. Leaders MAY forward their owasp.org email to a personal email address and respond from it to assist with timely communications. Leaders MUST NOT use a corporate email address to avoid any perception or actuality of conflict of interest.
+
+All supports requests MUST be logged through the OWASP Foundation ticketing system.
+
+### Chapter Branding Requirements
+
+OWASP Chapters MUST identify as an OWASP chapter in their branding, per the latest published [branding guidelines](./branding).
+
+Chapter Leaders SHOULD regularly review the latest templates and use them to create new materials, and provide them to potential speakers as a template for their presentations.  
+
+### Chapter Vendor Neutrality Requirements
+
+Chapters MUST comply with OWASP's core values of transparency and vendor neutrality. They SHOULD avoid the perception or actuality of a conflict of interest with any arrangements for space, speakers, or sponsors. Speakers SHOULD NOT be making a sales pitch or marketing.
+
+OWASP Leaders SHALL advise speakers to use OWASP templates for presentations, but they are not mandatory for local Chapter activity. Recognizing supporters or sponsors SHOULD be only mentioned at the start and / or the end of the activity.
+
+Where a speaker is clearly breaching this section, Chapter Leaders have the right to discontinue the talk and ask the speaker to leave the activity.
+
+### Co-Hosting free activities with other organizations
+
+If a chapter wishes to regularly co-host activities with another organization, the chapter MUST ensure that the other organization is aware of and agrees to comply with this OWASP Chapter policy and [Code of Conduct](./code-of-conduct). 
+
+Co-hosted activities MUST:
+
+- Comply with this policy, such as being free and open to attend, and comply with vendor neutrality
+- Discoverable by new and existing members and participants by publishing the details on the owasp.org website with sufficient notice to allow promotion and attendance
+- OWASP Branding is clearly visible to activity attendees during discovery, registration, and the activity itself.
+
+If OWASP branding for the co-hosted activity is visible on the other organization's website or social media, the other organization MAY be promoted on the OWASP website and the chapter's social media accounts.
+
+Compliant co-hosted activities with non-commercial organizations do not need pre-approval, and count towards Chapter activity requirements. Compliant co-hosted free activities with commercial organizations MUST be pre-approved per the next section, and if approved, count towards Chapter activity requirements.
+
+### Co-Hosting paid activities or commercial organizations
+
+If a Chapter wants to co-organize a paid event or activity with another organization, particularly commercial organizations, this MUST be pre-approved under the relevant [Events policy](./events) or as a co-marketing or a partnership agreement with the OWASP Foundation through [logging a ticket](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/83?src=691141514).
+
+Once approved, if any OWASP Chapter activity is being held with another organization, OWASP's branding SHOULD be clearly visible to participants.
+
+## Chapter Lifecycle
+
+### Starting or Restarting a Chapter
+
+Prospective Chapter leaders MUST submit a request through [Contact Us](https://contact.owasp.org/).
+
+Once all applicable naming and policy requirements are met, the OWASP Foundation SHALL create a new chapter.
+
+### Update Chapter Information
+
+In the first 30 days, chapter leaders MUST update their chapter page on the owasp.org website with all relevant details, including leader contact details, regular activity location (if known), and any other necessary information about their chapter.
+
+### Hold a first activity
+
+In the first 30 days, the new chapter MUST schedule and publish their first activity on the OWASP website, and hold it within the first 90 days.
+
+### Creating a new Regional Chapter
+
+Regional chapters can be created by submitting a Create Regional Chapter support ticket. After validation, the OWASP Foundation will refer the submission to the Chapter Committee for the next available Chapter Committee meeting.
+
+The Chapters Committee will review the Regional Chapter's proposal and discuss with relevant active community leaders and existing City Chapters leaders in the same region. There MUST be no objection to creating the Regional Chapter from leaders within this region this Regional Chapter. If the responding leaders of these chapters concur with the Regional Chapter's application AND agree that the Regional Chapter can co-exist, the Regional Chapter can be approved.
+
+After consultation, the Chapters Committee will vote on the proposed Regional Chapter at the next available Committee meeting.
+
+City Chapters MAY opt to join the Regional Chapter as an associated Chapter or remain an independent overlapping City Chapter (with no connection to the Regional Chapter).
+
+New or existing city chapters cannot be promoted to a regional chapter without prior approval and sufficient justification. This is to deter city chapters going dormant or city leaders trying to claim a region.
+
+### Creating a new City Chapter within the region of an overlapping Regional Chapter
+
+Where all requirements are met for starting a new City chapter, and the proposed City chapter lies within the defined region of an existing Regional chapter that meets all regional chapter requirements (including consensus), the requesting City Chapter leaders will first be referred to the leaders of the overlapping Regional Chapter to discuss mutually beneficial solutions.
+
+The existing Regional Chapter will not have the power to block the new City Chapter from being created by the OWASP Foundation. The new chapter will exist independently of the Regional Chapter, with no effect on the Regional Chapter and no influence between the two.
+
+The above will only apply if none of the Regional Chapter Leaders are from the same city as the proposed City Chapter. If leaders of the Regional Chapter reside/work in the same city in which the City Chapter is wanted to be created, and there are multiple activities held in the city, they will be considered the leaders of the City Chapter and will independently reach a decision regarding the creation of this City Chapter.
+
+Note that both the City Chapter and the Regional Chapter MUST continue to meet their individual requirements. In particular, the Regional Chapter MUST still retain consensus from other community members, excluding the city wherein the City chapter exists. The Regional Chapter MUST have consensus from leaders in at least three cities, not including the one where the City Chapter is created.
+
+### Adding, Changing, or Removing Leaders
+
+Existing leaders MUST submit a ticket to the [New Chapter/Leader Request](https://owasporg.atlassian.net/servicedesk/customer/portal/8/group/20/create/105).
+If the local chapter leadership is inactive, local chapter members can request new leadership using the same form.
+
+### Chapter social media
+
+Chapters SHOULD establish social media accounts. The social media accounts MUST adhere to OWASP chapter naming and branding guidelines. Chapter social media accounts are considered the property of the OWASP Chapter and not any one individual. OWASP chapters MAY create and manage their own social media presence and other reasonable communication channels. All current Chapter leaders MUST have access to the chapter's social media accounts.
+
+The OWASP Foundation can securely store credentials. Chapter leaders SHOULD store credentials in this service so that new leaders have access to the social media accounts in case a leader leaves or otherwise unavailable.
+
+A Chapter Leader who is stepping down SHOULD have their access removed by the remaining active leaders. Retiring leaders SHALL hand over all chapter social media account administration to an active chapter leader, or to the OWASP Foundation if there is no other active leader.
 
 ### Renaming a Chapter
 
-- Any chapter name changes must be approved by the foundation. A request for approval must be submitted through [Contact Us](https://contact.owasp.org/).
+The OWASP Foundation MUST approve any chapter name changes. Chapter leaders MUST submit a request for approval through [Contact Us](https://contact.owasp.org/).
 
-### Regional Chapters
+### Deactivation or Dissolution of New or Re-activating Chapters
 
-Existing active regional chapters can continue to operate, as per the policy for city chapters, including access to foundation services, expenses, etc as detailed in this policy. Regional chapters hold no powers over any other chapter.
+Chapters that fail to meet Chapter startup or reactivation requirements will be:
 
-Once the new supplemental regional chapter policy is created and approved by the board, this section will no longer be in effect, and existing regional chapters will be governed by the supplemental regional chapter policy.
+- New chapters will be deactivated after 30 days if the Chapter details are not updated on the owasp.org website
+- New chapters will be dissolved after 90 days if no activity is held
+- Reactivating chapters will be deactivated after 30 days if the chapter page is not updated and an initial activity scheduled. If the reactivation plan is not completed after the first 90 days, the chapter will be deactivated.
 
-**Note: Starting new or re-activating inactive regional chapters will not be approved until the supplemental regional chapter policy comes into effect.**
+As a first step, the OWASP Foundation MAY deactivate chapters where the chapter has failed to meet chapter policy, including chapter startup and activity requirements.
 
-***Background rationale*** Regional chapters have never been defined by any prior policy, and they all operate differently with various levels of success. As there are at least 10 regional chapters, the regional model is actively being re-developed to be a sustainable model that promotes regional cooperation, activity, leadership, accountability, and transparency. Existing regional chapter leaders are encouraged to work with the [Chapter Committee](https://owasp.org/www-committee-chapter/) to define the regional chapter model.
+As a last resort, the OWASP Foundation MAY dissolve chapters for consistently failing to meet chapter policy, including ongoing activity requirements.
 
-## Inactive Chapters
+In severe cases, Chapter Leaders of the dissolved or deactivated chapter MAY not be allowed to re-apply for the chapter leadership for a period of one year.
 
-The OWASP Foundation aims to provide continuity for OWASP chapter members. The following process is to determine inactive chapters and try to install fresh leadership.
+## Governance
 
-- An inactive OWASP chapter is a chapter that has not met [minimum activity requirements](#meetings-and-activity-requirements) defined in this policy.
-- An inactive chapter must either be reactivated or dissolved.
-- The OWASP Foundation will revoke the inactive chapter leadership and refer the inactive chapter to the [Chapter Committee](https://owasp.org/www-committee-chapter/) to help find fresh leadership or to run elections to elect new leadership.
-- Use this form to [reactivate a chapter](https://owasporg.atlassian.net/servicedesk/customer/portal/8/group/20/create/105). Where an inactive chapter does not hold a meeting within 90 days of being reactivated, or new leadership could not be appointed within 90 days of failing to meet activity targets, the [Chapter Committee](https://owasp.org/www-committee-chapter/) will discuss the inactive chapter and vote on it. If agreed, the chapter will be dissolved by the OWASP Foundation.
+The OWASP Foundation is a US-based 501 (c)(3) non-profit membership organization. OWASP MUST follow specific financial and legal guidelines or IRS compliance requirements that can change from time to time, which governs how chapters and chapters MUST operate.
 
-## Finances, Oversight, and Transparency
+The OWASP Foundation operationally oversees Chapters. The [Chapter Committee](https://owasp.org/www-committee-chapter/) is responsible for delivering its charter, assisting Chapter leaders with adhering to this policy and delivering our mission, and providing the Board with advice on improvements to this policy, our bylaws, and come up with new strategies or programs.
 
-Chapters are overseen on an operational basis by the [Chapter Committee](https://owasp.org/www-committee-chapter/), the OWASP Foundation staff, and, ultimately, the OWASP Board of Directors. If the Chapter Committee, foundation staff, or board of directors determines that a leader has not complied with this policy, despite support and outreach, leadership may be revoked, suspended, or another action taken. Additionally, OWASP administrative access (including the leader's owasp.org email address) may immediately be revoked.
+### Authority
 
-### Code of Conduct and Other Relevant Policies
+Chapters are not separate legal entities. The OWASP Foundation has authority over all OWASP chapters, projects, committees, and events.
 
-All leaders must follow and adhere to all OWASP Foundation [policies and procedures](https://owasp.org/www-policy/), which are in a central repository. As a US-based 501 (c)(3) non-profit organization, OWASP must follow specific financial and legal guidelines that can change from time to time.
+Chapters operate under the aegis and policies of the OWASP Foundation and are subject to the [OWASP signing policy](https://owasp.org/www-policy/operational/signatory2).
 
-Chapters operate with a great deal of freedom; however, chapters must abide by the latest approved [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct), [Foundation Bylaws](https://owasp.org/www-policy/legal/bylaws), and these [policies and procedures](https://owasp.org/www-policy/). Copies of older versions are not relevant.
+### Bylaws and Policies
+
+Chapters and chapter leaders MUST abide by the latest published [OWASP Foundation Bylaws](https://owasp.org/www-policy/legal/bylaws), and [policies and procedures](https://owasp.org/www-policy/).
+
+### Code of Conduct
+
+Leaders MUST abide by the latest approved [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct).
+
+During activities, the latest approved [Conference and Event Anti Harassment Policy]( https://owasp.org/www-policy/operational/conferences-events#conference-and-event-anti-harassment-policy) applies.
+
+### Finance
+
+Chapters are not legal entities. Chapters cannot independently charge dues, process OWASP memberships, open bank accounts, take donations, sign contracts, or enter into agreements with other organizations. Chapters operating a merchandise store or local chapter supporter arrangements MUST have the OWASP Foundation as the beneficiary.
+
+Student chapters who might be REQUIRED to process finances through their institution will require a letter from the institution to get an annual dispensation from the Chapter Committee.
+
+### Expenses
+
+Expenses SHALL be processed under the latest approved [Expense policy](https://owasp.org/www-policy/operational/expense-reimbursement). Expenses SHALL be reimbursed for Chapter-related expenses incurred while holding a published and open chapter activity within the Chapter's geographic area.
 
 ### Privacy
 
-OWASP membership and participation in chapter meetings are subject to locally applicable data protection regulations (for instance, see [GDPR](https://gdpr.eu)). Where conflicting local regulations exist, the most restrictive should be observed. All chapter meetings must comply to [OECD principles](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf); the Collection Limitation Principle applies to all activities where personal information of participants is needed. Chapter leaders are not permitted to share member lists, event attendees, or private information with third parties except where operationally necessary and only after informing relevant parties with opt-in acceptance. Chapters should, where possible and not otherwise required by local legislation or compliance requirements, adopt a data minimization approach, and delete data that is no longer necessary.
+OWASP membership and participation in chapter activities are subject to the latest approved [OWASP privacy policy](https://owasp.org/www-policy/operational/privacy), and likely any locally applicable data privacy or protection regulations. Where conflicting local regulations exist, Chapter leaders SHOULD observe the most restrictive.
 
-### Submitting Expenses
+### Autonomy
 
-Chapter related expenses incurred while holding a chapter meeting within the geographic area of the chapter itself must comply with the [expense policy](https://owasp.org/www-policy/operational/expense-reimbursement) and must be submitted within 60 days.
-
-### Memberships
-
-Members are the lifeblood of chapters. Memberships must be processed per the [membership policy](https://owasp.org/www-policy/operational/membership)
-
-### Donations
-
-All donations must comply with and be processed per the foundation [donation policy](https://owasp.org/www-policy/operational/donations).
-
-### Paid Events
-
-Chapters wishing to create paid events like training and workshops should review the [events policy](https://owasp.org/www-policy/operational/events) for more information. Payments for training, workshops, and other events will be made in accordance with the [expense policy](https://owasp.org/www-policy/operational/expense-reimbursement).
-
-### Chapters are Not Legal Entities
-
-Chapters, projects, and groups are not legal entities and are organized under the OWASP Foundation's authority.
-
-### Finances are via OWASP Foundation Only
-
-As chapters are not legal entities, all membership dues and funds must be processed through the foundation for transparency, the US not-for-profit laws, regulatory, and tax compliance reasons. Chapters are not permitted to hold any bank accounts, independent insurance, have an independent donation mechanism, or use any funds transfer mechanisms to store financial value such as gift cards, PayPal or Venmo, or any other banking or financial instruments.
-
-### Signing Authority
-
-Chapters operate under the aegis and policies of the OWASP Foundation and are subject to the [OWASP signing policy](https://owasp.org/www-policy/operational/signatory2). As non-legal entities, chapters leaders and members of chapters cannot sign contracts or enter into agreements with commercial organizations. All such agreements should be referred to the OWASP Foundation for pre-approval and possible signing.
-
-### Supporters and Bartering Arrangements
-
-Chapters are encouraged to obtain local chapter supporters via bartering arrangements (i.e. services, event spaces, or food and beverages are paid for by a chapter supporter) and donations via the OWASP website. Chapters can define levels and benefits of local Chapter Supporters, including logos on introduction slides and the Chapter home page. Any contractual agreement, bartering arrangement, or financial transaction must be registered and processed by the Foundation through our [service desk](https://contact.owasp.org/)
+No chapter or regional chapter can direct or control any other chapter. Some chapter leaders MAY from time to time to permit regional chapter leaders to manage their chapter for historical reasons, but this is not enforceable and can be changed at any time.
 
 ### Disputes
 
-OWASP has various dispute resolution mechanisms. Please [contact the Compliance Committee](mailto:compliance@owasp.org) if you are unsure of reporting a complaint or raising a dispute. In general, disputes should be resolved between parties and not in the court of public opinion on social media or mail lists.
+The OWASP Foundation uses an association management platform for much of its functionality, and not all policies are implemented or monitored by the platform. In order to resolve discrepancies, disputes, complaints, or compliance issues, there is a single issue resolution mechanism. Chapter members, leaders, the OWASP Foundation, and the Chapter Committee can all raise an issue, but in a way that respects previous decisions and prevents a "revolving" door that ends up with OWASP members missing out on our mission, which is delivering local free chapter activities.
 
-Chapter members and leaders can use the following policies and reporting mechanisms to resolve disputes or to report code of conduct breaches, violations of policy, or financial requirements:
+#### Process
 
-- [Conflict resolution policy](https://owasp.org/www-policy/operational/conflict-resolution) for most disputes between participants.
-- [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct) policy for ethical or conduct breaches.
-- The [OWASP Chapter Committee](https://owasp.org/www-committee-chapter/) is the first point of escalation.
-  - The [Executive Director](https://owasp.org/corporate/) as the second point of escalation, and finally.
-  - the [Global Board](https://owasp.org/www-board/).
-- To report severe violations of policy, financial, or fiduciary misconduct, please refer to the [whistleblower and anti-retaliation policy](https://owasp.org/www-policy/operational/whistleblower).
+In the first instance, chapter leaders SHOULD work with each other and local participants to come up with an amicable solution or settlement, such as amicable adding or changing of leadership, replacing inactive chapter leads, and so on.
 
-### Sanctioned Countries and Leaders
+If a chapter cannot come to an agreement, chapter leaders or participants can log a ticket with the OWASP Foundation to mediate a solution. This ticket SHALL become the record for all subsequent actions.
 
-OWASP must comply with international laws and regulations, including international sanctions. Sanctions take many forms and are often limited in scope to access to specific intellectual property, organizations, governments, and/or individuals.
+If the issue is remains unresolved, or is escalated by the OWASP Foundation, the Chapter Committee SHALL ask to meet all concerned at a future Chapter Committee activities, and a final decision reached.
 
-From time to time, the Executive Director and Community Manager will review sanctions from the EU, USA, and anywhere else the foundation has an operating entity, and apply the following policies.
+The resolution SHALL be documented in the ticket, and binding for a period of twelve months to stop disputes delaying or preventing OWASP members from attending local chapter activities.
 
-Until sanctions are lifted and where not complying with or breaching sanctions would cause the OWASP Foundation to be subject to fines, civil or criminal liability, the following policies will be applied:
+As the Chapter Committee consists of volunteers, there SHOULD no expectation of a timely response. This delay MAY result in the chapter being deactivated, leadership cleared, and other automated steps. If the Chapter Committee does not make a decision within 90 days, the OWASP Foundation will apply this policy.
 
-a) New chapters cannot be formed.
-b) Existing chapters may be disbanded or made independent of the Foundation depending on the nature of the sanctions.
-c) Leaders and members who are sanctioned individuals will be removed from any leadership positions, and any membership fees refunded, including Lifetime membership.
-d) Access to OWASP materials are free and open-source, and can be obtained through many means, including OWASP shared cloud platforms. For the purposes of curtailing access or prohibiting the "export" of such freely available information, OWASP relies solely upon the technical controls in place by our shared cloud platforms, which share the same sanction controls as the OWASP Foundation. The Foundation has no control over these technical controls, and the Foundation will not subvert these technical controls to allow access in sanctioned countries.
+### Discipline
 
-The Executive Director and/or Community Manager will inform the OWASP Global Board and Chapter Committee of any changes to sanctioned chapters, leadership, or access.
+Chapters or leaders failing to meet OWASP policy requirements MAY require the chapter leaders to resolve identified policy gaps, produce and deliver an activity plan, and/or have leadership added or replaced.
 
-The Community Manager will review the list of sanctioned chapters and leaders periodically to determine if the Foundation can restore the chapter, leadership, and membership.
+The OWASP Foundation can deactivate or dissolve a chapter for continued violations of this or other policies.
