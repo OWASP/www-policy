@@ -50,6 +50,7 @@ Budgeted or Discretionary per transaction (or related transactions), grant makin
 
 Signing authority:
 
+- Investing funds between OWASP bank accounts and other financial accounts (e.g. wealth management) $ 250,000
 - Transferring funds between and managing OWASP bank accounts and other financial accounts $ 250,000
 - Budgeted General Operational Spending (including but not limited to, payroll, expenses, and accounts payable), $ 500,000
 
