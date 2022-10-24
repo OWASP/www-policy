@@ -38,17 +38,17 @@ For the purposes of this policy, the words "MUST", "MUST NOT", "REQUIRED", "SHAL
 
 "pre-approved" - means a Chapter support ticket MUST be raised with sufficient time and detail for the request to be approved.
 
-## Chapter naming
+## Chapter Naming
 
 OWASP has various chapter types, and each has a naming scheme to aid discovery and reduce confusion. All chapter names MUST be approved by the OWASP Foundation.
 
-### City chapters
+### City Chapters
 
 City chapters SHOULD be named "OWASP «city name»". The city name SHOULD be recognizable to mapping software to allow automated geographic searches or discovery of chapters.
 
 City chapter names MUST NOT be a regional or country name unless the city name is the country name (e.g. OWASP Luxembourg).
 
-### Student chapters
+### Student Chapters
 
 Student chapters SHOULD be named "OWASP «institution name»" or where the institution has different campus locations, "OWASP «institution name» «campus»"
 
@@ -289,7 +289,7 @@ During activities, the latest approved [Conference and Event Anti Harassment Pol
 
 Chapters are not legal entities. Chapters cannot independently charge dues, process OWASP memberships, open bank accounts, take donations, sign contracts, or enter into agreements with other organizations. Chapters operating a merchandise store or local chapter supporter arrangements MUST have the OWASP Foundation as the beneficiary.
 
-Student chapters who might be REQUIRED to process finances through their institution will require a letter from the institution to get an annual dispensation from the Chapter Committee.
+Student chapters who are REQUIRED to process finances through their academic institution will require a letter from the institution to get an annual exemption to permit sufficient transparency per OWASP's Core Values.
 
 ### Expenses
 
