@@ -20,15 +20,15 @@ Chapters are central to OWASP's mission of building a community of students, app
 
 For the purposes of this policy, the words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
 
-"Activity" - local chapter activities, such as chapter meetings, activities such as CTFs or hack-a-thons, social gatherings, etc, that are promoted on the OWASP website, free to attend and participate. Compliant local chapter activities do not require pre-approval under the Events policy, and expenses are governed by the Expenses policy.
+"Activity" - local chapter activities, such as chapter meetings, activities such as CTFs or hack-a-thons, social gatherings, etc, that are promoted on the OWASP website, are free to attend and participate. Compliant local chapter activities do not require pre-approval under the Events policy, and expenses are governed by the Expenses policy.
 
 "Event(s)" - pre-approved events as governed by the [Events policy](./events), usually distinguished by paid attendance, with a budget, and usually more than four hours in duration. Events are out of scope for this policy.
 
-"City chapter" - a standard chapter type
+"City chapter" - a standard chapter type.
 
-"Student chapter" - a chapter led by academic faculty members and students
+"Student chapter" - a chapter led by academic faculty members and students.
 
-"Regional chapter" - a chapter that encompasses a region, run by or with associated chapters
+"Regional chapter" - a chapter that encompasses a region, run by or with associated chapters.
 
 "leader" - volunteers who actively organize chapter activities.
 
