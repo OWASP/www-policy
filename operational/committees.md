@@ -107,7 +107,11 @@ Committees can advise the Foundation and the Board on desired changes to operati
 
 Once established, the Committee is a working standing committee, and not an advisory board. The Committee should establish either during formation or by no later than their second meeting, a calendar of desired outcomes defined in their charter scope that they wish to pursue, including any out of cycle budget requests.
 
-Committees should report on progress in achieving their initiatives and outcomes to the Board quarterly. Committees who fail to provide two progress reports in a row are considered inactive and are in danger of being dissolved under the provisions below.
+Committees must report on progress in achieving their initiatives and outcomes to the Board quarterly. Committees who fail to provide two progress reports in a row are considered inactive and are in danger of being dissolved under the provisions below.
+
+#### Measurement of Outcomes
+
+Once established, the Committee must define Key Performance Indicators (KPI) that will must be reviewed and approved by the Global Board semi-annually. The Board is responsible for providing KPI's to the committee if the one is not provided.
 
 ### Voting
 
