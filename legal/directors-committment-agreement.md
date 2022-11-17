@@ -16,7 +16,7 @@ Required Reading
    - Board Member Orientation: The Concise & Complete Guide to nonprofit Board Success - Michael E Batts
    - The Ultimate Board Members Book - Kay Sprinkel Grace
 - Organization specific information:
-   - [OWASP Foundation By-laws](/www-policy/assets/legal/bylaws)
+   - [OWASP Foundation By-laws](/www-policy/legal/bylaws)
    - [Conflict of Interest Policy and Annual Conflict Questionnaire](/www-policy/operational/conflict-of-interest)
    - [Previous financial reports and IRS 990 (Tax filings)](/finance)
 
