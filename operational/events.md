@@ -410,17 +410,21 @@ Profits must be reinvested in our mission under the direction of the Event team.
 
 We wish to see the running of more events and for those events to grow and run time and time again. For many years, the OWASP Foundation has seeded events from general revenue and recovered deposits from event profits, but this hasn’t resulted in more events. Seeding will not change in this policy, but what will change is the idea of re-investing profits to run future events. This will allow more events to be seeded every year, which will grow our mission globally.
 
-In the first few years of an Event under the policy, or until fully funded, OWASP will set aside 50% of the Event Team’s net profit split to fund next year’s deposits and installments, leaving the residual to the Event team to split as they see fit. These future event funds are not in general revenue but categorized solely to that event. Once the event deposit is fully funded year to year, the full profit split becomes available to the Event team. It may need topping up from time to time to cover increases in costs or as the event grows. 
+**Seed float.** Events are seeded once, and have to maintain a seed float matching their initial seed funding. During the first few years of seeding, a portion of event profits will be used to rebuild a "seed float" to fully fund future events, so as to ensure that each event is sustainable.
 
-If an event team hasn’t held an event for a period of two years, the OWASP Foundation will call for new leadership of the Event team to see if new leadership wishes to run that event within six months of the call for new leadership. If no leadership can be found, the funds held on behalf of the event will revert to general revenue to seed and fund more events and help with our entire mission.
+Until the event seed float is fully funded, OWASP will set aside 50% of the Event Team’s net profit split to fund next year’s deposits and installments, leaving the residual for the Event team to invest as below. These future event funds are not in general revenue but categorized solely to that event. Once the event deposit is fully funded year to year, the full profit split becomes available to the Event team. It may need topping up from time to time to cover increases in costs or as the event grows.
+
+If an event team hasn’t held an event for a period of two years, the OWASP Foundation will call for new leadership of the Event team to see if new leadership wishes to run that event within six months of the call for new leadership. If no leadership can be found, the funds held on behalf of the event will revert to general revenue to fund more events and help with our entire mission.
 
 ### Local and AppSec Days
 
-Local and AppSec Day event team leaders will be polled to direct or split 80% of the net profits of their event:
+Local and AppSec Day event team leaders can direct 85% of the net profits of their event, minus any seed float:
 
-- **Invest in our mission**. This option provides funds to cover expenses for the next time, as well as help all chapters, projects, and committees to do more mission, and it helps bootstrap many more events. This is the preferred option simply because it requires the least administrative overhead and allows all of OWASP to grow and do more.
-- **Invest in next year’s event**. You can allocate up to 30% of your profits to next year’s event to allow your event to grow organically. This is a good choice for events where it is likely that you will see a 20-40% growth in attendees next year.
-- **Invest in grants, scholarships, or awards**. The Event will be listed as a benefactor of the grant, scholarship, or award. This could be used towards next year’s CTF prizes, travel, and accommodation for a number of attendees, or fund a grant. 
+- **Invest in our mission**. This option uses net profits to cover expenses for the next time, as well as help all chapters, projects, and committees to do more mission, and it helps bootstrap many more events. This is the preferred option simply because it requires the least administrative overhead and allows all of OWASP to grow and do more.
+- **Invest in next year’s event**. You can allocate up to 30% of your net profits to next year’s event to allow your event to grow organically. This is a good choice for events where it is likely that you will see a 20-40% growth in attendees next year. Invested funds are derestricted after two years to ensure that funds are not tied up forever.
+- **Invest in grants, scholarships, or awards**. The Event will be listed as a benefactor of the grant, scholarship, or award. This could be used towards next year’s CTF prizes, travel, and accommodation for a number of attendees, or fund a grant. Awards, scholarships, and grants must be approved under the relevant policy.
+
+If the event team does not specify a use of their net profit split, the split will be used to fund the seed float, and then the residual funds are re-invested in OWASP's mission.
 
 Grants designed to fund one or more chapters, projects, or events must be used within twelve months as per the Grant policy, with defined milestones and outcomes. Any unspent funds will be reverted to the mission after twelve months.
 
@@ -428,13 +432,13 @@ Where an event has a long-term profit (defined as over 12 months), they will be 
 
 If event leaders do not specify a profit destination or have residual unspent funds after 90 days, any residual event profits will be pooled back into our mission, as per the first bullet point. 
 
-The OWASP Foundation uses its 20% split of net profits to fund OWASP’s mission by donating its split to general revenue to cover accountancy overheads, bank fees, Event staff time, and other costs. 
+The OWASP Foundation uses its split of net profits to fund OWASP’s mission by donating its split to general revenue to cover accountancy overheads, bank fees, Event staff time, and other costs. 
 
 ## Global Events 
 
-Global events are run by the OWASP Foundation, and profits from OWASP Global Events are invested as a matter of policy to general revenue to fund all of OWASP’s mission, chapters, projects, events, and committees. That said, Global events rely upon local organizers and volunteers. 
+OWASP Global AppSec conferences and training are fundraising events run by the OWASP Foundation. Profits from OWASP Global Events are invested as a matter of policy to general revenue to fund all of OWASP’s mission, chapters, projects, events, and committees. That said, Global events rely upon local organizers and volunteers. 
 
-Global event team organizers and volunteers will be polled to direct or split up to 10% of the net profits of a global event:
+Global event team organizers and volunteers will be polled to direct or split up to 15% of the net profits of a global event:
 
 Invest in our mission. This option provides funds to cover expenses for the next time, as well as help all chapters, projects, and committees to do more mission, and it helps bootstrap many more events. This is the preferred option simply because it requires the least administrative overhead and allows all of OWASP to grow and do more.
 Invest in grants, scholarships, or awards. The Event will be listed as a benefactor of the grant, scholarship, or award. This could be used towards next year’s CTF prizes, travel, and accommodation for a number of attendees, or fund a grant. 

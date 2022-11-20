@@ -25,7 +25,7 @@ Generally, all charitable donations to the OWASP Foundation are unrestricted and
 
 ## Restricted Donations
 
-Donations greater than or equal to $1,000 can optionally be Restricted. This practice is discouraged because of the internal accounting responsibilities for a restricted donation. Donors can indicate their restriction at the time of their online donation provided they visited the donation form by clicking the DONATE button on the respective Project, Chapter, or group. Restricted gifts are net 10% administration and processing costs. Unspent restricted donation balances become unrestricted after twelve (12) months.
+Donations greater than or equal to $1,000 can optionally be Restricted. This practice is discouraged because of the internal accounting responsibilities for a restricted donation. Donors can indicate their restriction at the time of their online donation provided they visited the donation form by clicking the DONATE button on the respective Project, Chapter, or group. Restricted gifts are net 15% administration and processing costs. Unspent restricted donation balances become unrestricted after twelve (12) months.
 
 ## Recognizing Supporters
 
