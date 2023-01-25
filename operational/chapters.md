@@ -87,7 +87,7 @@ We recommend chapter leaders set an [out of office notification](https://support
 
 ## Shared Services
 
-OWASP Foundation will provide chapters with the following shared services at no cost. Chapters are encouraged to make use of these. Access to these services can be obtained by submitting a ticket via [Contact Us](https://contact.owasp.org/). If, after 9 business days have passed, and reasonable efforts have been made to attempt to utilize shared services, no response is received, the chapter may, with due care, seek a reasonable alternative, filling out a [Chapter Funding Pre-Approval](https://owasporg.atlassian.net/servicedesk/customer/portal/8/group/20/create/107) ticket.
+OWASP Foundation will provide chapters with the following shared services at no cost. Chapters are encouraged to make use of these. Access to these services can be obtained by submitting a ticket via [Contact Us](https://contact.owasp.org/). If, after 9 business days have passed, and reasonable efforts have been made to attempt to utilize shared services, no response is received, the chapter may, with due care, seek a reasonable alternative, filling out a [Chapter Funding Pre-Approval](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/14/create/75) ticket.
 
 - Chapter page on the owasp.org website.
 - A chapter scheduling service for meetings and local events with RSVP functionality and hidden video conference details.
