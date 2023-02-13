@@ -72,21 +72,16 @@ About the OWASP Foundation: The Open Web Application Security Project (OWASP) is
 
 - Slide Templates
 
-  - [Google Slides](https://docs.google.com/presentation/d/1tbvT9WDb0q6RN9OgsAHBjN0QHNPZay8WSule74MzzZ4/edit?usp=sharing)
-  - [Microsoft PowerPoint](/www-policy/branding-assets/OWASP_Generic_Template_r1.potx)
-  - [LibreOffice](/www-policy/branding-assets/OWASP_GENERIC_TEMPLATE.odp)
+  - [Google Slides](https://docs.google.com/presentation/d/1Z3Sq6yWLojXPZBirQm7Sdlckz37oXpcezQXeDoyxbPk/edit?usp=sharing)
+  - [Microsoft PowerPoint](/www-policy/branding-assets/OWASP%20Slide%20Template.potx)
+  - [LibreOffice](/www-policy/branding-assets/OWASP%20Slide%20Template.otp)
 
 ### Typefaces
 
-- Similar to House Gothic
-
-  - [Y Titillium Typeface](http://www.fontsquirrel.com/fonts/Titillium)
-  - [Armata Typeface](http://www.fontsquirrel.com/fonts/armata)
-
-- Similar to Joanna:
-  - [Enriqueta](http://www.fontsquirrel.com/fonts/enriqueta)
-  - [Deja Vu](http://www.fontsquirrel.com/fonts/DejaVu-Serif)
-  - [Brawler](http://www.fontsquirrel.com/fonts/brawler)
+- Headings
+  - [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins)
+- Body Text
+  - [Barlow](https://fonts.google.com/specimen/Barlow?query=barlow)
 
 The Following items are outdated and are in process of redesign
 
