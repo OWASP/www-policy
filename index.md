@@ -40,16 +40,15 @@ Handbooks to help Chapter, Project, and Event Leaders in their volunteer work.
 </ul>
 
 ## Others
+
 - [Employee Handbook](/www-policy/employee)
 
 ## TODO
+
 - Contact Us (responsivness to tickets, SLA, submitting complete information, submitting accurate information)
 - Membership - terms, discounts, submitting accurate info, pricing, honorary process, peference for Foundation events (like PRoject Summits etc
 - Advertising
-- Travel Assistance Program - member, workflow, limits, 
 - Local Partnerships
 - Mailing Lists
 - Elections
 - Licenses
-
-

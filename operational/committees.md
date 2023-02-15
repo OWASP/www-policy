@@ -234,7 +234,7 @@ For the purposes of accountability and transparency, Committees should expect th
 
 ### Travel
 
-Committees may access the standard travel policy for essential unplanned travel. All travel will be via the standard travel processes, including the use of any Foundation mandated travel agencies or system to ensure adherence to OWASP travel policy.
+Committees may access the [OWASP Travel policy](/www-policy/operational/travel.md) for essential travel. All travel will be via the standard travel processes.
 
 The Chair must submit the travel request, and one other officer must co-approve. Travel must be documented as committee related, and justifiable, such as no Committee member at the destination and essential to deliver an agreed outcome.
 

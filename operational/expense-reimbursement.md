@@ -154,12 +154,12 @@ Joining, donating, funding, or sponsoring other organizations requires a partner
 
 ## Travel and Travel Assistance
 
-The [Travel policy](TBA) governs Travel and travel assistance. The Foundation will not process unapproved travel expenses claims under the expenses policy.
+The [OWASP Travel policy](/www-policy/operational/travel.md) governs Travel and travel assistance. The Foundation will not process unapproved travel expenses claims under the expenses policy.
 
 If Travel is pre-approved, travel expenses are subject to the reimbursement process laid out above, but in addition:
 
 - Bundling complete trip expenses into one submission is preferred.
-- When submitting expenses for Travel, please subtotal amounts for Transit (Air/train/taxi), Lodging, and Meals.
+- When submitting expenses for Travel, please subtotal amounts for Transit (air/train/bus/taxi), Lodging, and Meals.
 
 ## Hardware
 
