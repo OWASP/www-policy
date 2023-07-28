@@ -83,7 +83,10 @@ There are currently three types of projects you can start: tool, code, and docum
    - Create new project pages within 30 days of GitHub access on the owasp.org website (see [Website Migration Information and Tutorial](https://owasp.org/migration/) for assistance).
    - Log into their owasp.org email account within Google's defined time period, or they will need to log a support ticket via [Contact Us](https://contact.owasp.org/) to have a password recovery email sent to their registration email address.
 - Projects under the OWASP umbrella are the combined efforts of the project leaders, contributors, and the OWASP Foundation. All source material must remain within the foundation. However, as these are open source projects, people are not prevented from forking projects and beginning new, non-OWASP projects. Removal of all project source material is at the sole discretion of the foundation.
-- Projects must select an [OSI-approved open source license](https://opensource.org/licenses) and should provide a GitHub LICENSE file.
+- Projects must select a license that provides the public free open access to project source materials and distributables. The license should be communicated in the GitHub LICENSE file.
+  - Source code and build artifacts must use an [OSI-approved open source license](https://opensource.org/licenses).
+  - Documentation source and artifacts must use a [Creative Commons license](https://creativecommons.org/), or an open license from an international standards organization.
+  - Any exceptions to be above must be approved by the Project Committee.
 
 ### Contributor Agreement
 
