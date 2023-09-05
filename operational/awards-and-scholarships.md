@@ -14,7 +14,7 @@ Adopted by the Board on 23-March-2021
 
 ## Background
 
-This policy encourages our community to establish awards or prizes for OWASP competitions and set up scholarships and travel assistance for OWASP events. Awards recognize high impact members, chapters, initiatives, or projects. One purpose of scholarships is to fulfill our mission to underserved and disadvantaged communities and individuals, improving equity and access for those who may need assistance. This policy creates financially responsible funding mechanisms, published eligibility and selection criteria, and a consistent and transparent process to award prizes or recipients.
+This policy encourages our community to establish awards or prizes for OWASP competitions and set up scholarships and travel assistance for OWASP events, per the [OWASP Travel policy](/www-policy/operational/travel.md). Awards recognize high impact members, chapters, initiatives, or projects. One purpose of scholarships is to fulfill our mission to underserved and disadvantaged communities and individuals, improving equity and access for those who may need assistance. This policy creates financially responsible funding mechanisms, published eligibility and selection criteria, and a consistent and transparent process to award prizes or recipients.
 
 ## Overview of Awards, Scholarships, and Travel Assistance Process
 
@@ -52,7 +52,7 @@ Trainers are encouraged, but not required, to waive their training fee for schol
 
 Scholarships assisting underserved or underrepresented communities may offer travel assistance to OWASP events, with a preference to serve local and regional events over costly international travel. Travel assistance can only be provided as part of a scholarship and should be on an as needs basis.
 
-Travel assistance must comply with the [travel policy (TBA)](#) and the [expense policy](/www-policy/operational/expense-reimbursement).
+Travel assistance must comply with the [OWASP Travel policy](/www-policy/operational/travel.md) and the [expense policy](/www-policy/operational/expense-reimbursement).
 
 ### Naming
 

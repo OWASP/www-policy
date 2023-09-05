@@ -280,13 +280,13 @@ Invoices and expense reimbursements will be denied if submitted more than 60 day
 
 ### Travel
 
-All travel for events is governed by the Speaker's Agreement and the OWASP Travel Policy. In all cases, due to the fact that travel discourages investments in local capabilities and talent, and its very poor return on investment for mission funds, travel and accomodation must be pre-approved and is very unlikely to be approved.
+All travel for events is governed by the Speaker's Agreement and the [OWASP Travel policy](/www-policy/operational/travel.md). In all cases, due to the fact that travel discourages investments in local capabilities and talent, and its very poor return on investment for mission funds, travel and accommodation must be pre-approved and is very unlikely to be approved.
 
 Rationale: OWASP Local, Regional, and Global Events have helped develop the skills of many famous speakers and trainers, who then go on to have an amazing career as a result. We want all speakers and all trainers from all over the world to be able to experience this by discouraging travel and encouraging local skill development.
 
 ### Speaker and Trainer Fees
 
-All speaker and trainer fees and splits are governed by the Speaker and Trainer's Agreement, and in the unlikely case of travel or accomodation being approved, the OWASP Travel policy. For the purposes of this policy, the event/OWASP split is net the the trainer fee and travel (if any), and kept with the event's P&L until the net profit is determined after all income and expenses have been finalized.
+All speaker and trainer fees and splits are governed by the Speaker and Trainer's Agreement, and in the unlikely case of travel or accommodation being approved, per the [OWASP Travel policy](/www-policy/operational/travel.md). For the purposes of this policy, the event/OWASP split is net the the trainer fee and travel (if any), and kept with the event's P&L until the net profit is determined after all income and expenses have been finalized.
 
 ### Speaker’s Gifts
 
@@ -298,7 +298,8 @@ Keep in mind that not all speakers can accept gifts for various reasons, includi
 
 ### Insurance
 
-All OWASP events must possess the correct insurance. The OWASP Foundation will provide the Event team with a quote for insurance. 
+All OWASP events must possess the correct insurance. The OWASP Foundation will provide the Event team with a quote for insurance.
+
 ### Sponsorships
 
 The OWASP Foundation is the exclusive sponsorship agent of all OWASP Events. At the Director of Events and Corporate Support’s discretion, the OWASP Foundation may provide services to Event Teams to identify, solicit, contract, invoice, and collect sponsorship revenue. 
@@ -313,15 +314,15 @@ All ticketing or registration shall be done through OWASP managed services, rega
 
 For tax and non-profit compliance reasons, ticketing systems may not collect charitable gifts. If organizers wish to ask attendees to donate, they should encourage that through the standard donation process at https://owasp.org/donate. This process allows donors to receive a receipt they can use during tax preparation to claim a tax deduction.
 
-### OWASP Member Discounts 
+### OWASP Member Discounts
 
-For paid events, event teams are encouraged to provide and promote OWASP Member discounts. A typical amount is usually 20% off, or sufficient that the cost of OWASP membership is covered by the discount. Member discount code budgeting should ensure that discounted ticket prices still cover the costs associated with the event. 
+For paid events, event teams are encouraged to provide and promote OWASP Member discounts. A typical amount is usually 20% off, or sufficient that the cost of OWASP membership is covered by the discount. Member discount code budgeting should ensure that discounted ticket prices still cover the costs associated with the event.
 
 ### Discount codes
 
 For paid events, event teams can provide a discount code to encourage early bird registration or partner discounts. 
 
-Discount code requests shall be provided no later than 15 days before the opening of event ticketing. Each event has a revenue forecast built on a particular number of tickets sold at various discounts. Discount code budgeting should ensure that discounted ticket prices still cover the costs associated with the event. 
+Discount code requests shall be provided no later than 15 days before the opening of event ticketing. Each event has a revenue forecast built on a particular number of tickets sold at various discounts. Discount code budgeting should ensure that discounted ticket prices still cover the costs associated with the event.
 
 ### Bundling OWASP Memberships
 
@@ -337,9 +338,9 @@ Event teams are responsible for forwarding a final membership report to the OWAS
 
 ### Scholarship registrations
 
-OWASP’s mission is to provide application security training, career development, and skills development to everyone who wants to do so, including under-served, under-represented, or disadvantaged individuals. Event teams are encouraged to set aside a budget to cover small and financially responsible complimentary or reduced-cost tickets for scholarships under the Awards, Travel Assistance, and Scholarships policy. 
+OWASP’s mission is to provide application security training, career development, and skills development to everyone who wants to do so, including under-served, under-represented, or disadvantaged individuals. Event teams are encouraged to set aside a budget to cover small and financially responsible complimentary or reduced-cost tickets for scholarships under the [Awards, Travel Assistance, and Scholarships policy](/www-policy/operational/awards-and-scholarships.md).
 
-Awards and Scholarships established by the Event are for that event only and are not transferrable. If unused and if time permits, Event Leaders should either designate a new winner or scholarship recipient using the same selection criteria as the original winner or recipient. Where an award or scholarship is unusued at the conclusion of the event, it shall be considered void. 
+Awards and Scholarships established by the Event are for that event only and are not transferrable. If unused and if time permits, Event Leaders should either designate a new winner or scholarship recipient using the same selection criteria as the original winner or recipient. Where an award or scholarship is unused at the conclusion of the event, it shall be considered void.
 
 Events should negotiate with and encourage paid trainers to donate a portion of their attendance or fee to permit scholarships, and include the trainers on the selection panel with a published and transparent rubric so that they have a say in who is selected.
 

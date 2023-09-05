@@ -81,7 +81,7 @@ Pre-approval for periodic payments will not be approved for any monthly subscrip
 
 Do not make plans to travel.
 
-Travel pre-approval is required, and will require that you demonstrate the following:
+Travel pre-approval is required, per the [OWASP Travel policy](/www-policy/operational/travel.md), and will require that you demonstrate the following:
 
 - You have obtained sponsorship for all travel and incidental costs (if any)
 - You have demonstrated that your travel plans and destination have no travel restrictions, or that you have complied with them (such as being fully vaccinated)
