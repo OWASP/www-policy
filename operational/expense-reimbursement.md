@@ -154,7 +154,7 @@ Joining, donating, funding, or sponsoring other organizations requires a partner
 
 ## Travel and Travel Assistance
 
-The [Travel policy](TBA) governs Travel and travel assistance. The Foundation will not process unapproved travel expenses claims under the expenses policy.
+The Foundation will not process unapproved travel expenses claims under the expenses policy.
 
 If Travel is pre-approved, travel expenses are subject to the reimbursement process laid out above, but in addition:
 
