@@ -37,16 +37,7 @@ There are four major event types:
 - Local events or activities, generally free or with a small admission fee and limited sponsorship, such as CTFs or labs, or a social event
 - AppSec Days, replacing the previous “regional event” type, generally a larger charged event with sponsorships, including project summits, standards-setting, training, event, unconference, or another activity type
 - Global AppSec, generally run by and for the OWASP Foundation
-- OWASPx, a new type of event where organizers license OWASP’s branding and name in return for a fee.
-
-### OWASPx Events
-
-OWASP Members, non-profit associations, and charities may apply for an OWASPx event partnership. For-profit companies, unincorporated associations, or individuals may not apply for an OWASPx event to protect OWASP’s non-profit status and brand.
-
-OWASPx events need to sign a partnership and licensing agreement and pay a licensing fee to use OWASP’s trademarks and branding. Such an agreement covers a single event or a series of events in a single year. In return, OWASP will promote the OWASPx event as per a standard local or AppSec Days event and grant access to the OWASP Speaker’s Bureau. Access to sponsorship or attendance lists from OWASP events is explicitly not granted.  
-
-The partner association or charity should submit a plan and budget to help assess if the event can be approved. No funds from OWASP will be used to promote or run the event, as all marketing, expenses, profits, liabilities, and risks belong to the partner organization. 
-
+  
 ### Normal meetings are out of scope
 
 There is considerable overlap between larger meetings or activities and a local event. A normal chapter, project, or committee meeting does not require an event submission and does not require prior approval. Generally speaking, if a meeting or local event is free to attend, does not require sponsorship, and has expenses of less than $250, pre-approval or an OCMS event application is not required.
