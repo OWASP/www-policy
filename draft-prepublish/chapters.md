@@ -115,7 +115,7 @@ The Chapter may seek a reasonable alternative to OWASP Foundation shared service
 
 ### Shared Services for Regional Branches
 
-Regional Chapter will pool OWASP Foundation shared services for their branches. Shared services are not provided directly to the Branches.
+A regional chapter decides whether to create and terminate associated regional branches. Termination of shared services for regional branches must be aligned with the respective regional chapter.
 
 ## Defining and Naming Chapters
 
