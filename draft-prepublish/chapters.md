@@ -159,7 +159,7 @@ The existence of a regional chapter does not conflict with a City chapter co-loc
 
 A Regional chapter may optionally have one or more Branches in more remote locations. A Branch is not a full-fledged Chapter and is considered a local representative of the Regional Chapter. Branches will be approved and managed by the leaders of the Regional Chapter, supported by the OWASP Foundation.
 
-Branches should follow the naming rules of City chapters.
+ Regional branches should follow the naming rules of City chapters. They may choose to include the name of the region.
 
 ## Chapter Leadership
 
