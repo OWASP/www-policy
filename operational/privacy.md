@@ -162,7 +162,7 @@ California law permits users who are California residents to request and obtain 
 
 ### Contact Us
 
-If you have questions or suggestions about this Privacy Policy, or the information collected under this Privacy Policy, please email us at support@owasp.com or contact us directly. If you have any questions about our practices or this Privacy Policy, please contact us at privacy@owasp.com, or write to us at: OWASP, Attn: Legal Department, 401 Edgewater Pl, Suite #600, Wakefield MA, 01880. You can also reach our EU entity, OWASP Europe vzw, whose registered address is Leinstraat 104A, 9660 Opbrakel, Belgium, situated in the court district of Oudenaarde/Brakel, but any correspondance with that entity will take some considerable time.
+If you have questions or suggestions about this Privacy Policy, or the information collected under this Privacy Policy, please email us at support@owasp.com or contact us directly. If you have any questions about our practices or this Privacy Policy, please contact us at privacy@owasp.com, or write to us at: OWASP, Attn: Legal Department, 300 Delaware Ave. Ste. 210 #384, Wilmington DE 19801. You can also reach our EU entity, OWASP Europe vzw, whose registered address is Leinstraat 104A, 9660 Opbrakel, Belgium, situated in the court district of Oudenaarde/Brakel, but any correspondence with that entity will take some considerable time.
 
 Depending on your jurisdiction, you also may have the right to lodge a complaint with a supervisory authority competent for your country or region.
 
