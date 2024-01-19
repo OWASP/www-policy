@@ -41,7 +41,7 @@ Expense reimbursement requests, along with receipts or invoices for each expense
 - Reimbursements are net banking fees and any applicable taxes.
 - Reimbursements will be made within 30 days, provided the information submitted is approved, complete, and accurate.
 
-Approvals for reimbursements shall follow the [signatory limits](/www-policy/operational/signatory2) of the OWASP Foundation.
+Approvals for reimbursements shall follow the [signatory limits](/www-policy/operational/signatory) of the OWASP Foundation.
 
 ***Please note all reimbursement request information, except payment instructions, will be shared publicly in various accounting reports, and by submitting an expense reimbursement, you agree to that disclosure.***
 
@@ -63,11 +63,11 @@ Expenses are available to all Chapters, Projects, Committees, Foundation staff, 
 
 The Board funds the expense pool via the annual budget at their sole discretion, topped up by donations, event profit shares, and directed sponsorships. The OWASP Corporate Membership program may in the future include the ability to help fund the expenses pool by directing a portion of the membership fee to selected or all chapters, projects, and committees.
 
-The expense pool has a monthly spend limit. If the monthly limit is exceeded, the Executive Director, Treasurer, or Global Board may choose to bring forward future months or top up the expense pool at their discretion per [signatory limits](https://owasp.org/www-policy/operational/signatory2).
+The expense pool has a monthly spend limit. If the monthly limit is exceeded, the Executive Director, Treasurer, or Global Board may choose to bring forward future months or top up the expense pool at their discretion per [signatory limits](https://owasp.org/www-policy/operational/signatory).
 
 Awards and Scholarships will be funded per the [Awards and Scholarships Policy](https://owasp.org/www-policy/operational/awards-and-scholarships) via specific sponsorships, donations, or grants and not from the expense pool. Unfunded Awards or Scholarships with no balance cannot reimburse expenses. Awards and Scholarships are not transferrable, and if not used for the nominated purpose, funds are returned to the Expenses pool to further our mission in other ways.
 
-Events can use the reimbursement processes defined below but will be funded via their budget, profit, and loss, governed by the [Events Policy](https://owasp.org/www-policy/operational/events). The event expenses will be drawn from the seed funds and income, not the general expense pool. Seeding for events may be funded by the Executive Director or Board at their discretion and within [signatory limits](https://owasp.org/www-policy/operational/signatory2) per the Events Policy.
+Events can use the reimbursement processes defined below but will be funded via their budget, profit, and loss, governed by the [Events Policy](https://owasp.org/www-policy/operational/events). The event expenses will be drawn from the seed funds and income, not the general expense pool. Seeding for events may be funded by the Executive Director or Board at their discretion and within [signatory limits](https://owasp.org/www-policy/operational/signatory) per the Events Policy.
 <!-- TODO -->
 <!-- Reword - not sure what the intent is here -->
 Grants will be funded through donations, sponsorship, or Board seeding. Expenses from grants will be drawn from the grant until fully drawn down, per the [Grants Policy](https://owasp.org/www-policy/operational/grants). Unfunded grants or grants with no balance cannot reimburse expenses.

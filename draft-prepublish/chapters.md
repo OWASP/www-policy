@@ -345,7 +345,7 @@ Chapters are not legal entities. The OWASP Foundation will process all membershi
 
 ### Signing Authority
 
-Chapters operate under the aegis and policies of the OWASP Foundation and are subject to the [OWASP signing policy](https://owasp.org/www-policy/operational/signatory2). As for non-legal entities, chapters leaders and members of chapters cannot sign contracts or enter into agreements with commercial organizations. Chapter leaders should refer all such contracts to the OWASP Foundation for pre-approval and subsequent signing.
+Chapters operate under the aegis and policies of the OWASP Foundation and are subject to the [OWASP signing policy](https://owasp.org/www-policy/operational/signatory). As for non-legal entities, chapters leaders and members of chapters cannot sign contracts or enter into agreements with commercial organizations. Chapter leaders should refer all such contracts to the OWASP Foundation for pre-approval and subsequent signing.
 
 ### Supporters and Bartering Arrangements
 
