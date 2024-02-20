@@ -2,8 +2,8 @@
 
 title: Chapters Policy - Draft (WIP)
 layout: col-document
-document: Rules of Procedure
-tags: Rules of Procedure
+document: --draft--
+tags: --draft--
 #notice: 2022-03-21
 
 ---
