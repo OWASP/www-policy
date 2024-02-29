@@ -56,15 +56,12 @@ About the OWASP Foundation: The Open Worldwide Application Security Project (OWA
 
 ### Combination Mark (Logo + Wordmark w/R)
 
-![Combination Mark (Logo + Wordmark w/R)](/www-policy/branding-assets/OWASP-Combination-mark-r.png)
+![Combination Mark (Logo + Wordmark w/R)](/assets/images/OWASP_Combo_Black.svg){:width="800px"}
 
 ### Logo Mark (Logo w/TM)
 
-![Logo Mark (Logo w/TM)](/www-policy/branding-assets/OWASP-logo-tm.jpg)
+![Logo Mark (Logo w/TM)](/assets/images/logo.svg)
 
-### Website SVG Logo
-
-![SVG Website Logo](/assets/images/logo.svg)
 
 ## Assets and Collateral
 
@@ -73,22 +70,15 @@ About the OWASP Foundation: The Open Worldwide Application Security Project (OWA
 - Slide Templates
 
   - [Google Slides](https://docs.google.com/presentation/d/1Z3Sq6yWLojXPZBirQm7Sdlckz37oXpcezQXeDoyxbPk/edit?usp=sharing)
-  - [Microsoft PowerPoint](/www-policy/branding-assets/OWASP%20Slide%20Template.potx)
-  - [LibreOffice](/www-policy/branding-assets/OWASP%20Slide%20Template.otp)
+  - [Microsoft PowerPoint](/www-policy/assets/files/OWASP%20Slide%20Template.potx)
+  - [LibreOffice](/www-policy/assets/files/OWASP%20Slide%20Template.otp)
 
 ### Typefaces
 
+- Logo and Name
+  - [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates)
 - Headings
   - [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins)
 - Body Text
   - [Barlow](https://fonts.google.com/specimen/Barlow?query=barlow)
 
-The Following items are outdated and are in process of redesign
-
-- OWASP Supporter Logos
-- Letterhead
-- Business Cards
-- Envelope
-- About Us Flyer
-- Corporate and Individual Membership Flyer
-- New Member Welcome Flyer
