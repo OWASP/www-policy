@@ -52,16 +52,31 @@ About the OWASP Foundation: The Open Worldwide Application Security Project (OWA
 
 ## Screen Resolution Marks
 
-(Right mouse click to Save Image As...)
+SVG and PNG provided. Right mouse click to Save Image As...
 
-### Combination Mark (Logo + Wordmark w/R)
+### Logo + Wordmark w/ R
 
-![Combination Mark (Logo + Wordmark w/R)](/assets/images/OWASP_Combo_Black.svg){:width="800px"}
+![Logo + Wordmark w/ R - SVG](/assets/images/OWASP_Logo_Black_R.svg){:width="800px"}
 
-### Logo Mark (Logo w/TM)
+![Logo + Wordmark w/ R - PNG](/assets/images/OWASP_Logo_Black_R.png){:width="800px"}
 
-![Logo Mark (Logo w/TM)](/assets/images/logo.svg)
+### Logo + Wordmark w/ TM
 
+![Logo + Wordmark w/ TM - SVG](/assets/images/OWASP_Logo_Black_TM.svg){:width="800px"}
+
+![Logo + Wordmark w/ TM - PNG](/assets/images/OWASP_Logo_Black_TM.png){:width="800px"}
+
+### Logo w/ R
+
+![Logo Mark w/ R - SVG](/assets/images/OWASP_Icon_Black_R.svg)
+
+![Logo Mark w/ R - PNG](/assets/images/OWASP_Icon_Black_R.png)
+
+### Logo w/ TM
+
+![Logo w/ TM - SVG](/assets/images/OWASP_Icon_Black_TM.svg)
+
+![Logo w/ TM - PNG](/assets/images/OWASP_Icon_Black_TM.png)
 
 ## Assets and Collateral
 
@@ -75,10 +90,9 @@ About the OWASP Foundation: The Open Worldwide Application Security Project (OWA
 
 ### Typefaces
 
-- Logo and Name
-  - [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates)
 - Headings
   - [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins)
 - Body Text
   - [Barlow](https://fonts.google.com/specimen/Barlow?query=barlow)
-
+- Logo (Note: Similar, not exact match!)
+  - [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates)
