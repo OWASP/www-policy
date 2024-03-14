@@ -56,27 +56,27 @@ SVG and PNG provided. Right mouse click to Save Image As...
 
 ### Logo + Wordmark w/ R
 
-![Logo + Wordmark w/ R - SVG](/assets/images/OWASP_Logo_Black_R.svg){:width="800px"}
+![Logo + Wordmark w/ R - SVG](/www-policy/assets/images/OWASP_Logo_Black_R.svg){:width="800px"}
 
-![Logo + Wordmark w/ R - PNG](/assets/images/OWASP_Logo_Black_R.png){:width="800px"}
+![Logo + Wordmark w/ R - PNG](/www-policy/assets/images/OWASP_Logo_Black_R.png){:width="800px"}
 
 ### Logo + Wordmark w/ TM
 
-![Logo + Wordmark w/ TM - SVG](/assets/images/OWASP_Logo_Black_TM.svg){:width="800px"}
+![Logo + Wordmark w/ TM - SVG](/www-policy/assets/images/OWASP_Logo_Black_TM.svg){:width="800px"}
 
-![Logo + Wordmark w/ TM - PNG](/assets/images/OWASP_Logo_Black_TM.png){:width="800px"}
+![Logo + Wordmark w/ TM - PNG](/www-policy/assets/images/OWASP_Logo_Black_TM.png){:width="800px"}
 
 ### Logo w/ R
 
-![Logo Mark w/ R - SVG](/assets/images/OWASP_Icon_Black_R.svg)
+![Logo Mark w/ R - SVG](/www-policy/assets/images/OWASP_Icon_Black_R.svg)
 
-![Logo Mark w/ R - PNG](/assets/images/OWASP_Icon_Black_R.png)
+![Logo Mark w/ R - PNG](/www-policy/assets/images/OWASP_Icon_Black_R.png)
 
 ### Logo w/ TM
 
-![Logo w/ TM - SVG](/assets/images/OWASP_Icon_Black_TM.svg)
+![Logo w/ TM - SVG](/www-policy/assets/images/OWASP_Icon_Black_TM.svg)
 
-![Logo w/ TM - PNG](/assets/images/OWASP_Icon_Black_TM.png)
+![Logo w/ TM - PNG](/www-policy/assets/images/OWASP_Icon_Black_TM.png)
 
 ## Assets and Collateral
 
