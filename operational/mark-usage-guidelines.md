@@ -52,12 +52,13 @@ d. ATTRIBUTION: OWASP Foundation requires you to attribute ownership of the OWAS
 
 Licensee shall comply with the following form requirements regarding the use of the OWASP Logo:
 
-![Combination Mark (Logo + Wordmark w/R)](/www-policy/branding-assets/OWASP-Combination-mark-r.png)
+![Logo + Wordmark w/ R](/assets/images/OWASP_Logo_Black_R.png)
+![Logo + Wordmark w/ TM](/assets/images/OWASP_Logo_Black_TM.png)
 
 a.  OBTAINING THE OWASP LOGO: OWASP Foundation will provide access to the graphic files depicting the OWASP Logo after Licensee and OWASP Foundation have both signed the required trademark license agreement. OWASP will provide one version of the OWASP Logo that contains an ® symbol next to the "OWASP" portion of the OWASP Logo for use in countries where the OWASP Word Mark is registered. And OWASP Foundation will provide a second version of the OWASP Logo that only shows the ™ symbol for use in countries where the mark is not registered. Licensee is only permitted to use the logo artwork files provided by OWASP Foundation.
 
 b. DO NOT ALTER LOGO: Licensee must use the OWASP Logo exactly as it appears in the digital artwork files to which Licensee is given access by OWASP Foundation. Licensee may not use any third-party artwork files for the OWASP Logo. Do not change the proportion or position of elements within the logo, alter the logo in perspective or appearance, or otherwise alter, separate, stretch, distort, or change the colors of the logo.
-   
+
 c. DO NOT ADD WORDS OR DESIGNS: The OWASP Logo may not be combined with or incorporated into any other feature, including without limitation, other trademarks or service marks, words, phrases, graphics, photos, slogans, numbers, design features, or symbols.
 
 d. LICENSEE'S BRAND: Licensee's company name, product name, or company logo must appear on any materials where the OWASP Logo appears. The OWASP Logo must be smaller and less prominent than Licensee's company name, product name, or company logo.
