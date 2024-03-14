@@ -50,49 +50,46 @@ OWASP does not endorse any product, services, or tools. The following disclaimer
 
 About the OWASP Foundation: The Open Worldwide Application Security Project (OWASP) is a 501(c)(3) worldwide not-for-profit charitable organization focused on improving the security of software. Our mission is to make software security visible so that individuals and organizations worldwide can make informed decisions about true software security risks. Everyone is free to participate in OWASP, and all of our materials are available under a free and open software license. You'll find everything about OWASP linked from our wiki and current information on our OWASP Blog. OWASP does not endorse or recommend any product or service. This allows our community to remain vendor neutral with the collective wisdom of the best minds in software security worldwide.
 
-## Screen Resolution Marks
+## Assets
 
-SVG and PNG provided. Right mouse click to Save Image As...
+We maintain high resolution versions of our logo on a public Google Drive. Click the link for the version of the logo you want below, and then download the format(s) you want. We provide SVG, PNG, JPG, and others.
 
-### Logo + Wordmark w/ R
+If these links do not work, contact [admin@owasp.com](mailto:admin@owasp.com).
 
-![Logo + Wordmark w/ R - SVG](/www-policy/assets/images/OWASP_Logo_Black_R.svg){:width="800px"}
+[OWASP Brand Guidelines 2024 PDF](https://drive.google.com/file/d/1OdV4ADj6lTyw52m1JfrUTl012g48mKob/view?usp=sharing)
 
-![Logo + Wordmark w/ R - PNG](/www-policy/assets/images/OWASP_Logo_Black_R.png){:width="800px"}
+### OWASP® Logos
 
-### Logo + Wordmark w/ TM
+* Black
+  * [Combined Logo and Wordmark](https://drive.google.com/drive/folders/1q2hfFzgSpTl6eEyAZjPRtT3oICF8ddbc?usp=sharing)
+  * [Logo](https://drive.google.com/drive/folders/1q1yGpwTP4MWW2nFNTc3BSqXT4lUDjFW9?usp=sharing)
+* White
+  * [Combined Logo and Wordmark](https://drive.google.com/drive/folders/1qAHfjQOo1Dv6cBkS3NsBuR_TAPraJNdk?usp=sharing)
+  * [Logo](https://drive.google.com/drive/folders/1q6QsoLJTVjHxsXQUjx7xqpEV_n6aQj-8?usp=sharing)
+* Blue, RGB
+  * [Combined Logo and Wordmark](https://drive.google.com/drive/folders/1qBaK0nwJ4kKXMmt9gwsfPbVozTfR0OFk?usp=sharing)
+  * [Logo](https://drive.google.com/drive/folders/1qBxmUC-7nhJ0GppKZkwPt-IHi3-MGyog?usp=sharing)
+* Blue, CMYK
+  * [Combined Logo and Wordmark](https://drive.google.com/drive/folders/1qKa2cie0dtZxmUs0whvPJKu5jFMdNH7w?usp=sharing)
+  * [Logo](https://drive.google.com/drive/folders/1qGBl1owNo-rv_WDf7QklJFzJIBEb26IR?usp=sharing)
 
-![Logo + Wordmark w/ TM - SVG](/www-policy/assets/images/OWASP_Logo_Black_TM.svg){:width="800px"}
+### OWASP™ Logos
 
-![Logo + Wordmark w/ TM - PNG](/www-policy/assets/images/OWASP_Logo_Black_TM.png){:width="800px"}
-
-### Logo w/ R
-
-![Logo Mark w/ R - SVG](/www-policy/assets/images/OWASP_Icon_Black_R.svg){:width="200px"}
-
-![Logo Mark w/ R - PNG](/www-policy/assets/images/OWASP_Icon_Black_R.png){:width="200px"}
-
-### Logo w/ TM
-
-![Logo w/ TM - SVG](/www-policy/assets/images/OWASP_Icon_Black_TM.svg){:width="200px"}
-
-![Logo w/ TM - PNG](/www-policy/assets/images/OWASP_Icon_Black_TM.png){:width="200px"}
-
-## Assets and Collateral
-
-### Templates
-
-- Slide Templates
-
-  - [Google Slides](https://docs.google.com/presentation/d/1Z3Sq6yWLojXPZBirQm7Sdlckz37oXpcezQXeDoyxbPk/edit?usp=sharing)
-  - [Microsoft PowerPoint](/www-policy/assets/files/OWASP%20Slide%20Template.potx)
-  - [LibreOffice](/www-policy/assets/files/OWASP%20Slide%20Template.otp)
+* Black
+  * [Combined Logo and Wordmark](https://drive.google.com/drive/folders/1q1OSNw4TCHtw7uOu0_-Ft49xY7BkviD1?usp=sharing)
+  * [Logo](https://drive.google.com/drive/folders/1q0hlMy_TAzMQFpJ9mrxxNt0CJjzYrG7u?usp=sharing)
+* White
+  * [Combined Logo and Wordmark](https://drive.google.com/drive/folders/1q66jTCK1rtWXoPiNOsM49J_vaSfEFGZ5?usp=sharing)
+  * [Logo](https://drive.google.com/drive/folders/1q5QBnIXILWTVkyyVBEpTEEC1eXZp_tnT?usp=sharing)
+* Blue, RGB
+  * [Combined Logo and Wordmark](https://drive.google.com/drive/folders/1qBqPvHseN5gihH9GIJvIzQxJviQ0V47v?usp=sharing)
+  * [Logo](https://drive.google.com/drive/folders/1qEvM7xjCd2I-eqGSPoT-k5l2Px3VtoFC?usp=sharing)
+* Blue, CMYK
+  * [Combined Logo and Wordmark](https://drive.google.com/drive/folders/1qIIYJlRW8TFyr0gLif1X875qVaE6SzBg?usp=sharing)
+  * [Logo](https://drive.google.com/drive/folders/1qGHgkmp42wTgz2eyCtuCbSsq5Ip6dGbk?usp=sharing)
 
 ### Typefaces
 
-- Headings
-  - [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins)
-- Body Text
-  - [Barlow](https://fonts.google.com/specimen/Barlow?query=barlow)
-- Logo (Note: Similar, not exact match!)
-  - [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates)
+* Headings: [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins)
+* Body Text: [Barlow](https://fonts.google.com/specimen/Barlow?query=barlow)
+* Logo (similar, not exact match!): [Montserrat Alternates](https://fonts.google.com/specimen/Montserrat+Alternates)
