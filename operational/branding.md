@@ -68,15 +68,15 @@ SVG and PNG provided. Right mouse click to Save Image As...
 
 ### Logo w/ R
 
-![Logo Mark w/ R - SVG](/www-policy/assets/images/OWASP_Icon_Black_R.svg)
+![Logo Mark w/ R - SVG](/www-policy/assets/images/OWASP_Icon_Black_R.svg){:width="200px"}
 
-![Logo Mark w/ R - PNG](/www-policy/assets/images/OWASP_Icon_Black_R.png)
+![Logo Mark w/ R - PNG](/www-policy/assets/images/OWASP_Icon_Black_R.png){:width="200px"}
 
 ### Logo w/ TM
 
-![Logo w/ TM - SVG](/www-policy/assets/images/OWASP_Icon_Black_TM.svg)
+![Logo w/ TM - SVG](/www-policy/assets/images/OWASP_Icon_Black_TM.svg){:width="200px"}
 
-![Logo w/ TM - PNG](/www-policy/assets/images/OWASP_Icon_Black_TM.png)
+![Logo w/ TM - PNG](/www-policy/assets/images/OWASP_Icon_Black_TM.png){:width="200px"}
 
 ## Assets and Collateral
 
