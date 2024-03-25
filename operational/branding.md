@@ -54,9 +54,9 @@ About the OWASP Foundation: The Open Worldwide Application Security Project (OWA
 
 We maintain high resolution versions of our logo on a public Google Drive. Click the link for the version of the logo you want below, and then download the format(s) you want. We provide SVG, PNG, JPG, and others.
 
-If these links do not work, contact [admin@owasp.com](mailto:admin@owasp.com).
+Files are hosted from OWASP Foundation's Google Drive. If these links do not work, contact [admin@owasp.com](mailto:admin@owasp.com).
 
-[OWASP Brand Guidelines 2024 PDF](https://drive.google.com/file/d/1OdV4ADj6lTyw52m1JfrUTl012g48mKob/view?usp=sharing)
+[OWASP Brand Guidelines 2024 PDF](https://drive.google.com/drive/folders/1eBf-yDvyCSMcLaWlC9xBwf7SGUBjIRAL)
 
 ### OWASP® Logos
 
