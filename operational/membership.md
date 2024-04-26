@@ -55,7 +55,7 @@ The Foundation will revoke fraudulent membership submissions without notice and 
 
 **One or Two-Year** Dues $50 and $95 for each respective period. Individuals can choose either a single or two-year membership. Members will begin to receive renewal email reminders as early as 60 days before renewal. The OWASP Foundation will do its best to notify members of impending renewals. It is the sole responsibility of the Member to monitor their membership status.
 
-**Lifetime Membership** When a member makes a time non-refundable $500 payment to the Foundation, they are granted a lifetime membership, which gives them all membership rights, including the ability to vote. Lifetime membership applies until the member passes away.
+**Lifetime Membership** When a member makes a one-time non-refundable $500 payment to the Foundation, they are granted a lifetime membership, which gives them all membership rights, including the ability to vote. Lifetime membership applies until the member passes away.
 
 **Student Membership** Dues $20 per year. Full-time students may apply for this discounted membership. Student Members cannot auto-renew.
 
