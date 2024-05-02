@@ -74,7 +74,7 @@ The current Compliance Officers are:
             <div class="member-img" style="background-image: url(https://owasp.org/assets/images/{{ member.image }});"></div>
         </div>
         <div class="member-caption"><h2>{{ member.name }}</h2>
-            <hr><strong>{{ member.title }}</strong><br/>
+            <hr><strong>Compliance Officer</strong><br/>
             <div class="member-location">{{member.location}}</div>
             {% if member.twitter %}
             {% assign arr = member.twitter | split: "/" %}
@@ -89,7 +89,6 @@ The current Compliance Officers are:
             <br/>
             {% endif %}
         </div><br/><br/>
-        <div class="member-info">{{ member.description }}</div>
     </div>
 {% endfor %}
 </div>
