@@ -4,7 +4,7 @@ title: Whistleblower & Anti-Retaliation Policy (DRAFT)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-01-22
+notice: 2024-05-20
 
 ---
 
@@ -24,7 +24,7 @@ It is contrary to the values of the OWASP Foundation for anyone to retaliate aga
 
 ### III. Initiating an Informal Complaint
 
-OWASP encourages participants and members who have concerns about breaches of policy, Code of conduct violations, or similar, to report the incident as soon as possible to stop the behavior from happening. Wherever possible, please make an informal complaint in the first instance with local chapter, project, or event leaders before escalating to a formal complaint, particularly around matters of personal safety or harrassment. OWASP does not tolerate unethical behavior, violence, harrassment, or bullying behavior, or breaches of the OWASP Code of Conduct or Event Code of Conduct. If the matter is an emergency or a member or participant feels unsafe, please call local law enforcement immediately before making an informal or formal complaint.
+OWASP encourages participants and members who have concerns about breaches of policy, Code of conduct violations, or similar, to report the incident as soon as possible to stop the behavior from happening. Wherever possible, please make an informal complaint in the first instance with local chapter, project, or event leaders before escalating to a formal complaint, particularly around matters of personal safety or harassment. OWASP does not tolerate unethical behavior, violence, harassment, or bullying behavior, or breaches of the OWASP Code of Conduct or Event Code of Conduct. If the matter is an emergency or a member or participant feels unsafe, please call local law enforcement immediately before making an informal or formal complaint.
 
 A. **Employees**. The OWASP Foundation has an approved Staff Handbook covering the Foundation's employment and HR policies, including complaints, whistleblowing policies and processes. Foundation staff wishing to make a complaint or report should follow the policy and process as detailed in the most recently approved Employee Handbook, as published in OWASP's HR portal. If an OWASP member or participant wishes to make an informal complaint relating to a staff member or Foundation process, please contact the OWASP Executive Director in the first instance, who will may escalate the issue to OWASP's HR firm, the Board, or both, as the case requires. Staff are required to follow OWASP's Code of Conduct, but informal complaints or whistleblower reports by the public about Foundation staff will be handled per the Staff Handbook.
 
