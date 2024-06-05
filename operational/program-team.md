@@ -66,7 +66,7 @@ Local Chapters (where applicable):
 
 - Supports logistic tasks on site before and during Event
 - Contributes knowledge about local cultural practices and local knowledge.
-- Provides timely ideas, suggestions for local services, catering, and complementary events.
+- Provides timely ideas, suggestions for local services, catering, and complimentary events.
 - Helps logistically at arrival of other team members, speakers, and guests.
 
 ## Compensation

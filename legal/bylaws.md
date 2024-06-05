@@ -186,15 +186,15 @@ The rules contained in the current edition of Robert's Rules of Order Newly Revi
 
 ### SECTION 4.01 Membership Classes
 
-There shall be the following classes of OWASP members: Corporate, Individual, Complementary, Lifetime, Distinguished Lifetime, and Student.
+There shall be the following classes of OWASP members: Corporate, Individual, Complimentary, Lifetime, Distinguished Lifetime, and Student.
 
 ### SECTION 4.02 Qualifications
 
 Individual, Corporate, and Student Membership may be granted to any individual or organization that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and pays the dues as set by the Board of Directors. The Foundation may, at its discretion, offer monthly, annual, two-year, and Lifetime memberships. Regional pricing is available to all paid membership classes.
 
-Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and has been in the top 5 position continuously for six months prior to applying for complimentary membership. Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complementary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership. Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership.
+Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and has been in the top 5 position continuously for six months prior to applying for complimentary membership. Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complimentary leadership. Complimentary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership. Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership.
 
-Distinguished Lifetime Membership is an award that shall be determined and approved solely by a majority vote of the Board of Directors for long-standing and extraordinary services to the OWASP Community, and can be granted to any participant or member who meets criteria as adopted by the Board from time to time. Distinguished Lifetime Membership is equivalent to Lifetime Individual Membership, and will take the place of any existing membership on record. This award does not entitle the receipient to a partial or full refund of any existing membership.
+Distinguished Lifetime Membership is an award that shall be determined and approved solely by a majority vote of the Board of Directors for long-standing and extraordinary services to the OWASP Community, and can be granted to any participant or member who meets criteria as adopted by the Board from time to time. Distinguished Lifetime Membership is equivalent to Lifetime Individual Membership, and will take the place of any existing membership on record. This award does not entitle the recipient to a partial or full refund of any existing membership.
 
 All membership classes are eligible to vote in elections.
 
