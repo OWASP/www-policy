@@ -19,6 +19,7 @@ Policies and Procedures adopted by the Global Board for OWASP Operations. Last e
 </ul>
 
 ## Guidebooks
+
 Handbooks to help Chapter, Project, and Event Leaders in their volunteer work.
 {% assign pages = site.pages | sort: 'title' | limit: 1000 %}
 <ul>
@@ -30,6 +31,7 @@ Handbooks to help Chapter, Project, and Event Leaders in their volunteer work.
 </ul>
 
 ## Contract and Agreement Templates
+
 {% assign pages = site.pages | sort: 'title' | limit: 1000 %}
 <ul>
 {% for page in pages %}
@@ -40,16 +42,16 @@ Handbooks to help Chapter, Project, and Event Leaders in their volunteer work.
 </ul>
 
 ## Others
+
 - [Employee Handbook](/www-policy/employee)
 
 ## TODO
-- Contact Us (responsivness to tickets, SLA, submitting complete information, submitting accurate information)
-- Membership - terms, discounts, submitting accurate info, pricing, honorary process, peference for Foundation events (like PRoject Summits etc
+
+- Contact Us (responsiveness to tickets, SLA, submitting complete information, submitting accurate information)
+- Membership - terms, discounts, submitting accurate info, pricing, complimentary membership process, preference for Foundation events (like Project Summits etc
 - Advertising
-- Travel Assistance Program - member, workflow, limits, 
+- Travel Assistance Program - member, workflow, limits
 - Local Partnerships
 - Mailing Lists
 - Elections
 - Licenses
-
-
