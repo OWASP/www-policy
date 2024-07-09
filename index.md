@@ -51,5 +51,3 @@ Handbooks to help Chapter, Project, and Event Leaders in their volunteer work.
 - Mailing Lists
 - Elections
 - Licenses
-
-
