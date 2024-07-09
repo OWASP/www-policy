@@ -1,570 +1,323 @@
 ---
 
-title: OWASP Bylaws
-layout: col-sidebar
+title: OWASP Foundation By-Laws
+layout: full-width
 
 ---
 
-Approved by Delaware Secretary of State on 2024-07-08
+Last amended and effective date: January 27, 2021.
 
-# BY-LAWS OF THE OWASP Foundation, INC
+- [ARTICLE I OFFICES](#article-i---offices)
+- [ARTICLE II AUTHORITY AND DUTIES OF OFFICERS](#article-ii---authority-and-duties-of-officers)
+- [ARTICLE III BOARD OF DIRECTORS](#article-iii---board-of-directors)
+- [ARTICLE IV MEMBERS](#article-vi---members)
+- [ARTICLE V ADVISORY BOARDS, COMMITTEES AND LOCAL CHAPTERS](#article-v---advisory-boards,-committees-and-local-chapters)
+- [ARTICLE VI INDEMNITY](#article-vi---indemnity)
+- [ARTICLE VII CONFLICTS OF INTEREST](#article-vii---conflicts-of-interest)
+- [ARTICLE VIII CONTRACTS AND FINANCIAL ADMINISTRATION](#article-viii---contracts-and-financial-administration)
+- [ARTICLE IX BOOKS AND RECORDS](#article-ix---books-and-records)
+- [ARTICLE X AMENDMENT OF BYLAWS](#article-x---amendment-of-bylaws)
 
-# ARTICLE I - NAME, PURPOSE, AND OFFICES
+## ARTICLE I - OFFICES
 
-## Section 1.1 Name
+### SECTION 1.01 Offices
 
-The name of the corporation is "The OWASP Foundation, Inc," and the corporation is referred to in these By-laws as the "Foundation."
+The principal office of the Foundation in the State of Maryland, shall be located in County of Howard. The Foundation may have such other offices, either within or without the State of Maryland, as the Board of Directors may designate or as the business of the Foundation may require from time to time.
 
-## Section 1.2 Principal Office
+### SECTION 1.02 Purpose
 
-The principal office of the Foundation shall be located at 300 Delaware Ave, Suite 210 #384, Wilmington Delaware USA 19801. The Board of Directors of the Foundation (the "Board of Directors") is hereby granted full power and authority to change its principal office from one location to another, both within and without said state.
+The OWASP Foundation will be the thriving global community that drives visibility and evolution in the safety and security of the world’s software.
 
-## Section 1.3 Other Offices
+### SECTION 1.03 Values
 
-Branch or subordinate offices may be established at or moved to any place or places, and closed by the Board of Directors.
+- **OPEN**: Everything at OWASP is radically transparent from our finances to our code.
+- **INNOVATION**: OWASP encourages and supports innovation/experiments for solutions to software security challenges.
+- **GLOBAL**: Anyone around the world is encouraged to participate in the OWASP community.
+- **INTEGRITY**: OWASP is an honest and truthful, vendor agnostic, global community.
 
-## Section 1.4 Purpose
+## ARTICLE II - AUTHORITY AND DUTIES OF OFFICERS
 
-The nature of the business or purposes to be conducted or promoted by the Foundation is to engage in any lawful act or activity for which corporations that are organized not for profit may be organized under the Delaware General Corporation Law (“DGCL”). The primary purpose of the Foundation is to improve the state of software security. Specifically, the Foundation will: (i) support the building of impactful [projects](https://owasp.org/projects/); (ii) develop and nurture communities through events and chapter meetings worldwide; (iii) provide educational publications & resources; (iv) operate a branding program based upon distinctive trademarks to create high customer awareness, demand for, and confidence in the Foundation, its members, projects, and activities; and (v) undertake such other activities as may from time to time be appropriate to further the purposes and achieve the goals set forth above.
+### SECTION 2.01 Roles
 
-In connection with the foregoing, the Foundation intends to engage in some or all of the following activities, to: (a) drive the development of, disseminate, support and maintain documents, standards, guidelines, cheat sheets, and other projects; (b) maintain a membership program; (c) administer grants and fundraising including donations, bequests, seeking grants, hosting significant global events, activities, and trainings; (d) create and own distinctive trademarks, service marks and/or certification marks; (e) administer or subcontract a branding program; (f) create various printed and/or electronic materials for distribution to members and non-members; (g) maintain its own website; (h) maintain relations with, and leverage standards developed by, other standard setting organizations and industry consortia to ensure coherence among specifications maintained by the Foundation and such other organizations; (i) maintain a global chapter program; (j) operate committees as approved by the Board of Directors; and (k) undertake those other activities which its Board of Directors may from time to time approve.
+Each Board Member will be assigned one of the following roles: Board Chair, Vice Chair, Secretary, Treasurer, or Board Member at large. These roles will carry the following responsibilities:
 
-## Section 1.5 Non-profit Status
+**Board Chair** - The Chair of the Board shall serve as the principal executive officer of the Foundation.
 
-(a) The Foundation is organized and shall be operated as a non-stock membership corporation operating not for profit under the DGCL. The Foundation is organized exclusively for charitable and educational purposes, including, for such purposes, the making of distributions to organizations that qualify as exempt organizations described under Section 501(c)(3) of the Internal Revenue Code of 1986, as amended (hereinafter, the "Code"), or corresponding Section of any future federal tax code
+- Fiduciary responsibilities: They shall, in general, supervise and control all of the business and affairs of the Foundation. They will monitor financial planning and financial reports they may sign, with the Secretary or any other proper officer of the Foundation thereunto authorized by the Board of Directors, any deeds, mortgages, bonds, contracts, or other instruments which the Board of Directors has authorized to be executed, except in cases where the signing and execution thereof shall be expressly delegated by the Board of Directors or by these Bylaws to some other officer or agent of the Foundation, or shall be required by law to be otherwise signed or executed;
+- Leadership and Direction: provides leadership to the Board of Directors with regards to policy setting and strategic planning. They help guide and mediate board actions with respect to organizational priorities and governance concerns, and in general shall perform all duties incident to the office of Chair of the Board subject to the control of the Board of Directors.
+- Organizational Responsibilities: They play a leading role in fundraising activities, formally evaluate the performance of the Foundation Director and informally evaluate the effectiveness of the board members. An annual, overall evaluation of the performance of the organization in achieving its mission will be accomplished. They shall, when present, preside at all meetings of the Board of Directors, unless otherwise delegated, and such other duties as may be prescribed by the Board of Directors from time to time.
 
-(b) The Foundation claims exemption from Federal taxation for the Foundation pursuant to Section 501(a) of the Code. Until such time, if ever, as such exemption is lost, the Foundation shall not knowingly engage directly or indirectly in any activity that it believes would be likely to invalidate its status as an organization exempt from federal income taxation under Section 501(a) of the Code as an organization described in Section 501(c)(3) of the Code. All references to the Code contained herein are deemed to include corresponding provisions of any future United States Internal Revenue Law
+**Vice Chair** - performs Chair responsibilities when the Chair cannot be available, works closely with Chair and other Board Members, participates closely with Chair to develop and implement officer transition plans, performs other responsibilities as assigned by the Board.
 
-(c) In the event that such exemption is obtained and until such time, if ever, as such exemption is denied or lost: (i) no part of the net earnings of the Foundation shall inure to the benefit of, or be distributable to, any member of its Board of Directors, its officers, or other private persons, except that the Foundation shall be authorized and empowered to pay reasonable compensation for services rendered and to make payments and distributions in furtherance of the purposes set forth herein; (ii) no substantial part of the activities of the Foundation shall be the carrying on of propaganda or otherwise attempting to influence legislation, and the Foundation shall not participate or intervene in (including the publication or distribution of statements) any political campaign on behalf of (or in opposition to) any candidate for public office; (iii) the Foundation shall be operated and organized exclusively for charitable and educational purposes, within the meaning of Section 501(c)(3) of the Code; and (iv) notwithstanding any other provisions of these By-laws, the Foundation shall not carry on any other activities not permitted to be carried on (A) by an organization exempt from federal income tax under Section 501(c)(3) of the Code, or (B) by an organization contributions to which are deductible under Section 170(c)(2) of the Code
+**Secretary** - maintains records of the board and ensures effective management of organization’s records, manages minutes of board meetings, ensures minutes are distributed shortly after each meeting, is sufficiently familiar with legal documents (articles, by­laws, IRS letters, etc.) to note applicability during meetings; is the custodian of the corporate records and of the seal of the Foundation and see that the seal of the Foundation is affixed to all documents, the execution of which on behalf of the Foundation under its seal is duly authorized; keeps a register of the post office address of each Director which shall be furnished to the Secretary by such Director; and, in general perform all duties incident to the office of the Secretary and such other duties as from time to time may be assigned to them by the Chair of the Board or by the Board.
 
-# ARTICLE II - MEMBERS
+**Treasurer** - manages finances of the organization, administers fiscal matters of the organization, provides annual budget to the board for member’s approval, ensures development and board review of financial policies and procedures.
 
-## Section 2.1 Classes of Membership
+**Board Member at large** regularly attends board meetings and important related meetings, volunteers for and willingly accepts assignments and completes them thoroughly and on time, stays informed about committee matters, prepares themselves well for meetings, and reviews and comments on minutes and reports, gets to know other committee members and builds a collegial working relationship that contributes to consensus, is an active participant in the committee’s annual evaluating and planning efforts, participates in fundraising for the organization
 
-(a) The Foundation has the following classes of Membership: Individual Members and Complimentary Members. Individual Members and any future classes of members entitled to voting rights shall be collectively referred to as "Voting Members." All voting and non-voting memberships in the Foundation are collectively referred to in these By-laws as "Memberships." In these By-laws, a person or entity holding Membership is referred to as a "Member."
+### SECTION 2.02 Election and Term of Office
 
-(b) The Individual Member class has the following subclasses: _Standard,_ _Regional_, _Student_, _Lifetime_, and _Distinguished Lifetime_. Only the Board shall grant _Distinguished Lifetime Membership_
+Each Board member will serve for a term of 2 years. The term will begin effective January 1 following the election period. An individual is limited to four (4) elected two-year (2) terms. Each director must be elected as prescribed in the election policy and procedure. An individual is limited to no more than two (2) two-year (2) terms in a ten (10) year period.
 
-(c) The Board of Directors may create additional classes or subclasses of voting and non-voting Members in the future and may amend the rights of existing classes of Members in each case in accordance with to Section 2.7 of these By-laws
+The Officer roles of the Board Members shall be elected by the Board of Directors at the first meeting following the election of the Board of Directors. If the election of officers shall not be held at such meeting, such election shall be held as soon thereafter as conveniently may be. Each officer shall hold that role until the next election has been completed.
 
-## Section 2.2 General Conditions of Membership
+### SECTION 2.03 Resignation
 
-(a) Any individual shall be admitted to Membership upon: (i) acceptance of its written application on such form as may be from time to time required by the Foundation (which acceptance shall be administered in a non-discriminatory fashion) and (ii) unless otherwise provided by the Board of Directors, payment of such application fees, assessments, initiation fees (if any), annual dues or other fees for such class or subclass of Membership as may from time to time be established by the Board of Directors (collectively, "Fees"); provided, however, that the Foundation (x) shall have no obligation to accept, nor shall it have any liability for refusing to accept, any application for Membership, and (y) shall have the right to restrict the ability of any Member to exercise any or all rights of Membership; in each case, to the extent that the Foundation reasonably believes on advice of legal counsel that it might violate any federal, state or foreign law or regulation applicable to it by acting otherwise
+Resignations are effective upon receipt by the Secretary of the Board of a written notification.
 
-(b) A Member shall remain in good standing as a Member, provided such Member complies with the terms and conditions of the Foundation's Certificate of Incorporation ("Certificate of Incorporation"), By-laws, Membership Application, and such rules and policies as the Board of Directors and/or any committees thereof (each a "Board Committee") may from time to time adopt (collectively, “Foundation Policies”), including without limitation, timely payment of all fees and penalties for late payment as may be determined by the Board of Directors (such Fees and penalties are collectively referred to in the By-laws as "Financial Obligations," and all of the foregoing good standing requirements are collectively referred to in the By-laws as "Membership Obligations")
+### SECTION 2.04 Removal
 
-(c) For purposes of these By-laws, “Foundation Policies” shall include, without limitation, the Foundation’s Code of Conduct, the Foundation’s Membership Policy, Elections Policy, Committees Policy, Signatory Policy, Grant Policy and IPR Policy (each as defined elsewhere in these By-laws), and all provisions of all other applicable Foundation policies, agreements, and any other operational and/or good standing policies, such as grace periods and policies around technical failures, in each case, as from time to time adopted by the Board of Directors and/or any Board Committee
+Directors may be removed from office by the members, with or without cause, as permitted by and in accordance with the laws of the State of Delaware. The Board will recommend to the Members that a Director be removed from office when there is a finding that a Director has committed an action that results in a finding of “Cause.” A determination of “Cause” by the Board of Directors requires an affirmative vote of the full number of voting Directors then in office, except for the Director being considered for removal. For the purpose of these Bylaws, the term “Cause” shall mean
 
-## Section 2.3 Privileges of Individual Membership
+(w) repeated violations of the Board Code of Conduct Policy or (x) a final conviction of a felony involving moral turpitude or (y) willful misconduct that is materially and demonstrably injurious to OWASP or (z) a no-confidence vote by the Board of Directors under Section 3.04 of the Bylaws.
 
-Each Individual Member, while in good standing, shall be entitled to:
+For purposes of the definition of “Cause,” no act, or failure to act, by a Director shall be considered “willful” unless committed in bad faith and without a reasonable belief that the act or failure to act was in the best interest of OWASP. As voting by OWASP Members is optional, a simple majority of votes received by members in good standing shall govern if the Director is removed.
 
-(a) run for election as a member of the Board of Directors (each a "Director") per the Foundation election policy approved by the Board of Directors (the “Elections Policy”)
+### SECTION 2.05 Vacancies
 
-(b) vote on a "one vote per Member" basis in elections of Directors in accordance with the Elections Policy
+A vacancy in any office because of death, resignation, removal, disqualification or otherwise, may be filled by the Board of Directors for the unexpired portion of the term.
 
-(c) serve as a corporate officer (e.g. “Chair”, “Vice Chair”, “Secretary”, “Treasurer”) if elected to the Board of Directors
+If a Director creates a Vacancy, such as being removed or resigned, the entire term is considered served for that Member for the purposes of term limits.
 
-(d) run for election as officer of any committee of the Members of the Foundation (each such committee, a “Member Committee”, and each such officer, a "Committee Officer")
+### SECTION 2.06 INTENTIONALLY LEFT BLANK
 
-(e) vote in elections of the Committee Officers of the Member Committees in which such Individual Member participates
+### SECTION 2.07 Secretary
 
-(f) attend and participate (on a one vote per Member basis) in all general and special meetings of the Membership provided for in Article III of these By-laws
+The Secretary shall:
 
-(g) vote on each matter submitted to a vote of the Voting Members
+1. Keep the minutes of the proceedings of the Board of Directors in one or more minute books provided for that purpose;
+2. See that all notices are duly given in accordance with the provisions of these Bylaws or as required by law;
+3. Be custodian of the corporate records and of the seal of the Foundation and see that the seal of the Foundation is affixed to all documents, the execution of which on behalf of the Foundation under its seal is duly authorized;
+4. Keep a register of the post office address of each Director which shall be furnished to the Secretary by such Director; and
+5. In general perform all duties incident to the office of the Secretary and such other duties as from time to time may be assigned to them by the Chair of the Board or by the Board.
 
-(h) propose initiatives to be acted upon by the Foundation; and
+## ARTICLE III - BOARD OF DIRECTORS
 
-(i) all rights of the Complimentary Members other than the rights specified in Section 2.4(a)
+### SECTION 3.01 General Powers and Authority
 
-## Section 2.4 Privileges of Complimentary Membership
+The business and affairs of the Foundation shall be managed by its Board of Directors
 
-Each Complimentary Member, while in good standing, shall be entitled to:
+### SECTION 3.02 Number, Tenure, and Qualifications
 
-(a) attend (on a non-voting basis) all general and special meetings of the Membership provided for in Article III of these By-laws
+The number of directors of the Foundation shall be no less than five and no more than seven. Each director shall hold office for two years unless duly removed. An individual is limited to four (4) elected two-year (2) terms effective January 1, 2014. Each director must be elected as prescribed in the election policy and procedure. An individual is limited to no more than two (2) two-year (2) terms in a ten (10) year period.
 
-(b) propose initiatives to be acted upon by the Foundation
+Directors are responsible for maintaining their membership in good standing for the duration of their term.
 
-(c) receive such free or discounted services provided by the Foundation for such Member’s Membership class as the Board of Directors may designate from time to time; and
+A Director or Candidate for the Board shall have maintained continuous membership in good standing over the previous 12 months, notwithstanding any grace periods established in these bylaws.
 
-(d) such other benefits, rights, and privileges applicable to such Member's Membership class as the Board of Directors may from time to time designate, including but not limited to, the applicable Membership benefits set forth in the then current Foundation “Membership Policy” (if any) approved by the Board of Directors (the “Membership Policy”)
+At the time of their election, to qualify to stand, candidates must hold an Individual membership, Lifetime membership, or hold a valid Distinguished Lifetime Membership. This membership must have been in place for a 12 month period prior to the date of the election.
 
-## Section 2.5 Rights in Intellectual Property
+Foundation funds should not be used to pay for membership. Foundation paid memberships of any class, from any funding source including conferences, chapters, projects, donations, etc, shall not constitute paid membership nor possess voting rights.
 
-All intellectual property submitted to or owned, adopted, or created by the Foundation, including without limitation, any of the same which may be represented by any Specifications, other standards, guidelines, policies, procedures, or tests (collectively, "Intellectual Property"), shall be subject to such policies and procedures, including the Foundation's Intellectual Property Rights Policy (the "IPR Policy"), as may from time to time be adopted by the Board of Directors.
+### SECTION 3.03 Regular Meetings
 
-## Section 2.6 Privileges Generally
+The Board of Directors shall have regular meetings as needed. A link to the board meeting agenda’s and the historical minutes is here: [https://owasp.org/www-board/](https://owasp.org/www-board/). Meetings shall be at such dates, times, and places as the Board shall determine in December of the preceding year and as amended by the Board. In no event will there be less than one meeting per quarter. These meetings will be open to public attendance. However, certain portions of the meeting may be closed to board members and their delegates when required for legal reasons, or to shield liability, or to handle personnel issues, or similar.
 
-(a) Only the individual person that has been accepted as a Member of the Foundation shall enjoy the rights and privileges of such Membership
+Attendance in person or virtually by board members is required at no less than 75% of the total meetings each year and shall be highly encouraged to meet in person at least once annually at a date to be announced and agreed upon. To be considered as “attended,” the board member must attend at least 90% of the meeting, starting at the published scheduled time until the published end time or the meeting is adjourned (whichever is earlier). Attendance is tabulated by the Executive Director or delegate within seven days after every scheduled meeting for the purpose of determining if the 75% attendance requirement has been met, and the tabulation is based upon the entire calendar year. Canceled meetings are considered attended for the purposes of the tabulation.
 
-(b) Memberships shall be non-transferable, non-salable and non-assignable
+Failure by a board member to meet the 75% attendance requirement after any tabulation will cause a mandatory vote of confidence by the remaining board members, whose votes will be publicly recorded. If a vote of confidence does not pass, the Board will put forward a vote of removal to the members and recommend to remove the Director, per section 2.04.
 
-## Section 2.7 Additional Classes of Members
+### SECTION 3.04 Special Meetings
 
-The conditions, privileges, powers, and voting rights (if any) of any class of Members may be changed, any class of Membership may be deleted, and one or more additional classes of Membership may be created, and the conditions, voting rights (if any), powers and privileges of each such class may be prescribed, by the adoption of an amendment to these By-laws pursuant to Article XV of the By-laws.
+Special meetings of the Board of Directors may be called by or at the request of the Chair or any two (2) directors. The person or persons authorized to call special meetings of the Board of Directors may fix the place for holding any special meeting of the Board of Directors called by them.
 
-## Section 2.8 Termination or Suspension of Membership
+### SECTION 3.05 Notice of Special Meetings
 
-Any Member may be suspended from Membership or have its Membership terminated by the Board of Directors for failure to satisfy its Membership Obligations, for engaging in any conduct, either within or without the Foundation, that is contrary to the interests of the Foundation or the advancement of the Foundation's business or industry goals, or as provided in Section 2.2 of these By-laws (in any such case, other than conduct or actions taken in good faith reliance on Article XIV of these By-laws). Financial Obligations already paid shall not be refundable upon any such termination or suspension. All Financial Obligations of such Member that may be accrued and unpaid as of such termination or suspension shall remain due and payable. Except as provided in the last paragraph of this Section 2.8 or the preceding sentence, no termination or suspension of Membership for any other purpose shall be effective unless:
+A special meeting may be called by the Chair or at the request of any two (2) Board members by notice emailed, telephone, or telegraphed to each Board member not less one week before such meetings. Any directors may waive notice of any meeting. The attendance of a director at a meeting shall constitute a waiver of notice of such meeting, except where a director attends a meeting for the express purpose of objecting to the transaction of any business because the meeting is not lawfully called or convened.
 
-(a) The Member is given notice of the proposed termination or suspension of Membership and the reasons therefor
+### SECTION 3.06 Quorum
 
-(b) Such notice is delivered personally or by certified mail, return receipt requested, or by a national or international overnight courier service, or by other notice per these By-laws, sent to the last address of the Member shown on the Foundation's records
+A majority of the number of Directors fixed by ### SECTION 2 of this Article shall constitute a quorum for the transaction of business at any meeting of the Board of Directors. If less than such majority is present at a meeting, a majority of the Directors present may adjourn the meeting from time to time without further notice. Except as otherwise provided in these Bylaws, all decisions will be made by majority vote of those present at a meeting at which a quorum is present. If a board of Directors vote results in a split decision, the Chair of the Board, if present at the meeting, can decide the issue.
 
-(c) Except in the case of termination or suspension of Membership under Section 2.2 above, such notice is given at least thirty days before the effective date of the proposed termination or suspension of Membership; and
+### SECTION 3.07 Participation in Meeting by Conference Telephone
 
-(d) Except in the case of termination or suspension of Membership for failure to satisfy a Financial Obligation or under Section 2.2 above, such notice sets forth a procedure determined by the Board of Directors (or other body authorized by the Board of Directors) to decide whether or not the proposed termination or suspension shall take place, whereby the Member is allowed to be heard by such body, either orally (and represented by counsel if the Member so desires, at its sole cost and expense) or in writing, not less than five days before the effective date of the proposed termination or suspension
+Members of the Board may participate in a meeting through use of conference telephone or similar communication equipment, so long as members participating in such meeting can hear one another. A quorum must be maintained at all times during the meeting or the meeting will not continue.
 
-Notwithstanding the foregoing, in the event of termination pursuant to Section 2.2 above or that the Board of Directors believes in good faith that a Member is engaging in willful misconduct to the material detriment of the best interests of the Foundation and its Members, the Board of Directors may suspend such Member's Membership immediately, provided that such Member is otherwise afforded the protections provided for in subsections (a), (b) and (d) of this Section 2.8.
+### SECTION 3.08 Manner of Acting
 
-## Section 2.9 Resignation by Member
+Except as otherwise provided in these Bylaws, the act of the majority of the directors present at a meeting at which a quorum is present shall be the act of the Board of Directors.
 
-A Member may resign as a Member at any time. Any Financial Obligations already paid by such Member shall not be refundable in such event, and all such Financial Obligations of such Member which may be accrued and unpaid as of such date shall remain due and payable.
+### SECTION 3.09 Action Without a Meeting
 
-## Section 2.10 Association Management Platform
+Any action that may be taken by the Board of Directors at a meeting may be taken without a meeting if consent in writing, setting forth the action so to be taken, shall be agreed to before such action by a majority of the directors. Such consent can be provided by email, an electronic vote, or other mechanism as agreed upon by the Board.
 
-The name and address of each Member shall be contained in a record to be maintained at the principal office of the Foundation (the "Association Management Platform"). Termination of any Membership shall be recorded in such record together with the date of such termination.
+### SECTION 3.10 Vacancies
 
-Each Member shall be responsible for apprising the Foundation in writing of all changes to its name and address and of the names and addresses of all representatives of such Member appointed to be members of Member Committees designated by such Member in its application for Membership or to receive notices or to vote on behalf of such Member.
+Any vacancy occurring in the Board of Directors may be filled by the affirmative vote of a majority of the remaining directors though less than a quorum of the Board of Directors unless otherwise provided by law. If there is an equal number of affirmative and negative votes then the ultimate determination shall be made by the then­ sitting Chair of the Board. A director elected to fill a vacancy shall be elected for the unexpired term of his predecessor in office. Any directorship to be filled by reason of an increase in the number of directors may be filled by election by the Board of Directors for a term of office continuing only until the next election of directors by the Directors.
 
-## Section 2.11 Levy of Dues, Assessments, or Fees
+Appointed Directors filling a vacancy shall not have this partial term counted against term limits. Members can only be appointed to fill a vacancy once every ten years to prevent bypassing term limits.
 
-The Foundation may levy dues, assessments, or fees upon its Members in such amounts as may be approved from time to time by the Board of Directors. A Member, upon learning of any increase in dues or of any levy of any assessments or fees, may avoid liability therefor by resigning from Membership before the date such dues, assessments, or fees are due and payable, except where the Member is, by contract with the Foundation or otherwise, independently and explicitly liable for such dues, assessments or fees. No provision of the Certificate of Incorporation or By-Laws of the Foundation authorizing such dues, assessments, or fees shall, of itself, create such liability. In no event shall the failure of a Member to pay any dues or assessments give rise to any claim in favor of the Foundation for indirect or consequential damages
+### SECTION 3.11 Employment
 
-## Section 2.12 Use of Names
+No paid employee can serve on the Board of Directors or in the role of Officer while they are employed in a paid position by the Foundation.
 
-Neither the Foundation nor any Member shall use the name of the other in any form of publicity without the written permission of the other, provided that the Foundation and any Member may each disclose and publicize such Member's Membership in the Foundation, and the Alliance may display the logo of a Member at the Alliance website.
+### SECTION 3.12 Reimbursement
 
-# ARTICLE III - MEETINGS OF MEMBERS
+Directors shall serve without compensation with the exception that expenses incurred in the furtherance of the Foundation's business are allowed to be reimbursed with documentation and prior approval according to the Reimbursement Policy.
 
-## Section 3.1 Place of Meetings
+### SECTION 3.13 Presumption of Assent
 
-All face to face meetings of the Members shall physically be held at such place within or without the State of Delaware, or as may otherwise be permitted by law, and at such time as may be fixed from time to time by the Board of Directors or Executive Director, or if not so designated, at the registered office of the Foundation.
+A Director of the Foundation who is present at a meeting of the Board of Directors at which action on any corporate matter is taken shall be presumed to have assented to the action taken unless their dissent shall be entered in the minutes of the meeting or unless they shall file their written dissent to such action with the person acting as the Secretary of the meeting before the adjournment thereof, or shall forward such dissent to the Secretary of the Foundation immediately after the adjournment of the meeting. Such right to dissent shall not apply to any director who voted in favor of such action.
 
-## Section 3.2 Annual Meeting
+### SECTION 3.14 Good standing exemption due to Foundation membership system failure
 
-Annual meetings of Members ordinarily shall be held by written consent pursuant to Section 3.10. Notwithstanding the foregoing, however, the Board of Directors may call any annual meeting to be held in person at such date and time as shall be designated from time to time by the Board of Directors or the Chairperson of the Board of Directors (the "Chair"). Pursuant to such written consent, or at such meeting, as applicable, the Voting Members shall elect a Board of Directors in accordance with Section 4.3 and shall transact such other business as may properly be addressed by written consent, or at such meeting, as applicable.
+Any member whose membership lapsed due to technical or procedural problems with the membership management system should be granted exemption from the "paid" component of the "in good standing" clause for eligibility. The exempted member must satisfy all of the following conditions:
 
-## Section 3.3 Special Meetings
+- The member fulfills all requirements to stand for the Board; and
+- The member can demonstrate evidence of having made a reasonable attempt to maintain continuous membership.
 
-Special meetings of the Members, for any purpose or purposes, may, unless otherwise prescribed by statute or by the Certificate of Incorporation, be called by the Board of Directors, the Executive Director, or the Secretary at the request in writing of a majority of the Directors then in office, or at the request in writing of Voting Members entitled to vote at least ten percent of the aggregate votes of all Voting Members. Such request shall state the purpose or purposes of the proposed meeting. Business transacted at any special meeting shall be limited to matters relating to the purpose or purposes stated in the notice of the meeting.
+Evidence of having made a reasonable attempt to maintain continuous membership requires one or more of the following:
 
-Upon request by any person or persons entitled to call a special meeting of the Voting Members, the Executive Director, the Chairperson of the Board of Directors (the "Chairperson") (if any), the Vice-Chair, or the Secretary shall cause notice to be given within thirty days of receipt of such request.
+- An email trail between the member and the Foundation's staff showing an honest effort to pay for one's membership through acceptable means; or
+- Evidence of a failed transaction to the OWASP account; or
+- Evidence of a credit to the member's membership belatedly applied by the Foundation.
 
-## Section 3.4 Notice of Meetings
+Should there be any doubt about the validity of the claim, a majority vote of the Board will decide the outcome on a case-by-case basis.
 
-Except as otherwise provided by law or these By-laws, a notice of each meeting of the Members, annual or special, stating the place, if any, date and hour of the meeting, the means of remote communication, if any, by which Members may be deemed to be present in person and vote at such meeting, and, in the case of a special meeting, the purpose or purposes for which the meeting is called, shall be given not less than ten or more than sixty days before the date of the meeting, to each Member entitled to attend such meeting.
+### SECTION 3.15 Good standing grace period
 
-## Section 3.5 Voting List
+Directors and Candidates for the Board who have lapses in good standing have a grace period of 7 days to renew their membership. Directors or Candidates who fail to obtain paid individual or lifetime membership, Distinguished Lifetime membership, or renew their previous membership within the permitted grace period will not have maintained good standing for the purposes of election eligibility. Directors may continue to vote on the Board during the grace period.
 
-The Officer (defined in Section 6.1) who has charge of the system of record for the Foundation shall prepare, at least ten days before every meeting of Members, a complete list of the Members entitled to vote at the meeting, arranged in alphabetical order, and showing the address of each such Member. Nothing contained in this Section shall require the Foundation to include electronic mail addresses or other electronic contact information on such list. Such list shall be open to the examination of any Member, for any purpose germane to the meeting, for a period of at least 10 days prior to the meeting: (i) on a reasonably accessible electronic network, provided that the information required to gain access to such list is provided with the notice of the meeting, or (ii) during ordinary business hours, at the principal place of business of the Foundation. If the Foundation determines to make the list available on an electronic network, the Foundation may take reasonable steps to ensure that such information is available only to Members of the Foundation. If the meeting is to be held at a place, then the list shall be produced and kept at the time and place of the meeting during the whole time thereof, and may be inspected by any Member who is present. If the meeting is to be held solely by means of remote communication, then the list shall also be open to the examination of any Member during the whole time of the meeting on a reasonably accessible electronic network, and the information required to access such list shall be provided with the notice of the meeting.
+### Section 3.16 ADOPTION OF ROBERTS RULES OF ORDER
 
-## Section 3.6 Quorum
+The rules contained in the current edition of Robert's Rules of Order Newly Revised (12th ed.) shall govern the OWASP Foundation Board and special meetings in all cases to which they are applicable and in which they are not inconsistent with the bylaws, and any special rules of order the Board may adopt.
 
-Except as otherwise provided by statute, the Certificate of Incorporation or these By-laws, Voting Members entitled to vote more than ten percent of the aggregate votes of all Voting Members (or such higher percentage of Voting Members as may be required by law, these By-laws or the Certificate of Incorporation, to approve any action to be taken at such meeting), present in person or represented by proxy, shall constitute a quorum at all meetings of the Members for the transaction of business. Member Committees shall have the same rules relating to quorum requirements and voting majorities as provided for in these By-laws, unless otherwise approved by the affirmative vote of the Board of Directors, except as otherwise proved by statute, the Certificate of Incorporation, or these By-laws.
+## ARTICLE IV - MEMBERS
 
-## Section 3.7 Adjournments
+### SECTION 4.01 Membership Classes
 
-Any meeting of Members may be adjourned from time to time without notice to any other time and to any other place, if any, at which a meeting of Members may be held under these By-laws, which time and place, if any, thereof, and the means of remote communications, if any, by which Members may be deemed to be present in person and vote at such adjourned meeting shall be announced at the meeting by a majority of the Voting Members present in person or represented by proxy and entitled to vote at such meeting (regardless of whether a quorum is present), or, if no Voting Member is present or represented by proxy, by any officer entitled to preside at or to act as Secretary of such meeting, without notice other than announcement at the meeting, until a quorum shall be present or represented. At such adjourned meeting at which a quorum shall be present or represented, any business may be transacted which might have been transacted at the original meeting. If the adjournment is for more than thirty days, or if after the adjournment a new record date is fixed for the adjourned meeting, a notice of the adjourned meeting shall be given to all Members entitled to vote at the meeting.
+There shall be the following classes of OWASP members: Corporate, Individual, Complementary, Lifetime, Distinguished Lifetime, and Student.
 
-## Section 3.8 Action at Meetings
+### SECTION 4.02 Qualifications
 
-(a) When a quorum is present at any meeting of Members, in all matters other than the election of the Board of Directors, the vote of more than fifty percent of the aggregate votes of all Voting Members, present in person or represented by proxy at such meeting and entitled to vote on the question, shall decide any question brought before such meeting, unless the question is one upon which, by express provision of law, the Certificate of Incorporation or these By-laws, a different vote is required, in which case such express provision shall govern and control the decision of such question. Members of the Board of Directors shall be elected by a plurality of the votes of the Voting Members present in person or represented by proxy at the meeting and entitled to vote thereon in accordance with the Elections Policy
+Individual, Corporate, and Student Membership may be granted to any individual or organization that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and pays the dues as set by the Board of Directors. The Foundation may, at its discretion, offer monthly, annual, two-year, and Lifetime memberships. Regional pricing is available to all paid membership classes.
 
-(b) Notwithstanding Section 3.8(a), in all matters other than the election of the Board of Directors, in the event that any vote is to be taken of a single class of Voting Members, then a quorum for such vote shall be not less than ten percent of the Voting Members of that class, and when such quorum is present, the vote of more than fifty percent of the aggregate votes of the Voting Members of that class present in person or represented by proxy at such meeting and entitled to vote on the question, shall decide such question
+Complimentary Membership may be offered on an opt-in and automated basis to the top 5 active leaders of any chapter, project, event, or committee that supports the Foundation's mission and purpose, is in good standing subject to our Code of Ethics, and has been in the top 5 position continuously for six months prior to applying for complimentary membership. Complimentary Membership is valid for one year. Leaders do not need to accept any offer of complementary leadership. Complementary members in good standing for 12 months may stand for the Board, but if elected, must maintain good standing with paid Membership. Directors who are eligible through the above criteria must not accept Complimentary Membership during their term and maintain good standing with paid Membership.
 
-(c) In the event that the Voting Members shall desire to take any action that they are permitted to take by these By-laws, the Certificate of Incorporation or applicable law, and such action would, by provision of these By-laws or any resolution adopted by the Board of Directors, require a Super Majority Vote of the Board of Directors were such action to be taken by the Board of Directors, then the quorum required for such action shall be as specified in Section 3.6 above, and the taking of such action by the Voting Members shall require the affirmative vote of a majority of all Voting Members, present in person or represented by proxy at such meeting and entitled to vote on the question.
+Distinguished Lifetime Membership is an award that shall be determined and approved solely by a majority vote of the Board of Directors for long-standing and extraordinary services to the OWASP Community, and can be granted to any participant or member who meets criteria as adopted by the Board from time to time. Distinguished Lifetime Membership is equivalent to Lifetime Individual Membership, and will take the place of any existing membership on record. This award does not entitle the receipient to a partial or full refund of any existing membership.
 
-## Section 3.9 Proxies
+All membership classes are eligible to vote in elections.
 
-Each Member entitled to vote at a meeting of Members, or to express consent or dissent to corporate action in writing without a meeting, may authorize another person or persons to act for the Member by proxy, but no such proxy shall be voted or acted upon after three years from its date, unless the proxy provides for a longer period. Without limiting the manner in which a Member may authorize another person or persons to act for such Member as proxy pursuant to this Section, the following shall constitute valid means by which a Member may grant such authority:
+If an individual is a sanctioned individual or resides in a sanctioned country under US Government laws or regulations, the Foundation will either decline to grant membership, or revoke membership and participation if the individual is a member. For more details, please consult the Appendix.
 
-(a) A Member may execute a writing authorizing another person or persons to act for such Member as proxy. Execution may be accomplished by the Member or such Member’s authorized officer, director, employee or agent signing such writing or causing such person's signature to be affixed to such writing by any reasonable means including, but not limited to, by facsimile signature.
+### SECTION 4.03 Termination of Membership
 
-(b) A Member may authorize another person or persons to act for such Member as proxy by transmitting or authorizing an electronic transmission to the person who will be the holder of the proxy or to a proxy solicitation firm, proxy support service organization or like agent duly authorized by the person who will be the holder of the proxy to receive such transmission, provided that any such electronic transmission must either set forth or be submitted with information from which it can be determined that the electronic transmission was authorized by the Member. If it is determined that such electronic transmissions are valid, the inspectors or, if there are no inspectors, such other persons making that determination shall specify the information upon which they relied.
+The Board of Directors, by affirmative vote of two thirds of all members of the Board, may suspend or expel a member, and may, by a majority vote of those present at any regularly constituted meeting, terminate, suspend or expel the membership of any member who becomes ineligible for membership.
 
-## Section 3.10 Action Without Meeting
+### SECTION 4.03a Resumption of Terminated Membership and Activities
 
-Any action required to be taken at any annual or special meeting of Members, or any action which may be taken at any annual or special meeting of a Member Committee, Sub-Group (defined in Section 5.5(b) below) thereof, or other group of Members or subset of Members, may be taken without prior notice and without a vote, if a consent in writing, setting forth the action to be taken, shall be signed by Members (or members of a class of Members, as the case may be) making up not less than that percentage of all Members as would be necessary to authorize or take such action at a meeting at which all Members (or class of Members, as the case may be) entitled to vote thereon were present and voted. Prompt notice of the taking of the corporate action without a meeting by less than unanimous written consent shall be given to those otherwise entitled to vote thereon who have not consented in writing.
+The Board of Directors, by the affirmative vote of two-thirds of all members of the Board, may reinstate a Terminated Member to permit full participation in all OWASP activities, chapters, projects, events, committees, and duties, including OWASP Leadership and paid membership.
 
-An electronic transmission consenting to an action to be taken and transmitted by a Member or proxyholder, or by a person or persons authorized to act for a Member or proxyholder, shall be deemed to be written and signed for the purposes of this Section, provided that any such electronic transmission sets forth or is delivered with information from which the Foundation can determine (A) that the electronic transmission was transmitted by the Member or proxyholder or by a person or persons authorized to act for the Member or proxyholder and (B) the date on which such Member or proxyholder or authorized person or persons transmitted such electronic transmission.
+### SECTION 4.04 Resignation
 
-A consent given by electronic transmission is delivered to the Foundation upon the earliest of: (i) when the consent enters and information processing system, if any, designated by the Foundation for receiving consents, so long as the electronic transmission is in a form capable of being processed by that system and the Foundation is able to retrieve that electronic transmission; (ii) when a paper reproduction of the consent is delivered to the Foundation's principal place of business or an officer or agent of the Foundation having custody of the book in which proceedings of meetings of Members are recorded; (iii) when a paper reproduction of the consent is delivered to the Foundation's registered office in the State of Delaware by hand or by certified or registered mail, return receipt requested; or (iv) when delivered in such other manner, if any, provided by resolution of the Board of Directors of the Foundation. A consent given by electronic transmission is delivered under this provision even if no person is aware of its receipt. Receipt of an electronic acknowledgment from an information processing system establishes that consent given by electronic transmission was received but, by itself, does not establish that the content sent corresponds to the content received.
+Any member may resign by filing a written resignation with the Secretary; however, such resignation shall not relieve the member so resigning of the obligation to pay any dues or other charges theretofore accrued and unpaid.
 
-Any copy, facsimile, or other reliable reproduction of a document (including any electronic transmission) may be substituted or used in lieu of the original document for all purposes for which the original document could be used, provided that such copy, facsimile, or other reproduction shall be a complete reproduction of the entire original document.
+### SECTION 4.05 Dues
 
-## Section 3.11 Action Held by Remote Communication
+Dues for members shall be established by the Board of Directors.
 
-If authorized by the Board of Directors in its sole discretion, and subject to such guidelines and procedures as the Board of Directors may adopt, Members not physically present at a meeting of Members may, by means of remote communication: (A) participate in a meeting of Members; and (B) be deemed present in person and vote at a meeting of Members whether such meeting is to be held at a designated place or solely by means of remote communication, provided that (i) the Foundation shall implement reasonable measures to verify that each person deemed present and permitted to vote at the meeting by means of remote communication is a Member or proxyholder, (ii) the Foundation shall implement reasonable measures to provide such Members and proxyholders a reasonable opportunity to participate in the meeting and to vote on matters submitted to the Members, including an opportunity to read or hear the proceedings of the meeting substantially concurrently with such proceedings, and (iii) if any Member votes or takes other action at the meeting by means of remote communication, a record of such vote or other action shall be maintained by the Foundation.
+### SECTION 4.06 Voting
 
-## Section 3.12 Nomination and Election Procedures
+Each member shall be entitled to vote on designated matters. The affirmative vote of a majority of the members or by proxy shall be the act of the members as a whole unless a greater number of members is required by law or stated otherwise in these Bylaws.
 
-Subject to the provisions of Section 4.3, the Board of Directors shall establish a reasonable nomination and election policy given the nature, size, and operations of the Foundation, including a reasonable means for Members of appropriate classes to nominate a person for election as a Director, a reasonable opportunity for a nominee to communicate to the Members the nominee's qualifications and the reasons for the nominee's candidacy (if requested by such nominee), a reasonable opportunity for all nominees to solicit votes (if requested by any such nominee), and a reasonable opportunity for all Members entitled to vote thereon to choose among the nominees.
+### SECTION 4.07 Participation
 
-## Section 3.13 Order of Business
+Participation in OWASP activities (conferences, meetings, mailings lists, projects, etc.) does not require membership, but is subject to adherence to the OWASP Code of Ethics, and OWASP leaders may revoke the privilege of participation to those who choose not to abide by that code. Notification of such a revocation must be made to the individual in writing, with the OWASP Board of Directors copied in order for the updating of the Foundation's records. If an individual believes that this revocation is unjustified, then they have the option to appeal the decision by notifying the OWASP Board of Directors in writing within 14 days of the original notification.
 
-The order of business at all meetings of Members shall be as determined by the presiding Officer, but the order of business to be followed at any meeting at which a quorum is present may be changed by a vote of the Voting Members.
+## ARTICLE V - ADVISORY BOARDS, COMMITTEES AND LOCAL CHAPTERS
 
-# ARTICLE IV - DIRECTORS
+### SECTION 5.01 Committees
 
-## Section 4.1 Powers
+Establishment. The Board of Directors may, by resolution adopted by a majority of the Directors in office, establish one or more Board sub-committees (e.g, fundraising, finance, audit, or executive), Advisory Boards, or Committees. These will be subject to compliance with the core purpose and core values as outlined in Sections 1.02 and 1.03. Committees are formed and governed by the Committees Policy, and are limited the Charter's purpose and scope. As a Committee Charter might devolve powers currently held by the Board or the Foundation to the Committee, any such devolution to a Committee will require a 2/3rd majority vote.
 
-The business and affairs of the Foundation shall be managed by its Board of Directors, which shall be, and shall possess all of the powers of, the "Governing Body" of the Foundation as a non-stock membership corporation under the DGCL. The Board of Directors may exercise all powers of the Foundation and do all such lawful acts and things, as are not by statute or by the Certificate of Incorporation or by these By-laws, directed or required to be exercised or done by the Members.
+### SECTION 5.02 Local Chapters
 
-## Section 4.2 Number of Directors
+A local OWASP chapter may establish smaller, local chapters within the geographical boundary of a chapter, such as country or a city. The bylaws of a chapter must not contain anything that is at variance with the expressed purposes of the OWASP Foundation or with the OWASP Foundation Bylaws, and must be approved as specified by the OWASP Foundation Board of Directors before becoming effective. A chapter may not change its bylaws, its name, or its boundaries without approval as specified by the OWASP Foundation. Chapter Bylaws may be produced in the native language of a nation, but must be translated into English for submission to the OWASP Foundation.
 
-Subject to Section 4.4, the total number of Directors shall be at least five and not more than nine.
+Local chapter leadership has to manage the local chapter according to the policies defined in the latest approved Chapter Policy. The OWASP Foundation may, by affirmative vote of a majority of the Board of Directors, suspend or annul a chapter if, in the judgment of the Board of Directors, such action is in the best interests of the OWASP Foundation.
 
-## Section 4.3 Nomination, Election and Term of Office of Directors
+## ARTICLE VI - INDEMNITY
 
-(a) Each Individual Member (while remaining in good standing) shall be entitled to nominate a representative to run for election as a Director, and to vote with the other Individual Members, voting as a class, in all elections of the Board Directors, per the number of vacancies at each election, in accordance with the Elections Policy. Except as otherwise specified in the Elections Policy or approved by the Board of Directors, each Director shall have a term of two years, with a maximum of two terms in any ten year period, and thereafter, subject to Section 4.3(b) below
+### SECTION 6.01 Indemnity
 
-(b) Each Director shall hold office until the earliest to occur of (i) the expiration of the term for which such Director was elected or appointed, as the case may be and such Director's successor is elected and qualified; (ii) the expiration or termination of Membership of the Member that nominated such Director; or (iii) the death, resignation or removal of such Director. In addition, during such times as the Membership of any Member that has a representative serving as a Director is suspended pursuant to Section 2.8 above, the attendance and voting rights of such Director representative shall also be suspended until such time, if ever, as such suspension is lifted
+The Foundation shall indemnify the Officers of the Foundation including International Board Members and Employees, or agents as follows:
 
-(c) The Board of Directors may approve from time to time such reasonable attendance and other requirements as it shall deem to be advisable to ensure that seats on the Board of Directors are held by active, contributing individuals. Such rules may provide that in the event that such requirements have not been met, any Member may lose its ability to be represented on the Board of Directors, and/or that a Director who fails to meet such requirements shall automatically be deemed to have resigned from the Board of Directors, but no such rule may be imposed retroactively.
+1. Every Officer, Board Member, and employee of the Foundation shall be indemnified by the Foundation against all expenses and liabilities, including counsel fees, reasonably incurred by or imposed upon them in connection with any proceeding to which they may be made a party, or in which they may become involved, by reason of being or having been a director, officer, employee or agent of the Foundation or is or was serving at the request of the Foundation as a director, officer, employee or agent of the Foundation, partnership, joint venture, trust or enterprise, or any settlement thereof, whether or not they are a director, officer, employee or agent at the time such expenses are incurred, except in such cases wherein the director, officer, employee or agent is adjudged guilty of willful misfeasance or malfeasance in the performance of their duties; provided that in the event of a settlement the indemnification herein shall apply only when the Board of Directors approves such settlement and reimbursement as being in the best interests of the Foundation.
+2. The Foundation shall provide to any person who is or was an officer, board member, or employee, or agent of the Foundation or is or was serving at the request of the Foundation as a director, officer, employee or agent of the Foundation, partnership, joint venture, trust or enterprise, the indemnity against expenses of suit, litigation or other proceedings which is specifically permissible under applicable law.
+3. The Board of Directors may, in its discretion, direct the purchase of liability insurance by way of implementing the provisions of this Article VI.
 
-## Section 4.4 Enlargement or Reduction
+## ARTICLE VII - CONFLICTS OF INTEREST
 
-Subject to Section 2.7 above, the number of Directors, the persons eligible to become Directors and the classes of Members eligible to elect and/or nominate Directors may be amended at any time by a Super Majority Vote of the Board of Directors.
+### SECTION 7.01 Conflict defined
 
-## Section 4.5 Resignation and Removal
+A conflict of interest may exist when any director, officer, or staff member may be seen as having interests which are adverse to the interests of the Foundation. Prior to any vote of the Board of Directors, a conflict of interest statement shall be made by any Board Member who is aware of any potential conflicts of interest to ensure that all parties are aware of any such conflicts.
 
-Any Director may resign at any time upon notice to the Foundation in writing or by electronic transmission at the principal place of business of the Foundation or to the Executive Director or Secretary. Such resignation shall be effective upon receipt unless it is specified to be effective at some other time or upon the happening of some other event. Any Director who was nominated and elected by a Member under Section 4.3 may be removed by that Member. Any or all the Directors who were elected by a class of Members voting as a class or by the Board of Directors may be removed by a majority vote of such class of Members or Board of Directors, respectively. Unless otherwise specified by law or the Certificate of Incorporation, any Director may be removed by a majority of the other Directors then in office for engaging in any conduct, either within or without the Foundation, that is contrary to the interests of the Foundation or to the advancement of the Foundation's business or industry goals; provided, however, that the Member or class of Members that designated and elected or nominated and elected (as the case may be) such removed Director shall be entitled to designate and elect or nominate and elect (as the case may be) a replacement for such removed Director to serve for the balance of such removed Director's term.
+### SECTION 7.02 Disclosure required
 
-## Section 4.6 Vacancies
+Any conflict of interest shall be disclosed to the Board of Directors by the person concerned. When any conflict of interest is relevant to a matter requiring action by the Board of Directors, the interested person shall call it to the attention of the Board of Directors or its appropriate committee and such person shall not vote on the matter; provided however, any Director disclosing a possible conflict of interest may be counted in determining the presence of a quorum at a meeting of the Board of Directors or a committee thereof.
 
-(a) Except as set forth in Section 4.3(c), a vacancy on the Board of Directors occurring because of the death, resignation or removal of a Director may be filled by the Member that appointed or nominated and elected, as appropriate, such Director. Vacancies on the Board of Directors occurring by reason of an expansion of the Board of Directors, unless otherwise provided in the vote authorizing such expansion, shall be filled by the vote of a majority of Directors then in office, whether or not less than a quorum, or by a sole remaining Director. The term of a Director so appointed or elected shall be the unexpired portion of the term of the Director, if any, whom the Director so appointed or elected is replacing
+### SECTION 7.03 Absence from discussion
 
-(b) In the event and during the continuance of a vacancy in the Board of Directors, the remaining Directors, except as otherwise provided by law or these By-laws, may exercise the powers of the full Board of Directors until the vacancy is filled
+The person having the conflict shall not participate in the decision regarding the matter under consideration.
 
-## Section 4.7 Place of Meetings
+### SECTION 7.04 Minutes
 
-The Board of Directors may hold meetings, both regular and special, either within or without the State of Delaware.
+The minutes of the meeting of the Board or committee shall reflect that the conflict of interest was disclosed and that the interested person did not vote. When there is doubt as to whether a conflict of interest exists, the matter shall be resolved by a vote of the Board of Directors or its committee, excluding the vote of the person concerning whose situation the doubt has arisen.
 
-## Section 4.8 Regular Meetings
+### SECTION 7.05 Annual review
 
-Regular meetings of the Board of Directors may be held without notice at such time and at such place as shall from time to time be determined by the Board of Directors; provided that any Director who is absent when such a determination is made shall be given prompt notice of such determination. A regular meeting of the Board of Directors may be held without notice immediately after and at the same place as the annual meeting of Members.
+A copy of this conflict of interest statement shall be furnished to each director, officer, and staff member who is presently serving the Foundation, or who may hereafter become associated with the Foundation. This policy shall be reviewed periodically for the information and guidance of directors, officers, and staff members. Any new directors, officers, or staff members shall be advised of this policy upon undertaking the duties of such office.
 
-## Section 4.9 Special Meetings
+## ARTICLE VIII - CONTRACTS AND FINANCIAL ADMINISTRATION
 
-Special meetings of the Board of Directors may be called by the Executive Director, Chair, Vice Chair, Secretary, Treasurer, or on the written request of two or more Directors, or by one Director if there is only one Director in office. Notice shall be given to each Director in person, by telephone, or by facsimile, electronic mail or other form of electronic communications, sent to such Director's address as it appears on the records of the Foundation, at least twenty-four (24) hours in advance of the meeting, or by written notice mailed to each Directors address at least forty-eight (48) hours in advance of the meeting. A notice need not specify the purposes of the meeting.
+### SECTION 8.01 Fiscal Year
 
-## Section 4.10 Quorum, Action at Meeting, Adjournments
+The fiscal year of the Foundation shall be January 1­ ­December 31, but may be changed by resolution of the Board of Directors.
 
-(a) Except where a Super Majority Vote is required under these By-laws, at all meetings of the Board of Directors a majority of Directors then in office, shall constitute a quorum for the transaction of business and the act of a majority of such Directors present at any meeting at which there is a quorum shall be the act of the Board of Directors, except as may be otherwise specifically provided by law, the Certificate of Incorporation or these By-laws
+### SECTION 8.02 Contracts
 
-(b) To pass a "Super Majority Vote", a resolution must be taken at a meeting of the Board of Directors at which at least two-thirds of the Directors then in office are present and participating and in support of which at least two-thirds of the Directors then in office have voted affirmatively, or by an equivalent number of Directors acting by written consent in the manner described in Section 4.11 below. A Super Majority Vote of the Board of Directors shall be required with respect to the following matters
+The Board of Directors may authorize any officer or officers, agent or agents, to enter into any contract or execute and deliver any instrument in the name of and on behalf of the Foundation, and such authority may be general or confined to specific instances. This authorization must be in writing (electronic communication is acceptable) in the minutes of any meeting that provides such limited authority.
 
-(i) Amending or repealing any provision of these By-laws
+### SECTION 8.03 Loans
 
-(ii) Amending the Certificate of Incorporation
+No loans shall be contracted on behalf of the Foundation and no evidences of indebtedness shall be issued in its name unless authorized by a resolution of the Board of Directors. Such authority may be general or confined to specific instances.
 
-(iii) Adopting or recommending to the Voting Members an agreement of merger or consolidation
+### SECTION 8.04 Checks, Drafts, etc
 
-(iv) Approving or recommending to the Members the sale, lease or exchange of all or substantially all of the Foundation's property and assets
+All checks, drafts or other orders for the payment of money, notes or other evidences of indebtedness issued in the name of the Foundation, shall be signed by such officer or officers, agent or agents of the Foundation and in such manner as shall from time to time be determined by resolution of the Board of Directors.
 
-(v) Approving or recommending to the Members the dissolution, liquidation or winding up of the Foundation or revocation of any such dissolution, liquidation or winding up
+### SECTION 8.05 Deposits
 
-(vi) Enlarging or reducing the size of the Board of Directors
+All funds of the Foundation not otherwise employed shall be deposited from time to time to the credit of the Foundation in such banks, trust companies or other depositories as the Board of Directors may select.
 
-(vii) Amending or modifying the eligibility requirements for Membership on the Board of Directors or the classes of Members eligible to nominate and elect Directors
+## ARTICLE IX - BOOKS AND RECORDS
 
-(viii) Adopting, amending, or repealing any Foundation Policy, including but not limited to the Code of Conduct, Elections Policy, IPR Policy, Membership Policy, Committees Policy, Signatory Policy and Grant Policy
+### SECTION 9.01 Books
 
-(ix) Delegation of any responsibility of duty of the Board of Directors to any Member Committee or Board Committee (by approval of a Member Committee charter or otherwise); and
+Correct books of account of the activities and transactions of the Foundation shall be kept at the office of the Foundation and are available to Members on demand in hard or electronic copy.
 
-(x) Any other matter specifically requiring a Super Majority Vote of the Board of Directors pursuant to these By-laws
+### SECTION 9.02 Audit
 
-(c) No Director whose attendance and voting rights have been suspended shall be counted for purposes of determining quorum, the number of Directors then in office or the number of Directors required for voting purposes, unless otherwise required by law, these By-laws, or the Certificate of Incorporation. If a quorum shall not be present at any meeting of the Board of Directors, a majority of the Directors present thereat may adjourn the meeting from time to time, without notice other than announcement at the meeting, until a quorum shall be present. If one or more of the Directors shall be disqualified from voting at any meeting upon any matter, then the required quorum as it relates to the consideration of such matter shall be reduced by one for each such Director so disqualified
+A complete financial audit will be performed every 3 years by a third party, independent auditor.
 
-## Section 4.11 Action by Consent
+## ARTICLE X - AMENDMENT OF BYLAWS
 
-(a) Unless otherwise restricted by the Certificate of Incorporation or these By-laws, any action required or permitted to be taken by the Board of Directors may be taken without a meeting and without prior notice if a majority of Directors then in office (or such greater number of Directors as may be required by law or the By-laws of the Foundation for the taking of any such action at a meeting) consent thereto in writing or by electronic transmission, so long as
+### SECTION 10.01 Amendments
 
-(i) such written consent shall have been sent simultaneously to all Directors then in office for their consideration
+OWASP Bylaws and organizational policies may be amended at any regular meeting of the OWASP Board by an affirmative two thirds vote, provided that the amendment has been submitted in writing at the previous regular meeting, or a public notice is given no later than 7 days prior to the meeting.
 
-(ii) prompt written notice of any action so taken is given to those Directors who have not consented in writing or by electronic transmission; and
+Amendments to the these bylaws and organizational policies should comply with RONR 12th Edition 57:1-19.
 
-(iii) two or more such Directors have not objected to the taking of any such action by written notice delivered to the Foundation within ten business days following the date that written notice of the Directors action is mailed or otherwise delivered to such Directors
+## APPENDIX
 
-After an action is taken, the consent or consents relating thereto shall be filed with the minutes of the proceedings of the Board of Directors, in the same paper or electronic form as the minutes are maintained
+### DOCUMENT HISTORY and Historical Versions
 
-(b) Notwithstanding the foregoing, the ability of two or more non-consenting Directors to prevent the taking of an action by written consent under clause 4.11(a)(iii) above shall not prevent any such action from being taken later at an actual meeting of the Board of Directors
+Starting in March 2017, the OWASP Bylaws have been moved to a [https://owasp.org/www-policy/ git repository](https://owasp.org/www-policy/) to track all future changes.  Prior to that transition, new PDF versions were created upon every update. Those historical version can be obtained by using [Contact Us](https://owasp.org/contact/).
 
-(c) Unless otherwise restricted by the Certificate of Incorporation or these By-laws, any action required or permitted to be taken at any meeting of any Board Committee may be taken in the manner set forth in the preceding clauses 4.11(a) and (b)
+### US Sanctioned Countries
 
-## Section 4.12 Remote Meetings
+The US Treasury maintains a list of Sanctioned Individuals and Countries, which has different sanctions and scope for each country, and these change constantly. For more information, please visit the [OFAC Sanctions Program and Country Information site](https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information). This link was correct as of October 30, 2020, but may change over time.
 
-Unless otherwise restricted by the Certificate of Incorporation or these By-laws, members of the Board of Directors or of any Board Committee may participate in a meeting of the Board of Directors or of any Board Committee, as the case may be, by means of conference telephone, video conference equipment, or other communications equipment by means of which all persons participating in the meeting can hear each other, and such participation in a meeting shall constitute presence in person at the meeting.
+### Comments
 
-## Section 4.13 Inspection Rights
-
-Every Director shall have the absolute right at any time to inspect, copy and make extracts of, in person or by agent or attorney, all books, records and documents of every kind, and to inspect the physical properties of the Foundation.
-
-## Section 4.14 Fees and Compensation
-
-Directors shall not receive any stated salary or reimbursements for their services as Directors; provided that, by resolution of a majority of the Board of Directors, the Foundation may reimburse Directors for expenses incurred while acting on behalf of the Foundation and/or expenses incurred in attending meetings of the Board of Directors, in such amounts as the Board of Directors may determine to be appropriate. Nothing herein contained shall be construed to preclude any Director from serving the Foundation in any other capacity as an Officer, agent, employee or otherwise, and receiving compensation therefor. The Board of Directors may also approve reimbursement of expenses for members of Board Committees in connection with their service on such Board Committees.
-
-# ARTICLE V - EXECUTIVE COMMITTEE AND OTHER COMMITTEES
-
-## Section 5.1 Executive Committee
-
-The Board of Directors may (but shall not be required), by resolution adopted by a majority of the Directors then in office (provided a quorum is present), create an Executive Committee, consisting of one or more Directors. The Board of Directors may designate one or more Directors as alternate members of such Executive Committee, who may replace any absent member at any meeting of such Executive Committee. The Executive Committee, subject to any limitations imposed by the Certificate of Incorporation, these By-laws, statute and/or resolution adopted by the Board of Directors, shall have and may exercise all of the powers of the Board of Directors which are delegated to the Executive Committee from time to time by the Board of Directors; provided, however, that the Executive Committee shall have no authority with respect to:
-
-(d) Approving any action which requires approval of the Voting Members
-
-(e) Filling vacancies on the Board of Directors
-
-(f) Fixing compensation of the Directors for serving on the Board of Directors or on any Board Committee
-
-(g) Amending or repealing any resolution of the Board of Directors which by its express terms is not so amendable or repealable
-
-(h) Taking any other action at any time reserved solely to the full Board of Directors under the DGCL; and
-
-(i) Adopting any resolution or approving any action that requires a Super Majority Vote under these By-Laws
-
-## Section 5.2 Other Committees of the Board of Directors
-
-The Board of Directors may create such nominating, audit, compensation and other Board Committees, each consisting of one or more Directors appointed by the Board of Directors, as the Board of Directors may from time to time deem advisable, to perform such general or special duties as may from time to time be delegated to any such Board Committees by the Board of Directors, subject to the limitations imposed by the Certificate of Incorporation or by these By-laws. No such Committee shall have the power or authority to take any action prohibited by Section 5.1 above to be taken by the Executive Committee. The Board of Directors may designate one or more Directors as alternate members of any Board Committees, who may replace any absent member at any meeting of such Board Committees. Any such Board Committee or Board Committees shall have such powers, duties and name or names as may be determined from time to time by resolution adopted by the Board of Directors. Each Board Committee shall keep regular minutes of its meetings and make such reports to the Board of Directors as the Board of Directors may request.
-
-## Section 5.3 Meetings of Committees of the Board of Directors
-
-Except as otherwise provided in these By-laws or by resolution of the Board of Directors, each Board Committee may adopt its own rules governing the time and place of holding and the method of calling its meetings and the conduct of its proceedings and shall meet as provided by such rules, but unless otherwise provided by resolution of the Board of Directors or in such rules, its business shall be conducted as nearly as possible in the same manner as is provided in these By-laws for the conduct of the business of the Board of Directors.
-
-## Section 5.4 Term of Office of Members of Committees of the Board of Directors
-
-Each member of a Board Committee shall serve for such term as shall be established at the time of his or her election in accordance with the Elections Policy.
-
-## Section 5.5 Committees of the Members
-
-(a) A Project Committee of the Foundation is hereby established, which may have such Sub-Groups as from time to time may be approved by the Board of Directors. The Project Committee and its Sub-Groups shall be the principal Member-level forum for the discussion and preliminary adoption of technical strategy and standards, subject to the review, and within the strategic direction established by, the Board of Directors and such Member Committee shall otherwise have such rights and privileges as shall from time to time be established by the Board of Directors, or as set forth in such Project Committee charter, rules, and policies as shall have been previously adopted by the Board of Directors. The Project Committee may make technical recommendations to the Board of Directors concerning technical strategy and other technical work products of the Foundation and may undertake such other tasks as may from time to time be established by the Board of Directors, provided that all strategies and standards may only be finally adopted by the Board of Directors
-
-(b) From time to time, the Board of Directors may establish additional Member Committees. Each Member, so long as it remains a Member in good standing, shall be entitled to appoint such representatives to each such Member Committee, with such voting rights (if any), as set forth in Article II. Unless otherwise specified in these By-laws or by the Board of Directors, each Member Committee may have such sub-groups, working groups, and other groups as from time to time may be approved by such Member Committee, within the strategic direction established by the Board of Directors (each a "Sub-Group")
-
-(c) Member Committees are subject to the Committees Policy (if any)
-
-# ARTICLE VI - OFFICERS
-
-## Section 6.1 Officers
-
-The officers of the Foundation (each an “Officer”) shall be a Chair (who shall also be a Director), Vice Chair, Treasurer, and a Secretary. The Foundation may also have at the discretion of the Board of Directors, an Executive Director, and such other Officers with such titles, terms of office and duties as may be determined in accordance with the provisions of Section 6.3. When the Foundation has a Chair, that individual shall preside over meetings of the Board of Directors. One person may hold two or more offices unless the Certificate of Incorporation, or these By-laws otherwise provide.
-
-## Section 6.2 Vacancies
-
-A vacancy in any office because of death, resignation, removal, disqualification, or any other cause shall be filled in the manner prescribed in these By-laws for regular elections to such office and may be filled by the Board of Directors, at its discretion.
-
-## Section 6.3 Election
-
-The Board of Directors at its first meeting after each annual election of Directors shall choose a Chair, Vice Chair, Treasurer, and a Secretary. Other Officers may be elected by the Board of Directors at such meeting, and any or all Officers may be replaced, at any other meeting of, or by written consent of, the Board of Directors.
-
-## Section 6.4 Tenure
-
-Each Officer of the Foundation shall hold office until his or her successor is chosen and qualifies, unless a different term is specified in the vote choosing or electing him, or until his or her earlier (i) death, resignation or removal, or (ii) ceasing to be an employee of a Member represented, or (iii) the termination of the Membership of the Member that is his or her employer. Any officer elected by the Board of Directors may be removed at any time by the Board of Directors or a Board Committee duly authorized to do so. Any officer may resign by delivering his or her written resignation to the Foundation at its principal place of business or to the Secretary. Such resignation shall be effective upon receipt unless it is specified to be effective at some other time or upon the happening of some other event.
-
-## Section 6.5 Chair
-
-The Chair shall have all the powers normally associated with the role of chief executive officer and preside at all meetings of the Board of Directors and the Members. The Chair shall oversee the management of the business of the Foundation and see that all orders and resolutions of the Board of Directors are carried into effect. Without limiting the foregoing, the Chair shall:
-
-(a) Subject to the then current Foundation policy (if any) regarding Foundation signature authority (the “Signatory Policy”) that has been approved by the Board of Directors, execute bonds, mortgages, and other contracts, except where required or permitted by law to be otherwise signed and executed and except where the signing and execution thereof is governed by the Signatory Policy (if any) or is otherwise expressly delegated by the Board of Directors to some other officer or agent of the Foundation; and
-
-(b) Oversee the Executive Director (if any)
-
-## Section 6.6 Executive Director
-
-The Executive Director (if any) shall be an _ex officio_ member (in a non-voting capacity) of the Board of Directors, preside over the day-to-day affairs of the Foundation under the direction of the Board of Directors, and perform such other duties and have such other powers as the Board of Directors may from time to time prescribe.
-
-## Section 6.7 Secretary
-
-The Secretary shall have such powers and perform such duties as are incident to the office of Secretary, and shall:
-
-(a) Prepare and maintain lists of Members and their addresses as required
-
-(b) Attend all meetings of the Board of Directors and all meetings of the Members and record all the proceedings of the meetings of the Foundation and of the Board of Directors in a book to be kept for that purpose and perform like duties for the standing Board Committees when required; and
-
-(c) Give, or cause to be given, notice of all meetings of the Members and special meetings of the Board of Directors, and perform such other duties as may be from time to time prescribed by the Board of Directors, and be under their supervision
-
-## Section 6.8 Treasurer
-
-The Treasurer (if any) shall perform such duties and shall have such powers as may be assigned to him or her by the Board of Directors or the Chair. In addition, the Treasurer shall perform such duties and have such powers as are incident to the office of Treasurer. The Treasurer shall have the custody of the corporate funds and securities and shall keep full and accurate accounts of receipts and disbursements in books belonging to the Foundation and shall deposit all moneys and other valuable effects in the name and to the credit of the Foundation in such depositories as may be designated by the Board of Directors, taking proper vouchers for such disbursements, and shall render to the Chair and the Board of Directors, when the Chair or Board of Directors so requires, an account of all his or her transactions as Treasurer and of the financial condition of the Foundation. Notwithstanding the foregoing, upon prior notice to the Board, the Treasurer may delegate and supervise any or all the foregoing duties and actions to a person or service provider retained by the Foundation.
-
-## Section 6.10 Compensation
-
-The compensation, if any, of the Officers shall be fixed from time to time by the Board of Directors, and no Officer shall be prevented from receiving such compensation by reason of the fact that the Officer is also a Director of the Foundation.
-
-# ARTICLE VII - NOTICES
-
-## Section 7.1 Delivery
-
-(d) Without limiting the manner by which notice otherwise may be given effectively to Members, any notice to Members given by the Foundation under any provision of the DGCL, the Certificate of Incorporation, or these By-laws may be given in writing directed to the Member's mailing address (or by electronic transmission directed to the Member's electronic mail address, as applicable) as it appears on the records of the Foundation and shall be given (1) if mailed, when the notice is deposited in the US mail, postage prepaid, (2) if delivered by courier service, the earlier of when the notice is received or left at such Member's address or (3) if given by electronic mail, when directed to such Member's electronic mail address unless the Member has notified the Foundation in writing or by electronic transmission of an objection to receiving notice by electronic mail or such notice is prohibited by subsection (e) of this Section. A notice by electronic mail must include a prominent legend that the communication is an important notice regarding the Foundation
-
-(e) Without limiting the manner by which notice otherwise may be given effectively to Members, but subject to subsection (e) of this Section, any notice to Members given by the Foundation under any provision of the DGCL, the Certificate of Incorporation, or these By-laws shall be effective if given by a form of electronic transmission consented to by the Members to whom the notice is given. Any such consent shall be revocable by the Member by written notice or electronic transmission to the Foundation
-
-(f) Notice given pursuant to subsection (b) of this Section shall be deemed given: (1) if by facsimile telecommunication, when directed to a number at which the Member has consented to receive notice; (2) if by a posting on an electronic network together with separate notice to the Member or Director of such specific posting, upon the later of (A) such posting and (B) the giving of such separate notice; and (3) if by any other form of electronic transmission, when directed to the Member or Director
-
-(g) For purposes of these By-laws, (1) "electronic transmission" means any form of communication, not directly involving the physical transmission of paper, including the use of, or participation in, or one or more electronic networks or databases (including one or more distributed electronic networks or databases), that creates a record that may be retained, retrieved, and reviewed by a recipient thereof, and that may be directly reproduced in paper form by such a recipient through an automated process, (2) "electronic mail" means an electronic transmission directed to a unique electronic mail address (which electronic mail shall be deemed to include any files attached thereto and any information hyperlinked to a website if such electronic mail includes the contact information of an officer or agent of the Foundation who is available to assist with accessing such files and information) and (3) "electronic mail address" means a destination, commonly expressed as a string of characters, consisting of a unique user name or mailbox (commonly referred to as the "local part" of the address) and a reference to an internet domain (commonly referred to as the "domain part" of the address), whether or not displayed, to which electronic mail can be sent or delivered
-
-(h) Notwithstanding the foregoing, a notice may not be given by an electronic transmission from and after the time that (1) the Foundation is unable to deliver by such electronic transmission two consecutive notices given by the Foundation and (2) such inability becomes known to the Secretary or an assistant secretary of the Foundation or other person responsible for the giving of notice, provided, however, the inadvertent failure to discover such inability shall not invalidate any meeting or other action
-
-(i) Without limiting the foregoing, the Foundation adopts electronic mail as its principal source of communication with its Members. Each Member acknowledges and agrees that the Foundation shall not be under any obligation (except as required by law or these By-laws) to send any notice to any Member by any means other than electronic mail, and it is, therefore, the responsibility of each Member to avail itself of and make such arrangements as may be necessary to receive notice in such fashion
-
-(j) An affidavit of the Secretary or an assistant secretary or of another agent of the Foundation that notice has been given shall, in the absence of fraud, be prima facie evidence of the facts stated therein
-
-## Section 7.2 Waiver of Notice
-
-Whenever any notice is required to be given under the provisions of law or of the Certificate of Incorporation or of these By-laws, a waiver thereof in writing, signed by the person or persons entitled to said notice or a waiver by electronic transmission by the person entitled to notice whether before or after the time stated therein, shall be deemed equivalent thereto. Attendance of a person at a meeting shall constitute a waiver of notice of such meeting, except when the person attends a meeting for the express purpose of objecting at the beginning of the meeting to the transaction of any business because the meeting is not lawfully called or convened. Neither the business to be transacted at nor the purpose of any meeting needs to be specified in any written waiver or any waiver by electronic transmission.
-
-# ARTICLE VIII - INDEMNIFICATION
-
-## Section 8.1 Actions other than by or in the Right of the Foundation
-
-The Foundation shall indemnify any person who was or is a party or is threatened to be made a party to any threatened, pending or completed action, suit or proceeding, whether civil, criminal, administrative or investigative (other than an action by or in the right of the Foundation) by reason of the fact that he or she is or was a Director, Officer, employee or agent of the Foundation, or is or was serving at the request of the Foundation as a director, officer, employee or agent of another corporation, partnership, joint venture, trust or other enterprise, against expenses (including attorneys' fees), judgments, fines and amounts paid in settlement actually and reasonably incurred by him or her in connection with such action, suit or proceeding if he or she acted in good faith and in a manner he or she reasonably believed to be in or not opposed to the best interests of the Foundation, and, with respect to any criminal action or proceedings, had no reasonable cause to believe this conduct was unlawful. The termination of any action, suit, or proceeding by judgment, order, settlement, conviction, or upon a plea of nolo contendere or its equivalent shall not, by itself, create a presumption that the person did not act in good faith and in a manner which he or she reasonably believed to be in or not opposed to the best interests of the Foundation, and, with respect to any criminal action or proceeding, had reasonable cause to believe that his or her conduct was unlawful.
-
-## Section 8.2 Actions by or in the Right of the Foundation
-
-The Foundation shall indemnify any person who was or is a party or is threatened to be made a party to any threatened, pending or completed action or suit by or in the right of the Foundation to procure a judgment in its favor by reason of the fact that he or she is or was a Director, Officer, employee or agent of the Foundation, or is or was serving at the request of the Foundation as a director, officer, employee or agent of another corporation, partnership, joint venture, trust or other enterprise against expenses (including attorneys' fees) actually and reasonably incurred by him or her in connection with the defense or settlement of such action or suit if he or she acted in good faith and in a manner he or she reasonably believed to be in or not opposed to the best interests of the Foundation; provided, however, that no indemnification shall be made in respect of any claim, issue or matter as to which such person shall have been adjudged to be liable unless, and only to the extent that, the Court of Chancery of the State of Delaware or the court in which such action or suit was brought shall determine upon application that, despite the adjudication of liability but in view of all the circumstances of the case, such person is fairly and reasonably entitled to indemnity for such expenses which the Court of Chancery of the State of Delaware or such other court shall deem proper.
-
-## Section 8.3 Success on the Merits
-
-To the extent that any person described in Section 8.1 or 8.2 of this Article VIII has been successful on the merits or otherwise in defense of any action, suit or proceeding referred to in said Sections, or in defense of any claim, issue or matter therein, he or she shall be indemnified against expenses (including attorneys' fees) actually and reasonably incurred by him or her in connection therewith.
-
-## Section 8.4 Specific Authorization
-
-Any indemnification under Section 8.1 or 8.2 of this Article VIII (unless ordered by a court) shall be made by the Foundation only as authorized in the specific case upon a determination that indemnification of any person described in said Sections is proper in the circumstances because he or she has met the applicable standard of conduct set forth in said Sections. Such determination shall be made (1) by a majority vote of a such Directors who were not parties to such action, suit or proceeding, even though less than a quorum or (2) by the Members of the Foundation.
-
-## Section 8.5 Advance Payment
-
-Expenses incurred in defending a civil or criminal action, suit or proceeding may be paid by the Foundation in advance of the final disposition of such action, suit or proceeding upon receipt of an undertaking by or on behalf of any person described in Section 8.1 or 8.2 above to repay such amount if it shall ultimately be determined that he or she is not entitled to indemnification by the Foundation as authorized in this Article VIII.
-
-## Section 8.6 Non-Exclusivity
-
-The indemnification and advancement of expenses provided by, or granted pursuant to, the other Sections of this Article VIII shall not be deemed exclusive of any other rights to which those provided indemnification or advancement of expenses may be entitled under any By-law, agreement, vote of Voting Members or disinterested Directors or otherwise, both as to action in his or her official capacity and as to action in another capacity while holding such office.
-
-## Section 8.7 Jurisdiction of Delaware Court of Chancery
-
-The Delaware Court of Chancery is vested with exclusive jurisdiction to hear and determine all actions for advancement of expenses or indemnification. The Delaware Court of Chancery may summarily determine the Foundation's obligation to advance expenses (including attorney's fees).
-
-## Section 8.8 Insurance
-
-The Board of Directors may authorize the Foundation to purchase and maintain insurance on behalf of any person who is or was a Director, Officer, employee or agent of the Foundation, or is or was serving at the request of the Foundation as a director, Officer, employee or agent of another corporation, partnership, joint venture, trust or other enterprise against any liability asserted against him or her and incurred by him or her in any such capacity, or arising out of his or her status as such, whether or not the Foundation would have the power to indemnify him or her against such liability under the provisions of this Article VIII.
-
-## Section 8.9 Continuation of Indemnification and Advancement of Expenses
-
-The indemnification and advancement of expenses provided by, or granted pursuant to, this Article VIII shall continue as to a person who has ceased to be a Director, Officer, employee, or agent of the Foundation and shall inure to the benefit of the heirs, executors and administrators of such a person.
-
-## Section 8.10 Severability
-
-If any word, clause or provision of this Article VIII or any award made hereunder shall for any reason be determined to be invalid, the provisions hereof shall not otherwise be affected thereby but shall remain in full force and effect.
-
-## Section 8.11 Intent of Article
-
-The intent of this Article VIII is to provide for indemnification and advancement of expenses to the fullest extent permitted by Section 145 of the DGCL. To the extent that such Section or any successor section may be amended or supplemented from time to time, this Article VIII shall be amended automatically and construed to fully permit indemnification and advancement of expenses from time to time permitted by law.
-
-# ARTICLE IX - BOOKS AND RECORDS
-
-## Section 9.1 Books and Records
-
-The Foundation shall keep adequate and correct books and records of account, minutes of the proceedings of the Members, the Board of Directors, and Board Committees, and a record of the Members, including their names, addresses, and the class of Membership held by each.
-
-## Section 9.2 Form of Records
-
-Minutes and any other books and records of the Foundation shall be kept either in written form or in any other form capable of being converted into written form.
-
-## Section 9.3 Reports to Directors, Members and Others
-
-The Board of Directors shall cause such reports to be prepared, filed and/or distributed as may be required.
-
-## Section 9.4 Record Date
-
-In order that the Foundation may determine the Members entitled to notice of or Voting Members entitled to vote at any meeting of Members or any adjournment thereof, or to express consent to corporate action in writing without a meeting, or entitled to receive payment of any distribution, if any, permitted by law and the Foundation's then current federal and state tax status, or allotment of any rights, or entitled to exercise any rights in respect of any change, conversion or exchange of Membership or for the purpose of any other lawful action, the Board of Directors may fix, in advance, a record date, which shall not be more than sixty days nor fewer than ten days before the date of such meeting, nor prior to the adoption of the resolution by the Board of Directors fixing such record date. A determination of Members of record entitled to notice of or Voting Members entitled to vote at a meeting of Members shall apply to any adjournment of the meeting; provided, however, that the Board of Directors may fix a new record date for the adjourned meeting. If no record date is fixed, the record date for determining Members entitled to notice of or Voting Members entitled to vote at a meeting of Members shall be at the close of business on the day before the day on which notice is given or, if notice is waived, at the close of business on the day before the day on which the meeting is held. The record date for determining Members entitled to express consent to corporate action in writing without a meeting, when no prior action by the Board of Directors is necessary, shall be the day on which the first written consent is delivered to the Foundation. The record date for determining Members entitled to express consent to corporate action in writing without a meeting, when prior action by the Board of Directors is necessary, shall be at the close of business on the day on which the Board of Directors adopts the resolution taking such prior action.
-
-## Section 9.5 Registered Members
-
-The Foundation shall be entitled to recognize the exclusive right of a person registered on its books as a Member or a representative of a Member to receive distributions, if any, and to vote, if such records indicate that such person is a Voting Member or a representative of a Voting Member, and to hold liable for Financial Obligations each Member registered on its books, and shall not be bound to recognize any equitable or other claim to or interest in Membership on the part of any other person, whether or not it shall have express or other notice thereof, except as otherwise provided by the DGCL.
-
-# ARTICLE X - CERTAIN TRANSACTIONS
-
-## Section 10.1 Transactions with Interested Parties
-
-(a) No contract or transaction between the Foundation and one or more of its Directors or Officers, or between the Foundation and any other corporation, partnership, association, or other organization in which one or more of its Directors or Officers are directors or officers, or have a financial interest, shall be void or voidable solely for this reason, or solely because such Director or Officer (or other director or officer) is present at or participates in the meeting of the Board of Directors or Board Committee which authorizes the contract or transaction or solely because his, her or their votes are counted for such purpose, if:
-
-(i) The material facts as to his or her relationship or interest and as to the contract or transaction are disclosed or are known to the Board of Directors or such Board Committee, and the Board of Directors or such Board Committee in good faith authorizes the contract or transaction by the affirmative votes of a majority of the disinterested Directors, even though the disinterested Directors be less than a quorum; or
-
-(ii) The material facts as to his or her relationship or interest and as to the contract or transaction are disclosed or are known to the Voting Members entitled to vote thereon, and the contract or transaction is specifically approved in good faith by vote of the Voting Members; or
-
-(iii) The contract or transaction is fair as to the Foundation as of the time it is authorized, approved, or ratified, by the Board of Directors, a Board Committee, or the Voting Members.
-
-Common or interested Directors may be counted in determining the presence of a quorum at a meeting of the Board of Directors or Board Committee that authorizes the contract or transaction.
-
-# ARTICLE XI - GRANTS, CONTRACTS, LOANS, ETC
-
-## Section 11.1 Grants
-
-The making of grants and contributions, and otherwise rendering financial assistance for the purposes of the Foundation, may be authorized by the Board of Directors and shall be subject to the then current Foundation policy regarding the making of grants and/or contributions (as applicable) approved by the Board of Directors (the “Grant Policy”) (if any). The Board of Directors may authorize any Officer or Officers, agent, or agents, in the name of and on behalf of the Foundation to make any such grants, contributions or assistance.
-
-## Section 11.2 Execution of Contracts
-
-The Board of Directors may authorize any Officer, employee or agent of the Foundation, in the name and on behalf of the Foundation, to enter into any contract or execute and satisfy any instrument, and any such authority may be general or confined to specific instances, or otherwise limited. In the absence of any action by the Board of Directors to the contrary, the Chair, Vice Chair, and Executive Director shall be authorized to execute such contracts and instruments on behalf of the Foundation.
-
-## Section 11.3 Checks, Drafts, Etc
-
-All checks, drafts and other orders for the payment of money out of the funds of the Foundation, and all notes or other evidences of indebtedness of the Foundation, shall be signed on behalf of the Foundation in such manner as shall from time to time be determined by resolution of the Board of Directors.
-
-## Section 11.4 Deposits
-
-Subject to the terms of the Signatory Policy (if any), the funds of the Foundation not otherwise employed shall be deposited from time to time to the order of the Foundation in such banks, trust companies, or other depositories, or shall be otherwise invested, as the Board of Directors may select or direct, or as may be selected or directed by an Officer, employee or agent of the Foundation to whom such power may from time to time be specifically delegated by the Board of Directors.
-
-# ARTICLE XII - DISSOLUTION
-
-The Foundation may be dissolved upon Super Majority Vote of the Board of Directors, provided that (i) such dissolution is otherwise approved and effected in compliance with the then current requirements of the DGCL, and (ii) upon the dissolution of the organization, assets shall be distributed for one or more exempt purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code, or corresponding section of any future federal tax code, or shall be distributed to the federal government, for a public purpose. Any such assets not disposed of shall be disposed of by a court of competent jurisdiction in the county in which the principal office of the organization is then located, exclusively for such purposes or to such organization or organizations, as said Court shall determine, which are organized and operated exclusively for such purposes.”
-
-# ARTICLE XIII - GENERAL PROVISIONS
-
-## Section 13.1 Fiscal Year
-
-The fiscal year of the Foundation shall be determined, and may be changed, by resolution of the Board of Directors.
-
-## Section 13.2 Reserves
-
-The Board of Directors may set apart out of any funds of the Foundation a reserve or reserves for any proper purpose and may abolish any such reserve.
-
-## Section 13.3 Proprietary Rights
-
-(a) Except as specifically provided to the contrary in such policies and procedures as may from time to time be approved by the Board of Directors, all information disclosed by any participant during any official meeting or activity of the Foundation, including but not limited to Member meetings, Member Committee Meetings, Sub-Group meetings, Board of Directors meetings, meetings of Board Committees and sub-committees thereof, electronic mail or the like, shall be deemed to have been disclosed on a non-confidential basis, but without waiver of any rights represented by valid patents, patent applications, and Federal and international statutory copyrights.
-
-(b) No express or implied right, whether by implication, estoppel, or otherwise, to any patent, copyright, trademark, trade secret, or other intellectual property right of any Member is or shall be deemed to be granted to the Foundation or to any other Member by reason of its Membership in or participation in the activities of the Foundation, except as may be provided in a separate written agreement.
-
-(c) No Member shall at any time be required to exchange proprietary information with any other Member solely by reason of its being a Member of the Foundation.
-
-## Section 13.4 Form of Records
-
-Any records administered by or on behalf of the Foundation in the regular course of its business, including its Membership list, books of account, and minute books, may be kept on, or by means of, or be in the form of, any information storage device, method, or one or more electronic networks or databases (including one or more distributed electronic networks or databases), provided that the records so kept can be converted into clearly legible paper form within a reasonable time. The Foundation shall convert any records so kept into clearly legible paper form upon the request of any person entitled to inspect such records pursuant to any provision of the DGCL. When records are kept in such manner, a clearly legible paper form prepared from or by means of the information storage device, method or one or more electronic networks or databases (including one or more distributed electronic networks or databases) shall be valid and admissible in evidence, and accepted for all other purposes, to the same extent as an original paper record of the same information would have been, provided the paper form accurately portrays the record.
-
-## Section 13.5 Document Form, Signature and Delivery
-
-Without limiting the way any act or transaction may be documented, or the way a document may be signed or delivered:
-
-(a) Any act or transaction contemplated or governed by the DGCL or the Certificate of Incorporation or these By-laws may be provided for in a document, and an electronic transmission shall be deemed the equivalent of a written document. "Document" means (i) any tangible medium on which information is inscribed, and includes handwritten, typed, printed or similar instruments, and copies of such instruments and (ii) an electronic transmission
-
-(b) Whenever the DGCL or the Certificate of Incorporation or these By-laws requires or permits a signature, the signature may be a manual, facsimile, conformed or electronic signature. "Electronic signature" means an electronic symbol or process that is attached to, or logically associated with, a document and executed or adopted by a person with an intent to authenticate or adopt the document
-
-(c) Unless otherwise agreed between the sender and recipient, an electronic transmission shall be deemed delivered to a person for purposes of the DGCL and the Certificate of Incorporation and By-laws when it enters an information processing system that the person has designated for the purpose of receiving electronic transmissions of the type delivered, so long as the electronic transmission is in a form capable of being processed by that system and such person is able to retrieve the electronic transmission. An electronic transmission is delivered under this Section even if no person is aware of its receipt. Receipt of an electronic acknowledgement from an information processing system establishes that an electronic transmission was received but, by itself, does not establish that the content sent corresponds to the content received
-
-This provision shall not prohibit one or more persons from conducting a transaction in accordance with any electronic signature rules so long as the part or parts of the transaction that are governed by the DGCL are documented, signed, and delivered in accordance with this Section or otherwise in accordance with the DGCL. This Section shall apply solely for purposes of determining whether an act or transaction has been documented, and the document has been signed and delivered, in accordance with the DGCL, the Certificate of Incorporation and these By-laws.
-
-# ARTICLE XIV - ANTITRUST COMPLIANCE
-
-## Section 14.1 General
-
-The Foundation will conduct all its activities in conformance with all international, US federal and state antitrust laws, including the Sherman Act, the Clayton Act, the Robinson-Patman Act, and the Federal Trade Commission Act. The Board of Directors and the Executive Director shall consult legal counsel and seek legal review whenever necessary to insure that the activities of the Foundation are conducted in conformance with such laws.
-
-## Section 14.2 Availability of Intellectual Property
-
-It is the good faith objective of the Foundation (i) to make all Intellectual Property available as soon as its development and adoption by the Foundation is complete on the same terms to all Members who have not participated in the development or determination of such Intellectual Property as well as to all those Members who have participated, (ii) to make all such Intellectual Property available at the same point in time to all Members, and (iii) to make all such Intellectual Property available to all non-Members on fair and reasonable terms and conditions.
-
-## Section 14.3 No Obligation to Endorse
-
-No Member shall, by reason of its Membership or participation in the Foundation or otherwise, be obligated to license from the Foundation, use or endorse any Intellectual Property (as defined in Section 2.5) developed or endorsed by the Foundation, or to conform any of its products to any Specification or standard developed or adopted by the Foundation, nor shall any such Member be precluded from independently licensing, using or endorsing similar intellectual property, software, specifications or documentation developed by it or by others.
-
-# ARTICLE XV - AMENDMENTS
-
-Except where such power is expressly limited by law, the Certificate of Incorporation or these By-laws as to any specific action, these By-laws may be altered, amended or repealed, and new By-laws may be adopted, in each case by an affirmative vote of (i) a Super Majority of the Board of Directors or (ii) a majority of Voting Members then in good standing in accordance with Section 3.8(c) of these By-laws, at any annual meeting of the Voting Members or regular meeting of the Board of Directors or at any special meeting of the Voting Members or of the Board of Directors, provided, however, that in the case of a regular or special meeting of Voting Members, notice of such alteration, amendment, repeal or adoption of new By-laws shall be contained in the notice of such meeting.
+If you have comments on this document please email [admin@owasp.com](mailto:admin@owasp.com).
