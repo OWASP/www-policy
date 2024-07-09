@@ -1,14 +1,13 @@
 ---
 
-title: Whistleblower & Anti-Retaliation Policy (DRAFT)
+title: Whistleblower & Anti-Retaliation Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2024-05-20
 
 ---
 
-{% include draft-notice.html %}
+Approved by the OWASP Board of Directors on 2024-06-25
 
 ## OWASP Whistleblower & Anti-Retaliation Policy
 
