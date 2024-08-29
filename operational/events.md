@@ -289,7 +289,8 @@ Keep in mind that not all speakers can accept gifts for various reasons, includi
 
 ### Insurance
 
-All OWASP events must possess the correct insurance. The OWASP Foundation will provide the Event team with a quote for insurance. 
+All OWASP events must possess the correct insurance. The OWASP Foundation will provide the Event team with a quote for insurance.
+
 ### Sponsorships
 
 The OWASP Foundation is the exclusive sponsorship agent of all OWASP Events. At the Director of Events and Corporate Support’s discretion, the OWASP Foundation may provide services to Event Teams to identify, solicit, contract, invoice, and collect sponsorship revenue. 
@@ -372,12 +373,15 @@ External, unaffiliated websites that do not prominently display the OWASP logo, 
 
 ### Recording Events
 
-Recording events is strongly encouraged. Event recordings should be made available to members soon after an event and to the public within six months of the event. Events are responsible for running their own Event channel, named “OWASP \<Event Name”\> so that the public can find the recordings and hopefully learn more about your event and attend in the future. A low-cost recording solution is documented in the Events in a Box. Event teams are custodians - and not owners - of the video accounts and need to be shared with all current and future leaders. Event teams must pass the accounts to the next Event team. Failure to pass on or share accounts may lead to leadership being revoked or future events being denied. 
+Recording events is strongly encouraged. Event recordings should be made available to members soon after an event and to the public within six months of the event. Events are responsible for running their own Event channel, named “OWASP \<Event Name”\> so that the public can find the recordings and hopefully learn more about your event and attend in the future. A low-cost recording solution is documented in the Events in a Box. Event teams are custodians - and not owners - of the video accounts and need to be shared with all current and future leaders. Event teams must pass the accounts to the next Event team. Failure to pass on or share accounts may lead to leadership being revoked or future events being denied.
+
+Recordings of OWASP events shall be posted to members first for a period of two months as a membership benefit, with the potential exception of keynote recordings to create buzz to encourage attendees to become members to see the rest of the videos. Event organizers should announce the availability of the videos to firstly members, and once public, on OWASP's social media channels via the use of the #amplify channel on Slack.
+
 ### Social media 
 
-Event teams are encouraged to have their own social media accounts named “OWASP \<Event Name\>” so that the events can easily be found. Event teams are custodians - and not owners - of the event’s website and social media accounts. 
+Event teams are encouraged to have their own social media accounts named “OWASP \<Event Name\>” so that the events can easily be found. Event teams are custodians - and not owners - of the event’s website and social media accounts.
 
-Event teams must pass the accounts to the next Event team. Failure to pass on or share accounts may lead to leadership being revoked or future events being denied. 
+Event teams must pass the accounts to the next Event team. Failure to pass on or share accounts may lead to leadership being revoked or future events being denied.
 
 ### Campaign promotion and scheduling 
 
