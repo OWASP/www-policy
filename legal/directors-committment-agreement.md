@@ -5,66 +5,73 @@ layout: col-sidebar
 
 ---
 
-All Global Foundation Board Members must read the following and acknowledge completion by signing document (below) by Jan 1. New board members to sign by January (following their election), and subject to disciplinary action if not completed by February 1. Board members will not be allowed to participate in Board votes until acknowledgement is signed.
+This Commitment Agreement (the “Agreement”) is by and between The OWASP Foundation (“OWASP”) and the undersigned member of the OWASP Board of Directors (the “Board”), in connection with the service of the undersigned as a member of the Board (each Board member, a “Director”) for the Board term beginning January 1, 2025 and ending December 31, 2025.
 
-I _____________________________________________, understand that as a member of the Global Board of Directors of the OWASP Foundation, I have a legal and ethical responsibility to ensure that the organization does the best work possible in pursuit of its mission and strategic goals. I believe in the purpose and the mission of the organization, and I will act responsibly and prudently as its steward.
+The undersigned Director must execute and submit the Agreement to OWASP by January 1 after their election, and is subject to disciplinary action, exclusion from Board votes, and removal from the Board if the Agreement is not submitted by the first public Board meeting of each year.
 
-The Commitment Agreement is for the term of January 1, 2024 to December 31, 2024.
+By signing below, the undersigned Director agrees to the foregoing and as follows:
+
+## Responsibilities
+
+As a Director, I acknowledge and agree that I have fiduciary, legal and ethical responsibilities and duties to OWASP Foundation, Inc., including but not limited to obligations to ensure that OWASP does the best work possible in pursuit of its mission and strategic goals. I will comply with all such responsibilities and duties, I believe in the purpose and mission of OWASP, and I will act responsibly and prudently as a steward of OWASP.
+
+I have read, understand, and agree to comply with the following when serving as a Director:
+
+- [OWASP Foundation By-Laws](https://owasp.org/www-policy/legal/bylaws)
+- All [OWASP Policies](https://owasp.org/www-policy/)
+- [OWASP Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
+- [OWASP Board of Directors’ Code of Conduct](https://owasp.org/www-policy/operational/board-code-of-conduct)
+
+Additionally:
+
+- I will promote OWASP’s work and values to the community, represent OWASP, and act as a spokesperson for OWASP.
+- I will attend at least 75% of public Board meetings annually.
+- I understand that I have fiduciary duties to act in an objective, responsible, honest, trustworthy, and efficient manner without placing OWASP under unnecessary risk. As part of these duties, I will place the interests of OWASP above those of myself or my employer.
+- I will stay informed, ask questions, and request information about OWASP and its activities.
+- I will participate in and take responsibility for making decisions on issues, policies and other matters before the Board.
+- I will work in good faith with staff and other Directors towards achieving OWASP goals.
+
+If I don’t fulfill the foregoing commitments, I understand that the Chair of the Board (“Chair”) may call me and discuss my responsibilities with me.
 
 ## Required Reading
 
-I have read and understood the following references:
+I have obtained and understand the following:
 
-- General Information about the Role and Responsibilities of Non-profit Board Members:
-   [ ] **Choose either** [*Robert’s Rules of Order, Newly Revised* (12th Edition)](https://a.co/d/azFXSaE)
-   [ ] **or** [*Robert’s Rules of Order, In Brief* (3rd Edition)](https://a.co/d/4ABYfe7)
-   [ ] [*Board Member Orientation: The Concise & Complete Guide to nonprofit Board Success*](https://a.co/d/dhHkNFX) - Michael E Batts
-   [ ] [*Nonprofit Kit for Dummies*](https://a.co/d/9kWAAyX), 6th Edition - Beverly A. Browning, Stan Hutton and Frances N. Phillips
+- Obtained and read the [Board Member Orientation: The Concise & Complete Guide to nonprofit Board Success](https://a.co/d/dhHkNFX) - Michael E Batts
+- Obtained the latest edition of [Nonprofit Kit for Dummies](https://a.co/d/9kWAAyX) - Beverly A. Browning, Stan Hutton and Frances N. Phillips
+- Obtained the latest edition of either [Robert’s Rules of Order, Newly Revised](https://a.co/d/azFXSaE) or [Robert’s Rules of Order, In Brief](https://a.co/d/4ABYfe7)
 
-- Organization specific information:
+I have received the following:
 
-   [ ] [OWASP Foundation By-Laws](https://owasp.org/www-policy/legal/bylaws)
-   [ ] [OWASP Policies](https://owasp.org/www-policy/)
-   [ ] [OWASP Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
-   [ ] [OWASP Board of Directors’ Code of Conduct](https://owasp.org/www-policy/operational/board-code-of-conduct)
-   [ ] [Conflict of interest policy and annual questionnaire](https://owasp.org/www-policy/operational/conflict-of-interest)
-   [ ] [Previous financial reports and 990 (Tax filing)](https://owasp.org/finance/)
-
-I have also have been provided with the following
-
-- Foundation Board of Director Liability Insurance Policy
-- List of current board members and employees with contact information
+- Foundation Board Liability Insurance Policy
+- List of incoming Board members and employees with contact information
 - [OWASP Board Meeting Schedule, Agendas, Minutes, and Voting History](https://owasp.org/www-board/)
 - [Board Member Induction Information](https://owasp.org/www-board/#div-induction)
-- [Board Meeting Landing Page](/www-board)
-- [Board Mailing List](https://groups.google.com/a/owasp.org/g/global-board)
-- [OWASP Governance Landing Page](/governance)
+- [Board Meeting Landing Page](https://owasp.org/www-board)
+- [Board Mailing List](https://groups.google.com/a/owasp.org/g/global-board) and Internal Global Board Mailing List
+- [OWASP Governance Landing Page](https://owasp.org/governance)
+- [Previous financial reports and 990 (Tax filing)](https://owasp.org/finance/)
 
-As part of my responsibilities as a board member
+## Expectations
 
-1.  I have read and acknowledge the [Board Code of Conduct](/www-policy/operational/board-code-of-conduct)
-2.  I will interpret the organization’s work and values to the community, represent the organization, and act as a spokesperson.
-3. I will attend at least 75% of board meetings annually (at least 3 of the 4 scheduled quarterly meetings)
-4. I will act in the best interests of the organization, and excuse myself from discussions and votes where I have a conflict of interest.
-5. I understand that I have a fiduciary duty to act in an objective, responsible, honest, trustworthy, and efficient manner without placing the organization under unnecessary risk. As part of this duty, I will act for the good of the organization, rather than for the benefit of myself or my employer.
-6. I will stay informed about what’s going on in the organization. I will ask questions and request information.
-7. I will participate in and take responsibility for making decisions on issues, policies and other board matters.
-8. I will work in good faith with staff and other board members as partners towards achievement of our goals.
+I also expect the following:
 
-If I don’t fulfill these commitments to the organization, I will expect the board chair to call me and discuss my responsibilities with me.
+- Monthly OWASP financial reports and an update of OWASP activities that allows me to meet the “prudent person” standards of the law.
+- Opportunities to discuss OWASP programs, goals, activities, and status with the OWASP Executive Director and Chair.
+- Other Directors and staff will work with me in good faith as necessary to carry out my responsibilities as a Director and achieve OWASP goals.
+- I can discuss concerns regarding the foregoing with the Chair and Executive Director.
 
-In turn, the organization will be responsible to me in several ways
+Signature:
 
-1. I will be sent, without request, quarterly financial reports and an update of organizational activities that allow me to meet the “prudent person” standards of the law.
-2. Opportunities will be offered to me to discuss with the executive director and the board chair the organization’s programs, goals, activities, and status; additionally, I can request such opportunities.
-3.  Board members and staff will respond in a straightforward fashion to questions that I feel are necessary to carry out my fiscal, legal and moral responsibilities to this organization. Board members and staff will work in good faith with me towards achievement of our goals.
-4. If the organization does not fulfill its commitments to me, I can call on the board chair and executive director to discuss the organization’s responsibilities to me.
+Name:
 
-Signed:
+Director
+
+_Acknowledged and accepted:_
+
+_Signature:_
 
 
-Member, Board of Directors
+_Name:_
 
-Chair, Board of Directors
-
-The board chair should sign two copies of this agreement for each board member. Each new board member should sign both, return one copy to the board chair, and keep the other for reference.
+_Chair, Board of Directors_
