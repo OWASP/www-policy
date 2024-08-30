@@ -1,13 +1,13 @@
 ---
 
-title: Membership Policy
+title: Membership Policy (DRAFT)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2020-10-20
+notice: 2024-08-30
 
 ---
-Adopted by the Board on 20-Oct-2020
+{% include draft-notice.html %}
 
 ## Overview
 
@@ -61,8 +61,6 @@ The Foundation will revoke fraudulent membership submissions without notice and 
 
 **Developing Economy Membership Pricing** Persons living in developing economies as defined in the lower 50% percentile Adjusted Net National Income Per Capita Countries, according to the World Bank, shall be offered any membership class at 2/5ths the rate of the standard membership, so $8 for student, $20 for one year, $35 for two year, and $200 for Lifetime membership.
 
-**Complimentary Membership** Individual Membership offered, dues-free, to active leaders in good standing who have contributed materially to the Foundation over an extended period (see below).
-
 **Distinguished Lifetime Membership** Distinguished Lifetime Membership is awarded by the Global Board of Directors once or twice a year for extraordinary contributions to OWASP over an extended period of time. Nominations for Distinguished Lifetime Membership can be sent to the [submitted here](https://owasp.wufoo.com/forms/distinguished-lifetime-membership-nomination/).
 
 ## Complimentary Membership
@@ -73,6 +71,30 @@ Complimentary Membership is valid for one year. Leaders do not need to accept an
 
 Active leaders can accept the complimentary membership using the standard "Join" or "Renew" OWASP membership form. Complimentary membership must be manually renewed each 12 months.
 
-## Becoming a Corporate Member
+## Leaders must be Individual or Complimentary Members
 
-Organizations can also become members of the OWASP Foundation. Those details can be found on the [Supporters page](/supporters) under Corporate Membership.
+Leaders must be [Individual or Complimentary Members](https://owasp.org/membership/) to be an OWASP Leader.
+
+This is for legal and technical reasons. Legally, leaders of a non-stock membership organization such as the OWASP Foundation, Inc., who can set strategy, policy, lead committees, projects, chapters, and events, and submit expenses, must be members. Technically, the OWASP association management system requires an active membership to assign roles and permissions to manage chapters.
+
+### Transitional addendum (to be removed after December 31, 2024):
+
+**Per a [Board vote](https://owasp.org/www-board/#div-voting) on March 18, 2024, Leaders must be members by September 30, 2024**
+
+Non-member leaders can either [join as a member](https://owasp.org/membership/) as either an Individual membership or a Complimentary membership, or [step down as a chapter leader role](https://owasporg.atlassian.net/servicedesk/customer/portal/8/create/89), or [for projects or events](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72) by logging a ticket.
+
+Notifications to affected non-member leaders will be sent by email to their owasp.org email address and statistics posted regularly on the OWASP Slack workspace.
+
+The following actions will be taken:
+
+- After October 1, 2024, non-member leaders will be unable to submit expense claims
+- After October 1, 2024, non-members will not be able to submit tickets to create new events, projects, or chapters
+- Once it goes live, non-member chapter leaders will be unable to manage their chapters in the new association management system
+- After November 1, 2024, non-member leaders will be demoted from admins of their chapter, project, committee, or event GitHub repo
+- After December 1, 2024, non-member leaders GSuite, Zoom, and Meetup access will be suspended
+- After January 1, 2025, non-member leaders will be removed as leaders, with their access to GitHub, Meetup, and Zoom removed
+- After April 1, 2025, suspended non-member leader GSuite accounts will be deleted
+
+When a non-member leader becomes an OWASP Member, they will need to log a ticket to regain access to suspended systems, they will not automatically be reinstated.
+
+Once removed as a leader after January 1, 2025, any non-member leader must follow the same process as becoming a new leader for their chapter, project, or event, which includes becoming a member before applying for a leadership role.
