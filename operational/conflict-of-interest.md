@@ -98,7 +98,7 @@ In connection with matters relating to this Policy, the minutes of the Board and
 
 ## ARTICLE V
 
-#### COMPENSATION
+### COMPENSATION
 
 5.1 A voting member of the Board who receives compensation, directly or indirectly, from OWASP for services is precluded from voting on matters pertaining to that member’s compensation.
 
@@ -128,37 +128,4 @@ To ensure OWASP operates in a manner consistent with charitable purposes and doe
 
 ### USE OF OUTSIDE EXPERTS
 
-When conducting the periodic reviews as provided for in Article VII, OWASP may, but need not, use outside advisors. If outside experts are used, their use shall not relieve the Board of its responsibility for ensuring periodic reviews are conducted.
-
-## CERTIFICATE OF ADOPTION OF CONFLICT OF INTEREST
-
-### POLICY AND AGREEMENT
-
-(This will be a digitally signable form once the policy has been approved)
-
-I do hereby certify that the above stated Conflict of Interest Policy of The OWASP Foundation was approved and adopted by the OWASP Board of Directors on [__insert date__] and constitutes a complete copy of the OWASP Conflict of Interest Policy.
-
-Secretary \_\_\_\_\_\_\_\_\_\_
-
-Date: \_\_\_\_\_\_\_\_\_\_
-
-### Annual Conflict of Interest Questionnaire
-
-(This will be a digitally signable form once the policy has been approved)
-
-This Annual Conflict of Interest Questionnaire is being provided pursuant to The OWASP Foundation Conflict of Interest Policy (“Policy”). Capitalized terms used but not defined herein have the meanings set forth in the Policy.
-
-1. Name of submitting OWASP director, principal officer, member of a committee with governing board delegated powers, or employee:
-
-2. Name of your Employer(s):
-
-3. Please identify each entity, Board member, and or OWASP employee with which you have or may have an actual or perceived conflict of interest due to a Financial Interest (directly or indirectly, whether through business, investment, Family Member, or otherwise):
-
-4. Please describe the Financial Interest(s) and associated actual or perceived conflict(s) of interest that you have or may have with each entity, Board member, and OWASP employee identified in Section 3 above, in each case, including a description of all associated facts that you believe may be relevant and material.
-
-5. Additional notes:
-
-I have read, understand and agree to comply with the Policy. The information provided above is true, accurate and complete in all material respects. I understand that OWASP is a charitable organization and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
-
-Signature \_\_\_\_\_\_\_\_\_\_
-Date: \_\_\_\_\_\_\_\_\_\_
+When conducting the periodic reviews as provided for in Article VII, OWASP may, but need not, use outside advisors. If outside experts are used, their use shall not relieve the Board of its responsibility for ensuring periodic reviews are conducted. The Vice Chair and Executive Director are jointly responsible for annual periodic reviews to be conducted and presented to the Board by the end of Q4 each year.
