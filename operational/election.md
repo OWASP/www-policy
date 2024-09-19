@@ -38,25 +38,25 @@ For the OWASP Board of Directors those annual milestones are:
 
 Elections shall include a method for the electorate to get to know the candidates and their position on topical matters. For the Board of Directors election, this method will minimally include a (1) two week call for questions from the community where a final list sorted by popularity for up to six questions will be provided to candidates, and (2) each candidate will post an online video linked on the Foundation’s website to a candidate community page.
 
-Email sent to Members shall be the official and primary communication method to engage candidates and Members for OWASP elections. Members shall receive no less than three (3) email notices for the following: (1) call for candidates, (2) call for questions, (3) notice that to vote you must be a Member, and (4) notice to vote. Timelines for elections may include courtesy notices through other channels including social media and mailing lists; however, they are not required and should not be expected for official communications from the OWASP Foundation to Members and the community at large.
+Email sent to Voting Members shall be the official and primary communication method to engage candidates and Voting Members for OWASP elections. Voting Members shall receive no less than three (3) email notices for the following: (1) call for candidates, (2) call for questions, (3) notice that to vote you must be a Voting Member, and (4) notice to vote. Timelines for elections may include courtesy notices through other channels including social media and mailing lists; however, they are not required and should not be expected for official communications from the OWASP Foundation to Voting Members and the community at large.
 
 ## Voter Qualifications
 
-Membership class voter qualifications are defined in the By-Laws in [section 2.3 (b)](https://owasp.org/www-policy/legal/bylaws#section-23-privileges-of-individual-membership). Individual members who are in good standing (see By-Laws section 2.2(b)) on September 30 each calendar year are eligible to receive a secret ballot and vote in the OWASP Foundation Board of Directors election.
+Membership class voter qualifications are defined in the By-Laws in [section 2.3 (b)](https://owasp.org/www-policy/legal/bylaws#section-23-privileges-of-individual-membership). Voting Members who are in good standing (see By-Laws section 2.2(b)) on September 30 each calendar year are eligible to receive a secret ballot and vote in the OWASP Foundation Board of Directors election.
 
 ## Candidate Qualifications
 
 The OWASP Foundation sources its leadership from the community in a democratic process. Diversity candidates are strongly encouraged to participate in the leadership of the OWASP Foundation.
 
-Candidate qualifications are outlined by the By-Laws in [section 2.3 (a)](https://owasp.org/www-policy/legal/bylaws#section-23-privileges-of-individual-membership). Candidates must be OWASP Individual Members in good standing with a strong commitment to the mission of the Foundation.
+Candidate qualifications are outlined by the By-Laws in [section 2.3 (a)](https://owasp.org/www-policy/legal/bylaws#section-23-privileges-of-individual-membership). Candidates must be OWASP Voting Members in good standing with a strong commitment to the mission of the Foundation.
 
-Candidates must maintain good standing as OWASP Individual members from September 30 the prior calendar year through the conclusion of the election process. Candidates may be nominated via the nomination process above without having attained the full year of Individual membership but must meet the requirement of a full year of continuous membership by September 30 to be eligible to be on the ballot sent to members and must maintain their Individual membership in good standing through the conclusion of the election process.
+Candidates must maintain good standing as OWASP Voting Members from September 30 the prior calendar year through the conclusion of the election process. Candidates may be nominated via the nomination process above without having attained the full year of Voting Membership but must meet the requirement of a full year of continuous membership by September 30 to be eligible to be on the ballot sent to members and must maintain their Voting Membership in good standing through the conclusion of the election process.
 
 ## Director Qualifications
 
 Director qualifications and term limits are detailed in the By-Laws [section 4.3](https://owasp.org/www-policy/legal/bylaws#section-43-nomination-election-and-term-of-office-of-directors) and take supremacy over this policy if there is any disagreement.
 
-Successful Candidates must be in good standing as OWASP Individual members prior to taking their seat for their term by January 1 of the calendar year following their election, or part thereof if appointed by the Board to take over a vacancy. Directors must maintain their Individual membership in good standing throughout their term.
+Successful Candidates must be in good standing as OWASP Voting Members prior to taking their seat for their term by January 1 of the calendar year following their election, or part thereof if appointed by the Board to take over a vacancy. Directors must maintain their Voting Membership in good standing throughout their term.
 
 Successful Candidates must complete all necessary onboarding processes and paperwork, including undertaking Board training, obtaining necessary reading materials, signing the Board of Directors Commitment Agreement, completing their conflict of interest register, and agreeing to the Board Code of Conduct, and any other tasks, prior to taking their seat (Director Qualification Prerequisites).
 
@@ -86,7 +86,7 @@ In the event an officer ceases to be a Director or otherwise becomes ineligible 
 
 ## Voting
 
-Voting in elections shall be a secret ballot of Members. Balloting shall be open for no less than fourteen (14) and no more than (20) days. Voting closes at 11:59pm US-Pacific Time on the election voting end date. In the case of Board Elections, staff will ensure current Members of the Foundation receive a serialized ballot. Members can vote only once in each election per election cycle.
+Voting in elections shall be a secret ballot of Voting Members. Balloting shall be open for no less than fourteen (14) and no more than (20) days. Voting closes at 11:59pm US-Eastern Time on the election voting end date. In the case of Board Elections, staff will ensure current Voting Members of the Foundation receive a serialized ballot. Voting Members can vote only once in each election per election cycle.
 
 In situations where an election will be selecting from among more than one candidate for a position (as is the case in general Director elections), ballots will be designed to allow each elector to cast several votes equal to the number of open seats on the ballot. Electors are not required to cast the full number of votes allowed and can only vote for a single candidate once.
 
@@ -94,7 +94,7 @@ In situations where an election will be selecting from among more than one candi
 
 All OWASP elections shall fully report the results of balloting in no more than three (3) days following the close of voting. Each candidate with each individual vote total, and in the case where the electorate can cast more than one vote, the cumulative total of all ballots cast will be listed in a publicly available manner that is minimally shared on the OWASP website.
 
-The Executive Director or their designee shall certify an election result. Member voting history is private, so no one other than the Member shall know their own votes.
+The Executive Director or their designee shall certify an election result. Voting history is private, so no one other than the Voting Member shall know their own votes.
 
 ## Fraud and unethical conduct
 
