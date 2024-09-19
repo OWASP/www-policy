@@ -23,7 +23,7 @@ Sanctions in particular can be seen by those affected as highly political. Howev
 For the duration of a Force Majeure event, including war, riots, natural disasters, extreme weather events, and so on, the following assistance measures shall come into effect:
 
 - **Personal safety.** Leaders and chapters are exempt from all activity requirements.
-- **Membership fee relief.** Membership renewal fees are waived. 
+- **Membership fee relief.** Force Majeure Waived Fee Memberships are only available to renewing memberships, and if so, membership fees are waived and renewable annually. Voting Individual Membership is granted.
 - **Employment assistance.** Members living in or formerly from a country affected by Force Majeure can request OWASP share their online resume or job profile.
 - **Connecting Members with Employers.** OWASP shall connect Leaders and Members with employers for remote and refugee hiring. Assistance shall be provided at zero cost to employers and members. 
 - **Immigration assistance.** In consultation with local leaders, OWASP offers immigration letters of support so that our members can resettle in new countries. 
@@ -31,6 +31,8 @@ For the duration of a Force Majeure event, including war, riots, natural disaste
 - **Restore Standing.** Members affected by a membership lapse due to Force Majeure, can submit a ticket for the Global Board to vote on restoring their standing if they wish to run for the Board in the next election.
 
 OWASP must prioritize OWASP Leaders and Members as we are a small organization with limited funding and resources. On a case-by-case basis, Leaders can introduce us to their chapter, event, committee, or project participants on the same basis as members, and we shall try our best to assist. OWASP may perform a donation drive to affray costs if they exceed our available finances.
+
+Force Majeure waived fee memberships are subject to proof of residency using a government-issued photo ID held in the same name as the membership. Proof of residency must be a residential address, and not a commercial property or postal address. Waived fee memberships will only have access to GSuite after proof of residency checks are completed. Voting Individual Membership is granted. Waived fee memberships are subject to random audits to reduce the abuse of this program. Abuse of the program results in immediate termination of membership and deletion of GSuite contents.
 
 ## Sanctioned Countries, Governments, Entities, and Leaders
 
