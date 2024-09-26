@@ -1,6 +1,6 @@
 ---
 
-title: Board of Directors Code of Conduct (DRAFT)
+title: Board of Directors Code of Conduct
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
@@ -8,7 +8,7 @@ notice: 2024-08-30
 
 ---
 
-{% include draft-notice.html %}
+Adopted by the Board of Directors on September 25, 2024
 
 Participation in The OWASP Foundation (“OWASP”) Board of Directors (the “Board”) is conditional upon each member of the Board (each a “Director”) adhering to the requirements of this Board of Directors Code of Conduct (the “Board Code of Conduct”). By participating on the Board, each Director agrees to comply with the following:
 

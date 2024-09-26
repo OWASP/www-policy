@@ -1,6 +1,6 @@
 ---
 
-title: Force Majeure and Sanctions - Draft (WIP)
+title: Force Majeure and Sanctions Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
@@ -8,7 +8,7 @@ notice: 2022-03-21
 
 ---
 
-{% include draft-notice.html %}
+Adopted by the Board of Directors on September 25, 2024
 
 ## Background
 

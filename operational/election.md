@@ -1,13 +1,14 @@
 ---
 
-title: Elections Policy (DRAFT)
+title: Elections Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
 notice: 2024-08-23
 
 ---
-{% include draft-notice.html %}
+
+Adopted by the Board of Directors on September 25, 2024
 
 # Overview
 

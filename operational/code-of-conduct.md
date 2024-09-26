@@ -1,6 +1,6 @@
 ---
 
-title: Code of Conduct (DRAFT)
+title: Code of Conduct
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
@@ -8,7 +8,7 @@ notice: 2024-08-16
 
 ---
 
-{% include draft-notice.html %}
+Adopted by the Board of Directors on September 25, 2024
 
 Participation in activities of The OWASP Foundation (“OWASP”) is conditional upon each such participant adhering to the requirements of this Code of Conduct. Accordingly, by participating in OWASP activities, each individual doing so agrees that when so participating and in connection with OWASP activities, such individual will comply with the following:
 
