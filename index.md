@@ -45,13 +45,3 @@ Handbooks to help Chapter, Project, and Event Leaders in their volunteer work.
 
 - [Employee Handbook](/www-policy/employee)
 
-## TODO
-
-- Contact Us (responsiveness to tickets, SLA, submitting complete information, submitting accurate information)
-- Membership - terms, discounts, submitting accurate info, pricing, complimentary membership process, preference for Foundation events (like Project Summits etc
-- Advertising
-- Travel Assistance Program - member, workflow, limits
-- Local Partnerships
-- Mailing Lists
-- Elections
-- Licenses
