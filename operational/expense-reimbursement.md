@@ -121,7 +121,7 @@ Those items which are considered fair and reasonable include:
 - Printing
 - Domain Names
 
-For the items listed above and expenses under USD \$250, there are no pre-set limits beyond the "fair and reasonable" test. Expenses not listed and exceeding USD \$250 require approval from at least two leaders (or a leader + relevant committee if there is only one leader), and [pre-approval](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/14){: target='_blank'} by the Executive Director or their designate. **When in doubt, individuals requesting expense reimbursement should apply for pre-approval.**
+For expenses which are listed above and are under USD \$250, there are no pre-set limits beyond the "fair and reasonable" test. Expenses not listed or exceeding USD \$250 require approval from at least two leaders (or a leader + relevant committee if there is only one leader), and [pre-approval](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/14){: target='_blank'} by the Executive Director or their designate. **When in doubt, individuals requesting expense reimbursement should apply for pre-approval.**
 
 The OWASP Foundation does not promote alcohol consumption and expects its staff, members, and partners to use good judgment when entertaining. Alcohol expenses are reimbursable when part of a food bill, provided the alcohol costs are no more than 50% of the total expenses for that Event.
 
