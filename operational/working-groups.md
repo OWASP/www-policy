@@ -64,7 +64,7 @@ Evaluations determine:
 * If the WG pivots its objectives to meet changing OWASP strategic priorities  
 * If the WG has completed its mission or no longer aligns strategically, thus triggering a sunset decision
 
-Decisions regarding lifecycle status must be formally documented and communicated transparently to the WG and broader OWASP community.
+Decisions regarding lifecycle status must be formally documented and communicated transparently to the WG and broader OWASP community. If the Executive Director determines that a WG is not meeting its scope or objectives, the Executive Director may recommend to the OWASP Board that the WG be disbanded.
 
 ## Communication and Community Engagement
 
