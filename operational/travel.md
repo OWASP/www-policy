@@ -87,8 +87,7 @@ Excessive bar tabs may be denied payment (such as more than 50% of a bill), so p
 
 ## Business Gifts by the OWASP Board
 
-If this policy disagrees with the Events Policy, then for solely for events, the Events policy shall take precedence, such as speaker gifts.
-
+If this policy disagrees with the Events Policy, then solely for events, the Events policy shall take precedence, such as speaker gifts.
 Board Members can gift small gifts, such as OWASP merchandise, or similar. Gifts over $USD 100 require prior approval for reimbursement via the pre-approval process.
 
 Most countries have strict anti-bribery laws with serious penalties. When unsure, avoid giving a gift that might be viewed as excessive by local cultural standards. Strictly avoid giving money, gift cards, or similar items as they are considered bribes under anti-bribery laws.
