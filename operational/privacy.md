@@ -137,7 +137,7 @@ The Sites may contain links to third party sites or online services. Please refe
 
 ## Your Rights
 
-**Access and Amendment** If you have registered with us and created an OWASP ID profile or an OWASP Account wish to access or update certain personal information contained therein, you may do so online by visiting the OWASP Member portal by visiting https://members.owasp.org/. You may also contact our privacy coordinator, as set forth below, to access or amend your personal information.
+**Access and Amendment** If you have registered with us and created an OWASP ID profile or an OWASP Account wish to access or update certain personal information contained therein, you may do so online by visiting the OWASP Member portal by visiting https://owasp.glueup.com/. You may also contact our privacy coordinator, as set forth below, to access or amend your personal information.
 
 ## Additional Rights for EEA individuals
 
@@ -162,7 +162,7 @@ California law permits users who are California residents to request and obtain 
 
 ### Contact Us
 
-If you have questions or suggestions about this Privacy Policy, or the information collected under this Privacy Policy, please email us at support@owasp.com or contact us directly. If you have any questions about our practices or this Privacy Policy, please contact us at privacy@owasp.com, or write to us at: OWASP, Attn: Legal Department, 300 Delaware Ave. Ste. 210 #384, Wilmington DE 19801. You can also reach our EU entity, OWASP Europe vzw, whose registered address is Leinstraat 104A, 9660 Opbrakel, Belgium, situated in the court district of Oudenaarde/Brakel, but any correspondence with that entity will take some considerable time.
+If you have questions or suggestions about this Privacy Policy, or the information collected under this Privacy Policy, please email us at support@owasp.com or contact us directly. If you have any questions about our practices or this Privacy Policy, please contact us at privacy@owasp.com, or write to us at: OWASP, Attn: Legal Department, 300 Delaware Ave. Ste. 210 #384, Wilmington DE 19801.
 
 Depending on your jurisdiction, you also may have the right to lodge a complaint with a supervisory authority competent for your country or region.
 
