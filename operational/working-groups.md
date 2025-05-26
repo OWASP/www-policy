@@ -44,7 +44,7 @@ Participation in Working Groups is open to anyone with relevant interest and wil
 
 ## Operations and Decision-Making
 
-Working Groups must maintain transparent, consensus-driven decision-making processes. Regular meetings shall be scheduled with clear agendas distributed in advance, concise documentation of decisions, and prompt follow-up of assigned actions. Meetings should be operationally efficient, action-oriented, and inclusive.
+Working Groups must maintain transparent, consensus-driven decision-making processes. Regular meetings shall be scheduled with clear agendas distributed in advance, concise documentation of decisions, and prompt follow-up of assigned actions. Meetings should be action-oriented, inclusive, and public.
 
 WG documentation, including minutes, decision logs, and relevant deliverables, must be transparently maintained in OWASP’s designated repositories, ensuring ongoing accessibility and accountability to the OWASP community.
 
