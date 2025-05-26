@@ -52,7 +52,7 @@ WG documentation, including minutes, decision logs, and relevant deliverables, m
 
 WG Chairs are required to submit quarterly Chairs Reports to the Executive Director and OWASP Board, providing concise updates on achievements, challenges, and upcoming objectives. 
 
-The Chairs report will directly inform decisions to be made by the Executive Director regarding WG continuation, modification, or sunset.
+The Chairs Report will directly inform decisions to be made by the Executive Director regarding WG continuation, modification, or sunset.
 
 ## Lifecycle Management and Sunset Clause
 
