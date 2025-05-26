@@ -36,6 +36,8 @@ Each Working Group must have one Chair or up to two Co-Chairs, providing balance
 
 Operational responsibility for vetting potential Working Group Chairs lies with the OWASP Executive Director or an appointed staff representative. Candidates must demonstrate sufficient expertise, relevant professional experience, and alignment with OWASP’s core values.
 
+The Executive Director is responsible for confirming appointments of Working Group Chairs following successful vetting, formally documenting decisions, and communicating appointments clearly to all parties involved.
+
 ## Working Group Participation
 
 Participation in Working Groups is open to anyone with relevant interest and willingness to actively contribute, including non-members of OWASP. Working Group Chairs are responsible for clearly communicating participant expectations, maintaining a welcoming environment, and ensuring adherence to OWASP’s Code of Conduct.
