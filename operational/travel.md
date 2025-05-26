@@ -11,6 +11,7 @@ notice: 2025-04-28
 {% include draft-notice.html %}
 
 OWASP is a global nonprofit organization, with volunteers all over the world. As such, travel is occasionally necessary. Where possible, local volunteers or speakers should be chosen to minimize travel expenses. OWASP will not approve travel if there are local volunteers nearby. Please seek out local volunteers before proceeding with a pre-approval travel request. Travel covered by this policy is needs-based, and is not guaranteed simply because the traveler might be an OWASP leader, chosen to speak at an OWASP event, or a participant at a regulatory meeting. Travel pre-approval is more likely if there are budgeted funds available or through fundraising on behalf of the request.
+
 ## Scope
 
 This policy covers Board, volunteer, and participant travel for events, projects, or chapters, such as speakers or invited keynote speakers, project workshops or summits, chapter speakers, and any other pre-approved travel purpose, such as representing OWASP at regulatory bodies or at co-marketing events. All Board and volunteer travel must be pre-approved by the OWASP Foundation.
@@ -99,7 +100,7 @@ Large bulky gifts are unlikely to be welcomed by recipients as they will struggl
 
 OWASP does not provide cash advances for travel. Regular OWASP travelers should obtain a widely accepted credit card. Interest charges and fees are considered personal expenses and, therefore, will not be reimbursed.
 
-## Pre-approval process
+## Pre-Approval Process
 
 To gain pre-approval for your travel is via creating a Jira ticket in the Payment Approval and Request Service Desk:
 
@@ -109,7 +110,7 @@ To gain pre-approval for your travel is via creating a Jira ticket in the Paymen
 
 Once approved, please make your bookings. Small variances between your pre-approval amount and the final ticket price are acceptable. If your booked travel costs are more than about 5% more than the pre-approval, the lesser of the two amounts will be reimbursed, so book promptly once approved. Approval may take up to three business days, and prices vary. Plan your travel early.
 
-## Claiming your travel expenses
+## Claiming Your Travel Expenses
 
 To claim your travel expenses, within 30 days of your return from the trip, please create a Jira ticket in the Funding project \> Payment Approval Service Desk, and choose one of the following:
 
@@ -119,6 +120,6 @@ To claim your travel expenses, within 30 days of your return from the trip, plea
 
 Please include the pre-approval ticket number in your expense claim to ensure reimbursement. If you fail to submit your expense claim within 30 days of your return, your expense claim may be denied. All necessary details and receipts must be submitted to avoid delays in reimbursement.
 
-## Travel assistance
+## Travel Assistance
 
 To help perform our mission, if you need travel assistance OWASP might be able to help by paying for your flights and accommodation, or providing a scholarship or grant for qualified individuals, such as students, speakers, trainers, leaders, and Board members. Due to limited funds, please note this when you apply for pre-approval (see above). We may not be able to help you, so please apply for travel assistance as early as you can.
