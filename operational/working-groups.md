@@ -20,7 +20,7 @@ Working Groups (WGs) are critical operational units within OWASP, tasked with ac
 
 Working Groups are proposed by OWASP Members. Proposals to create a WG must be clearly aligned with OWASP’s strategic priorities and demonstrate tangible benefit to the OWASP community.
 
-Proposals must be submitted in the form of a Scope and Programme of Work and submitted to the OWASP Executive Director. The Scope and Programme of Work shall clearly describe:
+Proposals must be submitted in the form of a Scope and Program of Work and submitted to the OWASP Executive Director. The Scope and Program of Work shall clearly describe:
 
 * WG purpose and rationale  
 * Scope of work, goals, and key deliverables  
@@ -56,7 +56,7 @@ The Chairs Report will directly inform decisions to be made by the Executive Dir
 
 ## Lifecycle Management and Sunset Clause
 
-Working Groups will be periodically reviewed by the Executive Director. Each WG must clearly define measurable success criteria in their Scope and Programme of Work.
+Working Groups will be periodically reviewed by the Executive Director. Each WG must clearly define measurable success criteria in their Scope and Program of Work.
 
 Evaluations determine:
 
