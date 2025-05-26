@@ -9,6 +9,8 @@ tags: Rules of Procedure
 
 Approved by the OWASP Board of Directors on 2024-06-25
 
+NB: This published policy is currently under review, and may disagree with the Working Group policy. The Working Group policy takes precedence for Working Group matters until such time as the Committees Policy has been updated. This notice will be removed once this policy has been reviewed and approved by the Board.
+
 ## Introduction
 
 The OWASP Committees Policy devolves responsibility for in-scope outcomes to Committees and empowers OWASP members and the community to help shape OWASP.
