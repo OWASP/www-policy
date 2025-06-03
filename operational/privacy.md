@@ -1,6 +1,6 @@
 ---
 
-title: Privacy Policy (Draft WIP)
+title: Privacy Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
@@ -8,7 +8,7 @@ notice: 2021-01-23
 
 ---
 
-{% include draft-notice.html %}
+Approved by the Board of Directors on 2025-05-28.
 
 [ Reviewers - Please review the draft &#169; notice below detailing the provenance of this privacy policy. Please point out any issues with our fork, including any issues relating to programs OWASP does not have (such as certification) or software OWASP does not use. ]
 

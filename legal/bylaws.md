@@ -5,7 +5,7 @@ layout: col-sidebar
 
 ---
 
-Approved by Delaware Secretary of State on 2024-07-08
+Approved by Delaware Secretary of State on 2024-07-08. Updated by the Board of Directors on 2025-05-28.
 
 # BY-LAWS OF THE OWASP Foundation, INC
 

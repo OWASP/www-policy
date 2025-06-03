@@ -1,6 +1,6 @@
 ---
 
-title: Working Groups Policy (Draft WIP)
+title: Working Groups Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
@@ -8,7 +8,7 @@ notice: 2021-04-28
 
 ---
 
-{% include draft-notice.html %}
+Approved by the Board of Directors on 2025-05-28.
 
 NB: Where the Committees policy and this policy disagree, the Working Group policy takes precedence until such time as the Committee Policy has been updated to reflect the new working group policy. This notice will be removed once the Committee Policy has been updated.
 

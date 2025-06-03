@@ -1,6 +1,6 @@
 ---
 
-title: Board, Volunteer, and Participant Travel Policy (Draft WIP)
+title: Board, Volunteer, and Participant Travel Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
@@ -8,7 +8,7 @@ notice: 2025-04-28
 
 ---
 
-{% include draft-notice.html %}
+Approved by the Board of Directors on 2025-05-28.
 
 OWASP is a global nonprofit organization, with volunteers all over the world. As such, travel is occasionally necessary. Where possible, local volunteers or speakers should be chosen to minimize travel expenses. OWASP will not approve travel if there are local volunteers nearby. Please seek out local volunteers before proceeding with a pre-approval travel request. Travel covered by this policy is needs-based, and is not guaranteed simply because the traveler might be an OWASP leader, chosen to speak at an OWASP event, or a participant at a regulatory meeting. Travel pre-approval is more likely if there are budgeted funds available or through fundraising on behalf of the request.
 
