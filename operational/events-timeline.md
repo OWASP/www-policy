@@ -12,7 +12,7 @@ notice: 2025-06-10
 <div style="background-color: orange; color: black; padding: 10px; border-radius: 5px;">
   This is a DRAFT or SUBSTANTIALLY MODIFIED existing policy currently in an open review period.
     <div style="background-color: lightgreen; color: black; padding: 10px; border-radius: 5px;">
-      Members are invited to provide feedback on this draft policy until June 15, 2025. The Policy Review Team will respond to comments mailed from your <a>owasp.org</a> email address to <a href="mailto:policy-review@owasp.com?subject=Re: Privacy Policy (Draft WIP)">this address</a>.
+      Members are invited to provide feedback on this draft policy until July 11, 2025. The Policy Review Team will respond to comments mailed from your <a>owasp.org</a> email address to <a href="mailto:policy-review@owasp.com?subject=Re: Privacy Policy (Draft WIP)">this address</a>.
     </div>
 </div>
 
