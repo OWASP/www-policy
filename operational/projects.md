@@ -18,7 +18,7 @@ Projects are central to OWASP’s mission of achieving and promoting proper appl
 
 Project leaders serve as the main point of contact for their projects and are responsible for ensuring the project complies with all OWASP policies while fulfilling its mission and obligations.
 
-- Project leaders are not required to be members, but it is recommended to become one to promote membership.
+- Project leaders are required to be members
 - Project leadership is open to all participants. Leadership is personal, and not associated with any organization, company, or employer.
 - Each project must have a minimum of 2 and a maximum of 5 foundation-recognized, official leaders. In the event of a resignation, leadership transition, or new leadership being appointed, a project is allowed a grace period of up to 3 months from the event to comply.
 - A project leader should strive to be a leader of a small number of projects; spreading yourself too thin will likely lead to project failure.
