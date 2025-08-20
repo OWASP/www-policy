@@ -43,5 +43,5 @@ Handbooks to help Chapter, Project, and Event Leaders in their volunteer work.
 
 ## Others
 
-- [Employee Handbook](/www-policy/employee)
+- [Employee Handbook](/employee)
 

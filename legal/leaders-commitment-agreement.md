@@ -17,14 +17,14 @@ I further understand and agree that my violation of, or my failure to abide by, 
 
 In preparation for my term as a Leader, I have reviewed the documentation and materials posted on the Governance and Policies & Procedures pages on the OWASP website, and have read and understand, and as each may be applicable to my participation in OWASP in general and as a Leader, agree to comply with, the OWASP governing documents and other materials below:
 
-* [OWASP Foundation Bylaws](/www-policy/legal/bylaws) (“Bylaws”)
-* [Code of Conduct](/www-policy/operational/code-of-conduct)
-* [Conflict of Interest Policy](/www-policy/operational/conflict-of-interest) and [Annual Conflict Questionnaire](/www-policy/legal/conflict-of-interest-annual-questionnaire)
+* [OWASP Foundation Bylaws](/legal/bylaws) (“Bylaws”)
+* [Code of Conduct](/operational/code-of-conduct)
+* [Conflict of Interest Policy](/operational/conflict-of-interest) and [Annual Conflict Questionnaire](/legal/conflict-of-interest-annual-questionnaire)
 
 As part of my responsibilities as a Leader:
 
 1. I commit to serving as a Leader for a period of not less than two (2) years.
-2. I have read and acknowledge, and will stay apprised of any changes to, those [OWASP policies](/www-policy/), procedures, and guidelines applicable to the OWASP Chapter, Project, Event, Committee, or other team, of which I will serve as a Leader.
+2. I have read and acknowledge, and will stay apprised of any changes to, those [OWASP policies](/), procedures, and guidelines applicable to the OWASP Chapter, Project, Event, Committee, or other team, of which I will serve as a Leader.
 3. I will interpret OWASP’s work and values to the community, and provide notice of upcoming meetings, deadlines, and policy changes to the community.
 4. I will act in the best interests of OWASP, and excuse myself from activities where I have a conflict of interest, as such term is defined in the OWASP Conflict of Interest Policy, and will adhere to the OWASP Conflict of Interest Policy.
 5. In my capacity as Leader, I will act at all times for the good and benefit of OWASP, rather than for the benefit of myself or my employer.

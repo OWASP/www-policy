@@ -53,7 +53,7 @@ From time-to-time Mailing, List membership shall be audited by Group Owner(s), a
 
 ## Posting
 
-Generally, you must be a member of a list to post to an OWASP Mailing List. All use of and behavior on Mailing Lists, mainly posting, shall conform to the OWASP Foundation [Code of Conduct](/www-policy/operational/code-of-conduct). Posts and other behaviors related to Mailing Lists that violate the Code of Conduct should be reported to the Group Owner(s) and Group Manager(s) for Moderation up to and including removal of the post and if any resulting threads, along with banning of the individual who made the post on all OWASP Mailing Lists.
+Generally, you must be a member of a list to post to an OWASP Mailing List. All use of and behavior on Mailing Lists, mainly posting, shall conform to the OWASP Foundation [Code of Conduct](/operational/code-of-conduct). Posts and other behaviors related to Mailing Lists that violate the Code of Conduct should be reported to the Group Owner(s) and Group Manager(s) for Moderation up to and including removal of the post and if any resulting threads, along with banning of the individual who made the post on all OWASP Mailing Lists.
 
 ## Moderation
 
@@ -87,7 +87,7 @@ The community is invited to report deviations from the Mailing Lists defaults to
 
 ## Privacy
 
-Use of OWASP Mailing Lists is not private, and data about you and your behavior is collected and used according to the [OWASP Privacy Policy](/www-policy/operational/privacy). Your email address may be publicly exposed to visitors. In most cases, Mailing Lists are set to public, meaning anyone on the internet can view your comments and your identity; this is by design. Specific lists are not public like those in the owasp.com domain, but administrators and Group Owner(s) can always read and delete messages from any OWASP Mailing List without notice.
+Use of OWASP Mailing Lists is not private, and data about you and your behavior is collected and used according to the [OWASP Privacy Policy](/operational/privacy). Your email address may be publicly exposed to visitors. In most cases, Mailing Lists are set to public, meaning anyone on the internet can view your comments and your identity; this is by design. Specific lists are not public like those in the owasp.com domain, but administrators and Group Owner(s) can always read and delete messages from any OWASP Mailing List without notice.
 
 ## Sole Mailing List Policy
 

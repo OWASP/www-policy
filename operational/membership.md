@@ -12,7 +12,7 @@ Adopted by the Board of Directors on September 25, 2024
 
 ## Overview
 
-The OWASP Foundation is a member-led organization. Members serve as Board Members, Leaders, and volunteers for our community. Members have a vote in the election of OWASP Leaders. Membership is a privilege guided by the [Code of Conduct](/www-policy/operational/code-of-conduct), which has dues set by the OWASP Board of Directors, and are detailed below. Discounts are available for students, multi-year memberships, and for people living in developing economies. Complimentary membership is available for active leaders, and Distinguished Lifetime Membership may be granted by the Board of Directors for extraordinary service to OWASP and its mission over a long period of time.
+The OWASP Foundation is a member-led organization. Members serve as Board Members, Leaders, and volunteers for our community. Members have a vote in the election of OWASP Leaders. Membership is a privilege guided by the [Code of Conduct](/operational/code-of-conduct), which has dues set by the OWASP Board of Directors, and are detailed below. Discounts are available for students, multi-year memberships, and for people living in developing economies. Complimentary membership is available for active leaders, and Distinguished Lifetime Membership may be granted by the Board of Directors for extraordinary service to OWASP and its mission over a long period of time.
 
 ## Membership
 

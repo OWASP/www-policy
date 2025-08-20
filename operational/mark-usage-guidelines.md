@@ -52,8 +52,8 @@ d. ATTRIBUTION: OWASP Foundation requires you to attribute ownership of the OWAS
 
 Licensee shall comply with the following form requirements regarding the use of the OWASP Logo:
 
-![Logo + Wordmark w/ R](/www-policy/assets/images/OWASP_Logo_Black_R.png)
-![Logo + Wordmark w/ TM](/www-policy/assets/images/OWASP_Logo_Black_TM.png)
+![Logo + Wordmark w/ R](/assets/images/OWASP_Logo_Black_R.png)
+![Logo + Wordmark w/ TM](/assets/images/OWASP_Logo_Black_TM.png)
 
 a.  OBTAINING THE OWASP LOGO: OWASP Foundation will provide access to the graphic files depicting the OWASP Logo after Licensee and OWASP Foundation have both signed the required trademark license agreement. OWASP will provide one version of the OWASP Logo that contains an ® symbol next to the "OWASP" portion of the OWASP Logo for use in countries where the OWASP Word Mark is registered. And OWASP Foundation will provide a second version of the OWASP Logo that only shows the ™ symbol for use in countries where the mark is not registered. Licensee is only permitted to use the logo artwork files provided by OWASP Foundation.
 

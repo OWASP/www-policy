@@ -41,7 +41,7 @@ Expense reimbursement requests, along with receipts or invoices for each expense
 - Reimbursements are net banking fees and any applicable taxes.
 - Reimbursements will be made within 30 days, provided the information submitted is approved, complete, and accurate.
 
-Approvals for reimbursements shall follow the [signatory limits](/www-policy/operational/signatory2) of the OWASP Foundation.
+Approvals for reimbursements shall follow the [signatory limits](/operational/signatory2) of the OWASP Foundation.
 
 ***Please note all reimbursement request information, except payment instructions, will be shared publicly in various accounting reports, and by submitting an expense reimbursement, you agree to that disclosure.***
 

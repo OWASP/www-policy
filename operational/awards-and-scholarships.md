@@ -36,7 +36,7 @@ If approved, the organizers shall:
 
 Recipients should:
 
-- Where appropriate, submit for reimbursement within the time allotted according to the [expense policy](/www-policy/operational/expense-reimbursement)
+- Where appropriate, submit for reimbursement within the time allotted according to the [expense policy](/operational/expense-reimbursement)
 
 ### Awards
 
@@ -52,7 +52,7 @@ Trainers are encouraged, but not required, to waive their training fee for schol
 
 Scholarships assisting underserved or underrepresented communities may offer travel assistance to OWASP events, with a preference to serve local and regional events over costly international travel. Travel assistance can only be provided as part of a scholarship and should be on an as needs basis.
 
-Travel assistance must comply with the [travel policy (TBA)](#) and the [expense policy](/www-policy/operational/expense-reimbursement).
+Travel assistance must comply with the [travel policy (TBA)](#) and the [expense policy](/operational/expense-reimbursement).
 
 ### Naming
 
@@ -66,7 +66,7 @@ Awards, scholarships, and travel assistance should be fully funded, including by
 
 - Individual or corporate donations, sponsorships, or fundraising
 - Chapters, projects, events, or committees using local donations, sponsorships, or fundraising
-- An approved grant under the [grants policy](/www-policy/operational/grants)
+- An approved grant under the [grants policy](/operational/grants)
 - An approved annual Foundation budget line item
 - An affirmative board vote
 
@@ -100,7 +100,7 @@ Exemptions to this policy can be granted by the OWASP Executive Director and doc
 
 ### Conflicts of Interest
 
-Awards and scholarships are subject to the [conflict of interest policy](/www-policy/operational/conflict-of-interest). To prevent perceived or actual conflicts of interest, if an award or scholarship is potentially open to:
+Awards and scholarships are subject to the [conflict of interest policy](/operational/conflict-of-interest). To prevent perceived or actual conflicts of interest, if an award or scholarship is potentially open to:
 
 - Organizers who created or assisted with the submission or selection criteria
 - Members of the selection panel

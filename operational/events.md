@@ -57,15 +57,15 @@ Some primary drivers for OWASP events are that they should be fun, AppSec relate
 
 ### OWASP Code of Conduct
 
-All OWASP events must be conducted in a manner consistent with the [OWASP Mission](https://owasp.org/about/), [Core Values](https://owasp.org/about/#core-values), and [Code of Conduct](/www-policy/operational/code-of-conduct). 
+All OWASP events must be conducted in a manner consistent with the [OWASP Mission](https://owasp.org/about/), [Core Values](https://owasp.org/about/#core-values), and [Code of Conduct](/operational/code-of-conduct). 
 
 ### Event Code of Conduct
 
-To ensure a safe, constant learning and networking experience, OWASP Events shall conform to the [Conference & Event Attendee Policy](/www-policy/operational/conferences-events) and, in particular, its Anti-Harassment provisions. 
+To ensure a safe, constant learning and networking experience, OWASP Events shall conform to the [Conference & Event Attendee Policy](/operational/conferences-events) and, in particular, its Anti-Harassment provisions. 
 
 ### Attendee Privacy
 
-Organizers are required to follow the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure that personal information is collected and stored in compliance with local laws and regulations like GDPR.
+Organizers are required to follow the OWASP Foundation [Privacy Policy](/operational/privacy) and ensure that personal information is collected and stored in compliance with local laws and regulations like GDPR.
 
 Participation in OWASP Events are subject to locally applicable data protection regulations (for instance, see GDPR). Where conflicting local regulations exist, the most restrictive should be observed.
 
@@ -85,8 +85,8 @@ Leaders are responsible and accountable for planning the event, drawing up and m
 
 Some of those responsibilities include:
 
-- Ensure events are conducted in a manner consistent with the OWASP Mission, Principles, and [Code of Conduct](/www-policy/operational/code-of-conduct)
-- Comply with the OWASP Foundation [Privacy Policy](/www-policy/operational/privacy) and ensure that personal information is collected and stored in compliance with local laws and regulations like GDPR.
+- Ensure events are conducted in a manner consistent with the OWASP Mission, Principles, and [Code of Conduct](/operational/code-of-conduct)
+- Comply with the OWASP Foundation [Privacy Policy](/operational/privacy) and ensure that personal information is collected and stored in compliance with local laws and regulations like GDPR.
 - All event management logistics, budget management, website content, promotional items, site selection, catering, and venue
 - Manage facility space allocation and programming layout
 - Management of other meetings and receptions
@@ -214,7 +214,7 @@ Organizing teams should select speakers or trainers through a blind review proce
 
 ### Keynote, Speaker, and Training Agreements
 
-Presenters at OWASP Events must sign and adhere to the terms of the [speaker/trainer agreement](/www-policy/legal/speaker-agreement). This agreement forms part of this policy, so exemptions or amendments will need to be approved by the OWASP Board using the exemption process detailed above.  
+Presenters at OWASP Events must sign and adhere to the terms of the [speaker/trainer agreement](/legal/speaker-agreement). This agreement forms part of this policy, so exemptions or amendments will need to be approved by the OWASP Board using the exemption process detailed above.  
 
 Failure by presenters to execute this agreement within seven days of the event results in their session being canceled. 
 
@@ -256,7 +256,7 @@ All income, donations, ticketing, sponsorships, bartering arrangements, funds, a
 
 ### Expenses
 
-All expense reimbursements and payments will be paid in accordance with the [expense policy](/www-policy/operational/expense-reimbursement), with particular attention to the following:
+All expense reimbursements and payments will be paid in accordance with the [expense policy](/operational/expense-reimbursement), with particular attention to the following:
 
 Budgeted expenses are eligible for reimbursement as per the approved budget, but where an expense is less than the budget, the lower of the two will be reimbursed.
 

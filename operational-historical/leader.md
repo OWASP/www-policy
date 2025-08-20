@@ -63,7 +63,7 @@ Leaders are required to govern their group in accordance with OWASP Foundation p
 2. If you are unable to resolve at the local level, please contact staff through the Contact form.
 3. If staff is unable to handle your concern or you would like to challenge their feedback/decision, the concern can be raised with the OWASP Board of Directors.
 
-If you feel an Code of Ethics violation has occurred, you may review the [Whistleblower Policy](/www-policy/operational/whistleblower) for instructions on how to file a complaint.
+If you feel an Code of Ethics violation has occurred, you may review the [Whistleblower Policy](/operational/whistleblower) for instructions on how to file a complaint.
 
 ## Section 3: Administration
 
@@ -109,7 +109,7 @@ Proceedings of the OWASP Foundation including, but not limited to, Projects, Cha
 
 ## Section 5: Finance & Expenses
  
-From time to time in the course of a group's activities, leaders may incur expenses which maybe reimbursable by the OWASP Foundation. Generally the Foundation will reimburse leaders for fair and reasonable expenses. Prior to incurring expenses, Leaders must review the [Expense Policy](/www-policy/operational/expense-reimbursement) for complete details.
+From time to time in the course of a group's activities, leaders may incur expenses which maybe reimbursable by the OWASP Foundation. Generally the Foundation will reimburse leaders for fair and reasonable expenses. Prior to incurring expenses, Leaders must review the [Expense Policy](/operational/expense-reimbursement) for complete details.
 
 ### Guiding Principles
 
@@ -123,7 +123,7 @@ From time to time in the course of a group's activities, leaders may incur expen
 
 Leaders are encouraged to have supporters visit their respective Chapter or Project page and then click the DONATE button to connect gifts to their group. At the time of the donation, the donor may elect to attribute their gift to the referring OWASP website page as indicated by its title.
 
-**Recognizing Supporters**. Leaders are responsible for recognizing Supporters of their group. Recognition for monetary donations is outlined in the [Donation Policy](/www-policy/operational/donations) and should be regularly maintained and updated as frequently as possible.
+**Recognizing Supporters**. Leaders are responsible for recognizing Supporters of their group. Recognition for monetary donations is outlined in the [Donation Policy](/operational/donations) and should be regularly maintained and updated as frequently as possible.
 
 **Direct Support**. Supporters may elect to pay directly for group needs like signage, food, venue, etc. In these cases, the respective transaction is not a gift to the OWASP Foundation nor does it need to be tracked by Leaders.
 

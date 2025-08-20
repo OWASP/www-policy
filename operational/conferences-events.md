@@ -27,7 +27,7 @@ Since ticket sales are final, the Foundation does not offer refunds. The sole ex
 
 ### Privacy Policy Statement
 
-Your attendance at OWASP Foundation Events and the information you provide to participate in such are governed by the [OWASP Privacy Policy](/www-policy/operational/privacy). Additionally, please note in most cases, your event registration information is also provided to sponsors to whom you allow your badge to be scanned or business card collected.  Attendees are under no obligation to have their credentials scanned or collected, but certain event sponsors may limit your eligibility for special event giveaways or offers. If you do not wish to share your registration information with event sponsors, please do not allow your credentials to be scanned or collected.
+Your attendance at OWASP Foundation Events and the information you provide to participate in such are governed by the [OWASP Privacy Policy](/operational/privacy). Additionally, please note in most cases, your event registration information is also provided to sponsors to whom you allow your badge to be scanned or business card collected.  Attendees are under no obligation to have their credentials scanned or collected, but certain event sponsors may limit your eligibility for special event giveaways or offers. If you do not wish to share your registration information with event sponsors, please do not allow your credentials to be scanned or collected.
 
 During event registration and related communications, OWASP may collect the following information:
 
@@ -43,7 +43,7 @@ OWASP reserves the right to use images taken at conference and events with your 
 
 ### Conference and Event Anti-Harassment Policy
 
-Attendees, staff, sponsors, and exhibitors at Foundation Conferences and Events shall together provide a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of conference participants in any form. Additionally, participating in our events means you shall also adhere to the [Code of Conduct](/www-policy/operational/code-of-conduct).
+Attendees, staff, sponsors, and exhibitors at Foundation Conferences and Events shall together provide a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of conference participants in any form. Additionally, participating in our events means you shall also adhere to the [Code of Conduct](/operational/code-of-conduct).
 
 Conference participants who violate these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers. Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, or religion, and actions such as deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 

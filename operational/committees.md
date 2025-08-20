@@ -159,7 +159,7 @@ The Community may re-establish a dissolved Committee by following the same forma
 
 ### Dissolving due to Committee Mismanagement
 
-The Board, in its sole discretion, or after an upheld complaint via the [Whistleblower Complaint process](/www-policy/operational/whistleblower), can vacate some or all of a Committee’s leadership or dissolve a committee entirely. This covers:
+The Board, in its sole discretion, or after an upheld complaint via the [Whistleblower Complaint process](/operational/whistleblower), can vacate some or all of a Committee’s leadership or dissolve a committee entirely. This covers:
 
 - Breaches of Code of Conduct or relevant sections of the Board of Directors Code of Conduct, or continuing conduct that is inconsistent with the OWASP mission.
 - Abuse of governance, such as violating the Board’s primacy for strategy, policy, and oversight, rejection of Foundation mandates for operational matters, or abuse of accountable projects, chapters, events, other Committees, the Foundation, or the Board.
@@ -231,12 +231,12 @@ For the purposes of accountability and transparency, Committees should expect th
 
 ### Misconduct
 
-Committee members must abide by the OWASP Code of Conduct. A committee member can be reported [via the Whistleblower complaint process](/www-policy/operational/whistleblower) by OWASP members, other committee officers, Foundation staff, and the OWASP Board.
+Committee members must abide by the OWASP Code of Conduct. A committee member can be reported [via the Whistleblower complaint process](/operational/whistleblower) by OWASP members, other committee officers, Foundation staff, and the OWASP Board.
 
 The OWASP Board may sanction, declare leadership vacant, or dissolve a Committee to resolve a misconduct claim.
 
 ### Conflict Resolution
 
-Internal disputes within the scope (for example, within projects and the Projects Committee), the Committee is the first level of dispute resolution using the OWASP Conflict Resolution policy. If the issue remains, the dispute should be escalated to the Executive Director, [via the Whistleblower complaint process](/www-policy/operational/whistleblower), or the Board as required.
+Internal disputes within the scope (for example, within projects and the Projects Committee), the Committee is the first level of dispute resolution using the OWASP Conflict Resolution policy. If the issue remains, the dispute should be escalated to the Executive Director, [via the Whistleblower complaint process](/operational/whistleblower), or the Board as required.
 
 After mediation, the decision of the Compliance Team, Executive Director, or Board is final and binding.
