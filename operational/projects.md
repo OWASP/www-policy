@@ -63,7 +63,7 @@ We recommend project leaders set an [out of office notification](https://support
 
 ## Shared Services
 
-OWASP Foundation will provide projects with the following shared services at no cost. Projects are encouraged to make use of these. Access to these services can be obtained by submitting a ticket via [Contact Us](https://contact.owasp.org/). If, after 9 business days have passed, and reasonable efforts have been made to attempt to utilize shared services, no response is received, the project may, with due care, seek a reasonable alternative, filling out a [Project Funding Pre-Appoval](hthttps://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/70) ticket. [TBD - Grant Funding pre-approval]
+OWASP Foundation will provide projects with the following shared services at no cost. Projects are encouraged to make use of these. Access to these services can be obtained by submitting a ticket via [Contact Us](https://contact.owasp.org/). If, after 9 business days have passed, and reasonable efforts have been made to attempt to utilize shared services, no response is received, the project may, with due care, seek a reasonable alternative, filling out a [Project Funding Pre-Appoval](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/70) ticket. [TBD - Grant Funding pre-approval]
 
 - Project page on the owasp.org website.
 - Video conferencing and webinar facilities for virtual meetings and events, and hybrid in-person / virtual events.

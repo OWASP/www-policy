@@ -18,7 +18,7 @@ The OWASP Foundation is a member-led organization. Members serve as Board Member
 
 Membership is explicitly defined as people or corporations that pay dues along with those granted by the Board of Directors. Nearly all OWASP activities are open to both members and nonmembers. Some example activities include participating in a Project or Chapter, attending chapter meetings, joining mailing lists or attending events. Merely participating in the activities of the OWASP Foundation does not make that person a Member; membership includes only those who pay dues to the OWASP Foundation.
 
-Individual Members can check their Membership Status, renewal dates, and for auto-renewing Memberships update their billing information by visiting the [Manage your Membership Form](/manage-membership). Members must provide the email address used when applying for membership, and if a member matches that address, an email will be sent to verify or update membership.
+Individual Members can check their Membership Status, renewal dates, and for auto-renewing Memberships update their billing information by visiting the [OWASP Membership portal](https://members.owasp.org). Members must provide the email address used when applying for membership, and if a member matches that address, an email will be sent to verify or update membership.
 
 Members in "good standing" are defined as those who have paid dues appropriate with their membership level while also not subject to any disciplinary action(s) by the OWASP Foundation. When determining "continuous" membership status, a grace period of seven (7) days is permitted between the expiration and resumption of a person's membership.
 
@@ -39,7 +39,7 @@ While the Foundation will make diligent efforts to inform members of their membe
 
 ## Becoming an Individual Member
 
-Individuals can only become members of the OWASP Foundation by completing the [Membership Form](/membership) on our website and paying dues, and complying with the following conditions:
+Individuals can only become members of the OWASP Foundation by completing the [Membership application on the OWASP Members portal](https://members.owasp.org) and paying dues, and complying with the following conditions:
 
 - Membership dues are to be paid by the Member and cannot be subsidized or funded by OWASP Projects, Chapters, or Events.
 - Applicants must provide their country of residence, postal code, email address, name, and billing information. These details are subject to GDPR privacy protections, and the Foundation will not share private information without consent.

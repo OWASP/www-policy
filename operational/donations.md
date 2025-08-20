@@ -17,7 +17,7 @@ The OWASP Foundation is a U.S. 501(c)3 and accepts donations through its website
 - Restricting donations are only supported for amounts greater than or equal to $1,000
 - Confirmation is required to submit a Restricted Donation
 
-The website [DONATE form](/donate) is the sole online option for the processing and collection of donations and support.
+The website [DONATE form](https://owasp.org/donate) is the sole online option for the processing and collection of donations and support.
 
 ## Unrestricted Donations
 

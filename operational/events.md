@@ -395,7 +395,7 @@ Swag, if offered, should be financially responsible, environmentally friendly, i
 
 Please work with the Foundation to obtain a supply of membership pins, both individual and lifetime. These should only be handed out to OWASP Members of the appropriate membership type.
 
-We encourage events to hand out OWASP, event, or membership stickers, pins, or coins as a marketing cost, but please ensure that costs for these are financially responsible. For example, giving away a $25 t-shirt for a $50 event does not make sense. Designs are maintained in the [Events In a Box](TBA), so you can have these items made locally to reduce costs.
+We encourage events to hand out OWASP, event, or membership stickers, pins, or coins as a marketing cost, but please ensure that costs for these are financially responsible. For example, giving away a $25 t-shirt for a $50 event does not make sense. Designs are maintained in the Events In a Box, so you can have these items made locally to reduce costs.
 
 ## Enhancing our mission through profit sharing
 
