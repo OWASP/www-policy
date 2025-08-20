@@ -74,4 +74,4 @@ Accordingly, in order to assist the Board in governing, promoting and ensuring p
 
 ## Sanctions
 
-The Board may remove a Director due to any violation of the Board Code of Conduct pursuant to the last sentence of [Section 4.5 of the OWASP By-laws](https://owasp.org/www-policy/legal/bylaws#section-45-resignation-and-removal).
+The Board may remove a Director due to any violation of the Board Code of Conduct pursuant to the last sentence of [Section 4.5 of the OWASP By-laws](https://policy.owasp.org/legal/bylaws#section-45-resignation-and-removal).

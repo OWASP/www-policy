@@ -40,5 +40,5 @@ If selected, the Event Team must acknowledge receipt of and their agreement with
 
 
 Please 
-<a href="https://owasp.org/www-policy/operational/events" target="_blank" rel="noopener noreferrer">click here</a>
+<a href="https://policy.owasp.org/operational/events" target="_blank" rel="noopener noreferrer">click here</a>
  to view the existing and remaining events policy.

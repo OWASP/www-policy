@@ -23,7 +23,7 @@ The primary purpose of the OWASP Community Review (CR) is to systematically impr
 ## Review/Approval Process
 
 1. The Community Review process is initiated when a new policy is needed, or an existing policy needs to be revised.
-2. Once the policy has been developed or revised and ready for review, it will be uploaded to [https://owasp.org/www-policy/](https://owasp.org/www-policy/) and the title will be labeled with "(Draft WIP)".
+2. Once the policy has been developed or revised and ready for review, it will be uploaded to [https://policy.owasp.org/](https://policy.owasp.org/) and the title will be labeled with "(Draft WIP)".
 3. When the Review Process will begin, an email notification will be sent to all OWASP Members.
 4. Only those who are OWASP Members are eligible to review and submit comments on the policy.
 

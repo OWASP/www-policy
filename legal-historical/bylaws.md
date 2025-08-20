@@ -312,7 +312,7 @@ Amendments to the these bylaws and organizational policies should comply with RO
 
 ### DOCUMENT HISTORY and Historical Versions
 
-Starting in March 2017, the OWASP Bylaws have been moved to a [https://owasp.org/www-policy/ git repository](https://owasp.org/www-policy/) to track all future changes.  Prior to that transition, new PDF versions were created upon every update. Those historical version can be obtained by using [Contact Us](https://owasp.org/contact/).
+Starting in March 2017, the OWASP Bylaws have been moved to a [https://policy.owasp.org/ git repository](https://policy.owasp.org/) to track all future changes.  Prior to that transition, new PDF versions were created upon every update. Those historical version can be obtained by using [Contact Us](https://owasp.org/contact/).
 
 ### US Sanctioned Countries
 

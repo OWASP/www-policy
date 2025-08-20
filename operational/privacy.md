@@ -16,7 +16,7 @@ OWASP’s core purpose is to advance the state of application security, through 
 
 For purposes of the GDPR, OWASP is the controller of your personal information. Where the processing of personal information is undertaken by our affiliates, subsidiaries, and related entities, they are a joint controller with OWASP for your personal information.
 
-Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [General Disclaimer](https://owasp.org/www-policy/operational/general-disclaimer) or, if you engage with OWASP, then those defined in various OWASP platforms (as applicable, the "Terms"). In this Privacy Policy, "personal information" includes references to "personal data" as defined under applicable laws. Your use of our Sites and Services, and any dispute over privacy, is subject to this Policy and the relevant Terms, including the applicable limitations on damages and the resolution of disputes. The Terms are incorporated by reference into this Policy.
+Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [General Disclaimer](https://policy.owasp.org/operational/general-disclaimer) or, if you engage with OWASP, then those defined in various OWASP platforms (as applicable, the "Terms"). In this Privacy Policy, "personal information" includes references to "personal data" as defined under applicable laws. Your use of our Sites and Services, and any dispute over privacy, is subject to this Policy and the relevant Terms, including the applicable limitations on damages and the resolution of disputes. The Terms are incorporated by reference into this Policy.
 
 ## Personal Information That OWASP Collects
 

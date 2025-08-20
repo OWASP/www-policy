@@ -17,10 +17,10 @@ As a Director, I acknowledge and agree that I have fiduciary, legal and ethical 
 
 I have read, understand, and agree to comply with the following when serving as a Director:
 
-- [OWASP Foundation By-Laws](https://owasp.org/www-policy/legal/bylaws)
-- All [OWASP Policies](https://owasp.org/www-policy/)
-- [OWASP Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct)
-- [OWASP Board of Directors’ Code of Conduct](https://owasp.org/www-policy/operational/board-code-of-conduct)
+- [OWASP Foundation By-Laws](https://policy.owasp.org/legal/bylaws)
+- All [OWASP Policies](https://policy.owasp.org/)
+- [OWASP Code of Conduct](https://policy.owasp.org/operational/code-of-conduct)
+- [OWASP Board of Directors’ Code of Conduct](https://policy.owasp.org/operational/board-code-of-conduct)
 
 Additionally:
 

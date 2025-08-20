@@ -63,18 +63,18 @@ Expenses are available to all Chapters, Projects, Committees, Foundation staff, 
 
 The Board funds the expense pool via the annual budget at their sole discretion, topped up by donations, event profit shares, and directed sponsorships. The OWASP Corporate Membership program may in the future include the ability to help fund the expenses pool by directing a portion of the membership fee to selected or all chapters, projects, and committees.
 
-The expense pool has a monthly spend limit. If the monthly limit is exceeded, the Executive Director, Treasurer, or Global Board may choose to bring forward future months or top up the expense pool at their discretion per [signatory limits](https://owasp.org/www-policy/operational/signatory2).
+The expense pool has a monthly spend limit. If the monthly limit is exceeded, the Executive Director, Treasurer, or Global Board may choose to bring forward future months or top up the expense pool at their discretion per [signatory limits](https://policy.owasp.org/operational/signatory2).
 
-Awards and Scholarships will be funded per the [Awards and Scholarships Policy](https://owasp.org/www-policy/operational/awards-and-scholarships) via specific sponsorships, donations, or grants and not from the expense pool. Unfunded Awards or Scholarships with no balance cannot reimburse expenses. Awards and Scholarships are not transferrable, and if not used for the nominated purpose, funds are returned to the Expenses pool to further our mission in other ways.
+Awards and Scholarships will be funded per the [Awards and Scholarships Policy](https://policy.owasp.org/operational/awards-and-scholarships) via specific sponsorships, donations, or grants and not from the expense pool. Unfunded Awards or Scholarships with no balance cannot reimburse expenses. Awards and Scholarships are not transferrable, and if not used for the nominated purpose, funds are returned to the Expenses pool to further our mission in other ways.
 
-Events can use the reimbursement processes defined below but will be funded via their budget, profit, and loss, governed by the [Events Policy](https://owasp.org/www-policy/operational/events). The event expenses will be drawn from the seed funds and income, not the general expense pool. Seeding for events may be funded by the Executive Director or Board at their discretion and within [signatory limits](https://owasp.org/www-policy/operational/signatory2) per the Events Policy.
+Events can use the reimbursement processes defined below but will be funded via their budget, profit, and loss, governed by the [Events Policy](https://policy.owasp.org/operational/events). The event expenses will be drawn from the seed funds and income, not the general expense pool. Seeding for events may be funded by the Executive Director or Board at their discretion and within [signatory limits](https://policy.owasp.org/operational/signatory2) per the Events Policy.
 <!-- TODO -->
 <!-- Reword - not sure what the intent is here -->
-Grants will be funded through donations, sponsorship, or Board seeding. Expenses from grants will be drawn from the grant until fully drawn down, per the [Grants Policy](https://owasp.org/www-policy/operational/grants). Unfunded grants or grants with no balance cannot reimburse expenses.
+Grants will be funded through donations, sponsorship, or Board seeding. Expenses from grants will be drawn from the grant until fully drawn down, per the [Grants Policy](https://policy.owasp.org/operational/grants). Unfunded grants or grants with no balance cannot reimburse expenses.
 
 ### Treatment of donations
 
-Donations to projects, chapters, committees, and events will be added to the expense pool with no administrative fee other than financial institution fees. Events can choose to fund the expense pool with no administrative fee from their net profit split. Restricted donations will be kept separate and are net the OWASP administration fee per the [Donations policy](https://owasp.org/www-policy/operational/donations).
+Donations to projects, chapters, committees, and events will be added to the expense pool with no administrative fee other than financial institution fees. Events can choose to fund the expense pool with no administrative fee from their net profit split. Restricted donations will be kept separate and are net the OWASP administration fee per the [Donations policy](https://policy.owasp.org/operational/donations).
 
 ## Large Chapter meeting annual pre-approval
 
@@ -92,7 +92,7 @@ Chapters can choose to apply for individual pre-approvals per the Reimbursement 
 
 Projects expenses below USD \$2500 must follow the reimbursement process above, with some additional requirements:
 
-Between USD \$250 and USD \$2500, Projects should use the [Grants Policy](https://owasp.org/www-policy/operational/grants) by preference to encourage accountability for deliverables and obtain sponsorship to assist with pre-approval.
+Between USD \$250 and USD \$2500, Projects should use the [Grants Policy](https://policy.owasp.org/operational/grants) by preference to encourage accountability for deliverables and obtain sponsorship to assist with pre-approval.
 Above USD \$2500, projects must use grants and not expenses for funding.
 
 ## Event expenses
@@ -101,7 +101,7 @@ Events are required to adhere to the approved Event budget when submitting expen
 
 Events with an approved budget can process budgeted expenses below USD \$250 with a receipt and a single leader approval. For expenses above USD \$250 and up to USD \$2,500, requires invoices or receipts and leader co-approval. Above $2,500, Event leaders must submit invoices to be paid through OWASP's invoicing process, again with co-approval. In all cases, the amount to be paid must be within the Event's approved budget.
 
-Events must follow the [Events policy](https://owasp.org/www-policy/operational/events) when choosing to out-source activities, contracting local logistics, or out-task activities, such as graphic designers. [Travel](TBA) and [Awards and Scholarships](https://owasp.org/www-policy/operational/awards-and-scholarships) Policies apply to Event expenses in these categories.
+Events must follow the [Events policy](https://policy.owasp.org/operational/events) when choosing to out-source activities, contracting local logistics, or out-task activities, such as graphic designers. [Travel](TBA) and [Awards and Scholarships](https://policy.owasp.org/operational/awards-and-scholarships) Policies apply to Event expenses in these categories.
 
 Variances above the budgeted amount require pre-approval. If an unexpected expense occurs, please submit pre-approval before committing OWASP to pay the expense. The Foundation will not pay unbudgeted or unapproved event expenses.
 

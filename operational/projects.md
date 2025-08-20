@@ -98,7 +98,7 @@ Projects must use OWASP's recommended contributor agreement, [DCO](https://githu
 
 ### Subdomains
 * Projects may request subdomains of the format <subdomain>.owasp.org. OWASP does not cover the cost of existing domains that are not a sub-domain of owasp.org unless those domains redirect to an official subdomain.owasp.org. Expenses will not be paid for any other domain held by a project.
-* OWASP branding (including OWASP logo, links to the official owasp.org website, project home page, and repo) should be prominent on sub-domains or alternative domains maintained by the project. This branding should adhere to the [OWASP Branding Guidelines](https://owasp.org/www-policy/operational/branding.html).
+* OWASP branding (including OWASP logo, links to the official owasp.org website, project home page, and repo) should be prominent on sub-domains or alternative domains maintained by the project. This branding should adhere to the [OWASP Branding Guidelines](https://policy.owasp.org/operational/branding.html).
 
 ## Inactive Projects
 
@@ -115,9 +115,9 @@ Projects are overseen on an operational basis by the [Project Committee](https:/
 
 ### Code of Conduct and Other Relevant Policies
 
-All leaders must follow and adhere to all OWASP Foundation [policies and procedures](https://owasp.org/www-policy/), which are in a central repository. As a US-based 501 (c)(3) non-profit organization, OWASP must follow specific financial and legal guidelines that can change from time to time.
+All leaders must follow and adhere to all OWASP Foundation [policies and procedures](https://policy.owasp.org/), which are in a central repository. As a US-based 501 (c)(3) non-profit organization, OWASP must follow specific financial and legal guidelines that can change from time to time.
 
-Projects operate with a great deal of freedom; however, projects must abide by the latest approved [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct), [Foundation Bylaws](https://owasp.org/www-policy/legal/bylaws), and these [policies and procedures](https://owasp.org/www-policy/). Copies of older versions are not relevant.
+Projects operate with a great deal of freedom; however, projects must abide by the latest approved [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct), [Foundation Bylaws](https://policy.owasp.org/legal/bylaws), and these [policies and procedures](https://policy.owasp.org/). Copies of older versions are not relevant.
 
 ### Privacy
 
@@ -125,19 +125,19 @@ OWASP membership and participation in project meetings are subject to locally ap
 
 ### Submitting Expenses
 
-Project related expenses incurred while holding a project meeting within the geographic area of the project itself must comply with the [expense policy](https://owasp.org/www-policy/operational/expense-reimbursement) and must be submitted within 60 days.
+Project related expenses incurred while holding a project meeting within the geographic area of the project itself must comply with the [expense policy](https://policy.owasp.org/operational/expense-reimbursement) and must be submitted within 60 days.
 
 ### Memberships
 
-Memberships must be processed per the [membership policy](https://owasp.org/www-policy/operational/membership)
+Memberships must be processed per the [membership policy](https://policy.owasp.org/operational/membership)
 
 ### Donations
 
-All donations must comply with and be processed per the foundation [donation policy](https://owasp.org/www-policy/operational/donations).
+All donations must comply with and be processed per the foundation [donation policy](https://policy.owasp.org/operational/donations).
 
 ### Paid Events
 
-Projects wishing to create paid events like training and workshops should review the [events policy](https://owasp.org/www-policy/operational/events) for more information. Payments for training, workshops, and other events will be made in accordance with the [expense policy](https://owasp.org/www-policy/operational/expense-reimbursement).
+Projects wishing to create paid events like training and workshops should review the [events policy](https://policy.owasp.org/operational/events) for more information. Payments for training, workshops, and other events will be made in accordance with the [expense policy](https://policy.owasp.org/operational/expense-reimbursement).
 
 ### Projects are Not Legal Entities
 
@@ -149,7 +149,7 @@ As projects are not legal entities, all membership dues and funds must be proces
 
 ### Signing Authority
 
-Projects operate under the aegis and policies of the OWASP Foundation and are subject to the [OWASP signing policy](https://owasp.org/www-policy/operational/signatory2). As non-legal entities, project leaders and members of projects cannot sign contracts or enter into agreements with commercial organizations. All such agreements should be referred to the OWASP Foundation for pre-approval and possible signing.
+Projects operate under the aegis and policies of the OWASP Foundation and are subject to the [OWASP signing policy](https://policy.owasp.org/operational/signatory2). As non-legal entities, project leaders and members of projects cannot sign contracts or enter into agreements with commercial organizations. All such agreements should be referred to the OWASP Foundation for pre-approval and possible signing.
 
 ### Supporters and Bartering Arrangements
 
@@ -161,13 +161,13 @@ OWASP has various dispute resolution mechanisms. Please [contact the Compliance 
 
 Project members and leaders can use the following policies and reporting mechanisms to resolve disputes or to report code of conduct breaches, violations of policy, or financial requirements:
 
-- [Conflict resolution policy](https://owasp.org/www-policy/operational/conflict-resolution) for most disputes between participants.
-- [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct) policy for ethical or conduct breaches.
-- [Conflict of Interest](https://owasp.org/www-policy/operational/conflict-of-interest) policy for dealing with real or apparent financial or ethical dualities of interest.
+- [Conflict resolution policy](https://policy.owasp.org/operational/conflict-resolution) for most disputes between participants.
+- [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct) policy for ethical or conduct breaches.
+- [Conflict of Interest](https://policy.owasp.org/operational/conflict-of-interest) policy for dealing with real or apparent financial or ethical dualities of interest.
 - The [OWASP Project Committee](https://owasp.org/www-committee-project/) is the first point of escalation.
   - The [Executive Director](https://owasp.org/corporate/) as the second point of escalation, and finally.
   - the [Global Board](https://owasp.org/www-board/).
-- To report severe violations of policy, financial, or fiduciary misconduct, please refer to the [whistleblower and anti-retaliation policy](https://owasp.org/www-policy/operational/whistleblower).
+- To report severe violations of policy, financial, or fiduciary misconduct, please refer to the [whistleblower and anti-retaliation policy](https://policy.owasp.org/operational/whistleblower).
 
 ### Sanctioned Countries and Leaders
 

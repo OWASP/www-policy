@@ -107,7 +107,7 @@ Awards and scholarships are subject to the [conflict of interest policy](/www-po
 - Involved chapter, project, or event leaders, or relevant committee members
 - Foundation staff or Board members
 
-an [ethical barrier](https://owasp.org/www-policy/operational/conflict-of-interest) is required, such as recusal from decision making. Ethical barriers will be reviewed and approved by the Executive Director during the application process.
+an [ethical barrier](https://policy.owasp.org/operational/conflict-of-interest) is required, such as recusal from decision making. Ethical barriers will be reviewed and approved by the Executive Director during the application process.
 
 Organizers must report applicable ethical barriers used in deciding the award or scholarship.
 

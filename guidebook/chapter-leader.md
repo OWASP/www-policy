@@ -38,7 +38,7 @@ If you have found an international speaker who is not able to pay for the travel
 
 ### Speaker Agreement
 
-Chapters are not required to have speakers sign the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) as part of their agreement or confirmation for the event. However, if you think OWASP values and principles may be an issue or are concerned that the speaker does not understand the terms of the arrangement, you may consider sending them this [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement).
+Chapters are not required to have speakers sign the [OWASP Speaker Agreement](https://policy.owasp.org/legal/speaker-agreement) as part of their agreement or confirmation for the event. However, if you think OWASP values and principles may be an issue or are concerned that the speaker does not understand the terms of the arrangement, you may consider sending them this [speaker agreement](https://policy.owasp.org/legal/speaker-agreement).
 
 ### Meeting Venue
 

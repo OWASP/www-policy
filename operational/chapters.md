@@ -37,7 +37,7 @@ Chapter leaders serve as the main point of contact for their chapters and are re
 Chapters must be discoverable by new and existing members and participants.
 
 - Chapter activities must appear on the owasp.org website.
-- It is strongly recommended to use OWASP’s official chapter and event scheduling platform. The foundation pays event platform fees for active chapters. If you use another platform, [OWASP may not reimburse these expenses](https://owasp.org/www-policy/operational/expense-reimbursement). If you do use the foundation’s scheduling service, your chapter’s group account must be defined under the OWASP Foundation account to provide continuity for chapter members in case chapter leadership becomes inactive.
+- It is strongly recommended to use OWASP’s official chapter and event scheduling platform. The foundation pays event platform fees for active chapters. If you use another platform, [OWASP may not reimburse these expenses](https://policy.owasp.org/operational/expense-reimbursement). If you do use the foundation’s scheduling service, your chapter’s group account must be defined under the OWASP Foundation account to provide continuity for chapter members in case chapter leadership becomes inactive.
 - If you do not use OWASP’s official event platform, you must ensure your events are synchronized (whether automatically or manually) to your chapter page on the owasp.org website.
 - Each chapter is responsible for creating and maintaining their owasp.org chapter home page (see also [Starting a New Chapter](#starting-a-new-chapter) and [Meetings and Activity Requirements](#meetings-and-activity-requirements)).
 - A list of the current leaders and email addresses must be listed on the Chapter’s web page on owasp.org. It is highly encouraged that leaders use their @owasp.org email address on these pages.
@@ -46,7 +46,7 @@ Chapters must be discoverable by new and existing members and participants.
 
 - Attendees do not need to be members. All members of the public are allowed to attend OWASP meetings. However, reasonable restricted chapter events and activities may be organized in addition to regular meetings.
 - Chapter meetings must be free.
-- Chapters should host a minimum of 3 chapter activities a year to maintain an active OWASP chapter. The activity can be in person, virtual, or an [approved OWASP event](https://owasp.org/www-policy/operational/events) run by the OWASP chapter (or in collaboration with another chapter or external organization with the approval of the foundation).
+- Chapters should host a minimum of 3 chapter activities a year to maintain an active OWASP chapter. The activity can be in person, virtual, or an [approved OWASP event](https://policy.owasp.org/operational/events) run by the OWASP chapter (or in collaboration with another chapter or external organization with the approval of the foundation).
 - Chapter activities are for the benefit of the community, and could include, but are not limited to:
   - Chapter meetings (traditional meetups)
   - Training days
@@ -156,9 +156,9 @@ Chapters are overseen on an operational basis by the [Chapter Committee](https:/
 
 ### Code of Conduct and Other Relevant Policies
 
-All leaders must follow and adhere to all OWASP Foundation [policies and procedures](https://owasp.org/www-policy/), which are in a central repository. As a US-based 501 (c)(3) non-profit organization, OWASP must follow specific financial and legal guidelines that can change from time to time.
+All leaders must follow and adhere to all OWASP Foundation [policies and procedures](https://policy.owasp.org/), which are in a central repository. As a US-based 501 (c)(3) non-profit organization, OWASP must follow specific financial and legal guidelines that can change from time to time.
 
-Chapters operate with a great deal of freedom; however, chapters must abide by the latest approved [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct), [Foundation Bylaws](https://owasp.org/www-policy/legal/bylaws), and these [policies and procedures](https://owasp.org/www-policy/). Copies of older versions are not relevant.
+Chapters operate with a great deal of freedom; however, chapters must abide by the latest approved [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct), [Foundation Bylaws](https://policy.owasp.org/legal/bylaws), and these [policies and procedures](https://policy.owasp.org/). Copies of older versions are not relevant.
 
 ### Privacy
 
@@ -166,19 +166,19 @@ OWASP membership and participation in chapter meetings are subject to locally ap
 
 ### Submitting Expenses
 
-Chapter related expenses incurred while holding a chapter meeting within the geographic area of the chapter itself must comply with the [expense policy](https://owasp.org/www-policy/operational/expense-reimbursement) and must be submitted within 60 days.
+Chapter related expenses incurred while holding a chapter meeting within the geographic area of the chapter itself must comply with the [expense policy](https://policy.owasp.org/operational/expense-reimbursement) and must be submitted within 60 days.
 
 ### Memberships
 
-Members are the lifeblood of chapters. Memberships must be processed per the [membership policy](https://owasp.org/www-policy/operational/membership)
+Members are the lifeblood of chapters. Memberships must be processed per the [membership policy](https://policy.owasp.org/operational/membership)
 
 ### Donations
 
-All donations must comply with and be processed per the foundation [donation policy](https://owasp.org/www-policy/operational/donations).
+All donations must comply with and be processed per the foundation [donation policy](https://policy.owasp.org/operational/donations).
 
 ### Paid Events
 
-Chapters wishing to create paid events like training and workshops should review the [events policy](https://owasp.org/www-policy/operational/events) for more information. Payments for training, workshops, and other events will be made in accordance with the [expense policy](https://owasp.org/www-policy/operational/expense-reimbursement).
+Chapters wishing to create paid events like training and workshops should review the [events policy](https://policy.owasp.org/operational/events) for more information. Payments for training, workshops, and other events will be made in accordance with the [expense policy](https://policy.owasp.org/operational/expense-reimbursement).
 
 ### Chapters are Not Legal Entities
 
@@ -190,7 +190,7 @@ As chapters are not legal entities, all membership dues and funds must be proces
 
 ### Signing Authority
 
-Chapters operate under the aegis and policies of the OWASP Foundation and are subject to the [OWASP signing policy](https://owasp.org/www-policy/operational/signatory2). As non-legal entities, chapters leaders and members of chapters cannot sign contracts or enter into agreements with commercial organizations. All such agreements should be referred to the OWASP Foundation for pre-approval and possible signing.
+Chapters operate under the aegis and policies of the OWASP Foundation and are subject to the [OWASP signing policy](https://policy.owasp.org/operational/signatory2). As non-legal entities, chapters leaders and members of chapters cannot sign contracts or enter into agreements with commercial organizations. All such agreements should be referred to the OWASP Foundation for pre-approval and possible signing.
 
 ### Supporters and Bartering Arrangements
 
@@ -202,12 +202,12 @@ OWASP has various dispute resolution mechanisms. Please [contact the Compliance 
 
 Chapter members and leaders can use the following policies and reporting mechanisms to resolve disputes or to report code of conduct breaches, violations of policy, or financial requirements:
 
-- [Conflict resolution policy](https://owasp.org/www-policy/operational/conflict-resolution) for most disputes between participants.
-- [Code of Conduct](https://owasp.org/www-policy/operational/code-of-conduct) policy for ethical or conduct breaches.
+- [Conflict resolution policy](https://policy.owasp.org/operational/conflict-resolution) for most disputes between participants.
+- [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct) policy for ethical or conduct breaches.
 - The [OWASP Chapter Committee](https://owasp.org/www-committee-chapter/) is the first point of escalation.
   - The [Executive Director](https://owasp.org/corporate/) as the second point of escalation, and finally.
   - the [Global Board](https://owasp.org/www-board/).
-- To report severe violations of policy, financial, or fiduciary misconduct, please refer to the [whistleblower and anti-retaliation policy](https://owasp.org/www-policy/operational/whistleblower).
+- To report severe violations of policy, financial, or fiduciary misconduct, please refer to the [whistleblower and anti-retaliation policy](https://policy.owasp.org/operational/whistleblower).
 
 ### Sanctioned Countries and Leaders
 
