@@ -13,7 +13,7 @@ Policies and Procedures adopted by the Global Board for OWASP Operations. Last e
 <ul>
 {% for page in pages %}
  {% if page.path contains 'operational/' %}
- <li><a href="/{{ page.url | replace: '.html', '' }}">{{ page.title }}</a></li>
+ <li><a href="https://policy.owasp.org{{ page.url | replace: '.html', '' }}">{{ page.title }}</a></li>
  {% endif %}
 {% endfor %}
 </ul>
@@ -25,7 +25,7 @@ Handbooks to help Chapter, Project, and Event Leaders in their volunteer work.
 <ul>
 {% for page in pages %}
  {% if page.path contains 'guidebook/' %}
- <li><a href="/{{ page.url | replace: '.html', '' }}">{{ page.title }}</a></li>
+ <li><a href="https://policy.owasp.org{{ page.url | replace: '.html', '' }}">{{ page.title }}</a></li>
  {% endif %}
 {% endfor %}
 </ul>
@@ -36,12 +36,7 @@ Handbooks to help Chapter, Project, and Event Leaders in their volunteer work.
 <ul>
 {% for page in pages %}
  {% if page.path contains 'legal/' %}
- <li><a href="/{{ page.url | replace: '.html', '' }}">{{ page.title }}</a></li>
+ <li><a href="https://policy.owasp.org{{ page.url | replace: '.html', '' }}">{{ page.title }}</a></li>
  {% endif %}
 {% endfor %}
 </ul>
-
-## Others
-
-- [Employee Handbook](/employee)
-
