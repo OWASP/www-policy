@@ -59,7 +59,7 @@ In connection with the foregoing, the Foundation intends to engage in some or al
 
 Each Individual Member, while in good standing, shall be entitled to:
 
-(a) run for election as a member of the Board of Directors (each a "Director") per the Foundation [Board Directors policy](https://policy.owasp.org/operational/election) approved by the Board of Directors (the “Directors policy”)
+(a) run for election as a member of the Board of Directors (each a "Director") per the Foundation [Board Directors policy](https://policy.owasp.org/operational/director) approved by the Board of Directors (the “Directors policy”)
 
 (b) vote on a "one vote per Member" basis in elections of Directors in accordance with the Directors policy
 
