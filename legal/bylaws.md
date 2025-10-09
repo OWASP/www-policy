@@ -53,15 +53,15 @@ In connection with the foregoing, the Foundation intends to engage in some or al
 
 (b) A Member shall remain in good standing as a Member, provided such Member complies with the terms and conditions of the Foundation's Certificate of Incorporation ("Certificate of Incorporation"), By-laws, Membership Application, and such rules and policies as the Board of Directors and/or any committees thereof (each a "Board Committee") may from time to time adopt (collectively, “Foundation Policies”), including without limitation, timely payment of all fees and penalties for late payment as may be determined by the Board of Directors (such Fees and penalties are collectively referred to in the By-laws as "Financial Obligations," and all of the foregoing good standing requirements are collectively referred to in the By-laws as "Membership Obligations")
 
-(c) For purposes of these By-laws, “Foundation Policies” shall include, without limitation, the Foundation’s Code of Conduct, the Foundation’s Membership Policy, Elections Policy, Committees Policy, Signatory Policy, Grant Policy and IPR Policy (each as defined elsewhere in these By-laws), and all provisions of all other applicable Foundation policies, agreements, and any other operational and/or good standing policies, such as grace periods and policies around technical failures, in each case, as from time to time adopted by the Board of Directors and/or any Board Committee
+(c) For purposes of these By-laws, “Foundation Policies” shall include, without limitation, the Foundation’s Code of Conduct, the Foundation’s Membership Policy, Board of Directors Policy, Committees Policy, Signatory Policy, Grant Policy and IPR Policy (each as defined elsewhere in these By-laws), and all provisions of all other applicable Foundation policies, agreements, and any other operational and/or good standing policies, such as grace periods and policies around technical failures, in each case, as from time to time adopted by the Board of Directors and/or any Board Committee
 
 ## Section 2.3 Privileges of Individual Membership
 
 Each Individual Member, while in good standing, shall be entitled to:
 
-(a) run for election as a member of the Board of Directors (each a "Director") per the Foundation election policy approved by the Board of Directors (the “Elections Policy”)
+(a) run for election as a member of the Board of Directors (each a "Director") per the Foundation [Board Directors policy](https://policy.owasp.org/operational/election) approved by the Board of Directors (the “Directors policy”)
 
-(b) vote on a "one vote per Member" basis in elections of Directors in accordance with the Elections Policy
+(b) vote on a "one vote per Member" basis in elections of Directors in accordance with the Directors policy
 
 (c) serve as a corporate officer (e.g. “Chair”, “Vice Chair”, “Secretary”, “Treasurer”) if elected to the Board of Directors
 
@@ -169,7 +169,7 @@ Any meeting of Members may be adjourned from time to time without notice to any 
 
 ## Section 3.8 Action at Meetings
 
-(a)	When a quorum is present at any meeting of Members, in all matters other than the election of the Board of Directors, the vote of more than fifty percent of the aggregate votes of all Voting Members, present in person or represented by proxy at such meeting and entitled to vote on the question, shall decide any question brought before such meeting, unless the question is one upon which, by express provision of law, the Certificate of Incorporation or these By-laws, a different vote is required, in which case such express provision shall govern and control the decision of such question.  Members of the Board of Directors shall be elected by a plurality of the votes of the Voting Members present in person or represented by proxy at the meeting and entitled to vote thereon in accordance with the Elections Policy.
+(a)	When a quorum is present at any meeting of Members, in all matters other than the election of the Board of Directors, the vote of more than fifty percent of the aggregate votes of all Voting Members, present in person or represented by proxy at such meeting and entitled to vote on the question, shall decide any question brought before such meeting, unless the question is one upon which, by express provision of law, the Certificate of Incorporation or these By-laws, a different vote is required, in which case such express provision shall govern and control the decision of such question.  Members of the Board of Directors shall be elected by a plurality of the votes of the Voting Members present in person or represented by proxy at the meeting and entitled to vote thereon in accordance with the Directors policy.
 
 (b)	Notwithstanding Section 3.8(a), in all matters other than the election of the Board of Directors, in the event that any vote is to be taken of a single class of Voting Members, then a quorum for such vote shall be not less than ten percent of the Voting Members of that class, and when such quorum is present, the vote of more than fifty percent of the aggregate votes of the Voting Members of that class present in person or represented by proxy at such meeting and entitled to vote on the question, shall decide such question.  
 
@@ -217,7 +217,7 @@ Subject to Section 4.4, the total number of Directors shall be at least five and
 
 ## Section 4.3 Nomination, Election and Term of Office of Directors
 
-(a) Each Individual Member (while remaining in good standing) shall be entitled to nominate a representative to run for election as a Director, and to vote with the other Individual Members, voting as a class, in all elections of the Board Directors, per the number of vacancies at each election, in accordance with the Elections Policy. Except as otherwise specified in the Elections Policy or approved by the Board of Directors, each Director shall have a term of two years, with a maximum of two terms in any ten year period, and thereafter, subject to Section 4.3(b) below
+(a) Each Individual Member (while remaining in good standing) shall be entitled to nominate a representative to run for election as a Director, and to vote with the other Individual Members, voting as a class, in all elections of the Board Directors, per the number of vacancies at each election, in accordance with the Directors policy. Except as otherwise specified in the Directors policy or approved by the Board of Directors, each Director shall have a term of two years, with a maximum of two terms in any ten year period, and thereafter, subject to Section 4.3(b) below
 
 (b) Each Director shall hold office until the earliest to occur of (i) the expiration of the term for which such Director was elected or appointed, as the case may be and such Director's successor is elected and qualified; (ii) the expiration or termination of Membership of the Member that nominated such Director; or (iii) the death, resignation or removal of such Director. In addition, during such times as the Membership of any Member that has a representative serving as a Director is suspended pursuant to Section 2.8 above, the attendance and voting rights of such Director representative shall also be suspended until such time, if ever, as such suspension is lifted
 
@@ -269,7 +269,7 @@ Special meetings of the Board of Directors may be called by the Executive Direct
 
 (vii) Amending or modifying the eligibility requirements for Membership on the Board of Directors or the classes of Members eligible to nominate and elect Directors
 
-(viii) Adopting, amending, or repealing any Foundation Policy, including but not limited to the Code of Conduct, Elections Policy, IPR Policy, Membership Policy, Committees Policy, Signatory Policy and Grant Policy
+(viii) Adopting, amending, or repealing any Foundation Policy, including but not limited to the Code of Conduct, Directors policy, IPR Policy, Membership Policy, Committees Policy, Signatory Policy and Grant Policy
 
 (ix) Delegation of any responsibility of duty of the Board of Directors to any Member Committee or Board Committee (by approval of a Member Committee charter or otherwise); and
 
@@ -333,7 +333,7 @@ Except as otherwise provided in these By-laws or by resolution of the Board of D
 
 ## Section 5.4 Term of Office of Members of Committees of the Board of Directors
 
-Each member of a Board Committee shall serve for such term as shall be established at the time of his or her election in accordance with the Elections Policy.
+Each member of a Board Committee shall serve for such term as shall be established at the time of his or her election in accordance with the Directors policy.
 
 ## Section 5.5 Committees of the Members
 
