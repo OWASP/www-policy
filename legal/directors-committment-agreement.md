@@ -2,6 +2,7 @@
 
 title: Board of Directors Commitment Agreement (Draft WIP)
 layout: col-sidebar
+notice: 2025-10-04
 
 ---
 
