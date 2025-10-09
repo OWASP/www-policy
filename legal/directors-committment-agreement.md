@@ -5,7 +5,7 @@ layout: col-sidebar
 
 ---
 
-{% include draft.html %}
+{% include draft-notice.html %}
 
 Note: this is the text of a form that will be digitally signed by each new Board member prior to taking their seat using OWASP's e-signature service.
 

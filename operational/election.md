@@ -8,7 +8,7 @@ notice: 2025-10-04
 
 ---
 
-{% include draft.html %}
+{% include draft-notice.html %}
 
 The OWASP Foundation (OWASP) is a community-led organization where some leadership roles are filled with individuals elected by Membership.
 
