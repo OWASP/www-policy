@@ -4,7 +4,7 @@ title: Antitrust Policy for Board of Directors (Draft WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2025-10-04
+notice: 2025-10-10
 
 ---
 
