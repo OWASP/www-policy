@@ -23,7 +23,7 @@ Elections shall be conducted in a fair and transparent manner which includes:
 * Secret ballots;  
 * Publication of full voting results.
 
-This policy is established under [section 3.12 (“Nomination and Election Procedures”)](/legal/bylaws#section-312-nomination-and-election-procedures) of the OWASP By-Laws (By-Laws), and defines both the necessary qualifications and requirements to nominate and be elected, as well as the elections procedure itself.
+This policy is established under [section 3.12 (“Nomination and Election Procedures”)](https://policy.owasp.org/legal/bylaws#section-312-nomination-and-election-procedures) of the OWASP By-Laws (By-Laws), and defines both the necessary qualifications and requirements to nominate and be elected, as well as the elections procedure itself.
 
 ## A. Qualifications and requirements
 
@@ -31,31 +31,31 @@ This policy is established under [section 3.12 (“Nomination and Election Proce
 
 Candidates may nominate themselves via the nomination procedure defined below, only if they meet all of the following qualifications:
 
-* (a) Candidates must be OWASP Members in good standing, as defined by the By-Laws in Section 2\. Candidates must have shown strong commitment to the mission of the Foundation.
-* (b) In particular, candidates must maintain good standing as OWASP Members for twelve (12) months on “Membership Day” (see below). From “Membership Day” of the current year and throughout the election process, Candidates must maintain good standing as an OWASP Member of a class eligible to run for the Board (as defined by the By-Laws).
+(a) Candidates must be OWASP Members in good standing, as defined by the By-Laws in Section 2\. Candidates must have shown strong commitment to the mission of the Foundation.
+(b) In particular, candidates must maintain good standing as OWASP Members for twelve (12) months on “Membership Day” (see below). From “Membership Day” of the current year and throughout the election process, Candidates must maintain good standing as an OWASP Member of a class eligible to run for the Board (as defined by the By-Laws).
 Candidates may nominate themselves without a full year of Membership but must have completed a full year of continuous membership in good standing by “Membership Day” to be eligible as a valid Candidate in the election, and must maintain their Membership in good standing through the conclusion of the election process.
-* (c) Candidates may self-nominate only. No third-party shall nominate another individual.
-* (d) Candidates must show a history of active volunteer contribution to the OWASP Community. This can include any of the following or a combination thereof, for a period of at least 9 months in the preceding year, or 24 months in the previous 6 years.
+(c) Candidates may self-nominate only. No third-party shall nominate another individual.
+(d) Candidates must show a history of active volunteer contribution to the OWASP Community. This can include any of the following or a combination thereof, for a period of at least 9 months in the preceding year, or 24 months in the previous 6 years.
 
- 1. Leadership of an active OWASP Chapter or OWASP Project  
- 2. OWASP Global AppSec conference organizer or CFP track lead  
- 3. OWASP local AppSec Days core organizing team  
- 4. OWASP Committee membership or chair or co-chair of an officially recognized Working Group
- 5. OWASP Compliance Officer  
- 6. Alternatively, three years accumulatively, in the previous 5 years, of verifiable volunteerism or ongoing contributions within the OWASP community, confirmed by OWASP Staff (e.g. via a leader testimonial).
- 7. Alternatively, equivalent amount of time contributing in a significant manner for another open-source cybersecurity community, confirmed by OWASP Staff, in addition to participation in at least a single OWASP Event, Chapter Meetup, or project contribution within the past 12 months.
+    1. Leadership of an active OWASP Chapter or OWASP Project  
+    2. OWASP Global AppSec conference organizer or CFP track lead  
+    3. OWASP local AppSec Days core organizing team  
+    4. OWASP Committee membership or chair or co-chair of an officially recognized Working Group
+    5. OWASP Compliance Officer  
+    6. Alternatively, three years accumulatively, in the previous 5 years, of verifiable volunteerism or ongoing contributions within the OWASP community, confirmed by OWASP Staff (e.g. via a leader testimonial).
+    7. Alternatively, equivalent amount of time contributing in a significant manner for another open-source cybersecurity community, confirmed by OWASP Staff, in addition to participation in at least a single OWASP Event, Chapter Meetup, or project contribution within the past 12 months.
 
-* (e) OWASP Foundation employees that are employed in a paid position, full time equivalent or exceeding two thirds of full time, may not be nominated as Candidate, nor serve as a Board Director, during their employment and for a period of 6 months, or longer as specified in the Staff Handbook as maintained by the Executive Director but not more than 18 months, after their last day as a paid Foundation employee.
-* (f) Candidates should maintain a public facing persona, in English at a minimum, on any social networking platform (e.g. LinkedIn, or OWASP Glue Up). Candidates should be capable and willing to communicate with the Board, Staff, and community in (basic level) English, both in writing and verbally, as Board communications and discussions are held in English.
-* (g) Candidates must commit to fulfill the Election process commitment (see Section B.1. below), and the Director Qualifications and Prerequisites (see below A.2) during their full term as a Director if they are elected. Candidates that do not fulfill their commitments shall not be eligible to participate in the Election as a Candidate.  
+(e) OWASP Foundation employees that are employed in a paid position, full time equivalent or exceeding two thirds of full time, may not be nominated as Candidate, nor serve as a Board Director, during their employment and for a period of 6 months, or longer as specified in the Staff Handbook as maintained by the Executive Director but not more than 18 months, after their last day as a paid Foundation employee.
+(f) Candidates should maintain a public facing persona, in English at a minimum, on any social networking platform (e.g. LinkedIn, or OWASP Glue Up). Candidates should be capable and willing to communicate with the Board, Staff, and community in (basic level) English, both in writing and verbally, as Board communications and discussions are held in English.
+(g) Candidates must commit to fulfill the Election process commitment (see Section B.1. below), and the Director Qualifications and Prerequisites (see below A.2) during their full term as a Director if they are elected. Candidates that do not fulfill their commitments shall not be eligible to participate in the Election as a Candidate.  
 Candidates should also join the general public Board meetings during or before the Election process as a non-voting guest, so as to understand the procedures, environment, and expectations.
-* (h) A Candidate that has violated the [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct.html) within the 4 years preceding “Membership Day”, and has been confirmed as such by the Compliance team or the Executive Director, shall be ineligible to run for the Board and may not be nominated. Multiple confirmed violations of the Code of Conduct shall cause the perpetrator to be ineligible for nomination for the Board indefinitely with no time limit.
+(h) A Candidate that has violated the [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct.html) within the 4 years preceding “Membership Day”, and has been confirmed as such by the Compliance team or the Executive Director, shall be ineligible to run for the Board and may not be nominated. Multiple confirmed violations of the Code of Conduct shall cause the perpetrator to be ineligible for nomination for the Board indefinitely with no time limit.
 
 ### A.2. Director Qualifications and Prerequisites
 
-Basic Director qualifications and term limits are detailed in the By-Laws [section 4.3](https://owasp.org/www-policy/legal/bylaws#section-43-nomination-election-and-term-of-office-of-directors) and take supremacy over this policy if there is any disagreement. These qualifications shall apply to all Board Directors, whether elected in an election of members, appointed by the Board, or any other form of becoming a Director on the Board. An affirmative vote by a supermajority of the remainder of the Board can approve a temporary exception from a specific qualification for a Director, allowing the Director to continue serving until the end of their current term. Such exceptions shall be granted sparingly and only upon clear demonstration of compelling justification.
+Basic Director qualifications and term limits are detailed in the By-Laws [section 4.3](https://policy.owasp.org/legal/bylaws#section-43-nomination-election-and-term-of-office-of-directors) and take supremacy over this policy if there is any disagreement. These qualifications shall apply to all Board Directors, whether elected in an election of members, appointed by the Board, or any other form of becoming a Director on the Board. An affirmative vote by a supermajority of the remainder of the Board can approve a temporary exception from a specific qualification for a Director, allowing the Director to continue serving until the end of their current term. Such exceptions shall be granted sparingly and only upon clear demonstration of compelling justification.
 
-1. Elected Candidates and appointed Directors must be in good standing as OWASP Voting Members (e.g., as a paid Individual Member or Distinguished Lifetime Member, or as defined in the By-Laws [Section 2.1](https://owasp.org/www-policy/legal/bylaws#section-43-nomination-election-and-term-of-office-of-directors)) prior to taking their seat for their term by January 1 of the calendar year following their election, or prior to their defined start date if appointed by the Board to take over a vacancy. Directors must maintain their Voting Membership in good standing throughout their term.  
+1. Elected Candidates and appointed Directors must be in good standing as OWASP Voting Members (e.g., as a paid Individual Member or Distinguished Lifetime Member, or as defined in the By-Laws [Section 2.1](https://policy.owasp.org/legal/bylaws#section-43-nomination-election-and-term-of-office-of-directors)) prior to taking their seat for their term by January 1 of the calendar year following their election, or prior to their defined start date if appointed by the Board to take over a vacancy. Directors must maintain their Voting Membership in good standing throughout their term.  
 2. Elected Candidates and appointed Directors must complete all necessary onboarding processes and paperwork, including undertaking Board training, obtaining necessary reading materials, signing the Board of Directors Commitment Agreement, completing their Conflict of Interest register, and agreeing to the [Board Code of Conduct](https://policy.owasp.org/operational/board-code-of-conduct.html), and any other tasks (Director Prerequisites), prior to taking office. Active Directors must also maintain their Conflict of Interest Register honestly and up to date.
 3. Elected Candidates and appointed Directors must pass undergo thorough background checks, to be defined by the Executive Director and supervised by the Chair of the Board, prior to taking their seat.
 4. No two Directors may serve concurrently on the Board of Directors while employed by the same company, corporation, or other employer, and shall be deemed a conflict. No two Directors may serve concurrently on the Board of Directors while also serving as a Director, Advisor, or Officer of the same company, corporation, association, or other external organization, and shall be deemed a conflict.  
@@ -64,11 +64,11 @@ An Elected Candidate or appointed Director in conflict with another Director sha
 An incumbent Director who acquires an affiliation creating such conflict, through choice or circumstance, shall have one month to resolve the conflict, after which, if unresolved, their position shall be deemed vacant.
 In exceptional circumstances, the remaining unconflicted Board members may, by a supermajority vote, approve a temporary exception to this resolution for a specific conflict, allowing both Directors to continue serving until the end of their current terms. Such exceptions shall be granted sparingly and only upon clear demonstration of compelling justification.
 
-Candidates and Directors who fail to satisfy these Director Qualifications and Prerequisites shall be ineligible to be seated as a Board Member or to vote at Board meetings. In the event a Candidate and Director fail to satisfy such Director Qualifications or Prerequisites by the first public Board meeting of the calendar year, or the first public Board meeting after the defined start date if appointed by the Board, the incoming Board shall follow the disqualification and vacancy processes in the By-Laws ([sections 4.5](https://owasp.org/www-policy/legal/bylaws#section-45-resignation-and-removal) and [4.6](https://owasp.org/www-policy/legal/bylaws#section-46-vacancies)) to vacate and fill the position.
+Candidates and Directors who fail to satisfy these Director Qualifications and Prerequisites shall be ineligible to be seated as a Board Member or to vote at Board meetings. In the event a Candidate and Director fail to satisfy such Director Qualifications or Prerequisites by the first public Board meeting of the calendar year, or the first public Board meeting after the defined start date if appointed by the Board, the incoming Board shall follow the disqualification and vacancy processes in the By-Laws ([sections 4.5](https://policy.owasp.org/legal/bylaws#section-45-resignation-and-removal) and [4.6](https://policy.owasp.org/legal/bylaws#section-46-vacancies)) to vacate and fill the position.
 
 ### A.3 Director Commitment
 
-Per [section 4.3 (c)](https://owasp.org/www-policy/legal/bylaws#section-43-nomination-election-and-term-of-office-of-directors) of the By-Laws, the following attendance commitment and other prerequisites are set by the Board:
+Per [section 4.3 (c)](https://policy.owasp.org/legal/bylaws#section-43-nomination-election-and-term-of-office-of-directors) of the By-Laws, the following attendance commitment and other prerequisites are set by the Board:
 
 1. Directors must attend at least 75% of general Board meetings in the calendar year. This includes Board Summits. Board prep calls, special board meetings, and other ad hoc meetings without quorum or voting requirements do not count towards attendance.  
 2. Directors should attend at least two in-person special Board meetings (“Board summits”) annually. These are generally but not exclusively held at Global AppSec events and at an additional location in the first quarter of the calendar year. If they cannot attend in person, Directors should attend virtually. These summits count toward attendance requirements.  
@@ -76,11 +76,11 @@ Per [section 4.3 (c)](https://owasp.org/www-policy/legal/bylaws#section-43-nomin
 4. Directors should attend remote meetings with their cameras enabled and must agree to the meetings being recorded.
 5. In addition to regular Board meetings, special Board meetings, and Board summits, and advance preparation for each, Directors should invest sufficient time for Board work, e.g. to liaison with their assigned committees, define policies and initiatives, meet with staff and community, perform research, and execute additional tasks as may be assigned by the Chair.
 
-If these requirements are not being met for an extended period, then the Board may invoke [sections 4.5](https://owasp.org/www-policy/legal/bylaws#section-45-resignation-and-removal) and [4.6](https://owasp.org/www-policy/legal/bylaws#section-46-vacancies) of the By-Laws to remove a Director and fill the resulting vacancy.
+If these requirements are not being met for an extended period, then the Board may invoke [sections 4.5](https://policy.owasp.org/legal/bylaws#section-45-resignation-and-removal) and [4.6](https://policy.owasp.org/legal/bylaws#section-46-vacancies) of the By-Laws to remove a Director and fill the resulting vacancy.
 
 ### A.4. Additional Officer Qualifications
 
-Certain OWASP Board Officer positions, notably Treasurer, may require Directors to execute various additional agreement(s) prior to assuming the duties of office, such as becoming a signatory on OWASP’s financial accounts, co-approver in accounting systems, and so on. Failure to execute those agreement(s) or obtain sufficient access shall result in a removal motion under [section 6.4](https://owasp.org/www-policy/legal/bylaws#section-64-tenure) of the By-Laws, and subsequent removal from the officer position. The Officer vacancy process ([section 6.2](https://owasp.org/www-policy/legal/bylaws#section-62-vacancies)) shall then occur to find a replacement officer.
+Certain OWASP Board Officer positions, notably Treasurer, may require Directors to execute various additional agreement(s) prior to assuming the duties of office, such as becoming a signatory on OWASP’s financial accounts, co-approver in accounting systems, and so on. Failure to execute those agreement(s) or obtain sufficient access shall result in a removal motion under [section 6.4](https://policy.owasp.org/legal/bylaws#section-64-tenure) of the By-Laws, and subsequent removal from the officer position. The Officer vacancy process ([section 6.2](https://policy.owasp.org/legal/bylaws#section-62-vacancies)) shall then occur to find a replacement officer.
 
 The Chair and Vice-Chair should hold meetings with the Executive Director at least once a month, aside from general Board meetings, and may meet individually with staff in coordination with the Executive Director. The Chair of the Board, elected by the Board Directors, should have at least one year of experience serving as a Director on the Board.
 
@@ -88,7 +88,7 @@ All other privileges and duties of said Officers are defined in By-Laws [Section
 
 ### A.5. Officer Term of Office
 
-As per [sections 6.3](https://owasp.org/www-policy/legal/bylaws#section-63-election) and [6.4](https://owasp.org/www-policy/legal/bylaws#section-64-tenure) of the By-Laws, officers (Chair, Vice Chair, Treasurer, and Secretary) shall be elected by a majority vote of their fellow Directors generally for a term of one year at the first special or general Board meeting in each calendar year.
+As per [sections 6.3](https://policy.owasp.org/legal/bylaws#section-63-election) and [6.4](https://policy.owasp.org/legal/bylaws#section-64-tenure) of the By-Laws, officers (Chair, Vice Chair, Treasurer, and Secretary) shall be elected by a majority vote of their fellow Directors generally for a term of one year at the first special or general Board meeting in each calendar year.
 
 Officers shall hold office from the date they are elected to their role until removed or replaced by the Board, if their term does not expire before then.
 
@@ -127,7 +127,7 @@ These election milestones are the following, or closest business day:
 
 ### B.3. Voter Requirements
 
-Membership class voter qualifications are defined in the By-Laws in [section 2.1 (a)](https://owasp.org/www-policy/legal/bylaws#section-23-privileges-of-individual-membership). Voting Members who are in good standing (see By-Laws section 2.2(b)) on “Membership Day” each calendar year are eligible to vote in the OWASP Foundation Board of Directors election.
+Membership class voter qualifications are defined in the By-Laws in [section 2.1 (a)](https://policy.owasp.org/legal/bylaws#section-23-privileges-of-individual-membership). Voting Members who are in good standing (see By-Laws section 2.2(b)) on “Membership Day” each calendar year are eligible to vote in the OWASP Foundation Board of Directors election.
 
 Community members shall receive the following notifications according to the above Timeline, via email and other channels: (1) call for candidates; (2) call for questions; (3) notice of Voter Requirements; (4) “Membership Day” deadline; (5) list of eligible Candidates with links to their Candidate pages; and (6) notification to vote.
 
