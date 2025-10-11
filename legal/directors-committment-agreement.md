@@ -28,7 +28,7 @@ General Information about the Role and Responsibilities of Nonprofit Board Membe
 
 Organization specific information:
 
-1. [OWASP Foundation By-laws](/legal/bylaws)
+1. [OWASP Foundation Bylaws](/legal/bylaws)
 2. [Code of Conduct](/operational/code-of-conduct)
 3. [Board Code of Conduct](/operational/board-code-of-conduct)
 4. [Antitrust Policy](/operational/antitrust)
@@ -52,7 +52,7 @@ Organization specific information:
 
 3. I have completed the conflict of interest statement and will continue to update it in a timely fashion if my circumstances change, such as change of job(s) or duties, investments, Board or other advisory memberships, and other interests as they might affect the OWASP Foundation.
 
-4. I will act in the best interests of the organization, and excuse myself from discussions and votes where I have a perceived or actual conflict of interest. I will raise any potential conflicts of interest proactively to allow a discussion by the Board to decide on if I am conflicted. If in doubt, always declare the potential conflict of interest and let the remainder of the Board decide as per the Conflict of Interest policy, if they too are unconflicted.
+4. I will act in the best interests of the organization, and recuse myself from discussions and votes where I have a perceived or actual conflict of interest. I will raise any potential conflicts of interest proactively to allow a discussion by the Board to decide on if I am conflicted. If in doubt, always declare the potential conflict of interest and let the remainder of the Board decide as per the Conflict of Interest policy, if they too are unconflicted.
 
    For example, if the OWASP Board is discussing training splits and I often give paid training on OWASP topics or at OWASP events, this is an actual conflict of interest, and I should declare my interest. As another example, if I have a personal relationship (such as friendship or extensive business connections) with a firm or organization that has business before the Board, this could be seen by some as a perceived conflict of interest, and I will declare a potential conflict of interest.
 
@@ -60,7 +60,7 @@ Organization specific information:
 
 **I have possess all necessary qualifications and completed all necessary prerequisites:**
 
-To the best of my knowledge, I have read, acknowledged, and completed all necessary requirements of the Election Policy section A.2 Director Qualifications and Prerequisites prior to taking my seat and voting as a Board member, including but not limited to:
+To the best of my knowledge, I have read, acknowledged, and completed all necessary requirements of the Board Directors' Policy section A.2 Director Qualifications and Prerequisites prior to taking my seat and voting as a Board member, including but not limited to:
 
 1. I am responsible for my good standing by maintaining valid voting membership for the duration of my term.
 
@@ -68,7 +68,7 @@ To the best of my knowledge, I have read, acknowledged, and completed all necess
 
 3. I have completed the necessary forms / paperwork authorizing background checks as required by the Executive Director. If there are negative findings, these will be reported to the current Chair for further consideration, including and up to declaring my seat vacant under the Vacancy section in the bylaws.
 
-4. To my knowledge, no other Director-elect or ongoing Director works at the same organization as myself, or if they do, I am eligible to be seated per the Elections policy method of selecting a successful candidate.
+4. To my knowledge, no other Director-elect or ongoing Director works at the same organization as myself, or if they do, I am eligible to be seated per the Board Directors' policy method of selecting a successful candidate.
 
 **I will abide by this Director Commitment agreement, by:**
 
@@ -78,7 +78,7 @@ To the best of my knowledge, I have read, acknowledged, and completed all necess
 
 3. I will participate in and take responsibility for making decisions on issues, policies and other board matters.
 
-4. I will work in good faith with staff and other board members as partners towards achievement of our goals.
+4. I will work in respectfully and in good faith with staff and other board members as partners towards achievement of our goals.
 
 5. **I will attend at least 75% of twelve monthly public board meetings annually**. These are nearly all held virtually, with the exception of two public Board meetings held at the Global AppSec conferences. When meeting virtually, my camera will be enabled, and I agree to the meetings being recorded and published.
 
