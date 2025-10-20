@@ -10,6 +10,8 @@ notice: 2024-08-23
 
 Adopted by the Board of Directors on September 25, 2024
 
+> Please note: This Election policy, last approved and updated September 25, 2024, governs the running 2024 and 2025 elections. There is a highly revised [Board of Directors](https://policy.owasp.org/operational/director) policy which if approved, will govern the 2026 election. That is in draft and will not affect the running of the 2025 election. ajv
+
 # Overview
 
 The OWASP Foundation (OWASP) is a community-led organization where some leadership roles are filled with individuals elected by Membership. While the following policy is specifically written for Board of Directors Elections, it should be used as a model for other OWASP elections. Elections should be conducted in a fair and transparent manner which include:
