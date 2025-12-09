@@ -16,7 +16,7 @@ As members of the Board of Directors of the OWASP Foundation, Inc., we are commi
 
 Policy:
 
-- **No Collusion**: Board members must not engage in discussions or agreements—formal or informal—to impact or sway the competitive marketplace in favor of one or more entities.
+- **No Collusion**: Board members must not engage in discussions or agreements - formal or informal - to impact or sway the competitive marketplace in favor of one or more entities, or to influence OWASP strategy or contracts in favor of any particular entity.
 - **Independent Decision-Making**: All decisions regarding programs, partnerships, and member services must be made independently and in the best interest of OWASP's mission.
 - **Meeting Conduct**: Board meetings must avoid any topics that could be construed as anti-competitive to the marketplace, including sensitive commercial strategies or exclusionary practices
 - **Information Sharing**: Confidential or proprietary information from OWASP or other organizations must not be shared or used in a way that could violate competition laws.

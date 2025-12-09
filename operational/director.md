@@ -44,11 +44,15 @@ Candidates may nominate themselves without a full year of Membership but must ha
   * 5. OWASP Compliance Officer  
   * 6. Alternatively, three years accumulatively, in the previous 5 years, of verifiable volunteerism or ongoing contributions within the OWASP community, confirmed by OWASP Staff (e.g. via a leader testimonial).
 
+The Board may allow an external contributor to nominate themselves even if they do not meet the requirements set out above, if they display an equivalent amount of time contributing in a significant manner for another open-source cybersecurity community, confirmed by OWASP Staff (e.g. via testimonial), in addition to participation in at least a single OWASP Event, Chapter Meetup, or project contribution within the past 12 months.
+
 * (e) OWASP Foundation employees that are employed in a paid position, full time equivalent or exceeding two thirds of full time, may not be nominated as Candidate, nor serve as a Board Director, during their employment and for a period of 12 months after their last day as a paid Foundation employee. This provision shall also be included in the staff handbook.
 * (f) Candidates should maintain a public facing persona, in English at a minimum, on any social networking platform (e.g. LinkedIn, or OWASP Glue Up). Candidates should be capable and willing to communicate with the Board, Staff, and community at a proficiency level of at least [CEFR B2 and preferably CEFR C1 English](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale), both in writing and verbally, as Board communications and discussions are held in English.
 * (g) Candidates must commit to fulfill the Election process commitment (see Section B.1. below), and the Director Qualifications and Prerequisites (see below A.2) during their full term as a Director if they are elected. Candidates that do not fulfill their commitments shall not be eligible to participate in the Election as a Candidate.  
 Candidates should also join the general public Board meetings during or before the Election process as a non-voting guest, so as to understand the procedures, environment, and expectations.
 (h) A Candidate that has violated the Code of Conduct within the four years preceding the election is ineligible to run for the Board and may not be nominated. A Candidate that has violated the Code of Conduct three or more times in the previous ten years shall cause the Candidate to be permanently ineligible for nomination for the Board.  Validation of Candidate's eligibility is made via an Exclusion List maintained by the Compliance Committee.  Permanently ineligible members are so designated on the Exclusion List.
+
+
 
 ### A.2. Director Qualifications and Prerequisites
 
