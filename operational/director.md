@@ -1,6 +1,6 @@
 ---
 
-title:  Board Directors Policy (Draft WIP)
+title:  Board Directors Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
@@ -8,7 +8,7 @@ notice: 2025-10-10
 
 ---
 
-{% include draft-notice.html %}
+Approved by the Board of Directors: 2025-12-16
 
 The OWASP Foundation (OWASP) is a community-led organization where some leadership roles are filled with individuals elected by Membership.
 

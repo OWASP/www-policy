@@ -1,6 +1,6 @@
 ---
 
-title: Antitrust Policy for Board of Directors (Draft WIP)
+title: Antitrust Policy for Board of Directors
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
@@ -8,9 +8,7 @@ notice: 2025-10-10
 
 ---
 
-{% include draft-notice.html %}
-
-# {{ page.title }}
+Approved by the Board of Directors: 2025-12-16
 
 As members of the Board of Directors of the OWASP Foundation, Inc., we are committed to upholding all applicable antitrust laws and ensuring that our activities promote fair competition and ethical collaboration.
 
