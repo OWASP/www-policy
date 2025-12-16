@@ -67,7 +67,7 @@ Distinguished Lifetime Members receive the same benefits normally provided to OW
 * Leader-level discounts for OWASP conferences, training, and events
 * Access to leader communication channels and resources
   
-Nominations for Distinguished Lifetime Membership can be sent to the [submitted here](https://owasp.wufoo.com/forms/distinguished-lifetime-membership-nomination/).
+Nominations for Distinguished Lifetime Membership can be [submitted here](https://owasp.wufoo.com/forms/distinguished-lifetime-membership-nomination/).
 
 
 
