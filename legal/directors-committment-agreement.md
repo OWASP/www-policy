@@ -1,12 +1,12 @@
 ---
 
-title: Board of Directors Commitment Agreement (Draft WIP)
+title: Board of Directors Commitment Agreement
 layout: col-sidebar
 notice: 2025-10-10
 
 ---
 
-{% include draft-notice.html %}
+As this is not a policy, but rather a form to be signed by new Board members, this was approved as part of the Board Directors' Policy review on 2025-12-16.
 
 Note: this is the text of a form that will be digitally signed by each new Board member prior to taking their seat using OWASP's e-signature service.
 
