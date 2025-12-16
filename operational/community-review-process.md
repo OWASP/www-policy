@@ -1,12 +1,16 @@
 ---
 
-title:  Community Review Process
+title:  Community Review Process (DRAFT WIP)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2026-01-09
 
 ---
-Adopted by the Board on June 23, 2020
+
+{% include draft-notice.html %}
+
+This is the original text as adopted by the Board on June 23, 2020, but is currently open for review.
 
 ## Overview
 
