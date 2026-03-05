@@ -160,6 +160,7 @@ Travel
 
 ### Misconduct & Conflict Resolution
 Committee members must follow the [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct).
+
 Complaints follow the [Whistleblower process](/operational/whistleblower).
 
 Internal disputes escalate:
