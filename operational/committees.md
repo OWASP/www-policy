@@ -90,7 +90,7 @@ Operational expectations:
 - Votes must be recorded and published.
 
 ### Term Limits & Elections
-- Officer terms follow Board term durations and limits.
+- Officer terms follow [Board Director term durations and limits](https://policy.owasp.org/legal/bylaws#section-43-nomination-election-and-term-of-office-of-directors).
 - Elections occur concurrently with Board elections.
 - If no new nominees appear, officers may continue subject to Board review.
 
