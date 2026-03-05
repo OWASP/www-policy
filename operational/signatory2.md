@@ -8,7 +8,7 @@ notice: 2026-03-09
 
 ---
 
-Adopted by the Board of Directors 24-Mar-2020, altered signing authority February 23, 2021
+{% include draft-notice.html %}
 
 ## Financial and Spending Authority
 
