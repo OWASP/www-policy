@@ -20,14 +20,14 @@ Budgeted or Discretionary per transaction (or related transactions), grant makin
 
 - $0 - $25,000 Executive Director can sign and approve without second approver
 - $25,001 to $250,000 Executive Director and Treasurer or Chair can sign and approve without Board approval
-- $250,001 or more requires an affirmative Board vote
+- $250,001 or more requires an affirmative majority Board vote
 
 Signing authority:
 
-- Transferring funds between and managing OWASP bank accounts and other financial accounts $250,000
-- Budgeted General Operational Spending (including but not limited to, payroll, expenses, and accounts payable), $850,000
+- Transferring funds between and managing OWASP bank accounts and other financial accounts: $250,000
+- Budgeted General Operational Spending (e.g. payroll, expenses, and accounts payable): $850,000
 
-Any spending which exceeds the Quarterly Plan by more than 10%, must be approved by the Board of Directors.
+Any spending which exceeds the Quarterly Plan by more than 10%, must be approved by an affirmative majority vote of the Board of Directors.
 
 ### Chief Financial Officer
 
