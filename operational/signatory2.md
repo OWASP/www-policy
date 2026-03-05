@@ -1,9 +1,10 @@
 ---
 
-title: Signatory
+title: Signatory (Draft Policy)
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
+notice: 2026-03-09
 
 ---
 
@@ -17,14 +18,14 @@ The Executive Director, subject to the quarterly total spending as set forth in 
 
 Budgeted or Discretionary per transaction (or related transactions), grant making, awards and scholarships, expense approvals, legally binding contractual arrangements, and purchasing assets:
 
-- $0 - $10,000 Executive Director can sign and approve without second approver
-- $10,000 to $250,000 Executive Director and Treasurer or Chair can sign and approve without Board approval
-- $250,000 or more requires an affirmative Board vote
+- $0 - $25,000 Executive Director can sign and approve without second approver
+- $25,001 to $250,000 Executive Director and Treasurer or Chair can sign and approve without Board approval
+- $250,001 or more requires an affirmative Board vote
 
 Signing authority:
 
-- Transferring funds between and managing OWASP bank accounts and other financial accounts $ 250,000
-- Budgeted General Operational Spending (including but not limited to, payroll, expenses, and accounts payable), $ 500,000
+- Transferring funds between and managing OWASP bank accounts and other financial accounts $250,000
+- Budgeted General Operational Spending (including but not limited to, payroll, expenses, and accounts payable), $750,000
 
 Any spending which exceeds the Quarterly Plan by more than 10%, must be approved by the Board of Directors.
 
@@ -35,7 +36,7 @@ Any transfer of funds from one OWASP account to any other OWASP account exceedin
 
 - Bank accounts $100,000
 - Investment accounts $200,000
-- Payment processing, or other financial institutions $500,000
+- Payment processing, or other financial institutions $750,000
 
 ### Terms
 
