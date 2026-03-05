@@ -44,7 +44,7 @@ Charters must not:
 
 - Grant financial or signing authority.
 - Bypass policies, controls, or operational requirements.
-- Conflict with the Code of Conduct or Board oversight.
+- Conflict with the [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct) or Board oversight.
 
 Amendments:  
 Require a 2/3 officer vote and Board approval.
@@ -159,8 +159,8 @@ Travel
 - Planned travel should be budgeted as grants.
 
 ### Misconduct & Conflict Resolution
-Committee members must follow the Code of Conduct.
-Complaints follow the Whistleblower process.
+Committee members must follow the [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct).
+Complaints follow the [Whistleblower process](/operational/whistleblower).
 
 Internal disputes escalate:
 
