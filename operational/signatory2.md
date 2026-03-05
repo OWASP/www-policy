@@ -25,7 +25,7 @@ Budgeted or Discretionary per transaction (or related transactions), grant makin
 Signing authority:
 
 - Transferring funds between and managing OWASP bank accounts and other financial accounts $250,000
-- Budgeted General Operational Spending (including but not limited to, payroll, expenses, and accounts payable), $750,000
+- Budgeted General Operational Spending (including but not limited to, payroll, expenses, and accounts payable), $850,000
 
 Any spending which exceeds the Quarterly Plan by more than 10%, must be approved by the Board of Directors.
 
@@ -36,7 +36,7 @@ Any transfer of funds from one OWASP account to any other OWASP account exceedin
 
 - Bank accounts $100,000
 - Investment accounts $200,000
-- Payment processing, or other financial institutions $750,000
+- Payment processing, or other financial institutions $850,000
 
 ### Terms
 
