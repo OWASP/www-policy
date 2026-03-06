@@ -21,7 +21,7 @@ Committees may be proposed after open discussion in public OWASP leadership chan
 Requirements:
 
 - Public discussion of the proposal.
-- A Charter drafted by five OWASP members, with 3–5 officers designated.
+- A Charter drafted by 3-5 OWASP members, with 3–5 officers designated.
 - A Board sponsor to introduce the motion.
 - At least one officer present at the establishing Board meeting.
 - Executive Director review of membership and charter compliance.
