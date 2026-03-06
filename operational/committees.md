@@ -154,7 +154,7 @@ Expenses
 - All expenses are public record.
 
 Travel
-- Must follow OWASP travel policy.
+- Must follow OWASP travel guidelines.
 - Requires Chair + one officer approval.
 - Planned travel should be budgeted as grants.
 
