@@ -17,8 +17,8 @@ The Executive Director, subject to the quarterly total spending as set forth in 
 
 Budgeted or Discretionary per transaction (or related transactions), grant making, awards and scholarships, expense approvals, legally binding contractual arrangements, and purchasing assets:
 
-- $0 - $10,000 Executive Director can sign and approve without second approver
-- $10,000 to $250,000 Executive Director and Treasurer or Chair can sign and approve without Board approval
+- $0 - $25,000 Executive Director can sign and approve without second approver
+- $25,001 to $250,000 Executive Director and Treasurer or Chair can sign and approve without Board approval
 - $250,000 or more requires an affirmative Board vote
 
 Signing authority:
