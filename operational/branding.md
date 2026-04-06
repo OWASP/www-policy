@@ -58,6 +58,8 @@ Files are hosted from OWASP Foundation's Google Drive. If these links do not wor
 
 [OWASP Brand Guidelines 2024 PDF](https://drive.google.com/drive/folders/1eBf-yDvyCSMcLaWlC9xBwf7SGUBjIRAL)
 
+2026: Removed TM logos; logo should always contain the ®
+
 ### OWASP® Logos
 
 * Black
@@ -72,21 +74,6 @@ Files are hosted from OWASP Foundation's Google Drive. If these links do not wor
 * Blue, CMYK
   * [Combined Logo and Wordmark](https://drive.google.com/drive/folders/1qKa2cie0dtZxmUs0whvPJKu5jFMdNH7w?usp=sharing)
   * [Logo](https://drive.google.com/drive/folders/1qGBl1owNo-rv_WDf7QklJFzJIBEb26IR?usp=sharing)
-
-### OWASP™ Logos
-
-* Black
-  * [Combined Logo and Wordmark](https://drive.google.com/drive/folders/1q1OSNw4TCHtw7uOu0_-Ft49xY7BkviD1?usp=sharing)
-  * [Logo](https://drive.google.com/drive/folders/1q0hlMy_TAzMQFpJ9mrxxNt0CJjzYrG7u?usp=sharing)
-* White
-  * [Combined Logo and Wordmark](https://drive.google.com/drive/folders/1q66jTCK1rtWXoPiNOsM49J_vaSfEFGZ5?usp=sharing)
-  * [Logo](https://drive.google.com/drive/folders/1q5QBnIXILWTVkyyVBEpTEEC1eXZp_tnT?usp=sharing)
-* Blue, RGB
-  * [Combined Logo and Wordmark](https://drive.google.com/drive/folders/1qBqPvHseN5gihH9GIJvIzQxJviQ0V47v?usp=sharing)
-  * [Logo](https://drive.google.com/drive/folders/1qEvM7xjCd2I-eqGSPoT-k5l2Px3VtoFC?usp=sharing)
-* Blue, CMYK
-  * [Combined Logo and Wordmark](https://drive.google.com/drive/folders/1qIIYJlRW8TFyr0gLif1X875qVaE6SzBg?usp=sharing)
-  * [Logo](https://drive.google.com/drive/folders/1qGHgkmp42wTgz2eyCtuCbSsq5Ip6dGbk?usp=sharing)
 
 ### Typefaces
 
