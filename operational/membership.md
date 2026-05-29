@@ -4,11 +4,11 @@ title: Membership Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2024-08-30
+notice: 2026-05-26
 
 ---
 
-Adopted by the Board of Directors on September 25, 2024
+Updated by the Board of Directors on May 26, 2026
 
 ## Overview
 
