@@ -4,11 +4,11 @@ title: Membership Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2024-08-30
+notice: 2026-05-26
 
 ---
 
-Adopted by the Board of Directors on September 25, 2024
+Updated by the Board of Directors on May 26, 2026
 
 ## Overview
 
@@ -62,7 +62,10 @@ The Foundation will revoke fraudulent membership submissions without notice and 
 
 **Developing Economy Membership Pricing** Persons living in developing economies as defined in the lower 50% percentile Adjusted Net National Income Per Capita Countries, according to the World Bank, shall be offered any membership class at 2/5ths the rate of the standard membership, so $8 for student, $20 for one year, $35 for two year, and $200 for Lifetime membership.
 
-**Distinguished Lifetime Membership** Distinguished Lifetime Membership is awarded by the Global Board of Directors once or twice a year for extraordinary contributions to OWASP over an extended period of time. Nominations for Distinguished Lifetime Membership can be sent to the [submitted here](https://owasp.wufoo.com/forms/distinguished-lifetime-membership-nomination/).
+**Distinguished Lifetime Membership** Distinguished Lifetime Membership is awarded by the Global Board of Directors once or twice a year for extraordinary contributions to OWASP over an extended period of time. 
+Distinguished Lifetime Members receive the same benefits normally provided to OWASP Leaders.
+  
+Nominations for Distinguished Lifetime Membership can be [submitted here](https://forms.monday.com/forms/9ec849e39649765cde205c46542c8670?r=use1&DLMNomination=).
 
 ## Complimentary Membership
 
