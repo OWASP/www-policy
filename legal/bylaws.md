@@ -133,7 +133,7 @@ The Foundation may levy dues, assessments, or fees upon its Members in such amou
 
 ## Section 2.12 Use of Names
 
-Neither the Foundation nor any Member shall use the name of the other in any form of publicity without the written permission of the other, provided that the Foundation and any Member may each disclose and publicize such Member's Membership in the Foundation, and the Alliance may display the logo of a Member at the Alliance website.
+Neither the Foundation nor any Member shall use the name of the other in any form of publicity without the written permission of the other, provided that the Foundation and any Member may each disclose and publicize such Member's Membership in the Foundation, and the Alliance may display the logo of a Member at the OWASP website.
 
 # ARTICLE III - MEETINGS OF MEMBERS
 
