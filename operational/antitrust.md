@@ -10,6 +10,8 @@ notice: 2026-05-21
 
 {% include draft-notice.html %}
 
+Update 23 May 2026 to fix typo URL for Director's Commitment Agreement.
+
 ## 1. Purpose
 
 The purpose of this policy is to ensure that the OWASP Foundation, Inc. and its Board of Directors conduct all activities in full compliance with applicable anti‑trust, competition, corruption, and anti‑bribery laws. As a global nonprofit stewarding open-source projects and community collaboration, OWASP must uphold the highest standards of fairness, independence, and ethical conduct.
@@ -132,7 +134,7 @@ As the Board consists of individuals from many competing organizations, OWASP an
 
 - This Antitrust Policy
 - [OWASP Conflict of Interest Policy](https://policy.owasp.org/operational/conflict-of-interest)
-- [Director's Commitment Agreement](https://policy.owasp.org/legal/directors-committment-agreement)
+- [Director's Commitment Agreement](https://policy.owasp.org/legal/directors-commitment-agreement)
 
 Each board member must review and adhere to this policy, and agrees through signing the Director's Commitment Agreement that they agree and consent to this policy.
 

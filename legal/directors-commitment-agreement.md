@@ -58,7 +58,7 @@ Organization specific information:
 
 5. I will follow the [Antitrust Policy](/operational/antitrust) at all times. If in doubt, I will raise any potential antitrust concerns to the Chair or Executive Director for advice.
 
-**I have possess all necessary qualifications and completed all necessary prerequisites:**
+**I possess all necessary qualifications and completed all necessary prerequisites:**
 
 To the best of my knowledge, I have read, acknowledged, and completed all necessary requirements of the Board Directors' Policy section A.2 Director Qualifications and Prerequisites prior to taking my seat and voting as a Board member, including but not limited to:
 
