@@ -4,11 +4,11 @@ title: Chapters Policy
 layout: col-document
 document: Rules of Procedure
 tags: Rules of Procedure
-notice: 2021-02-23
+notice: 2026-07-28
 
 ---
 
-Adopted by the Board on 23-Feb-2021
+Adopted by the Board on 28-Jul-2026
 
 ## Overview
 
@@ -18,8 +18,8 @@ Chapters are central to OWASP’s mission of achieving community around the worl
 
 Chapter leaders serve as the main point of contact for their chapters and are responsible for ensuring the chapter complies with all OWASP policies while fulfilling its mission and obligations.
 
-- Chapter leaders are not required to be members, but it is recommended to become one to promote membership.
-- Chapter leadership is open to all participants. Leadership is personal, and not associated with any organization, company, or employer.
+- OWASP Chapter Leaders must be current OWASP members in accordance with the Membership Policy. 
+- Chapter leadership is open to all OWASP members. Leadership is personal, and not associated with any organization, company, or employer.
 - Each chapter must have a minimum of 2 and a maximum of 5 foundation-recognized, official leaders. In the event of a resignation, leadership transition, or new leadership being appointed, a chapter is allowed a grace period of up to 3 months from the event to comply.
 - A chapter leader can be a leader of only one chapter.
 - Leaders will sign and return a leader's agreement within 30 days of receipt.
@@ -39,7 +39,7 @@ Chapters must be discoverable by new and existing members and participants.
 - Chapter activities must appear on the owasp.org website.
 - It is strongly recommended to use OWASP’s official chapter and event scheduling platform. The foundation pays event platform fees for active chapters. If you use another platform, [OWASP may not reimburse these expenses](https://owasp.org/www-policy/operational/expense-reimbursement). If you do use the foundation’s scheduling service, your chapter’s group account must be defined under the OWASP Foundation account to provide continuity for chapter members in case chapter leadership becomes inactive.
 - If you do not use OWASP’s official event platform, you must ensure your events are synchronized (whether automatically or manually) to your chapter page on the owasp.org website.
-- Each chapter is responsible for creating and maintaining their owasp.org chapter home page (see also [Starting a New Chapter](#starting-a-new-chapter) and [Meetings and Activity Requirements](#meetings-and-activity-requirements)).
+- Each chapter is responsible for maintaining their owasp.org chapter home page content (see also [Starting a New Chapter](#starting-a-new-chapter) and [Meetings and Activity Requirements](#meetings-and-activity-requirements)).
 - A list of the current leaders and email addresses must be listed on the Chapter’s web page on owasp.org. It is highly encouraged that leaders use their @owasp.org email address on these pages.
 
 ### Meetings and Activity Requirements
@@ -55,23 +55,7 @@ Chapters must be discoverable by new and existing members and participants.
   - Student-focused activities, at secondary and/or college level
 - Chapter activity information (date, time, and location) must be posted on the owasp.org chapter page before the event start date.
 
-For chapters using OWASP Meetup Pro, mirroring meetings automatically is simple and easy. Add the following code to make your life a lot easier. In the header, please make sure the `meetup-group` parameter exists and is accurate:
-
-```javascript
-meetup-group: your-meetup-group
-```
-
-If the meetup-group header is identical to your OWASP Meetup Pro Group name (e.g. `meetup-group: OWASP-Colorado-Springs-Meetup`), the code will automatically mirror your upcoming meeting information as mandated by the policy above.
-
-Add this line to where you would like your upcoming meetings to automatically appear in the body:
-
-```javascript
-. { % include chapter_events.html group=page.meetup-group %}
-```
-
-(Remove the space between `{` and `%` to make this work on your page)
-
-NB: Per the policy above, if you don't use this, or it's set up incorrectly, you will need to do this step manually. Once your events are done, please add past events to a past events tab. For a more detailed example, see [https://owasp.org/www-projectchapter-example/]
+All official chapter events must be publicly advertised and published on the chapter's page on owasp.org. Chapters shall use Foundation-approved systems or services, where designated, to ensure events are discoverable through the official OWASP website.
 
 ### Communication
 
@@ -105,7 +89,7 @@ There are currently two types of chapters you can start: city chapters and stude
 
 - New chapters must be approved by the foundation, by submitting a request through [Contact Us](https://contact.owasp.org/).
 - After the new chapter is approved, the chapter leader must:
-  - Provide GitHub usernames in order to get admin access your chapter repository.
+  - Provide GitHub usernames in order to get admin access to your chapter repository.
   - Create new chapter pages within 30 days of GitHub access on the owasp.org website (see [Website Migration Information and Tutorial](https://owasp.org/migration/) for assistance).
   - Log into their owasp.org email account within Google's defined time period, or they will need to log a support ticket via [Contact Us](https://contact.owasp.org/) to have a password recovery email sent to their registration email address.
 
