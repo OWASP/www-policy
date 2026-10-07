@@ -136,7 +136,7 @@ Community members shall receive the following notifications according to the abo
 
 ### B.4. Voting
 
-Voting in elections shall be a secret ballot of Voting Members. Balloting shall be open for no less than fourteen (14) and no more than (20) days. Voting closes at 11:59pm UTC on the election voting end date. Staff shall ensure current Voting Members of the Foundation receive a serialized ballot. Voting Members can vote only once in each election per election cycle.
+Voting in elections shall be a secret ballot of Voting Members. Balloting shall be open for no less than fourteen (14) and no more than twenty (20) days. Voting closes at 11:59pm UTC on the election voting end date. Staff shall ensure current Voting Members of the Foundation receive a serialized ballot. Voting Members can vote only once in each election per election cycle.
 
 Ballots shall be counted using ranked choice or preferential counting method (e.g. STV, “Single Transferrable Vote”). Voting Members may cast a single vote accordingly, ranking their preferred candidates. During the ballot counting, the votes will be counted according to alternative preferences as defined by the counting method.
 
