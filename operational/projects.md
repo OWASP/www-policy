@@ -25,7 +25,7 @@ Project leaders serve as the main point of contact for their projects and are re
 - Leaders will sign and return a leader's agreement within 30 days of receipt if one is presented.
 - Each leader will annually confirm upon request within 30 days that they intend to continue volunteering as project leader.
 - Leaders are encouraged to transition or rotate when they are unable to devote sufficient time to a project to allow fresh leaders to step up and participate in the project operations. Leader selection is at the project’s discretion, provided all policies are followed.
-- If a project's leadership does not have consensus, fair and open elections should be administered with the support of OWASP staff and the [Project Committee](https://owasp.org/www-committee-project/).
+- If a project's leadership does not have consensus, fair and open elections should be administered with the support of OWASP staff and the [Project Committee](https://owasp.org/groups/project-committee).
 - If a leader is no longer reasonably responsive and contributing to the project, the remaining project leaders or prospective leaders may petition the leader's removal in accordance with the dispute resolution process.
 
 ## Running a Project
@@ -69,7 +69,7 @@ OWASP Foundation will provide projects with the following shared services at no 
 - Video conferencing and webinar facilities for virtual meetings and events, and hybrid in-person / virtual events.
 - Social messaging app to communicate in real time with the OWASP community.
 - Leaders have access to leaders@owasp.org - join using owasp.org email address.
-- Assistance and resources are available through the [Project Committee](https://owasp.org/www-committee-project/) and other [OWASP Committees](https://owasp.org/committees/).
+- Assistance and resources are available through the [Project Committee](https://owasp.org/groups/project-committee) and other [OWASP Committees](https://owasp.org/groups).
 - Event insurance covering project meetings.
 
 Services identical or similar to those provided by the foundation cannot be expensed without [prior approval](https://owasporg.atlassian.net/servicedesk/customer/portal/4/group/14/create/74). Where possible, all projects are encouraged to use a service that respects user privacy.
@@ -80,7 +80,7 @@ There are currently three types of projects you can start: tool, code, and docum
 
 - New projects must be approved by the foundation, by submitting a request through [Contact Us](https://contact.owasp.org/).
 - After the new project is approved, the project leader must:
-   - Create new project pages within 30 days of GitHub access on the owasp.org website (see [Website Migration Information and Tutorial](https://owasp.org/migration/) for assistance).
+   - Create new project pages within 30 days of GitHub access on the owasp.org website (see the [project page template](https://github.com/OWASP/www-project-template) for assistance).
    - Log into their owasp.org email account within Google's defined time period, or they will need to log a support ticket via [Contact Us](https://contact.owasp.org/) to have a password recovery email sent to their registration email address.
 - Projects under the OWASP umbrella are the combined efforts of the project leaders, contributors, and the OWASP Foundation. All source material must remain within the foundation. However, as these are open source projects, people are not prevented from forking projects and beginning new, non-OWASP projects. Removal of all project source material is at the sole discretion of the foundation.
 - Projects must select a license that provides the public free open access to project source materials and distributables. The license should be communicated in the GitHub LICENSE file.
@@ -106,12 +106,12 @@ The OWASP Foundation aims to provide continuity for OWASP project members. The f
 
 - An inactive OWASP project is a project that has not met [minimum activity requirements](#activity-requirements) defined in this policy.
 - An inactive project must either be reactivated or dissolved.
-- The OWASP Foundation will revoke the inactive project leadership and refer the inactive project to the [Project Committee](https://owasp.org/www-committee-project/) to help find fresh leadership or to run elections to elect new leadership.
+- The OWASP Foundation will revoke the inactive project leadership and refer the inactive project to the [Project Committee](https://owasp.org/groups/project-committee) to help find fresh leadership or to run elections to elect new leadership.
 - Use the starting a new project form to [reactivate a project](https://contact.owasp.org).
 
 ## Finances, Oversight, and Transparency
 
-Projects are overseen on an operational basis by the [Project Committee](https://owasp.org/www-committee-project/), the OWASP Foundation staff, and, ultimately, the OWASP Board of Directors. If the Project Committee, foundation staff, or board of directors determines that a leader has not complied with this policy, despite support and outreach, leadership may be revoked, suspended, or another action taken. Additionally, OWASP administrative access (including the leader's owasp.org email address) may immediately be revoked.
+Projects are overseen on an operational basis by the [Project Committee](https://owasp.org/groups/project-committee), the OWASP Foundation staff, and, ultimately, the OWASP Board of Directors. If the Project Committee, foundation staff, or board of directors determines that a leader has not complied with this policy, despite support and outreach, leadership may be revoked, suspended, or another action taken. Additionally, OWASP administrative access (including the leader's owasp.org email address) may immediately be revoked.
 
 ### Code of Conduct and Other Relevant Policies
 
@@ -121,7 +121,7 @@ Projects operate with a great deal of freedom; however, projects must abide by t
 
 ### Privacy
 
-OWASP membership and participation in project meetings are subject to locally applicable data protection regulations (for instance, see [GDPR](https://gdpr.eu)). Where conflicting local regulations exist, the most restrictive should be observed. Any project meetings must comply to [OECD principles](https://www.oecd.org/sti/ieconomy/oecd_privacy_framework.pdf); the Collection Limitation Principle applies to all activities where personal information of participants is needed. Project leaders are not permitted to share member lists or private information with third parties except where operationally necessary and only after informing relevant parties with opt-in acceptance. Projects should, where possible and not otherwise required by local legislation or compliance requirements, adopt a data minimization approach, and delete data that is no longer necessary.
+OWASP membership and participation in project meetings are subject to locally applicable data protection regulations (for instance, see [GDPR](https://gdpr.eu)). Where conflicting local regulations exist, the most restrictive should be observed. Any project meetings must comply to [OECD principles](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0188); the Collection Limitation Principle applies to all activities where personal information of participants is needed. Project leaders are not permitted to share member lists or private information with third parties except where operationally necessary and only after informing relevant parties with opt-in acceptance. Projects should, where possible and not otherwise required by local legislation or compliance requirements, adopt a data minimization approach, and delete data that is no longer necessary.
 
 ### Submitting Expenses
 
@@ -164,7 +164,7 @@ Project members and leaders can use the following policies and reporting mechani
 - [Conflict resolution policy](https://policy.owasp.org/operational/conflict-resolution) for most disputes between participants.
 - [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct) policy for ethical or conduct breaches.
 - [Conflict of Interest](https://policy.owasp.org/operational/conflict-of-interest) policy for dealing with real or apparent financial or ethical dualities of interest.
-- The [OWASP Project Committee](https://owasp.org/www-committee-project/) is the first point of escalation.
+- The [OWASP Project Committee](https://owasp.org/groups/project-committee) is the first point of escalation.
   - The [Executive Director](https://owasp.org/corporate/) as the second point of escalation, and finally.
   - the [Global Board](https://owasp.org/www-board/).
 - To report severe violations of policy, financial, or fiduciary misconduct, please refer to the [whistleblower and anti-retaliation policy](https://policy.owasp.org/operational/whistleblower).
