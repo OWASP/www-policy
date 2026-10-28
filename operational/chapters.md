@@ -25,7 +25,7 @@ Chapter leaders serve as the main point of contact for their chapters and are re
 - Leaders will sign and return a leader's agreement within 30 days of receipt.
 - Each leader will annually confirm upon request within 30 days that they intend to continue volunteering as chapter leader.
 - Leaders are encouraged to transition or rotate every 2-3 years (minimum 2 years, maximum 3 years) to allow fresh leaders to step up and participate in the chapter operations. Leader selection is at the chapter’s discretion, provided all policies are followed.
-- If a chapter’s leadership does not have consensus, fair and open elections should be administered with the support of OWASP staff and the [Chapter Committee](https://owasp.org/www-committee-chapter/).
+- If a chapter’s leadership does not have consensus, fair and open elections should be administered with the support of OWASP staff and the [Chapter Committee](https://owasp.org/groups/chapter-committee).
 - Any changes in chapter leadership should be done by submitting a ticket with all information to the [New Chapter/Leader Request](https://owasporg.atlassian.net/servicedesk/customer/portal/8/group/20/create/105) by one of the existing leaders. If the local chapter leadership is inactive, this request can be made by local chapter OWASP members.
 - If a leader needs to step down, they should submit a ticket to the [New Chapter/Leader Request](https://owasporg.atlassian.net/servicedesk/customer/portal/8/group/20/create/105).
 - If a leader is no longer reasonably responsive and contributing to the chapter, the remaining chapter leaders may petition the leader's removal in accordance with the dispute resolution process.
@@ -78,19 +78,19 @@ OWASP Foundation will provide chapters with the following shared services at no 
 - Video conferencing and webinar facilities for virtual meetings and events, and hybrid in-person / virtual events.
 - Social messaging app to communicate in real time with the OWASP community.
 - Leaders have access to leaders@owasp.org - join using owasp.org email address.
-- Assistance and resources are available through the [Chapter Committee](https://owasp.org/www-committee-chapter/) and other [OWASP Committees](https://owasp.org/committees/).
+- Assistance and resources are available through the [Chapter Committee](https://owasp.org/groups/chapter-committee) and other [OWASP Committees](https://owasp.org/groups).
 - Event insurance covering chapter meetings.
 
 Services identical or like those provided by the foundation cannot be expensed without [prior approval](https://owasporg.atlassian.net/servicedesk/customer/portal/8/group/20/create/107). Where possible, all chapters are encouraged to use a service that respects user privacy.
 
 ## Starting a New Chapter
 
-There are currently two types of chapters you can start: city chapters and student chapters. Prospective chapter leaders should familiarize themselves with this policy and the draft [Chapter Handbook](https://owasp.org/www-committee-chapter/#div-resources_for_chapters) prior to submitting the form.
+There are currently two types of chapters you can start: city chapters and student chapters. Prospective chapter leaders should familiarize themselves with this policy and the draft [Chapter Handbook](https://owasp.org/groups/chapter-committee#div-resources_for_chapters) prior to submitting the form.
 
 - New chapters must be approved by the foundation, by submitting a request through [Contact Us](https://contact.owasp.org/).
 - After the new chapter is approved, the chapter leader must:
   - Provide GitHub usernames in order to get admin access to your chapter repository.
-  - Create new chapter pages within 30 days of GitHub access on the owasp.org website (see [Website Migration Information and Tutorial](https://owasp.org/migration/) for assistance).
+  - Create new chapter pages within 30 days of GitHub access on the owasp.org website (see the [chapter page template](https://github.com/OWASP/www-projectchapter-example) for assistance).
   - Log into their owasp.org email account within Google's defined time period, or they will need to log a support ticket via [Contact Us](https://contact.owasp.org/) to have a password recovery email sent to their registration email address.
 
 ### Starting a City Chapter
@@ -123,7 +123,7 @@ Once the new supplemental regional chapter policy is created and approved by the
 
 **Note: Starting new or re-activating inactive regional chapters will not be approved until the supplemental regional chapter policy comes into effect.**
 
-***Background rationale*** Regional chapters have never been defined by any prior policy, and they all operate differently with various levels of success. As there are at least 10 regional chapters, the regional model is actively being re-developed to be a sustainable model that promotes regional cooperation, activity, leadership, accountability, and transparency. Existing regional chapter leaders are encouraged to work with the [Chapter Committee](https://owasp.org/www-committee-chapter/) to define the regional chapter model.
+***Background rationale*** Regional chapters have never been defined by any prior policy, and they all operate differently with various levels of success. As there are at least 10 regional chapters, the regional model is actively being re-developed to be a sustainable model that promotes regional cooperation, activity, leadership, accountability, and transparency. Existing regional chapter leaders are encouraged to work with the [Chapter Committee](https://owasp.org/groups/chapter-committee) to define the regional chapter model.
 
 ## Inactive Chapters
 
@@ -131,12 +131,12 @@ The OWASP Foundation aims to provide continuity for OWASP chapter members. The f
 
 - An inactive OWASP chapter is a chapter that has not met [minimum activity requirements](#meetings-and-activity-requirements) defined in this policy.
 - An inactive chapter must either be reactivated or dissolved.
-- The OWASP Foundation will revoke the inactive chapter leadership and refer the inactive chapter to the [Chapter Committee](https://owasp.org/www-committee-chapter/) to help find fresh leadership or to run elections to elect new leadership.
-- Use this form to [reactivate a chapter](https://owasporg.atlassian.net/servicedesk/customer/portal/8/group/20/create/105). Where an inactive chapter does not hold a meeting within 90 days of being reactivated, or new leadership could not be appointed within 90 days of failing to meet activity targets, the [Chapter Committee](https://owasp.org/www-committee-chapter/) will discuss the inactive chapter and vote on it. If agreed, the chapter will be dissolved by the OWASP Foundation.
+- The OWASP Foundation will revoke the inactive chapter leadership and refer the inactive chapter to the [Chapter Committee](https://owasp.org/groups/chapter-committee) to help find fresh leadership or to run elections to elect new leadership.
+- Use this form to [reactivate a chapter](https://owasporg.atlassian.net/servicedesk/customer/portal/8/group/20/create/105). Where an inactive chapter does not hold a meeting within 90 days of being reactivated, or new leadership could not be appointed within 90 days of failing to meet activity targets, the [Chapter Committee](https://owasp.org/groups/chapter-committee) will discuss the inactive chapter and vote on it. If agreed, the chapter will be dissolved by the OWASP Foundation.
 
 ## Finances, Oversight, and Transparency
 
-Chapters are overseen on an operational basis by the [Chapter Committee](https://owasp.org/www-committee-chapter/), the OWASP Foundation staff, and, ultimately, the OWASP Board of Directors. If the Chapter Committee, foundation staff, or board of directors determines that a leader has not complied with this policy, despite support and outreach, leadership may be revoked, suspended, or another action taken. Additionally, OWASP administrative access (including the leader's owasp.org email address) may immediately be revoked.
+Chapters are overseen on an operational basis by the [Chapter Committee](https://owasp.org/groups/chapter-committee), the OWASP Foundation staff, and, ultimately, the OWASP Board of Directors. If the Chapter Committee, foundation staff, or board of directors determines that a leader has not complied with this policy, despite support and outreach, leadership may be revoked, suspended, or another action taken. Additionally, OWASP administrative access (including the leader's owasp.org email address) may immediately be revoked.
 
 ### Code of Conduct and Other Relevant Policies
 
@@ -188,7 +188,7 @@ Chapter members and leaders can use the following policies and reporting mechani
 
 - [Conflict resolution policy](https://policy.owasp.org/operational/conflict-resolution) for most disputes between participants.
 - [Code of Conduct](https://policy.owasp.org/operational/code-of-conduct) policy for ethical or conduct breaches.
-- The [OWASP Chapter Committee](https://owasp.org/www-committee-chapter/) is the first point of escalation.
+- The [OWASP Chapter Committee](https://owasp.org/groups/chapter-committee) is the first point of escalation.
   - The [Executive Director](https://owasp.org/corporate/) as the second point of escalation, and finally.
   - the [Global Board](https://owasp.org/www-board/).
 - To report severe violations of policy, financial, or fiduciary misconduct, please refer to the [whistleblower and anti-retaliation policy](https://policy.owasp.org/operational/whistleblower).
