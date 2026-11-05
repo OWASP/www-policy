@@ -10,7 +10,7 @@ notice: 2021-04-28
 
 Approved by the Board of Directors on 2025-05-28.
 
-NB: Where the Committees policy and this policy disagree, the Working Group policy takes precedence until such time as the Committee Policy has been updated to reflect the new working group policy. This notice will be removed once the Committee Policy has been updated.
+NB: The Committees policy was rescinded by the Board on November 4, 2026, and all Member Committees were dissolved. Any references to the Committees policy should be considered historical, and the Working Groups policy now governs relevant working group matters within OWASP.
 
 ## Purpose and Scope
 

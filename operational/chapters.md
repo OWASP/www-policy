@@ -10,6 +10,8 @@ notice: 2026-07-28
 
 Adopted by the Board on 28-Jul-2026
 
+NB: The Board rescinded Events related policies other than the Event Attendee Policy on November 4, 2026. Any references to the Events policy should be considered historical. Please refer to the Events Handbook for current guidance on event management within OWASP.
+
 ## Overview
 
 Chapters are central to OWASP’s mission of achieving community around the world. This policy defines the rules related to starting, running, maintaining, and dissolving OWASP chapters.

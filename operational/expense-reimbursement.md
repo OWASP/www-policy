@@ -10,6 +10,8 @@ notice: 2020-08-24
 
 Adopted by the Board August 24, 2021
 
+NB: The Board rescinded Events related policies other than the Event Attendee Policy on November 4, 2026. Any references to the Events policy should be considered historical. Please refer to the Events Handbook for current guidance on event management within OWASP.
+
 ## Overview
 
 In fulfilling the mission and business interests of the OWASP Foundation, leaders of Projects, Chapters, Events, Committees, or Foundation staff or the Global Board might incur expenses that may be reimbursable. This policy defines expenses as "petty" cash levels and not significant disbursements or program funding mechanisms.

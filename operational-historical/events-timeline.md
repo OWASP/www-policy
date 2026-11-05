@@ -8,16 +8,7 @@ notice: 2025-06-10
 
 ---
 
-
-<div style="background-color: orange; color: black; padding: 10px; border-radius: 5px;">
-  This is a DRAFT or SUBSTANTIALLY MODIFIED existing policy currently in an open review period.
-    <div style="background-color: lightgreen; color: black; padding: 10px; border-radius: 5px;">
-      Members are invited to provide feedback on this draft policy until July 11, 2025. The Policy Review Team will respond to comments mailed from your <a>owasp.org</a> email address to <a href="mailto:policy-review@owasp.com?subject=Re: Privacy Policy (Draft WIP)">this address</a>.
-    </div>
-</div>
-
-
-[ Reviewers - Please review the draft &#169; notice below detailing the provenance of this events policy. Please point out any issues with our fork, including any issues relating to programs OWASP does not have (such as certification) or software OWASP does not use. ]
+Rescinded by the Board on November 4, 2026
 
 ## Timelines
 
